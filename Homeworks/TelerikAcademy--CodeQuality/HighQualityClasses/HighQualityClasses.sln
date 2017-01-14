@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{187BDD25-762C-4F7D-9F42-78E22B9C93FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohesionAndCoupling", "Cohesion-and-Coupling\CohesionAndCoupling.csproj", "{E31CF457-0DE3-40E0-B8E1-D2D2B8382B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphism", "Inheritance-and-Polymorphism\InheritanceAndPolymorphism.csproj", "{F3D252DC-F70D-4CE6-8D0B-C329D9833D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187BDD25-762C-4F7D-9F42-78E22B9C93FD}.Debug|x86.ActiveCfg = Debug|x86
+		{187BDD25-762C-4F7D-9F42-78E22B9C93FD}.Debug|x86.Build.0 = Debug|x86
+		{187BDD25-762C-4F7D-9F42-78E22B9C93FD}.Release|x86.ActiveCfg = Release|x86
+		{187BDD25-762C-4F7D-9F42-78E22B9C93FD}.Release|x86.Build.0 = Release|x86
+		{E31CF457-0DE3-40E0-B8E1-D2D2B8382B37}.Debug|x86.ActiveCfg = Debug|x86
+		{E31CF457-0DE3-40E0-B8E1-D2D2B8382B37}.Debug|x86.Build.0 = Debug|x86
+		{E31CF457-0DE3-40E0-B8E1-D2D2B8382B37}.Release|x86.ActiveCfg = Release|x86
+		{E31CF457-0DE3-40E0-B8E1-D2D2B8382B37}.Release|x86.Build.0 = Release|x86
+		{F3D252DC-F70D-4CE6-8D0B-C329D9833D70}.Debug|x86.ActiveCfg = Debug|x86
+		{F3D252DC-F70D-4CE6-8D0B-C329D9833D70}.Debug|x86.Build.0 = Debug|x86
+		{F3D252DC-F70D-4CE6-8D0B-C329D9833D70}.Release|x86.ActiveCfg = Release|x86
+		{F3D252DC-F70D-4CE6-8D0B-C329D9833D70}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

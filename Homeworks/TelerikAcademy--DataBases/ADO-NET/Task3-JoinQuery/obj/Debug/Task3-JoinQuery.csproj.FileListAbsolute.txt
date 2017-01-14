@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task3-JoinQuery\bin\Debug\Task3-JoinQuery.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task3-JoinQuery\bin\Debug\Task3-JoinQuery.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task3-JoinQuery\bin\Debug\Task3-JoinQuery.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task3-JoinQuery\obj\Debug\Task3-JoinQuery.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task3-JoinQuery\obj\Debug\Task3-JoinQuery.pdb

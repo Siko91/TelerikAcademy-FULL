@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Homework 10 - Task 1 - Reverse string</title>
+</head>
+<body>
+
+    <label>String: </label>
+    <input id="Input1" type="text" />
+    <br />
+ 
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        // Write a JavaScript function reverses string and returns itExample: "sample"  "elpmas".
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+        	var str = document.getElementById("Input1").value;
+        	var str2 = "";
+
+        	for (var i = str.length - 1; i >= 0; i--)
+        	{
+        		str2 += str.substr(i,1)
+        	}
+
+        	console.log(str);
+        	console.log(str2);
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

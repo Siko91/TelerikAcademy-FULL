@@ -1,0 +1,5 @@
+﻿Class Command used to keep useless data in it. Such data was "EndIndexOfCommandName", and other variables like that.
+They are not related to the command itself and should be forgotten right after being used.
+I removed them... but I had to change the ICommand interface a bit.
+
+Catalog.UpdateContent - It was waaay too slow! It removed, added and did other useless stuff. Fixed it to simple updating.

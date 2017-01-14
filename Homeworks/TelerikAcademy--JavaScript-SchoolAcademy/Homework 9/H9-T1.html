@@ -1,0 +1,200 @@
+<html>
+<head>
+    <title>Homework 9 - Task 1</title>
+</head>
+<body>
+
+<label> These two points will form the first lineInput. Input X and Y for the first point, and then X and Y for the second. Seperate the numbers with comas. (Example - "4,-1,3,-2"): </label>
+<br />
+<input id="Input1" type="text" class="js-console-input" />
+<br />
+
+<label> These two points will form the second lineInput. Input X and Y for the first point, and then X and Y for the second. Seperate the numbers with comas. (Example - "4,-1,3,-2"): </label>
+<br />
+<input id="Input2" type="text" class="js-console-input" />
+<br />
+
+<label> These two points will form the third lineInput. Input X and Y for the first point, and then X and Y for the second. Seperate the numbers with comas. (Example - "4,-1,3,-2"): </label>
+<br />
+<input id="Input3" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write functions for working with shapes in  standard Planar coordinate system
+Points are represented by coordinates P(X, Y)
+Lines are represented by two points, marking their beginning and ending
+L(P1(X1,Y1),P2(X2,Y2))
+Calculate the distance between two points
+Check if three segment lines can form a triangle
+ */
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Start, false);
+    }
+
+    function Start()
+    {   
+        seperator = ",";
+
+        var lineInput1 = document.getElementById("Input1").value;
+        var lineInput2 = document.getElementById("Input2").value;
+        var lineInput3 = document.getElementById("Input3").value;
+        
+        lineInput1 = lineInput1.split(seperator);
+        lineInput2 = lineInput2.split(seperator);
+        lineInput3 = lineInput3.split(seperator);
+
+        console.log(lineInput1.join(" - "));
+        console.log(lineInput2.join(" - "));
+        console.log(lineInput3.join(" - "));
+
+        for (var i = 3; i >= 0; i--)
+        {
+            lineInput1[i] *= 1;
+            lineInput2[i] *= 1;
+            lineInput3[i] *= 1;
+        }
+
+        MakePoints(lineInput1, lineInput2, lineInput3);
+    }
+
+    function point(X,Y)
+    {
+        this.X = X;
+        this.Y = Y;
+    }
+
+    function MakePoints(lineInput1, lineInput2, lineInput3)
+    {
+        var point1 = new point(lineInput1[0], lineInput1[1]);
+        var point2 = new point(lineInput1[2], lineInput1[3]);
+        console.log("First line: " + point1.X + ", " + point1.Y + " ---> " + point2.X + ", " + point2.Y);
+
+        var point3 = new point(lineInput2[0], lineInput2[1]);
+        var point4 = new point(lineInput2[2], lineInput2[3]);
+        console.log("Second line: " + point3.X + ", " + point3.Y + " ---> " + point4.X + ", " + point4.Y);
+
+        var point5 = new point(lineInput3[0], lineInput3[1]);
+        var point6 = new point(lineInput3[2], lineInput3[3]);
+        console.log("Third line: " + point5.X + ", " + point5.Y + " ---> " + point6.X + ", " + point6.Y);
+
+        CheckLines(point1.X, point1.Y,
+            point2.X, point2.Y,
+            point3.X, point3.Y,
+            point4.X, point4.Y,
+            point5.X, point5.Y,
+            point6.X, point6.Y);
+
+        CheckTriangle(point1.X, point1.Y,
+            point2.X, point2.Y,
+            point3.X, point3.Y,
+            point4.X, point4.Y,
+            point5.X, point5.Y,
+            point6.X, point6.Y);
+    }
+
+    function CheckLines(point1X, point1Y, point2X, point2Y, point3X, point3Y, point4X, point4Y, point5X, point5Y, point6X, point6Y)
+    {
+        if ((point1X == point2X)&&(point1Y == point2Y))
+        {
+            "There is no first line"
+            return;
+        }
+        if ((point3X == point4X)&&(point3Y == point4Y))
+        {
+            "There is no second line"
+            return;
+        }
+        if ((point5X == point6X)&&(point5Y == point6Y))
+        {
+            "There is no third line"
+            return;
+        }
+
+        var distance1 = Math.sqrt( ((point1X-point2X)*(point1X-point2X) + (point1Y-point2Y)*(point1Y-point2Y)) )
+        console.log("First line length: " + distance1);
+
+        var distance2 = Math.sqrt( ((point3X-point4X)*(point3X-point4X) + (point3Y-point4Y)*(point3Y-point4Y)) )
+        console.log("Second line length: " + distance2);
+
+        var distance3 = Math.sqrt( ((point5X-point6X)*(point5X-point6X) + (point5Y-point6Y)*(point5Y-point6Y)) )
+        console.log("Third line length: " + distance3);
+    }
+
+    function CheckTriangle(point1X, point1Y, point2X, point2Y, point3X, point3Y, point4X, point4Y, point5X, point5Y, point6X, point6Y)
+    {
+        // The only way for the lines to be able to form a triangle is by actualy forming it. Only lines that form angles (by having the same ending point) can form a triANGLE. This is whay I'll be checking for.
+
+        var temp;
+
+        for (var i = 0; i < 2; i++)
+        {
+            if ((point1X == point3X) && (point1Y == point3Y))
+            {
+                CheckRestOfThePointsForTriangle(point2X, point2Y, point4X, point4Y, point5X, point5Y, point6X, point6Y);
+                break;
+            }
+            else if ((point1X == point4X) && (point1Y == point4Y))
+            {
+                CheckRestOfThePointsForTriangle(point2X, point2Y, point3X, point3Y, point5X, point5Y, point6X, point6Y);
+                break;
+            }
+            else if ((point1X == point5X) && (point1Y == point5Y))
+            {
+                CheckRestOfThePointsForTriangle(point2X, point2Y, point6X, point6Y, point3X, point3Y, point4X, point4Y);
+                break;
+            }
+            else if ((point1X == point6X) && (point1Y == point6Y))
+            {
+                CheckRestOfThePointsForTriangle(point2X, point2Y, point5X, point5Y, point3X, point3Y, point4X, point4Y);
+                break;
+            }
+            else
+            {
+                temp = point1X;
+                point1X = point2X;
+                point2X = temp;
+
+                temp = point1Y;
+                point1Y = point2Y;
+                point2Y = temp;
+            }
+            if (i == 1) {console.log("The lines DON'T form a triangle...");}
+        }
+    }
+
+    function CheckRestOfThePointsForTriangle(connectedLine1PointX, connectedLine1PointY, connectedLine2PointX, connectedLine2PointY, other1X, other1Y, other2X, other2Y)
+    {
+        var triangle = false;
+
+        if ((connectedLine1PointX == other1X) && (connectedLine1PointY == other1Y))
+        {
+            if ((connectedLine2PointX == other2X) && (connectedLine2PointY == other2Y))
+            {
+                triangle = true;
+            }
+        }
+        else if ((connectedLine1PointX == other2X) && (connectedLine1PointY == other2Y))
+        {
+            if ((connectedLine2PointX == other1X) && (connectedLine2PointY == other1Y))
+            {
+                triangle = true;
+            }
+        }
+            console.log("The lines " + (triangle? "" : "DON'T ") + "form a triangle.");
+    }
+
+</script>
+</body>
+</html>
+
+
+
+

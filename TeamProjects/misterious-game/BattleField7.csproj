@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{85255C43-CCD7-4E3B-8C0B-79AC0D498B85}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BattleField7Namespace</RootNamespace>
+    <AssemblyName>BattleField7</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\BattleField7.XML</DocumentationFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BattleFieldGame.cs" />
+    <Compile Include="InitialGameClass\BattleGame.cs" />
+    <Compile Include="NewGameDesign\Enumerations\Condition.cs" />
+    <Compile Include="NewGameDesign\GameClasses\SimpleExplosionStrategy.cs" />
+    <Compile Include="NewGameDesign\GameClasses\SimpleBattleField.cs" />
+    <Compile Include="NewGameDesign\GameClasses\SimpleEngine.cs" />
+    <Compile Include="NewGameDesign\GameClasses\SimpleField.cs" />
+    <Compile Include="NewGameDesign\Interfaces\IBattleField.cs" />
+    <Compile Include="NewGameDesign\Interfaces\ICountNotifier.cs" />
+    <Compile Include="NewGameDesign\Interfaces\IEngine.cs" />
+    <Compile Include="NewGameDesign\Interfaces\IExplosionStrategy.cs" />
+    <Compile Include="NewGameDesign\Interfaces\IField.cs" />
+    <Compile Include="ClassesToBeReplaced\Types\Coord2D.cs" />
+    <Compile Include="NewGameDesign\Interfaces\ICountObserver.cs" />
+    <Compile Include="NewGameDesign\UIClasses\ConsoleUI.cs" />
+    <Compile Include="NewGameDesign\Interfaces\IUserInterface.cs" />
+    <Compile Include="ClassesToBeReplaced\Engine.cs" />
+    <Compile Include="ClassesToBeReplaced\Field.cs" />
+    <Compile Include="NewGameDesign\UIClasses\Logger.cs" />
+    <Compile Include="NewGameDesign\Enumerations\LoggingRestrictionLevels.cs" />
+    <Compile Include="MainClass.cs" />
+    <Compile Include="NewGameDesign\Interfaces\ILogger.cs" />
+    <Compile Include="NewGameDesign\UIClasses\PopupSizeInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewGameDesign\UIClasses\PopupSizeInput.Designer.cs">
+      <DependentUpon>PopupSizeInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="NewGameDesign\UIClasses\WinFormsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewGameDesign\UIClasses\WinFormsUI.Designer.cs">
+      <DependentUpon>WinFormsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestUtils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NewGameDesign\UIClasses\PopupSizeInput.resx">
+      <DependentUpon>PopupSizeInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewGameDesign\UIClasses\WinFormsUI.resx">
+      <DependentUpon>WinFormsUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

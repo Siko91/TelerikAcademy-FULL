@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\05 - segment in matrix from file\bin\Debug\05 - segment in matrix from file.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\05 - segment in matrix from file\bin\Debug\05 - segment in matrix from file.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\05 - segment in matrix from file\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\05 - segment in matrix from file\obj\x86\Debug\05 - segment in matrix from file.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\05 - segment in matrix from file\obj\x86\Debug\05 - segment in matrix from file.pdb

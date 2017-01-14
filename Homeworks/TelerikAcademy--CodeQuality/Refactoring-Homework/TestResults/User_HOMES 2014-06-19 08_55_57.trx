@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b8fa17ef-3a64-46fe-ae5c-72338e0162e0" name="User@HOMES 2014-06-19 08:55:57" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04578d65-7d6f-4c57-b298-2b93f16ac298">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-19 08_55_57">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\bin\Debug\MatrixTraversing.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-19T08:55:57.4218750+03:00" queuing="2014-06-19T08:55:58.3593750+03:00" start="2014-06-19T08:55:58.4218750+03:00" finish="2014-06-19T08:55:59.0312500+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TheDiagonalLineShouldConsistOfIncreasingNumbers" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009">
+      <Execution id="81adb6a3-2e36-4584-82b0-72dde8baf7ca" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TheDiagonalLineShouldConsistOfIncreasingNumbers" />
+    </UnitTest>
+    <UnitTest name="ThereShouldntBeTwoSameElementsInMatrix" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="8e04e09c-9133-53c0-e182-e4bdd6410fec">
+      <Execution id="3377d71f-d368-41f6-949c-54cd80a8504b" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThereShouldntBeTwoSameElementsInMatrix" />
+    </UnitTest>
+    <UnitTest name="SmallMatrixShouldBeCorrect" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="3fc0259e-0c06-3f30-10a8-d831a3a7f598">
+      <Execution id="c4bead2e-dab2-44ff-bd27-d6b41eb596b5" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SmallMatrixShouldBeCorrect" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3fc0259e-0c06-3f30-10a8-d831a3a7f598" executionId="c4bead2e-dab2-44ff-bd27-d6b41eb596b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e04e09c-9133-53c0-e182-e4bdd6410fec" executionId="3377d71f-d368-41f6-949c-54cd80a8504b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009" executionId="81adb6a3-2e36-4584-82b0-72dde8baf7ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c4bead2e-dab2-44ff-bd27-d6b41eb596b5" testId="3fc0259e-0c06-3f30-10a8-d831a3a7f598" testName="SmallMatrixShouldBeCorrect" computerName="HOMES" duration="00:00:00.0355511" startTime="2014-06-19T08:55:58.4531250+03:00" endTime="2014-06-19T08:55:58.8906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4bead2e-dab2-44ff-bd27-d6b41eb596b5">
+    </UnitTestResult>
+    <UnitTestResult executionId="3377d71f-d368-41f6-949c-54cd80a8504b" testId="8e04e09c-9133-53c0-e182-e4bdd6410fec" testName="ThereShouldntBeTwoSameElementsInMatrix" computerName="HOMES" duration="00:00:00.0004740" startTime="2014-06-19T08:55:58.8906250+03:00" endTime="2014-06-19T08:55:58.9062500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3377d71f-d368-41f6-949c-54cd80a8504b">
+    </UnitTestResult>
+    <UnitTestResult executionId="81adb6a3-2e36-4584-82b0-72dde8baf7ca" testId="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009" testName="TheDiagonalLineShouldConsistOfIncreasingNumbers" computerName="HOMES" duration="00:00:00.0004305" startTime="2014-06-19T08:55:58.9062500+03:00" endTime="2014-06-19T08:55:58.9375000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81adb6a3-2e36-4584-82b0-72dde8baf7ca">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,104 @@
+<html>
+<head>
+    <title>Homework 8 - Task 7</title>
+</head>
+<body>
+
+<label> Input numbers seperated with comas ",": </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist). */
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", RunTrough, false);
+    }
+
+
+    function Check(mid,left,right,i)
+    {
+            if ( right === parseInt(right) )
+            {
+                if (right<mid)
+                {
+                    var greaterThanRight = true;
+                }
+            }
+            else
+            {
+                var greaterThanRight = true;
+            }
+
+            if ( left === parseInt(left) )
+            {
+                if (left<mid)
+                {
+                    var greaterThanLeft = true;
+                }
+            }
+            else
+            {
+                var greaterThanLeft = true;
+            }
+
+            if ( (greaterThanLeft) && (greaterThanRight) )
+            {
+                console.log("Checking if element " + mid + " is bigger than " + left + " and " + right);
+                console.log("True");
+                console.log("The index of " + mid + " is " + i + ".");
+                return true;
+            }
+            else 
+            {
+                console.log(i + ") False...");
+                return false;
+            }
+    }
+
+    function RunTrough()
+    {   
+        var input = document.getElementById("Input").value;
+        var isTrue = false;
+
+        input = input.split(",");
+        console.log(input.join(" - "));
+
+        
+        for (var i = 0; i < input.length; i++)
+        {
+            input[i]*=1
+        }
+
+        for (var i = 0; i < input.length; i++)
+        {
+            var mid = input[i];
+            var left = input[i - 1];
+            var right = input[i + 1];
+
+            if(Check(mid,left,right,i) == true)
+            {
+                break;
+            }
+            if (i == input.length-1)
+            {
+                console.log("No such number found")
+            }
+        }
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

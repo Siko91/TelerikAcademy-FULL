@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIKO-PC</Machine>
+    <WindowsUser>Siko</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.Tiles.CS</PackageIdentityName>
+    <IntermediateOutputPath>F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>076AE6C83654234344A7D401B4252054131ADCDF15AD7D45AE9AA54B67E62D68</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.Tiles.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.Tiles.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.Tiles.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:47:20.469</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Tiles.Windows.exe">
+      <PackagePath>Tiles.Windows.exe</PackagePath>
+      <Modified>2014-11-22T17:47:18.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2014-11-22T17:47:14.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\redWide310x150.scale-80.png">
+      <PackagePath>images\redWide310x150.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\blueWide310x150.scale-80.png">
+      <PackagePath>images\blueWide310x150.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\orangeIcon.scale-80.png">
+      <PackagePath>images\orangeIcon.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\purpleSquare310x310.scale-80.png">
+      <PackagePath>images\purpleSquare310x310.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\contrast-black\graySquare150x150.scale-80.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\contrast-standard\graySquare150x150.scale-80.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\contrast-white\graySquare150x150.scale-80.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-80.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Block.png">
+      <PackagePath>images\tiles\TileSquare150x150Block.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Image.png">
+      <PackagePath>images\tiles\TileSquare150x150Image.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150PeekImageAndText01.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150PeekImageAndText02.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150PeekImageAndText03.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText03.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150PeekImageAndText04.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText04.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Text01.png">
+      <PackagePath>images\tiles\TileSquare150x150Text01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Text02.png">
+      <PackagePath>images\tiles\TileSquare150x150Text02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Text03.png">
+      <PackagePath>images\tiles\TileSquare150x150Text03.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare150x150Text04.png">
+      <PackagePath>images\tiles\TileSquare150x150Text04.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310BlockAndText01.png">
+      <PackagePath>images\tiles\TileSquare310x310BlockAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310BlockAndText02.png">
+      <PackagePath>images\tiles\TileSquare310x310BlockAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Image.png">
+      <PackagePath>images\tiles\TileSquare310x310Image.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageAndText01.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageAndText02.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageAndTextOverlay01.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageAndTextOverlay01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageAndTextOverlay02.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageAndTextOverlay02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageAndTextOverlay03.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageAndTextOverlay03.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageCollection.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageCollection.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageCollectionAndText01.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageCollectionAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310ImageCollectionAndText02.png">
+      <PackagePath>images\tiles\TileSquare310x310ImageCollectionAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImageAndText01.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImagesAndTextList01.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImagesAndTextList01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImagesAndTextList02.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImagesAndTextList02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImagesAndTextList03.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImagesAndTextList03.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImagesAndTextList04.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImagesAndTextList04.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310SmallImagesAndTextList05.png">
+      <PackagePath>images\tiles\TileSquare310x310SmallImagesAndTextList05.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text01.png">
+      <PackagePath>images\tiles\TileSquare310x310Text01.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text02.png">
+      <PackagePath>images\tiles\TileSquare310x310Text02.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text03.png">
+      <PackagePath>images\tiles\TileSquare310x310Text03.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text04.png">
+      <PackagePath>images\tiles\TileSquare310x310Text04.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text05.png">
+      <PackagePath>images\tiles\TileSquare310x310Text05.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text06.png">
+      <PackagePath>images\tiles\TileSquare310x310Text06.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text07.png">
+      <PackagePath>images\tiles\TileSquare310x310Text07.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text08.png">
+      <PackagePath>images\tiles\TileSquare310x310Text08.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310Text09.png">
+      <PackagePath>images\tiles\TileSquare310x310Text09.png</PackagePath>
+      <Modified>2014-11-22T17:42:25.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310TextList01.png">
+      <PackagePath>images\tiles\TileSquare310x310TextList01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310TextList02.png">
+      <PackagePath>images\tiles\TileSquare310x310TextList02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileSquare310x310TextList03.png">
+      <PackagePath>images\tiles\TileSquare310x310TextList03.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150BlockAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150BlockAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150BlockAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150BlockAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Image.png">
+      <PackagePath>images\tiles\TileWide310x150Image.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150ImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150ImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150ImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150ImageAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150ImageCollection.png">
+      <PackagePath>images\tiles\TileWide310x150ImageCollection.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage03.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage03.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage04.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage04.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage05.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage05.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImage06.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage06.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection03.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection03.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection04.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection04.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection05.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection05.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150PeekImageCollection06.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection06.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150SmallImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150SmallImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150SmallImageAndText03.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText03.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150SmallImageAndText04.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText04.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150SmallImageAndText05.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText05.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text01.png">
+      <PackagePath>images\tiles\TileWide310x150Text01.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text02.png">
+      <PackagePath>images\tiles\TileWide310x150Text02.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text03.png">
+      <PackagePath>images\tiles\TileWide310x150Text03.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text04.png">
+      <PackagePath>images\tiles\TileWide310x150Text04.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text05.png">
+      <PackagePath>images\tiles\TileWide310x150Text05.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text06.png">
+      <PackagePath>images\tiles\TileWide310x150Text06.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text07.png">
+      <PackagePath>images\tiles\TileWide310x150Text07.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text08.png">
+      <PackagePath>images\tiles\TileWide310x150Text08.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text09.png">
+      <PackagePath>images\tiles\TileWide310x150Text09.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text10.png">
+      <PackagePath>images\tiles\TileWide310x150Text10.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\images\tiles\TileWide310x150Text11.png">
+      <PackagePath>images\tiles\TileWide310x150Text11.png</PackagePath>
+      <Modified>2014-11-22T17:42:26.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\redWide310x150.scale-100.png">
+      <PackagePath>images\redWide310x150.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\redWide310x150.scale-140.png">
+      <PackagePath>images\redWide310x150.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\redWide310x150.scale-180.png">
+      <PackagePath>images\redWide310x150.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\blueWide310x150.scale-100.png">
+      <PackagePath>images\blueWide310x150.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\blueWide310x150.scale-140.png">
+      <PackagePath>images\blueWide310x150.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\blueWide310x150.scale-180.png">
+      <PackagePath>images\blueWide310x150.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\orangeIcon.scale-100.png">
+      <PackagePath>images\orangeIcon.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\orangeIcon.scale-140.png">
+      <PackagePath>images\orangeIcon.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\orangeIcon.scale-180.png">
+      <PackagePath>images\orangeIcon.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\purpleSquare310x310.scale-100.png">
+      <PackagePath>images\purpleSquare310x310.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\purpleSquare310x310.scale-140.png">
+      <PackagePath>images\purpleSquare310x310.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\purpleSquare310x310.scale-180.png">
+      <PackagePath>images\purpleSquare310x310.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-100.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-140.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-180.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\largetile-Windows-sdk.png">
+      <PackagePath>Assets\largetile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:23.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\mediumtile-Windows-sdk.png">
+      <PackagePath>Assets\mediumtile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T17:42:24.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-11-22T17:42:24.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario1_SendTextTile.xbf">
+      <PackagePath>Scenario1_SendTextTile.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario2_SendLocalImageTile.xbf">
+      <PackagePath>Scenario2_SendLocalImageTile.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario3_SendWebImageTile.xbf">
+      <PackagePath>Scenario3_SendWebImageTile.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario4_SendBadge.xbf">
+      <PackagePath>Scenario4_SendBadge.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario5_UsePushNotifications.xbf">
+      <PackagePath>Scenario5_UsePushNotifications.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario6_PreviewAllTemplates.xbf">
+      <PackagePath>Scenario6_PreviewAllTemplates.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario7_EnableNotificationQueue.xbf">
+      <PackagePath>Scenario7_EnableNotificationQueue.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario8_NotificationExpiration.xbf">
+      <PackagePath>Scenario8_NotificationExpiration.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario9_ImageProtocols.xbf">
+      <PackagePath>Scenario9_ImageProtocols.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario10_Globalization.xbf">
+      <PackagePath>Scenario10_Globalization.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Scenario11_ContentDeduplication.xbf">
+      <PackagePath>Scenario11_ContentDeduplication.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+      <Modified>2014-11-22T17:47:17.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\Tiles.Windows.xr.xml">
+      <PackagePath>Tiles.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-22T17:47:17.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\NotificationsExtensions\bin\Debug\NotificationsExtensions.xml">
+      <PackagePath>NotificationsExtensions.xml</PackagePath>
+      <Modified>2014-11-22T17:47:14.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-22T17:47:18.771</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

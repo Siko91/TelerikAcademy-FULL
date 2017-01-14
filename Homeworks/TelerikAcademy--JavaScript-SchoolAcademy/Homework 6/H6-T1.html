@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Homework 6 - Task 1</title>
+</head>
+<body>
+
+<label>Input</label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click me!</button>
+<br />
+
+<script type="text/javascript">
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+    	var N = document.getElementById("Input").value;
+    	var result = new Array();
+    	N=N*1
+    	for(i=1; i<=N; i++)
+    	{
+    		if (N == NaN)
+    		{
+    			console.log("Error");
+    			break;
+    		}
+    		result[i-1] = i;
+    	}
+    	console.log("Counting: " + result);
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,5 @@
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars\bin\Debug\Cars.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars\bin\Debug\Cars.pdb
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars\obj\Debug\Cars.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars\obj\Debug\Cars.pdb

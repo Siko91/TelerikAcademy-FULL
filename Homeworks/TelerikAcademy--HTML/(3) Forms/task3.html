@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shop items</title>
+	<style type="text/css">
+      table, th, td
+      
+      {
+      border: 1px solid black;
+      border-spacing: 0px;
+      }
+      
+      </style>
+</head>
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th colspan="6">Drag a column header and drop it here to sort by that column</th>
+			</tr>
+			<tr>
+				<th>Product ID</th>
+				<th>Product Name</th>
+				<th>Unit Price</th>
+				<th>Quantity per Unit</th>
+				<th>Units in Stock</th>
+				<th>Discontinued</th>
+			</tr>
+			<tr>
+				<th><input type = "text" id="FilterByID" placeholder = "ID"></th>
+				<th><input type = "text" id="FilterByName" placeholder = "Name"></th>
+				<th><input type = "text" id="FilterByPrice" placeholder = "Price">
+					<input type = "button" id="PriceFilterBtn" value=" "></th>
+				<th><input type = "text" id="FilterByQuantity"></th>
+				<th><input type = "text" id="FilterByInStock" placeholder = "Units">
+					<input type = "button" id="InStockFilterBtn" value=" "></th>
+				<th><input type = "checkbox" id="isDiscontinued">
+					<input type = "button" id="discontinuedFilterBtn" value=" "></th>
+			</tr>
+		</thead>
+
+		<tfoot>	
+			<tr>
+				<td colspan="4">
+					<input type = "button" id="GoFirst" value="<<"></th>
+					<input type = "button" id="GoBack" value="<"></th>
+					<a href="task3-1.html">1</a>
+					<a href="task3-2.html">2</a>
+					<a href="task3-3.html">3</a>
+					<a href="task3-4.html">4</a>
+					<a href="task3-5.html">5</a>
+					<a href="task3-6.html">6</a>
+					<a href="task3-7.html">7</a>
+					<a href="task3-8.html">8</a>
+					<a href="task3-9.html">9</a>
+					<a href="task3-10.html">10</a>
+					...
+					<input type = "button" id="GoNext" value=">"></th>
+					<input type = "button" id="GoLast" value=">>"></th>
+				</td>
+				<TD colspan="2">
+					4
+					items in
+					1
+					pages
+				</TD>
+			</tr>
+		</tfoot>
+
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>Chai</td>
+				<td>$18.00</td>
+				<td>10 boxes X 20 bags</td>
+				<td>39</td>
+				<td><input type = "checkbox" id="1isDiscontinued" checked></td>
+
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Chai2</td>
+				<td>$18.00</td>
+				<td>10 boxes X 20 bags</td>
+				<td>39</td>
+				<td><input type = "checkbox" id="2isDiscontinued" checked></td>
+
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Chai3</td>
+				<td>$18.00</td>
+				<td>10 boxes X 20 bags</td>
+				<td>30</td>
+				<td><input type = "checkbox" id="3isDiscontinued"></td>
+
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>Chai4</td>
+				<td>$18.00</td>
+				<td>10 boxes X 20 bags</td>
+				<td>9</td>
+				<td><input type = "checkbox" id="1isDiscontinued" checked></td>
+
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

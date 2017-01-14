@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\04 - Hex to Dec\bin\Debug\04 - Hex to Dec.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\04 - Hex to Dec\bin\Debug\04 - Hex to Dec.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\04 - Hex to Dec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\04 - Hex to Dec\obj\x86\Debug\04 - Hex to Dec.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\04 - Hex to Dec\obj\x86\Debug\04 - Hex to Dec.pdb

@@ -1,0 +1,69 @@
+<html>
+<head>
+    <title>Homework 8 - Task 3</title>
+</head>
+<body>
+
+<label> Input text: </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<label> search for word: </label>
+<input id="InputKey" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that finds all the occurrences of word in a text
+The search can case sensitive or case insensitive
+Use function overloading
+*/
+
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", SearchWord, false);
+    }
+
+    function SearchWord()
+    {   
+        var input = document.getElementById("Input").value;
+        var key = document.getElementById("InputKey").value;
+
+        input = input.split(" ");
+        console.log(input.join(" - "));
+
+        var counterArray = new Array(input.length);
+        var counter = 0;
+
+        for (var i = counterArray.length - 1; i >= 0; i--) {
+            counterArray[i] = 0;
+        }
+
+        for (var i = 0; i < input.length; i++)
+        {
+            if (input[i] == key)
+            {
+                counterArray[i] = 1;
+                counter += 1;
+                console.log("The word has apeared in the text. It is the " + (i+1) + "'th word.");
+            }
+        }
+
+
+
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

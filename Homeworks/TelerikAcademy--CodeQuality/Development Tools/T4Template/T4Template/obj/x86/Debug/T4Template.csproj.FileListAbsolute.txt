@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\T4Template\T4Template\bin\Debug\T4Template.exe
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\T4Template\T4Template\bin\Debug\T4Template.pdb
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\T4Template\T4Template\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\T4Template\T4Template\obj\x86\Debug\T4Template.exe
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\T4Template\T4Template\obj\x86\Debug\T4Template.pdb

@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Homework 9 - Task 4</title>
+</head>
+<body>
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that checks if a given object contains a given property
+var obj  = …;
+var hasProp = hasProperty(obj,"length");
+ */
+
+    window.onload = addingListener();
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Start, false);
+    }
+
+    function HasProperty(obj, param)
+    {
+        for (var i in obj)
+        {
+            if (i == param)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    function human()
+    {
+        var fName = "name";
+        var age = 1;
+        var skills = "";
+    }
+
+    function Start()
+    {   
+        var George = new human;
+        George.fName = "George";
+        George.age = 20;
+        George.skills = "PHP and Karate";
+
+        for (var i in George)
+        {
+            console.log(i + ": " + George[i]);
+        }
+
+        var hasProp = HasProperty(George,"skills");
+        console.log("George's got the skills? " + hasProp);
+        console.log(George.skills);
+    }
+
+</script>
+</body>
+</html>
+
+
+
+

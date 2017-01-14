@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1UsageOfIncludeCommand", "Task1UsageOfIncludeCommand\Task1UsageOfIncludeCommand.csproj", "{5EC93660-4E51-4BB0-9562-B98AE6855B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikAcademyDBContext", "TelerikAcademyDBContext\TelerikAcademyDBContext.csproj", "{24E2B521-639B-4F79-A808-18765B132041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2DontDoQueriesLikeThisOne", "Task2DontDoQueriesLikeThisOne\Task2DontDoQueriesLikeThisOne.csproj", "{3C7DFF74-53A7-4DE4-B2B8-D68AE3A8561C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC93660-4E51-4BB0-9562-B98AE6855B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC93660-4E51-4BB0-9562-B98AE6855B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC93660-4E51-4BB0-9562-B98AE6855B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC93660-4E51-4BB0-9562-B98AE6855B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E2B521-639B-4F79-A808-18765B132041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E2B521-639B-4F79-A808-18765B132041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E2B521-639B-4F79-A808-18765B132041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E2B521-639B-4F79-A808-18765B132041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7DFF74-53A7-4DE4-B2B8-D68AE3A8561C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7DFF74-53A7-4DE4-B2B8-D68AE3A8561C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7DFF74-53A7-4DE4-B2B8-D68AE3A8561C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7DFF74-53A7-4DE4-B2B8-D68AE3A8561C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

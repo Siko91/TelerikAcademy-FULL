@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task5-GetImagesFromDBAndStoreAsJPG\bin\Debug\Task5-GetImagesFromDBAndStoreAsJPG.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task5-GetImagesFromDBAndStoreAsJPG\bin\Debug\Task5-GetImagesFromDBAndStoreAsJPG.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task5-GetImagesFromDBAndStoreAsJPG\bin\Debug\Task5-GetImagesFromDBAndStoreAsJPG.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task5-GetImagesFromDBAndStoreAsJPG\obj\Debug\Task5-GetImagesFromDBAndStoreAsJPG.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task5-GetImagesFromDBAndStoreAsJPG\obj\Debug\Task5-GetImagesFromDBAndStoreAsJPG.pdb

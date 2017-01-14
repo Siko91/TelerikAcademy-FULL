@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\03 - read file exceptions\bin\Debug\03 - read file exceptions.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\03 - read file exceptions\bin\Debug\03 - read file exceptions.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\03 - read file exceptions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\03 - read file exceptions\obj\x86\Debug\03 - read file exceptions.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\03 - read file exceptions\obj\x86\Debug\03 - read file exceptions.pdb

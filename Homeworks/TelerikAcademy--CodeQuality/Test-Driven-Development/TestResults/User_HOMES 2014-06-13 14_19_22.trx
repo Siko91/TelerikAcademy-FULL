@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="cf179cae-0e2e-4c7d-94e5-5639c34141c6" name="User@HOMES 2014-06-13 14:19:22" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bc564bda-2a21-4db9-b62c-2de7eaeb2f4a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 14_19_22">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\bin\Debug\Poker.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T14:19:22.4843750+03:00" queuing="2014-06-13T14:19:23.7656250+03:00" start="2014-06-13T14:19:23.9218750+03:00" finish="2014-06-13T14:19:24.8593750+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082">
+      <Execution id="f2cb7918-c823-4a6c-80e1-62756a991c7d" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="8fda5f33-a9b9-5a41-07dc-a2f25844e49c">
+      <Execution id="6ede754c-2213-4e19-9931-f927d36ee972" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" executionId="f2cb7918-c823-4a6c-80e1-62756a991c7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" executionId="6ede754c-2213-4e19-9931-f927d36ee972" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f2cb7918-c823-4a6c-80e1-62756a991c7d" testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" testName="CardToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0349443" startTime="2014-06-13T14:19:23.9843750+03:00" endTime="2014-06-13T14:19:24.7500000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2cb7918-c823-4a6c-80e1-62756a991c7d">
+    </UnitTestResult>
+    <UnitTestResult executionId="6ede754c-2213-4e19-9931-f927d36ee972" testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" testName="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" duration="00:00:00.0004838" startTime="2014-06-13T14:19:24.7656250+03:00" endTime="2014-06-13T14:19:24.7812500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ede754c-2213-4e19-9931-f927d36ee972">
+    </UnitTestResult>
+  </Results>
+</TestRun>

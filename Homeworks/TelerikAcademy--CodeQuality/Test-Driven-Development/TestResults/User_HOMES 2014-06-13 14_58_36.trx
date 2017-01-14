@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3db46e4b-f66d-4dee-865f-029da85ee173" name="User@HOMES 2014-06-13 14:58:36" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bc564bda-2a21-4db9-b62c-2de7eaeb2f4a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 14_58_36">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\bin\Debug\Poker.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T14:58:36.1250000+03:00" queuing="2014-06-13T14:58:37.4375000+03:00" start="2014-06-13T14:58:37.5468750+03:00" finish="2014-06-13T14:58:46.3906250+03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="7" executed="3" passed="2" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="4" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HOMES" outcome="Error" timestamp="2014-06-13T14:58:46.3750000+03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="c0f58013-8c25-16a0-2f3d-a1ac38180f23">
+      <Execution id="9d069d03-3803-439c-a967-e7fa607e39bf" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="HandShouldNotHaveMoreThanFiveCards" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="4a5b6ae3-bb10-501e-24b2-f970155da52b">
+      <Execution id="6e2dd302-d13f-434f-bebf-8a73e7dde4d0" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandShouldNotHaveMoreThanFiveCards" />
+    </UnitTest>
+    <UnitTest name="HandWithRepeatingCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="83b8f170-80e4-0b29-09e5-64b876ffbc9c">
+      <Execution id="8366e70c-f6d9-4456-9260-3386cace1f50" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithRepeatingCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="befe51af-2857-c06a-6449-1b0d2cdf2061">
+      <Execution id="ef6d98e1-1f85-49ab-8854-a0e3d794eb32" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082">
+      <Execution id="660ac874-0b9d-4536-a0f5-a895ad9c6573" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="HandWithZeroCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436">
+      <Execution id="ac13945c-6928-41f3-8a28-c2d7f8d8954d" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithZeroCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="8fda5f33-a9b9-5a41-07dc-a2f25844e49c">
+      <Execution id="ad12e8c2-ebd6-4036-ba26-38ae7412e85c" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" executionId="6e2dd302-d13f-434f-bebf-8a73e7dde4d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" executionId="660ac874-0b9d-4536-a0f5-a895ad9c6573" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" executionId="8366e70c-f6d9-4456-9260-3386cace1f50" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" executionId="ad12e8c2-ebd6-4036-ba26-38ae7412e85c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" executionId="ac13945c-6928-41f3-8a28-c2d7f8d8954d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="befe51af-2857-c06a-6449-1b0d2cdf2061" executionId="ef6d98e1-1f85-49ab-8854-a0e3d794eb32" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" executionId="9d069d03-3803-439c-a967-e7fa607e39bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6e2dd302-d13f-434f-bebf-8a73e7dde4d0" testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" testName="HandShouldNotHaveMoreThanFiveCards" computerName="HOMES" duration="00:00:00.0353662" startTime="2014-06-13T14:58:37.6093750+03:00" endTime="2014-06-13T14:58:38.3906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6e2dd302-d13f-434f-bebf-8a73e7dde4d0">
+    </UnitTestResult>
+    <UnitTestResult executionId="660ac874-0b9d-4536-a0f5-a895ad9c6573" testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" testName="CardToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0022885" startTime="2014-06-13T14:58:38.4062500+03:00" endTime="2014-06-13T14:58:38.4218750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="660ac874-0b9d-4536-a0f5-a895ad9c6573">
+    </UnitTestResult>
+    <UnitTestResult executionId="8366e70c-f6d9-4456-9260-3386cace1f50" testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" testName="HandWithRepeatingCardsShouldNotBeValid" computerName="HOMES" duration="00:00:07.9375000" startTime="2014-06-13T14:58:38.4375000+03:00" endTime="2014-06-13T14:58:46.3750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8366e70c-f6d9-4456-9260-3386cace1f50">
+    </UnitTestResult>
+    <UnitTestResult executionId="ad12e8c2-ebd6-4036-ba26-38ae7412e85c" testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" testName="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad12e8c2-ebd6-4036-ba26-38ae7412e85c">
+    </UnitTestResult>
+    <UnitTestResult executionId="ac13945c-6928-41f3-8a28-c2d7f8d8954d" testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" testName="HandWithZeroCardsShouldNotBeValid" computerName="HOMES" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac13945c-6928-41f3-8a28-c2d7f8d8954d">
+    </UnitTestResult>
+    <UnitTestResult executionId="ef6d98e1-1f85-49ab-8854-a0e3d794eb32" testId="befe51af-2857-c06a-6449-1b0d2cdf2061" testName="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef6d98e1-1f85-49ab-8854-a0e3d794eb32">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d069d03-3803-439c-a967-e7fa607e39bf" testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" testName="HandToStringShouldFollowTheGivenFormat" computerName="HOMES" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d069d03-3803-439c-a967-e7fa607e39bf">
+    </UnitTestResult>
+  </Results>
+</TestRun>

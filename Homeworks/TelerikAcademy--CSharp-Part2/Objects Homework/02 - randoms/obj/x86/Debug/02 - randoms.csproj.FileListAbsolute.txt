@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\02 - randoms\bin\Debug\02 - randoms.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\02 - randoms\bin\Debug\02 - randoms.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\02 - randoms\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\02 - randoms\obj\x86\Debug\02 - randoms.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\02 - randoms\obj\x86\Debug\02 - randoms.pdb

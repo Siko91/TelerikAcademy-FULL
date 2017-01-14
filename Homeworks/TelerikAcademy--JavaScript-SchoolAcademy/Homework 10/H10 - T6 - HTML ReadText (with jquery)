@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>Homework 10 - Task 6 - Read HTML Text (My First JQuery!)</title>
+    <script src="jquery-2.0.3.js"></script>
+</head>
+<body>
+
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+        
+        // Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags:
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+            var text = $("*").html();
+            var text2 = "";
+
+            var openedTagCounter;
+
+            for (var i = 0; i < text.length; i++)
+            {
+                if (text.substr(i, 1) == '<')
+                {
+                    openedTagCounter += 1;
+                    for (var y = i; y < text.length; y++)
+                    {
+                        if (text.substr(y, 1) == '>')
+                        {
+                            i = y;
+                            break;
+                        }
+                    }   
+                }
+                else
+                {
+                    text2 += text.substr(i, 1)
+                }
+            }
+            document.writeln(text2);
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

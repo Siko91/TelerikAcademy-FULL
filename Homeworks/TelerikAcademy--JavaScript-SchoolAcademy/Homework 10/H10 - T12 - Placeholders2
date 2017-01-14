@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Homework 10 - Task 12 - Placeholders2</title>
+</head>
+<body>
+
+    <div data-type="template" id="PringBlank">
+    <strong>-{name}-</strong> <span>-{age}-</span></strong>
+    </div>
+
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        /* Write a JavaScript function that replaces in a HTML document given as string all the tags <a href="…">…</a> with corresponding tags [URL=…]…[/URL]. Sample HTML fragment: */
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+            var humans = [{ name: "George", age: 33 }, { name: "John", age: 29 }, { name: "Maria", age: 13 }];
+            var temporary = document.getElementById("PringBlank").innerHTML;
+            var arrFinal = MakeList(temporary, humans);
+            for (var i = 0; i < arrFinal.length; i+=2) {
+                document.writeln("<ul><li><strong>" + arrFinal[i] + "</strong><span>" + arrFinal[i + 1] + "</span></li><li>…</li>…</ul>")
+            }
+        }
+        function MakeList(temporary, humans)
+        {
+            var holder = temporary;
+            var Arr = [];
+            for (var person in humans) {
+                var index = temporary.indexOf("{name}");
+                var index2 = temporary.indexOf("{age}");
+                temporary = temporary.replace("{name}", humans[person].name);
+                Arr.push(temporary.substr(index, humans[person].name.length));
+                temporary = holder;
+                temporary = temporary.replace("{age}", humans[person].age);
+                Arr.push(temporary.substr(index2, humans[person].age.toString().length));
+                temporary = holder;
+            }
+            return Arr;
+        }
+
+    </script>
+</body>
+</html>

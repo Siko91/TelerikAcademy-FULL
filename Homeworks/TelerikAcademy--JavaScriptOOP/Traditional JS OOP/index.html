@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>JS OOP Homework</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <script src="JQuery-min.js" type="text/javascript"></script>
+        <script src="task.js" type="text/javascript"></script>
+        <script src="task-engine.js" type="text/javascript"></script>
+    </head>
+    <body>
+    
+        <aside id='tool-box'>
+            <h1>Tool Box</h1>
+            <hr/>
+            Click and drag to draw
+            <select id="shape-type">
+                <option value="line">line</option>
+                <option value="rect">rect</option>
+                <option value="circle">circle</option>
+            </select>
+
+            <input type="number" placeholder='start X' id='x-start'>
+            <input type="number" placeholder='start Y' id='y-start'>
+            <input type="number" placeholder='end X' id='x-end'>
+            <input type="number" placeholder='end Y' id='y-end'>
+            <button id='draw-btn'>Draw</button>
+        </aside>
+
+        <canvas id='result-canvas'>
+        </canvas>
+        
+        <hr />
+
+        <section id="task-list">
+            <header><h1>TODO tasks</h1></header>
+            <h2>Create a module for drawing shapes using Canvas.</h2>
+            <ul>
+                Implement the following shapes:
+                <br /><br />
+                <li>Rect, by given position (X, Y) and size (Width, Height)</li>
+                <br />
+                <li>Circle, by given center position (X, Y) and radius (R)</li>
+                <br />
+                <li>Line, by given from (X1, Y1) and to (X2, Y2) positions</li>
+                </li>
+            </ul>
+        </section>
+
+        <script src="script.js" type="text/javascript"></script>
+    </body>
+</html>  

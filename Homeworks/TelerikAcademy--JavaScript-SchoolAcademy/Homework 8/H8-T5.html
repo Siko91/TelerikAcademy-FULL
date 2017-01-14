@@ -1,0 +1,85 @@
+<html>
+<head>
+    <title>Homework 8 - Task 5</title>
+</head>
+<body>
+
+<label> Input numbers seperated with comas ",": </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<label> Input number to search: </label>
+<input id="InputKey" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that counts how many times given number appears in given array. Write a test function to check if the function is working correctly.
+
+*/
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Search, false);
+    }
+
+    function Check(input, key, countArray)
+    {
+        for (var i = countArray.length - 1; i >= 0; i--) {
+            if (countArray[i] != 0)
+            {
+                if (input[i] != key)
+                {
+                    console.log("ERROR! The program is not working properly. Please punch the nearest wall.");
+                    break;
+                }
+            }
+            if (i == 0)  // last round
+            {
+                console.log("The program seems to be working.");
+            }
+        }
+    }
+
+    function Search()
+    {   
+        var input = document.getElementById("Input").value;
+        var key = document.getElementById("InputKey").value;
+
+        input = input.split(",");
+        console.log(input.join(" - "));
+
+        var countArray = new Array(input.length);
+        var counter = 0;
+
+        for (var i = countArray.length - 1; i >= 0; i--) {
+            countArray[i] = 0;
+            input[i] *= 1;
+        }
+
+        for (var i = 0; i < input.length; i++)
+        {
+            if (input[i] == key)
+            {
+                countArray[i] = 1;
+                counter += 1;
+                console.log("The number has apeared in the array with an index of " + (i) + ".");
+            }
+        }
+
+        Check(input, key, countArray);
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

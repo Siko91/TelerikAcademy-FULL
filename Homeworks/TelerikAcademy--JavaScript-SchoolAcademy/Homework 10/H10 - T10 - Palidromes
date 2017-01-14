@@ -1,0 +1,75 @@
+<html>
+<head>
+    <title>Homework 10 - Task 10 - Palidromes</title>
+</head>
+<body>
+
+    <label>Input code for testing. Example: "Hi, my name is... Sukus, and I am a fan of TNT."</label>
+    <br />
+    <input id="Input1" type="text" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        /* Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe". */
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function Validate(str)
+        {
+            strLow = str.toLowerCase();
+
+            for(var i = 0; i<strLow.length/2; i++)
+            {
+                if(strLow.substr(i,1) != strLow.substr(strLow.length-i-1,1)) return "no";
+            }
+            return str;
+        }
+
+        function onBtnClick()
+        {
+            var str = document.getElementById("Input1").value;
+
+            console.log(str);
+            
+            str = str.split(/[.,:;!? -"']/)
+
+            for (var i = str.length - 1; i >= 0; i--)
+            {
+                if(str[i] == "") str.splice(i,1)
+            }
+
+            console.log(str.join(" - "));
+
+            var palidromes = new Array;
+            var counter = 0;
+
+            for (var i = 0; i < str.length; i++)
+            {
+                palidromes[counter] = Validate(str[i]);
+                if(palidromes[counter] != "no") counter++;
+                else palidromes.splice(counter,1);
+            }
+
+
+            for (var i = 0; i < palidromes.length; i++)
+            {
+                console.log("Palidrome " + i + ": " + palidromes[i]);
+            }
+        }
+
+    </script>
+</body>
+</html>
+
+
+
+

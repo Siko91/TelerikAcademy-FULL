@@ -1,0 +1,339 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	<style type="text/css">
+		#wrapper {
+			background: #aae;
+			padding: 15px;
+		}
+		#wrapper .task {
+			border: 1px solid black;
+			background: #fff;
+			padding: 5px;
+		}
+		#wrapper .task input{
+			display: block;
+			margin: 1px;
+		}
+		#wrapper .task div {
+			float: right;
+			min-height: 40px;
+			width: 50%;
+			color: black;
+			font-size: 24px;
+			background: none;
+			text-align: center;
+
+			overflow: wrap;
+		}
+		#wrapper .task div.done {
+			border: 1px solid black;
+			background: #5e5;
+		}
+		#wrapper .task div.error {
+			border: 1px solid black;
+			background: #f00;
+		} </style>
+
+	<script type="text/javascript">
+		function ShowResult(result, resultDivClass, taskNumber)
+		{
+		    document.getElementById("result" + taskNumber).className = resultDivClass;
+		    document.getElementById("result" + taskNumber).innerHTML = result;
+		}
+
+		function HandleClicks(taskNumber)
+		{
+		    switch (taskNumber) {
+		        case 1: DoTask1(); break;
+		        case 2: DoTask2(); break;
+		        case 3: DoTask3(); break;
+		        case 4: DoTask4(); break;
+		        case 5: DoTask5(); break;
+		        case 6: DoTask6(); break;
+		        case 7: DoTask7(); break;
+		        case 8: DoTask8(); break;
+		        case 9: DoTask9(); break;
+		        default: break;
+		    }
+		}
+		function ThrowError(taskNumber)
+		{
+			ShowResult("Error", "error", taskNumber);
+		}
+
+
+		function DoTask1()
+		{
+			var input = document.getElementById("input1").value;
+			
+
+			if (isNaN(parseInt(input))) {
+				ThrowError(1);
+				return;
+			}
+
+			if (input % 2 == 1) {
+				ShowResult("odd", "done", 1);
+			}
+			else if (input % 2 == 0) {
+				ShowResult("even", "done", 1);
+			}
+			else {
+				ThrowError(1);
+			}
+		}
+		function DoTask2()
+		{
+			var input = document.getElementById("input2").value;
+			
+			if (isNaN(parseInt(input))) {
+				ThrowError(2);
+				return;
+			}
+
+			if (input % 5 == 0 && input % 7 == 0) {
+				ShowResult("true", "done", 2);
+			}
+			else {
+				ShowResult("false", "done", 2);
+			}
+		}
+		function DoTask3()
+		{
+			var height = document.getElementById("input3-1").value;
+			var width = document.getElementById("input3-2").value;
+
+
+			if (isNaN(parseInt(height)) || isNaN(parseInt(width))) {
+				ThrowError(3);
+				return;
+			}
+			
+			ShowResult((height * width), "done", 3);
+		}
+		function DoTask4()
+		{
+			var digit = document.getElementById("input4-1").value;
+			var position = document.getElementById("input4-2").value;
+			var string = document.getElementById("input4-3").value;
+			
+			if (isNaN(parseInt(position))) {
+				ThrowError(4);
+				return;
+			}
+
+			if (string[string.length - position] == digit) {
+				ShowResult("true", "done", 4);
+			}
+			else {
+				ShowResult("false", "done", 4);
+			}
+
+		}
+		function DoTask5()
+		{
+			var integer = document.getElementById("input5").value;
+
+			if (isNaN(parseInt(integer))) {
+				ThrowError(5);
+				return;
+			}
+
+			var mask = 1 >> 3;
+			var ThirdBitIs1 = (integer & mask == mask)
+
+			if (ThirdBitIs1) {
+				ShowResult("bit is 1", "done", 5);
+			}
+			else {
+				ShowResult("bit is 0", "done", 5);
+			}
+		}
+		function DoTask6()
+		{
+			var pointX = document.getElementById("input6-1").value;
+			var pointY = document.getElementById("input6-2").value;
+			var radius = document.getElementById("input6-3").value;
+
+			if (isNaN(parseFloat(pointX)) ||
+				isNaN(parseFloat(pointY)) ||
+				isNaN(parseFloat(radius))) {
+				ThrowError(6);
+				return;
+			}
+
+			var pointIsInCircle = (pointX - 0)*(pointX - 0) + (pointY - 5)*(pointY - 5) < radius*radius
+
+			if (pointIsInCircle) {
+				ShowResult("point Is In Circle", "done", 6);
+			}
+			else {
+				ShowResult("point Is NOT In Circle", "done", 6);
+			}
+		}
+		function DoTask7()
+		{
+			var integer = document.getElementById("input7").value;
+
+			if (isNaN(parseInt(integer))) {
+				ThrowError(7);
+				return;
+			}
+
+			var sqrt = Math.sqrt(integer) + 1;
+
+			for (var i = 2; i > sqrt; i++) {
+
+				if (integer % i == 0) {
+					ShowResult("NOT prime", "done", 7);
+					return;
+				}
+			}
+			ShowResult("Prime", "done", 7);
+
+			// TODO: Find out Why this doesn't work;
+			alert("On my PC the result is awlays \"Prime\". Don't know why.\nAn error will be thrown after you click \"OK\".");
+			ThrowError(7);
+		}
+		function DoTask8()
+		{
+			var lengthA = document.getElementById("input8-1").value;
+			var lengthB = document.getElementById("input8-2").value;
+			var height = document.getElementById("input8-3").value;
+
+			if (isNaN(parseFloat(lengthA)) ||
+				isNaN(parseFloat(lengthB)) ||
+				isNaN(parseFloat(height))) {
+				ThrowError(8);
+				return;
+			}
+			
+			lengthA = lengthA * 1;
+			lengthB = lengthB * 1;
+
+			var area = ((lengthA + lengthB) / 2) * height;
+
+			ShowResult("Area: " + area, "done", 8);
+		}
+		function DoTask9()
+		{
+			var pointX = document.getElementById("input9-1").value;
+			var pointY = document.getElementById("input9-2").value;
+			
+			if (isNaN(parseFloat(pointX)) ||
+				isNaN(parseFloat(pointY))) {
+				ThrowError(9);
+				return;
+			}
+			var pointIsInCircle = (pointX - 1)*(pointX - 1) + (pointY - 1)*(pointY - 1) < 3*3;
+
+			var pointIsInRectangle = ( (pointX < 1 && pointX > 1-2) && (pointY > 1 && pointY < 1+6) );
+
+			var result = (pointIsInCircle && !pointIsInRectangle).toString().toUpperCase()
+			+ " - point is "
+			+ (pointIsInCircle? "inside" : "outside")
+			+ " the circle and "
+			+ (pointIsInRectangle? "inside" : "outside")
+			+ " the rectangle";
+
+			ShowResult(result, "done", 9);
+		}
+
+    </script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 1</h2></header>
+			<div id="result1" class=""></div>
+			<p>Write an expression that checks if given integer is odd or even.</p>
+			<input id="input1">
+			<button onclick="HandleClicks(1)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 2</h2></header>
+			<div id="result2" class=""></div>
+			<p>Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.</p>
+			<input id="input2">
+			<button onclick="HandleClicks(2)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 3</h2></header>
+			<div id="result3" class=""></div>
+			<p>Write an expression that calculates rectangle’s area by given width and height.</p>
+			<input placeholder="height" id="input3-1">
+			<input placeholder="width" id="input3-2">
+			<button onclick="HandleClicks(3)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 4</h2></header>
+			<div id="result4" class=""></div>
+			<p>Write an expression that checks for given integer if its third digit (right-to-left) is 7. E. g. 1732  true.</p>
+			<input placeholder="digit" id="input4-1">
+			<input placeholder="position" id="input4-2">
+			<input placeholder="string to check" id="input4-3">
+			<button onclick="HandleClicks(4)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 5</h2></header>
+			<div id="result5" class=""></div>
+			<p>Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0.</p>
+			<input placeholder="integer" id="input5">
+			<button onclick="HandleClicks(5)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 6</h2></header>
+			<div id="result6" class=""></div>
+			<p>Write an expression that checks if given print (x,  y) is within a circle K(O, 5).</p>
+			<input placeholder="point x" id="input6-1">
+			<input placeholder="point y" id="input6-2">
+			<br/>
+			<input placeholder="radius" id="input6-3">
+			<button onclick="HandleClicks(6)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 7</h2></header>
+			<div id="result7" class=""></div>
+			<p>Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.</p>
+			<input id="input7">
+			<button onclick="HandleClicks(7)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 8</h2></header>
+			<div id="result8" class=""></div>
+			<p>Write an expression that calculates trapezoid's area by given sides a and b and height h.</p>
+			<input placeholder="a" id="input8-1">
+			<input placeholder="b" id="input8-2">
+			<input placeholder="h" id="input8-3">
+			<button onclick="HandleClicks(8)">Do it!</button>
+		</div>
+	</div>
+	<div id="wrapper">
+		<div class="task">
+			<header><h2>Task 9</h2></header>
+			<div id="result9" class=""></div>
+			<p>Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).</p>
+			<input placeholder="point x" id="input9-1">
+			<input placeholder="point y" id="input9-2">
+			<button onclick="HandleClicks(9)">Do it!</button>
+		</div>
+	</div>
+</body>
+</html>

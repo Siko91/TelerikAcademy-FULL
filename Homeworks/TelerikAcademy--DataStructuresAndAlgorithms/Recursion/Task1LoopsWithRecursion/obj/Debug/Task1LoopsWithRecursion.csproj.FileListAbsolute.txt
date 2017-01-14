@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\bin\Debug\Task1LoopsWithRecursion.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\bin\Debug\Task1LoopsWithRecursion.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\bin\Debug\Task1LoopsWithRecursion.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\obj\Debug\Task1LoopsWithRecursion.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\obj\Debug\Task1LoopsWithRecursion.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task1LoopsWithRecursion\obj\Debug\Task1LoopsWithRecursion.pdb

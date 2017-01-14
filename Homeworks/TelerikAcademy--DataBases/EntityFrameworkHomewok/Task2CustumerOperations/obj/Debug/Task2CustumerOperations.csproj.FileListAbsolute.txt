@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\obj\Debug\Task2CustumerOperations.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\Task2CustumerOperations.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\Task2CustumerOperations.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\obj\Debug\Task2CustumerOperations.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\obj\Debug\Task2CustumerOperations.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations\bin\Debug\Task2CustumerOperations.dll.config

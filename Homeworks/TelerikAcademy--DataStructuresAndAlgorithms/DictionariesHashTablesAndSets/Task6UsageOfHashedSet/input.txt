@@ -1,0 +1,35 @@
+﻿Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 946
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 946
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Kireto                  | Varna    | 052 23 45 67
+Kireto                  | Karnobat    | 052 23 45 67
+Kireto                  | Karnobat    | 052 23 45 67
+Kireto                  | Karnobat    | 052 23 45 67
+Kireto                  | Sofia    | 052 23 45 67
+Kireto                  | Sofia    | 052 23 45 67
+Kireto                  | Sofia    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Plovdiv    | 02 946 946 946
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 945
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 946
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 946
+Mimi Shmatkata          | Plovdiv  | 0888 12 34 56
+Kireto                  | Varna    | 052 23 45 67
+Daniela Ivanova Petrova | Karnobat | 0899 999 888
+Bat Gancho              | Sofia    | 02 946 946 946

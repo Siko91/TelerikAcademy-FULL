@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\bin\Debug\Task01-StoreValuesInList.exe.config
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\bin\Debug\Task01-StoreValuesInList.pdb
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\obj\Debug\Task01-StoreValuesInList.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\obj\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task01-StoreValuesInList\obj\Debug\Task01-StoreValuesInList.pdb

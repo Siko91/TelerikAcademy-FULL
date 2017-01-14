@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework - Raphael - Task 1</title>
+        <style type="text/css">svg {border: 1px solid black;} div {float: left;}</style>
+        <script src="Raphael-min.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div id="container1"></div>
+        <div id="container2"></div>
+    	<script>
+            var paper = Raphael("container1", 400, 400);
+            var paper2 = Raphael("container2", 400, 400);
+
+            function getSpiralPath(centerPointX, centerPointY, a, b, angle, countOfPoints) {
+                var points = [];
+                points.push("M" + centerPointX + " " + centerPointY);
+
+                for (var i = 0; i < countOfPoints; i++) {
+                    var currentAngle = angle * i;
+                    var x = centerPointX + (a + b * currentAngle) * Math.cos(currentAngle);
+                    var y = centerPointY + (a + b * currentAngle) * Math.sin(currentAngle);
+
+                    points.push("L" + x + " " + y);
+                }
+                return points.join(" ");
+            }
+
+            var spyral1 = paper.path(getSpiralPath(200,200, 0, 4, 0.07, 500));
+            var spyral2 = paper2.path(getSpiralPath(200,200, 50, 1, 0.01, 10000));
+    	</script>
+    </body>
+</html>

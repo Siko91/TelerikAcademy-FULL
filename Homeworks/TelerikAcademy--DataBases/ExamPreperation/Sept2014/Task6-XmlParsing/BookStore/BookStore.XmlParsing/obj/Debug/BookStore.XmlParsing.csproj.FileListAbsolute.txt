@@ -1,0 +1,14 @@
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\obj\Debug\BookStore.XmlParsing.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.XmlParsing.dll.config
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.XmlParsing.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.XmlParsing.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.Models.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.Data.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\BookStore.Models.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\obj\Debug\BookStore.XmlParsing.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\obj\Debug\BookStore.XmlParsing.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task6-XmlParsing\BookStore\BookStore.XmlParsing\bin\Debug\EntityFramework.SqlServer.xml

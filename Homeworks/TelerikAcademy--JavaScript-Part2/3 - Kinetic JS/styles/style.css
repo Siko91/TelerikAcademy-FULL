@@ -1,0 +1,10 @@
+body {
+	background: #333;
+	color: #ccc;
+}
+
+div {
+	border: 2px solid black;
+	background: #fff;
+	height: 50px;
+}

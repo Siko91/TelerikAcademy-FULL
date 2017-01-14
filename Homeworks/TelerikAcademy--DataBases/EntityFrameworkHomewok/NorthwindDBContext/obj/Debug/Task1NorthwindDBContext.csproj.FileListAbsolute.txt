@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\bin\Debug\NorthwindDBContext.dll.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\obj\Debug\Task1NorthwindDBContext.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\obj\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\NorthwindDBContext\obj\Debug\NorthwindDBContext.pdb

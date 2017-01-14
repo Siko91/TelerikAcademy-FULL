@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Homework 5 - Task 7</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>							  
+
+<label for="Digit0-9">Enter a few numbers, seperated by comas ',' : </label>
+<input id="inputArr" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Find greatest!</button>
+
+<br />
+
+<script>
+
+//	Write a script that finds the greatest of given 5 variables.
+	
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		document.getElementById("Btn").addEventListener("click", onClick, false);
+	}
+
+	function onClick()
+	{
+		console.log("function has started");
+
+		var StringArr = document.getElementById("inputArr").value;
+		var greatest;
+		var seperator = ',';
+
+		console.log("StringArr: " + StringArr);
+
+		var Arr = StringArr.split(seperator);
+		var error; ///boolean
+
+		console.log("StringArr.split: " + Arr.join(", "));
+
+		for(i=0; i<Arr.length; i++)
+		{
+			Arr[i] = Arr[i]*1;
+		}
+
+		console.log("Arr to number: " + Arr.join(", "));
+
+
+		console.log("Arr to number: " + Arr.join(", "));
+
+		console.log("Sorting the array...");
+
+			//--------------
+			function orderBy(a, b)
+			{	 
+				return a - b;
+			}
+			Arr.sort(orderBy);
+			console.log(Arr.join(", "));
+			//--------------
+
+			console.log("The greatest is " + Arr[Arr.length-1]);
+
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\MagicWords\bin\Debug\MagicWords.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\MagicWords\bin\Debug\MagicWords.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\MagicWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\MagicWords\obj\x86\Debug\MagicWords.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\MagicWords\obj\x86\Debug\MagicWords.pdb

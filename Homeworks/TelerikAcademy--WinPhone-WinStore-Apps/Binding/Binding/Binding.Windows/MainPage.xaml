@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="Binding.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Binding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <TextBlock Text="=================== TASK 1 ======================" FontSize="30"></TextBlock>
+            <Slider Name="sl" Minimum="10" Maximum="100" Value="30"/>
+            <TextBlock Text="Abcdefg..." FontSize="{Binding ElementName=sl, Path=Value}"></TextBlock>
+
+            <TextBlock Text="=================== TASK 2 ======================" FontSize="30"></TextBlock>
+            <Button Name="btnTo24" Click="OnFontPresetBtnClick">Set to 24</Button>
+            <Button Name="btnTo46" Click="OnFontPresetBtnClick">Set to 46</Button>
+            <Button Name="btnTo82" Click="OnFontPresetBtnClick">Set to 82</Button>
+
+            <TextBlock Text="=================== TASK 3 ======================" FontSize="30"></TextBlock>
+            <TextBox Name="inputText" Text="Input for the block"></TextBox>
+            <ComboBox Name="forgrComboBox" Width="300" SelectionChanged="forgrComboBox_SelectionChanged"/>
+            <ComboBox Name="backgrComboBox" Width="300" SelectionChanged="backgrComboBox_SelectionChanged"/>
+            <Grid Name="task3Grid" 
+                  Background="{Binding 
+                   ElementName=backgrComboBox, 
+                   Path=SelectedValue}">
+                <TextBlock Name="task3Text" 
+                           Text="{Binding ElementName=inputText, Path=Text}"
+                           Foreground="{Binding ElementName=forgrComboBox, Path=SelectedValue}"
+                           FontSize="{Binding ElementName=sl, Path=Value}" />
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>

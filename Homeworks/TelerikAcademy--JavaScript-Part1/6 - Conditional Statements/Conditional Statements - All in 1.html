@@ -1,0 +1,495 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	<style type="text/css">
+		#wrapper {
+			background: #aae;
+			padding: 15px;
+		}
+		#wrapper .task {
+			border: 1px solid black;
+			background: #fff;
+			padding: 5px;
+			text-align: center;
+		}
+		#wrapper .task input{
+			display: block;
+			margin: 1px;
+		}
+		#wrapper .task div {
+			display: inline-block;
+			width: 45%;
+			text-align: left;
+		}
+		#wrapper .task div:last-child {
+			min-height: 40px;
+			color: black;
+			font-size: 24px;
+			background: none;
+			text-align: center;
+			padding: 5px;
+
+			position: relative;
+			bottom: 40px;
+		}
+		#wrapper .task div.done {
+			border: 1px solid black;
+			background: #5e5;
+		}
+		#wrapper .task div.error {
+			border: 1px solid black;
+			background: #f00;
+		} </style>
+
+	<script type="text/javascript">
+		function ShowResult(result, resultDivClass, taskNumber)
+		{
+		    document.getElementById("result" + taskNumber).className = resultDivClass;
+		    document.getElementById("result" + taskNumber).innerHTML = result;
+		}
+
+		function ThrowError(taskNumber)
+		{
+			ShowResult("Error", "error", taskNumber);
+		}
+
+		function HandleClicks(taskNumber)
+		{
+		    switch (taskNumber) {
+		        case 1: DoTask1(); break;
+		        case 2: DoTask2(); break;
+		        case 3: DoTask3(); break;
+		        case 4: DoTask4(); break;
+		        case 5: DoTask5(); break;
+		        case 6: DoTask6(); break;
+		        case 7: DoTask7(); break;
+		        case 8: DoTask8(); break;
+		        default: break;
+		    }
+		}
+
+		function DoTask1() /// NaN problem...
+		{
+			var firstInt = document.getElementById("input1-1").value;
+			var secondInt = document.getElementById("input1-2").value;
+
+			if (isNaN(parseFloat(firstInt)) ||
+				isNaN(parseFloat(secondInt))) {
+				ThrowError(1);
+				return;
+			}
+
+			firstInt = firstInt * 1;
+			secondInt = secondInt * 1;
+
+			var valuesAreExchanged = false;
+
+			if (firstInt > secondInt) {
+				var temp = firstInt;
+				firstInt = secondInt;
+				secondInt = temp;
+
+				valuesAreExchanged = true;
+			}
+
+			var result = (valuesAreExchanged? "Exchanging..." : "No exchange needed...")
+			+ " first=" + firstInt + " second=" + secondInt;
+
+			ShowResult(result,"done",1);
+
+		}
+		function DoTask2()
+		{
+			
+			var firstInt = document.getElementById("input2-1").value;
+			var secondInt = document.getElementById("input2-2").value;
+			var thirdInt = document.getElementById("input2-3").value;
+
+
+			if (isNaN(parseFloat(firstInt)) ||
+				isNaN(parseFloat(secondInt)) ||
+				isNaN(parseFloat(thirdInt))) {
+				ThrowError(2);
+				return;
+			}
+
+			firstInt = parseFloat(firstInt);
+			secondInt = parseFloat(secondInt);
+			thirdInt = parseFloat(thirdInt);
+
+			if (firstInt == 0 ||
+				secondInt == 0 ||
+				thirdInt == 0) {
+
+				ShowResult("product is 0","done",2);
+			}
+
+			var numberOfNegativeNums = 0;
+			if (firstInt < 0) {
+				numberOfNegativeNums += 1;
+			}
+			if (secondInt < 0) {
+				numberOfNegativeNums += 1;
+			}
+			if (thirdInt < 0) {
+				numberOfNegativeNums += 1;
+			}
+
+			if (numberOfNegativeNums == 0 ||
+				numberOfNegativeNums % 2 == 0) {
+
+				ShowResult("product is POSITIVE","done",2);
+			}
+			else if (numberOfNegativeNums == 1 ||
+				numberOfNegativeNums % 2 == 1) {
+
+				ShowResult("product is NEGATIVE","done",2);
+			}
+		}
+		function DoTask3()
+		{
+			
+			var firstInt = document.getElementById("input3-1").value;
+			var secondInt = document.getElementById("input3-2").value;
+			var thirdInt = document.getElementById("input3-3").value;
+
+
+			if (isNaN(parseFloat(firstInt)) ||
+				isNaN(parseFloat(secondInt)) ||
+				isNaN(parseFloat(thirdInt))) {
+				ThrowError(3);
+				return;
+			}
+
+			firstInt = parseFloat(firstInt);
+			secondInt = parseFloat(secondInt);
+			thirdInt = parseFloat(thirdInt);
+
+			var max = firstInt;
+			if (secondInt > max) {
+				max = secondInt;
+			}
+			if (thirdInt > max) {
+				max = secondInt;
+			}
+
+			// the task will only get messy if I nest the "if" statements. It`s better like this.
+
+			ShowResult("Max: " + max , "done", 3);
+		}
+		function DoTask4()
+		{
+			var firstInt = document.getElementById("input4-1").value;
+			var secondInt = document.getElementById("input4-2").value;
+			var thirdInt = document.getElementById("input4-3").value;
+
+			if (isNaN(parseFloat(firstInt)) ||
+				isNaN(parseFloat(secondInt)) ||
+				isNaN(parseFloat(thirdInt))) {
+
+				ThrowError(4);
+				return;
+			}
+
+			firstInt = parseFloat(firstInt);
+			secondInt = parseFloat(secondInt);
+			thirdInt = parseFloat(thirdInt);
+
+			if (firstInt > secondInt) {
+				if (secondInt > thirdInt) {
+					ShowResult(firstInt + " > " + secondInt + " > " + thirdInt, "done", 4);
+				}
+				else if (firstInt > thirdInt){
+					ShowResult(firstInt + " > " + thirdInt + " > " + secondInt, "done", 4);
+				}
+				else {
+					ShowResult(thirdInt + " > " + firstInt + " > " + secondInt, "done", 4);
+				}
+			}
+			else {
+				if (firstInt > thirdInt) {
+					ShowResult(secondInt + " > " + firstInt + " > " + thirdInt, "done", 4);
+				}
+				else if (secondInt > thirdInt){
+					ShowResult(secondInt + " > " + thirdInt + " > " + firstInt, "done", 4);
+				}
+				else {
+					ShowResult(thirdInt + " > " + secondInt + " > " + firstInt, "done", 4);
+				}
+			}
+		}
+		function DoTask5()
+		{
+			var digit = document.getElementById("input5").value;
+
+			if (isNaN(parseFloat(digit)) ||
+				digit.length != 1) {
+
+				ThrowError(5);
+				return;
+			}
+			digit = parseInt(digit);
+
+			switch (digit)
+			{
+				case 1: ShowResult("One", "done", 5); break;
+				case 2: ShowResult("Two", "done", 5); break;
+				case 3: ShowResult("Three", "done", 5); break;
+				case 4: ShowResult("Four", "done", 5); break;
+				case 5: ShowResult("Five", "done", 5); break;
+				case 6: ShowResult("Six", "done", 5); break;
+				case 7: ShowResult("Seven", "done", 5); break;
+				case 8: ShowResult("Eight", "done", 5); break;
+				case 9: ShowResult("Nine", "done", 5); break;
+				case 0: ShowResult("Zero", "done", 5); break;
+				default: ShowResult("Unknown", "error", 5); break;
+			}
+		}
+		function DoTask6()
+		{
+			var firstInt = document.getElementById("input6-1").value;
+			var secondInt = document.getElementById("input6-2").value;
+			var thirdInt = document.getElementById("input6-3").value;
+
+			if (isNaN(parseFloat(firstInt)) ||
+				isNaN(parseFloat(secondInt)) ||
+				isNaN(parseFloat(thirdInt))) {
+
+				ThrowError(6);
+				return;
+			}
+
+			firstInt = parseFloat(firstInt);
+			secondInt = parseFloat(secondInt);
+			thirdInt = parseFloat(thirdInt);
+
+			var valueD = secondInt * secondInt - 4 * firstInt * thirdInt;
+
+			if (valueD < 0) {
+				ShowResult("No roots", "done", 6)
+			}
+			else if (valueD == 0) {
+				var root = ( -secondInt ) / (2 * firstInt);
+				ShowResult("X=" + root, "done", 6)
+			}
+			else {
+				var root1 = (( -secondInt ) - Math.sqrt(valueD)) / (2 * firstInt);
+				var root2 = (( -secondInt ) + Math.sqrt(valueD)) / (2 * firstInt);
+				ShowResult("X1=" + root1 + "<br />" + "X2=" + root2, "done", 6)
+			}
+		}
+		function DoTask7()
+		{
+			var arrayOfNums = new Array();
+
+			for (var i = 0; i < 5; i++) {
+				
+				arrayOfNums[i] = document.getElementById("input7-" + (i+1)).value;
+				if (isNaN(parseFloat(arrayOfNums[i]))) {
+					ThrowError(7);
+					return;
+				}
+				arrayOfNums[i] = parseFloat(arrayOfNums[i]);
+			}
+			alert(arrayOfNums);
+
+			var max = arrayOfNums[arrayOfNums.length-1];
+
+			for (var i = arrayOfNums.length - 2; i >= 0; i--) {
+				if (max < arrayOfNums[i]) {
+					max = arrayOfNums[i];
+				}
+			}
+
+			ShowResult("Max : " + max, "done", 7);
+		}
+		function DoTask8()
+		{
+			var number = document.getElementById("input8").value;
+
+			if (isNaN(parseInt(number))) {
+
+				ThrowError(8);
+				return;
+			}
+
+			number = parseInt(number);
+
+			if (number < 0 || number > 999) {
+
+				ThrowError(8);
+				return;
+			}
+
+			var result = "";
+
+			if (number > 100) {
+				switch (Math.floor(number / 100)) {
+					case 1: result += "one hundred"; break;
+					case 2: result += "two hundred"; break;
+					case 3: result += "three hundred"; break;
+					case 4: result += "four hundred"; break;
+					case 5: result += "five hundred"; break;
+					case 6: result += "six hundred"; break;
+					case 7: result += "seven hundred"; break;
+					case 8: result += "eight hundred"; break;
+					case 9: result += "nine hundred"; break;
+					default: break;
+				}
+				if (number % 100 != 0) {
+					result += " and ";
+				}
+			}
+			if (number % 100 > 10) {
+
+				if (number % 100 < 20) {
+
+					switch (number % 100) {
+						case 11: result += "eleven"; break;
+						case 12: result += "twelve"; break;
+						case 13: result += "thirteen"; break;
+						case 14: result += "fourteen"; break;
+						case 15: result += "fifteen"; break;
+						case 16: result += "sixteen"; break;
+						case 17: result += "seventeen"; break;
+						case 18: result += "eighteen"; break;
+						case 19: result += "nineteen"; break;
+						default: break;
+					}
+				}
+				else {
+
+					switch (Math.floor((number % 100) / 10)) {
+						case 2: result += "twenty"; break;
+						case 3: result += "thirty"; break;
+						case 4: result += "fourty"; break;
+						case 5: result += "fifty"; break;
+						case 6: result += "sixty"; break;
+						case 7: result += "seventy"; break;
+						case 8: result += "eighty"; break;
+						case 9: result += "ninety"; break;
+						default: break;
+					}
+
+					if (((number % 100) % 10) != 0) {
+
+						result += " ";
+					}
+				}
+
+				if (number % 100 > 20 ||
+					number % 100 < 10) {
+
+					switch ((number % 100) % 10) {
+						case 1: result += "one"; break;
+						case 2: result += "two"; break;
+						case 3: result += "three"; break;
+						case 4: result += "four"; break;
+						case 5: result += "five"; break;
+						case 6: result += "six"; break;
+						case 7: result += "seven"; break;
+						case 8: result += "eight"; break;
+						case 9: result += "nine"; break;
+						default: break;
+					}
+				}
+				
+				ShowResult(result, "done", 8);
+			}
+		}
+    </script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+				<input placeholder="number 1" id="input1-1">
+				<input placeholder="number 2" id="input1-2">
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements</p>
+				<input placeholder="number 1" id="input2-1">
+				<input placeholder="number 2" id="input2-2">
+				<input placeholder="number 3" id="input2-3">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Write a script that finds the biggest of three integers using nested if statements</p>
+				<input placeholder="number 1" id="input3-1">
+				<input placeholder="number 2" id="input3-2">
+				<input placeholder="number 3" id="input3-3">
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>Sort 3 real values in descending order using nested if statements</p>
+				<input placeholder="number 1" id="input4-1">
+				<input placeholder="number 2" id="input4-2">
+				<input placeholder="number 3" id="input4-3">
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 5</h2></header>
+				<p>Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement</p>
+				<input placeholder="digit" id="input5">
+				<button onclick="HandleClicks(5)">Do it!</button>
+		    </div>
+			<div id="result5" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 6</h2></header>
+				<p>Write a script that enters the coefficients a, b and c of a quadratic equation</p>
+				<p>a*x2 + b*x + c = 0</p>
+				<p>and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.</p>
+				<input placeholder="number A" id="input6-1">
+				<input placeholder="number B" id="input6-2">
+				<input placeholder="number C" id="input6-3">
+				<button onclick="HandleClicks(6)">Do it!</button>
+		    </div>
+			<div id="result6" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 7</h2></header>
+				<p>Write a script that finds the greatest of given 5 variables</p>
+				<input placeholder="number 1" id="input7-1">
+				<input placeholder="number 2" id="input7-2">
+				<input placeholder="number 3" id="input7-3">
+				<input placeholder="number 4" id="input7-4">
+				<input placeholder="number 5" id="input7-5">
+				<button onclick="HandleClicks(7)">Do it!</button>
+		    </div>
+			<div id="result7" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 8</h2></header>
+				<p>Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. Example: 711 => "Seven hundred and eleven"</p>
+				<input placeholder="number" id="input8">
+				<button onclick="HandleClicks(8)">Do it!</button>
+		    </div>
+			<div id="result8" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

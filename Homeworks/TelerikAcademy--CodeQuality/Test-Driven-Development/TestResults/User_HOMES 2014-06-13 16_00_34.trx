@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6c3e0f10-a653-48d6-8727-3607360392e4" name="User@HOMES 2014-06-13 16:00:34" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bc564bda-2a21-4db9-b62c-2de7eaeb2f4a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 16_00_34">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\bin\Debug\Poker.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T16:00:34.6406250+03:00" queuing="2014-06-13T16:00:34.7031250+03:00" start="2014-06-13T16:00:34.7500000+03:00" finish="2014-06-13T16:00:35.5937500+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="16" executed="16" passed="7" error="0" failed="9" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckerShouldRecognizeFullHouseCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="b60e1417-e09d-f531-99fc-67166c972c0d">
+      <Execution id="e7bd0f4f-bc24-4501-a88d-cb41c2f74b84" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFullHouseCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeFourOfAKindCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="e1d93606-d25f-b828-2773-66d137665ad3">
+      <Execution id="3f6e6fc9-4629-4920-84dd-3fec156d6d8c" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFourOfAKindCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeFlushCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="3e912461-f5ec-bef4-5b86-99ea01e7a0d5">
+      <Execution id="9a6a48e9-cd92-4cbd-97a6-55a95753f09d" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFlushCombination" />
+    </UnitTest>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="c0f58013-8c25-16a0-2f3d-a1ac38180f23">
+      <Execution id="27f43705-7582-47a3-b53b-60d6a8b4ec82" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeThreeOfAKindCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a064e2cd-62cd-9c75-5377-757ceb888ef0">
+      <Execution id="96fc2c81-a5d9-41f4-bb7c-4cf800c43760" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeThreeOfAKindCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeStraightFlushCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="617d82f4-8c08-7f85-04fa-3dea7d6d3d59">
+      <Execution id="575e1f4c-4333-46fa-b53c-52d832eeb689" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeStraightFlushCombination" />
+    </UnitTest>
+    <UnitTest name="HandShouldNotHaveMoreThanFiveCards" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="4a5b6ae3-bb10-501e-24b2-f970155da52b">
+      <Execution id="0db55c8c-0782-4c7c-a395-5d8b0f3c7678" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandShouldNotHaveMoreThanFiveCards" />
+    </UnitTest>
+    <UnitTest name="HandWithZeroCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436">
+      <Execution id="f9ce30b1-a9c9-41ef-a636-2e9cc947fa05" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithZeroCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeOnePairCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="d0191123-0ee8-75a6-bf14-a847dc71a3c0">
+      <Execution id="4c464456-389f-4409-b558-329eaaefb6e8" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeOnePairCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeHighCardCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="caef306e-aa60-78e9-11ed-889a0ac8c73c">
+      <Execution id="8b63f357-1433-41cf-a793-bc829dc209cd" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeHighCardCombination" />
+    </UnitTest>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="befe51af-2857-c06a-6449-1b0d2cdf2061">
+      <Execution id="e91807bc-55e0-410a-b0e0-ddc59ae5ebbe" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+    <UnitTest name="HandWithRepeatingCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="83b8f170-80e4-0b29-09e5-64b876ffbc9c">
+      <Execution id="de67865b-ea5c-48db-aad5-b46787ba5a79" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithRepeatingCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082">
+      <Execution id="c891ecc7-ac93-43bc-b39e-e5ada58f6d9a" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="8fda5f33-a9b9-5a41-07dc-a2f25844e49c">
+      <Execution id="4180c586-2e74-4242-b331-269d1da6e0ea" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeTwoPairCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="96852268-b311-2b16-1fdd-8f23fa73e18e">
+      <Execution id="e42264d8-cb2b-440b-8f12-f4fa1abda67b" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeTwoPairCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeStraightCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a5ae1f90-0dad-63ce-1c82-89adf313a505">
+      <Execution id="10d63869-8331-463d-9ed0-be4d946e18a5" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeStraightCombination" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3e912461-f5ec-bef4-5b86-99ea01e7a0d5" executionId="9a6a48e9-cd92-4cbd-97a6-55a95753f09d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" executionId="0db55c8c-0782-4c7c-a395-5d8b0f3c7678" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" executionId="c891ecc7-ac93-43bc-b39e-e5ada58f6d9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="617d82f4-8c08-7f85-04fa-3dea7d6d3d59" executionId="575e1f4c-4333-46fa-b53c-52d832eeb689" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" executionId="de67865b-ea5c-48db-aad5-b46787ba5a79" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" executionId="4180c586-2e74-4242-b331-269d1da6e0ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96852268-b311-2b16-1fdd-8f23fa73e18e" executionId="e42264d8-cb2b-440b-8f12-f4fa1abda67b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a064e2cd-62cd-9c75-5377-757ceb888ef0" executionId="96fc2c81-a5d9-41f4-bb7c-4cf800c43760" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5ae1f90-0dad-63ce-1c82-89adf313a505" executionId="10d63869-8331-463d-9ed0-be4d946e18a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" executionId="f9ce30b1-a9c9-41ef-a636-2e9cc947fa05" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b60e1417-e09d-f531-99fc-67166c972c0d" executionId="e7bd0f4f-bc24-4501-a88d-cb41c2f74b84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="befe51af-2857-c06a-6449-1b0d2cdf2061" executionId="e91807bc-55e0-410a-b0e0-ddc59ae5ebbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" executionId="27f43705-7582-47a3-b53b-60d6a8b4ec82" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="caef306e-aa60-78e9-11ed-889a0ac8c73c" executionId="8b63f357-1433-41cf-a793-bc829dc209cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0191123-0ee8-75a6-bf14-a847dc71a3c0" executionId="4c464456-389f-4409-b558-329eaaefb6e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1d93606-d25f-b828-2773-66d137665ad3" executionId="3f6e6fc9-4629-4920-84dd-3fec156d6d8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9a6a48e9-cd92-4cbd-97a6-55a95753f09d" testId="3e912461-f5ec-bef4-5b86-99ea01e7a0d5" testName="CheckerShouldRecognizeFlushCombination" computerName="HOMES" duration="00:00:00.1152177" startTime="2014-06-13T16:00:34.7968750+03:00" endTime="2014-06-13T16:00:35.2812500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a6a48e9-cd92-4cbd-97a6-55a95753f09d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeFlushCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsFlush(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 50
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeFlushCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 111
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0db55c8c-0782-4c7c-a395-5d8b0f3c7678" testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" testName="HandShouldNotHaveMoreThanFiveCards" computerName="HOMES" duration="00:00:00.0022597" startTime="2014-06-13T16:00:35.2968750+03:00" endTime="2014-06-13T16:00:35.3125000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0db55c8c-0782-4c7c-a395-5d8b0f3c7678">
+    </UnitTestResult>
+    <UnitTestResult executionId="c891ecc7-ac93-43bc-b39e-e5ada58f6d9a" testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" testName="CardToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0009962" startTime="2014-06-13T16:00:35.3125000+03:00" endTime="2014-06-13T16:00:35.3281250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c891ecc7-ac93-43bc-b39e-e5ada58f6d9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="575e1f4c-4333-46fa-b53c-52d832eeb689" testId="617d82f4-8c08-7f85-04fa-3dea7d6d3d59" testName="CheckerShouldRecognizeStraightFlushCombination" computerName="HOMES" duration="00:00:00.0030280" startTime="2014-06-13T16:00:35.3281250+03:00" endTime="2014-06-13T16:00:35.3437500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="575e1f4c-4333-46fa-b53c-52d832eeb689">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeStraightFlushCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsStraightFlush(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 35
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeStraightFlushCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 159
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="de67865b-ea5c-48db-aad5-b46787ba5a79" testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" testName="HandWithRepeatingCardsShouldNotBeValid" computerName="HOMES" duration="00:00:00.0005721" startTime="2014-06-13T16:00:35.3437500+03:00" endTime="2014-06-13T16:00:35.3593750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de67865b-ea5c-48db-aad5-b46787ba5a79">
+    </UnitTestResult>
+    <UnitTestResult executionId="4180c586-2e74-4242-b331-269d1da6e0ea" testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" testName="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" duration="00:00:00.0004771" startTime="2014-06-13T16:00:35.3593750+03:00" endTime="2014-06-13T16:00:35.3750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4180c586-2e74-4242-b331-269d1da6e0ea">
+    </UnitTestResult>
+    <UnitTestResult executionId="e42264d8-cb2b-440b-8f12-f4fa1abda67b" testId="96852268-b311-2b16-1fdd-8f23fa73e18e" testName="CheckerShouldRecognizeTwoPairCombination" computerName="HOMES" duration="00:00:00.0028179" startTime="2014-06-13T16:00:35.3750000+03:00" endTime="2014-06-13T16:00:35.3906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e42264d8-cb2b-440b-8f12-f4fa1abda67b">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeTwoPairCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsTwoPair(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 65
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeTwoPairCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 63
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="96fc2c81-a5d9-41f4-bb7c-4cf800c43760" testId="a064e2cd-62cd-9c75-5377-757ceb888ef0" testName="CheckerShouldRecognizeThreeOfAKindCombination" computerName="HOMES" duration="00:00:00.0073833" startTime="2014-06-13T16:00:35.3906250+03:00" endTime="2014-06-13T16:00:35.4062500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96fc2c81-a5d9-41f4-bb7c-4cf800c43760">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeThreeOfAKindCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsThreeOfAKind(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 60
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeThreeOfAKindCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="10d63869-8331-463d-9ed0-be4d946e18a5" testId="a5ae1f90-0dad-63ce-1c82-89adf313a505" testName="CheckerShouldRecognizeStraightCombination" computerName="HOMES" duration="00:00:00.0031124" startTime="2014-06-13T16:00:35.4062500+03:00" endTime="2014-06-13T16:00:35.4218750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10d63869-8331-463d-9ed0-be4d946e18a5">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeStraightCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsStraight(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 55
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeStraightCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 95
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f9ce30b1-a9c9-41ef-a636-2e9cc947fa05" testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" testName="HandWithZeroCardsShouldNotBeValid" computerName="HOMES" duration="00:00:00.0003986" startTime="2014-06-13T16:00:35.4218750+03:00" endTime="2014-06-13T16:00:35.4375000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f9ce30b1-a9c9-41ef-a636-2e9cc947fa05">
+    </UnitTestResult>
+    <UnitTestResult executionId="e7bd0f4f-bc24-4501-a88d-cb41c2f74b84" testId="b60e1417-e09d-f531-99fc-67166c972c0d" testName="CheckerShouldRecognizeFullHouseCombination" computerName="HOMES" duration="00:00:00.0030531" startTime="2014-06-13T16:00:35.4375000+03:00" endTime="2014-06-13T16:00:35.4687500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7bd0f4f-bc24-4501-a88d-cb41c2f74b84">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeFullHouseCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsFullHouse(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 45
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeFullHouseCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 127
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e91807bc-55e0-410a-b0e0-ddc59ae5ebbe" testId="befe51af-2857-c06a-6449-1b0d2cdf2061" testName="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" duration="00:00:00.0031434" startTime="2014-06-13T16:00:35.4687500+03:00" endTime="2014-06-13T16:00:35.4843750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e91807bc-55e0-410a-b0e0-ddc59ae5ebbe">
+    </UnitTestResult>
+    <UnitTestResult executionId="27f43705-7582-47a3-b53b-60d6a8b4ec82" testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" testName="HandToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0005858" startTime="2014-06-13T16:00:35.4843750+03:00" endTime="2014-06-13T16:00:35.5000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27f43705-7582-47a3-b53b-60d6a8b4ec82">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b63f357-1433-41cf-a793-bc829dc209cd" testId="caef306e-aa60-78e9-11ed-889a0ac8c73c" testName="CheckerShouldRecognizeHighCardCombination" computerName="HOMES" duration="00:00:00.0030635" startTime="2014-06-13T16:00:35.5000000+03:00" endTime="2014-06-13T16:00:35.5312500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b63f357-1433-41cf-a793-bc829dc209cd">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeHighCardCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsHighCard(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 75
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeHighCardCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4c464456-389f-4409-b558-329eaaefb6e8" testId="d0191123-0ee8-75a6-bf14-a847dc71a3c0" testName="CheckerShouldRecognizeOnePairCombination" computerName="HOMES" duration="00:00:00.0027397" startTime="2014-06-13T16:00:35.5312500+03:00" endTime="2014-06-13T16:00:35.5468750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c464456-389f-4409-b558-329eaaefb6e8">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeOnePairCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsOnePair(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 70
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeOnePairCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 48
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3f6e6fc9-4629-4920-84dd-3fec156d6d8c" testId="e1d93606-d25f-b828-2773-66d137665ad3" testName="CheckerShouldRecognizeFourOfAKindCombination" computerName="HOMES" duration="00:00:00.0034079" startTime="2014-06-13T16:00:35.5468750+03:00" endTime="2014-06-13T16:00:35.5625000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f6e6fc9-4629-4920-84dd-3fec156d6d8c">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Poker.Tests.CombinationsTests.CheckerShouldRecognizeFourOfAKindCombination threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at Poker.PokerHandsChecker.IsFourOfAKind(IHand hand) in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\PokerHandsChecker.cs:line 40
+   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeFourOfAKindCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 143
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

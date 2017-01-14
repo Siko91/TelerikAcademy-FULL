@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\Task9OrderAddingWithTransaction.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\Task9OrderAddingWithTransaction.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\Task9OrderAddingWithTransaction.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\obj\Debug\Task9OrderAddingWithTransaction.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\obj\Debug\Task9OrderAddingWithTransaction.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task9OrderAddingWithTransaction\obj\Debug\Task9OrderAddingWithTransaction.csprojResolveAssemblyReference.cache

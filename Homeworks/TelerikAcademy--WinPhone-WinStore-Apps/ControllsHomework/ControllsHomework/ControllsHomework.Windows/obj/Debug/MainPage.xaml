@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="ControllsHomework.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ControllsHomework"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Vertical">
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock Name="task1" Text="------------- Task 1 -------------" />
+                <TextBox Name="task1Text" Text="Lorem ipsum blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah" />
+                <TextBlock Name="task1Info" Text="{Binding ElementName=task1Text, Path=SelectedText}"></TextBlock>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock Name="task2" Text="------------- Task 2 -------------" />
+                <Button x:ConnectionId='1' Name="task2Btn"                       ></Button>
+                <TextBlock Name="task2Text"></TextBlock>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock Name="task3" Text="------------- Task 3 -------------" />
+                <ComboBox>
+                    <TextBox Name="task3item1" Text="-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A" />
+                    <Canvas>
+                        <Rectangle Height="20" Width="100" Fill="Aqua" />
+                        <Ellipse Height="20" Width="80" Fill="Honeydew" />
+                    </Canvas>
+                </ComboBox>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Page>
+

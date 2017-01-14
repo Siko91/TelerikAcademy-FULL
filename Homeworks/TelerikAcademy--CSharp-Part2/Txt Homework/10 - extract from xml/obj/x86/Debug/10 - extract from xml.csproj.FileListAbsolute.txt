@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\10 - extract from xml\bin\Debug\10 - extract from xml.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\10 - extract from xml\bin\Debug\10 - extract from xml.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\10 - extract from xml\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\10 - extract from xml\obj\x86\Debug\10 - extract from xml.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\10 - extract from xml\obj\x86\Debug\10 - extract from xml.pdb

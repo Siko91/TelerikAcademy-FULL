@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>Homework 7 - Task 3</title>
+</head>
+<body>
+
+<label> Enter numbers seperated with comas "," : </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click to scan!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a script that finds the maximal sequence of equal elements in an array.
+        Example: {2, 1, 1, 2, 3, 3, [ 2, 2, 2 ] , 1}  {2, 2, 2}. */
+
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+        seperator = ",";
+        var Arr = document.getElementById("Input").value;
+        Arr = Arr.split(seperator);
+
+        var count = new Array(Arr.length);
+        var element;
+        var position;
+        var length;
+
+            for (var i = count.length - 1; i >= 0; i--)
+            {
+                count[i] = 0;
+            };
+
+            for (var i = 0; i < Arr.length; )
+            {
+                if (Arr[i] == Arr[i+1])
+                {
+                    count[i] += 2;
+
+                    for (var y = i + 2; ; y++)
+                    {
+                        if (Arr[i] == Arr[y])
+                        {
+                            count[i] += 1;
+                        }
+                        else
+                        {
+                            i += count[i]
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    i++
+                }
+            }
+            
+            console.log(Arr.join(" - "));
+            console.log(count.join(" - "));
+
+            position = count.indexOf(Math.max.apply(Math, count));
+            element = Arr[position];
+            length = count[position];
+            console.log("element: " + element);
+            console.log("position: " + position);
+            console.log("length: " + length);
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

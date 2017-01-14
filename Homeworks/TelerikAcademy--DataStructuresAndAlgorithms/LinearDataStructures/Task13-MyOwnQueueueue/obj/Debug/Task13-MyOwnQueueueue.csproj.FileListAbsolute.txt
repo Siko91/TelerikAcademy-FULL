@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\bin\Debug\Task13-MyOwnQueueueue.exe.config
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\bin\Debug\Task13-MyOwnQueueueue.exe
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\bin\Debug\Task13-MyOwnQueueueue.pdb
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\obj\Debug\Task13-MyOwnQueueueue.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\obj\Debug\Task13-MyOwnQueueueue.exe
+D:\Git\algo\LinearDataStructures\Task13-MyOwnQueueueue\obj\Debug\Task13-MyOwnQueueueue.pdb

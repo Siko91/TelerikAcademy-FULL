@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TeamworkBlackDragonModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TeamworkBlackDragonModelStoreContainer">
+    <EntitySet Name="Clients" EntityType="TeamworkBlackDragonModel.Store.Clients" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Jobs" EntityType="TeamworkBlackDragonModel.Store.Jobs" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Ninjas" EntityType="TeamworkBlackDragonModel.Store.Ninjas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Speciality" EntityType="TeamworkBlackDragonModel.Store.Speciality" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Jobs_Clients" Association="TeamworkBlackDragonModel.Store.FK_Jobs_Clients">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Jobs" EntitySet="Jobs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Jobs_Ninjas" Association="TeamworkBlackDragonModel.Store.FK_Jobs_Ninjas">
+      <End Role="Ninjas" EntitySet="Ninjas" />
+      <End Role="Jobs" EntitySet="Jobs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ninjas_Speciality1" Association="TeamworkBlackDragonModel.Store.FK_Ninjas_Speciality1">
+      <End Role="Speciality" EntitySet="Speciality" />
+      <End Role="Ninjas" EntitySet="Ninjas" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Jobs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ClientId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="text" />
+    <Property Name="Price" Type="money" Nullable="false" />
+    <Property Name="NinjaId" Type="int" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" Nullable="false" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="IsSuccessfull" Type="bit" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ninjas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="KillCount" Type="int" Nullable="false" />
+    <Property Name="WeaponOfChoice" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+    <Property Name="SpecialityId" Type="int" Nullable="false" />
+    <Property Name="MinimalPersonalPrice" Type="money" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Speciality">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="MinimalCompanyPrice" Type="money" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Jobs_Clients">
+    <End Role="Clients" Type="TeamworkBlackDragonModel.Store.Clients" Multiplicity="1" />
+    <End Role="Jobs" Type="TeamworkBlackDragonModel.Store.Jobs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Jobs">
+        <PropertyRef Name="ClientId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Jobs_Ninjas">
+    <End Role="Ninjas" Type="TeamworkBlackDragonModel.Store.Ninjas" Multiplicity="1" />
+    <End Role="Jobs" Type="TeamworkBlackDragonModel.Store.Jobs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ninjas">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Jobs">
+        <PropertyRef Name="NinjaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ninjas_Speciality1">
+    <End Role="Speciality" Type="TeamworkBlackDragonModel.Store.Speciality" Multiplicity="1" />
+    <End Role="Ninjas" Type="TeamworkBlackDragonModel.Store.Ninjas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Speciality">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ninjas">
+        <PropertyRef Name="SpecialityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

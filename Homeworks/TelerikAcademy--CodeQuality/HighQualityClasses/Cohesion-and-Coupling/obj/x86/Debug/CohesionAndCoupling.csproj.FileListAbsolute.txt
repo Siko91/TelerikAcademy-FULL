@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Cohesion-and-Coupling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Cohesion-and-Coupling\obj\x86\Debug\Cohesion-and-Coupling.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Cohesion-and-Coupling\obj\x86\Debug\Cohesion-and-Coupling.pdb

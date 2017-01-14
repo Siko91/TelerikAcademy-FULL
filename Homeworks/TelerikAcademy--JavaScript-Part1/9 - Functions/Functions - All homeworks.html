@@ -1,0 +1,307 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	<style type="text/css">
+		#wrapper {
+			background: #aae;
+			padding: 15px;
+		}
+		#wrapper .task {
+			border: 1px solid black;
+			background: #fff;
+			padding: 5px;
+			text-align: center;
+		}
+		#wrapper .task label{
+			color: #CF8600;
+		}
+		#wrapper .task input{
+			display: block;
+			margin: 1px;
+		}
+		#wrapper .task div {
+			display: inline-block;
+			width: 45%;
+			text-align: left;
+		}
+		#wrapper .task div:last-child {
+			min-height: 40px;
+			color: black;
+			font-size: 24px;
+			background: none;
+			text-align: center;
+			padding: 5px;
+
+			overflow: auto;
+			max-height: 500px;
+		}
+		#wrapper .task div.done {
+			border: 1px solid black;
+			background: #5e5;
+		}
+		#wrapper .task div.error {
+			border: 1px solid black;
+			background: #f00;
+		} </style>
+
+	<script type="text/javascript">
+		function ShowResult(result, resultDivClass, taskNumber)
+		{
+		    document.getElementById("result" + taskNumber).className = resultDivClass;
+		    document.getElementById("result" + taskNumber).innerHTML = result;
+		}
+
+		function ThrowError(taskNumber)
+		{
+			ShowResult("Error", "error", taskNumber);
+		}
+
+		function HandleClicks(taskNumber)
+		{
+		    switch (taskNumber) {
+		        case 1: DoTask1(); break;
+		        case 2: DoTask2(); break;
+		        case 3: DoTask3(); break;
+		        case 4: DoTask4(); break;
+		        case 5: DoTask5(); TestTask5(); break;
+		        case 6: DoTask6(); break;
+		        case 7: DoTask7(); break;
+		        default: break;
+		    }
+		}
+
+		function DoTask1()
+		{
+			var input = document.getElementById("input1").value;
+
+			switch (input[input.length-1]) {
+				case "1": ShowResult("one", "done", 1); break;
+				case "2": ShowResult("two", "done", 1); break;
+				case "3": ShowResult("three", "done", 1); break;
+				case "4": ShowResult("four", "done", 1); break;
+				case "5": ShowResult("five", "done", 1); break;
+				case "6": ShowResult("six", "done", 1); break;
+				case "7": ShowResult("seven", "done", 1); break;
+				case "8": ShowResult("eight", "done", 1); break;
+				case "9": ShowResult("nine", "done", 1); break;
+				case "0": ShowResult("zero", "done", 1); break;
+				default: ThrowError(1);
+			}
+		}
+		function DoTask2()
+		{
+			var input = document.getElementById("input2").value.split("");
+			var reversed = "";
+
+			for (var i = input.length - 1; i >= 0; i--) {
+				reversed += input[i];
+			}
+
+			ShowResult(reversed, "done", 2);
+		}
+		function DoTask3()
+		{
+			var text = document.getElementById("input3-1").value;
+			var keyWord = document.getElementById("input3-2").value;
+			var caseSensitive = document.getElementById("input3-3").checked;
+
+			// I could do it right hire and now, but I need to show some fake overloading, so...
+			DoFakeOverloading(text, keyWord, caseSensitive, 3);
+		}
+
+		function DoFakeOverloading(text, keyWord, caseSensitive, taskNumber)
+		{
+			switch (caseSensitive) {
+				case true: caseSensitiveSearch(text, keyWord, taskNumber); break;
+				case false: caseInsensitiveSearch(text, keyWord, taskNumber); break;
+				default: break; // no need for defoult, but I'll put it anyway
+			}
+		}
+		function caseSensitiveSearch(text, keyWord, taskNumber)
+		{
+			var reg = new RegExp(keyWord,"g");
+			var result = text.match(reg);
+			ShowResult(result.join(), "done", taskNumber);
+		}
+		function caseInsensitiveSearch(text, keyWord, taskNumber)
+		{
+			var reg = new RegExp(keyWord,"gi");
+			var result = text.match(reg);
+			ShowResult(result.join(), "done", taskNumber);
+		}
+
+		function DoTask4()
+		{
+			var elements = document.getElementsByTagName('div');
+			ShowResult("there are " + elements.length + " divs", "done", 4);
+		}
+		function DoTask5()
+		{
+			var number = document.getElementById("input5-1").value;
+			var arrayOfNums = document.getElementById("input5-2").value.split(",");
+
+			var count = countAppearences(number, arrayOfNums);
+			ShowResult(count + " appearences","done",5);
+		}
+		function countAppearences(number, arrayOfNums)
+		{
+			var result = arrayOfNums.filter(function(n){ return n == number });
+			return result.length;
+		}
+		function TestTask5()
+		{
+			var arrayOfWords = new Array();
+			var expectedResult = 50;
+			var word = "blah";
+			var anotherWord = "halb";
+			for (var i = 0; i < expectedResult; i++) {
+				arrayOfWords.push(word);
+				if (i%5==0) {
+					arrayOfWords.push(anotherWord);
+				}
+			}
+			var result =  countAppearences(word, arrayOfWords);
+			if (expectedResult == result) {
+				alert("test passed");
+			}
+			else {
+				alert("test failed");
+			}
+		}
+		function DoTask6()
+		{
+			var position = document.getElementById("input6-1").value;
+			var arrayOfNums = document.getElementById("input6-2").value.split(",");
+			position = parseInt(position);
+			if (isNaN(position)) {
+				ThrowError(6);
+				return;
+			}
+			for (var i = arrayOfNums.length - 1; i >= 0; i--) {
+				arrayOfNums[i] = parseInt(arrayOfNums[i]);
+				if (isNaN(arrayOfNums[i])) {
+					ThrowError(6);
+					return;
+				}
+			}
+			var numIsBigerThanNeighbours = checkIfElementIsBigerThanNeighbours(position, arrayOfNums);
+
+			var result = "The element is" + (numIsBigerThanNeighbours? " ":" NOT ") + "biger than it's neighbours";
+			ShowResult(result, "done", 6);
+		}
+		function checkIfElementIsBigerThanNeighbours(position, arrayOfNums)
+		{
+			var result = true;
+			if (position > 0) {
+				if (arrayOfNums[position-1] >= arrayOfNums[position]) {
+					result = false;
+				}
+			}
+			if (position < arrayOfNums.length-1) {
+				if (arrayOfNums[position+1] >= arrayOfNums[position]) {
+					result = false;
+				}
+			}
+			return result;
+		}
+		function DoTask7()
+		{
+			var arrayOfNums = document.getElementById("input7").value.split(",");
+			for (var i = arrayOfNums.length - 1; i >= 0; i--) {
+				arrayOfNums[i] = parseInt(arrayOfNums[i]);
+				if (isNaN(arrayOfNums[i])) {
+					ThrowError(6);
+					return;
+				}
+			}
+			var index = -1;
+			for (var i = 0; i < arrayOfNums.length; i++) {
+				if (checkIfElementIsBigerThanNeighbours(i, arrayOfNums)) {
+					index = i;
+					break;
+				}
+			}
+			ShowResult("Index: " + index, "done", 7);
+		}
+
+    </script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Write a function that returns the last digit of given integer as an English word. Examples: 512  "two", 1024  "four", 12309  "nine"</p>
+				<input id="input1">
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Write a function that reverses the digits of given decimal number. Example: 256  652</p>
+				<input id="input2">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Write a function that finds all the occurrences of word in a text</p>
+				<p>The search can case sensitive or case insensitive</p>
+				<p>Use function overloading</p>
+				<input placeholder="text" id="input3-1">
+				<input placeholder="word" id="input3-2">
+				<label for="input3-3">Case sensitive?</label>
+				<input type="checkbox" id="input3-3">
+				<br />
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>Write a function to count the number of divs on the web page</p>
+				<p>Every task on the page has 3 divs. There are 7 tasks. There is also a wrapper div. That should make a total of 22 div's.</p>
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 5</h2></header>
+				<p>Write a function that counts how many times given number appears in given array. Write a test function to check if the function is working correctly</p>
+				<input placeholder="number" id="input5-1">
+				<input placeholder="1,2,3,4...." id="input5-2">
+				<button onclick="HandleClicks(5)">Do it!</button>
+		    </div>
+			<div id="result5" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 6</h2></header>
+				<p>Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).</p>
+				<input placeholder="position" id="input6-1">
+				<input placeholder="1,2,3,4...." id="input6-2">
+				<button onclick="HandleClicks(6)">Do it!</button>
+		    </div>
+			<div id="result6" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 7</h2></header>
+				<p>Write a function that returns the index of the first element in array that is bigger than its neighbors, or -1, if there’s no such element</p>
+				<p>Use the function from the previous exercise</p>
+				<input placeholder="1,2,3,4...." id="input7">
+				<button onclick="HandleClicks(7)">Do it!</button>
+		    </div>
+			<div id="result7" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

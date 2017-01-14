@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimpleClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:SimpleClassLibrary.AdvansedCalculator">
+            <summary>
+            Calculator with advanced features
+            </summary>
+        </member>
+        <member name="T:SimpleClassLibrary.Calculator">
+            <summary>
+            A basic Calculator
+            </summary>
+        </member>
+        <member name="M:SimpleClassLibrary.Calculator.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds the specified numbers.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns>The sum.</returns>
+        </member>
+        <member name="M:SimpleClassLibrary.Calculator.Substract(System.Int32,System.Int32)">
+            <summary>
+            Substracts the specified numbers.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns>The result.</returns>
+        </member>
+        <member name="M:SimpleClassLibrary.Calculator.Devide(System.Int32,System.Int32)">
+            <summary>
+            Devides the specified numbers.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns>The result.</returns>
+        </member>
+        <member name="M:SimpleClassLibrary.Calculator.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplyes the specified numbers.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns>The result.</returns>
+        </member>
+        <member name="M:SimpleClassLibrary.AdvansedCalculator.LeftOverAfterDevide(System.Int32,System.Int32)">
+            <summary>
+            Returns the Leftover after devide.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleClassLibrary.AdvansedCalculator.Power(System.Int32,System.Int32)">
+            <summary>
+            Powers the specified number.
+            </summary>
+            <param name="first">The first number.</param>
+            <param name="second">The second number.</param>
+            <returns></returns>
+        </member>
+        <member name="T:SimpleClassLibrary.Human">
+            <summary>
+            A human.
+            </summary>
+        </member>
+        <member name="M:SimpleClassLibrary.Human.#ctor(System.String,System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SimpleClassLibrary.Human"/> class.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="age">The age.</param>
+        </member>
+        <member name="P:SimpleClassLibrary.Human.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+            <value>
+            The name.
+            </value>
+        </member>
+        <member name="P:SimpleClassLibrary.Human.Age">
+            <summary>
+            Gets or sets the age.
+            </summary>
+            <value>
+            The age.
+            </value>
+        </member>
+    </members>
+</doc>

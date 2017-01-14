@@ -1,0 +1,11 @@
+Departament has many employees
+employee has a departament
+
+employee has a manager
+Manager has many employees
+
+employee has many reports
+report has an employee
+
+Employee has many Projects
+Project has many employees

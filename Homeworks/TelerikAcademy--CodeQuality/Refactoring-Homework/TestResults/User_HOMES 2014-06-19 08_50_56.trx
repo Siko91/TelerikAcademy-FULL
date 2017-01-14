@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="32571305-7918-415e-b6e8-58c79a196a16" name="User@HOMES 2014-06-19 08:50:56" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04578d65-7d6f-4c57-b298-2b93f16ac298">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-19 08_50_56">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\bin\Debug\MatrixTraversing.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-19T08:50:56.2187500+03:00" queuing="2014-06-19T08:50:56.3437500+03:00" start="2014-06-19T08:50:56.3593750+03:00" finish="2014-06-19T08:50:57.0468750+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TheDiagonalLineShouldConsistOfIncreasingNumbers" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009">
+      <Execution id="1bca0fb7-3568-475c-bba5-a99e8bafd305" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TheDiagonalLineShouldConsistOfIncreasingNumbers" />
+    </UnitTest>
+    <UnitTest name="ThereShouldntBeTwoSameElementsInMatrix" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="8e04e09c-9133-53c0-e182-e4bdd6410fec">
+      <Execution id="249b8b2f-e7e0-4b8a-9f49-0107e9962fdd" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThereShouldntBeTwoSameElementsInMatrix" />
+    </UnitTest>
+    <UnitTest name="SmallMatrixShouldBeCorrect" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="3fc0259e-0c06-3f30-10a8-d831a3a7f598">
+      <Execution id="125f5176-6ba1-4745-98a3-09722b7b3805" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SmallMatrixShouldBeCorrect" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3fc0259e-0c06-3f30-10a8-d831a3a7f598" executionId="125f5176-6ba1-4745-98a3-09722b7b3805" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e04e09c-9133-53c0-e182-e4bdd6410fec" executionId="249b8b2f-e7e0-4b8a-9f49-0107e9962fdd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009" executionId="1bca0fb7-3568-475c-bba5-a99e8bafd305" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="125f5176-6ba1-4745-98a3-09722b7b3805" testId="3fc0259e-0c06-3f30-10a8-d831a3a7f598" testName="SmallMatrixShouldBeCorrect" computerName="HOMES" duration="00:00:00.2911604" startTime="2014-06-19T08:50:56.3750000+03:00" endTime="2014-06-19T08:50:57.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="125f5176-6ba1-4745-98a3-09722b7b3805">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;System.Int32[,]&gt;. Actual:&lt;System.Int32[,]&gt;. </Message>
+          <StackTrace>   at TestProject1.MatrixTraversingTest.SmallMatrixShouldBeCorrect() in D:\GitProjects\TelerikAcademy\Quality\TestProject1\MatrixTraversingTest.cs:line 39
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="249b8b2f-e7e0-4b8a-9f49-0107e9962fdd" testId="8e04e09c-9133-53c0-e182-e4bdd6410fec" testName="ThereShouldntBeTwoSameElementsInMatrix" computerName="HOMES" duration="00:00:00.0004349" startTime="2014-06-19T08:50:57.0000000+03:00" endTime="2014-06-19T08:50:57.0156250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="249b8b2f-e7e0-4b8a-9f49-0107e9962fdd">
+    </UnitTestResult>
+    <UnitTestResult executionId="1bca0fb7-3568-475c-bba5-a99e8bafd305" testId="8ed5fd4d-e2d3-52fa-7a5e-4b107f214009" testName="TheDiagonalLineShouldConsistOfIncreasingNumbers" computerName="HOMES" duration="00:00:00.0036504" startTime="2014-06-19T08:50:57.0156250+03:00" endTime="2014-06-19T08:50:57.0312500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1bca0fb7-3568-475c-bba5-a99e8bafd305">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,50 @@
+<div id="fpsradar-create-view" class="fpsradar-view" data-role="view" data-title="create" data-layout="create-options-layout" data-model="APP.models.create.game.gameOptions">
+    <div class="content-container">
+        <header>
+            <strong>Create a game</strong>
+        </header>
+        
+        <div>
+            <label class="label">
+                Refresh interval: 
+                <input type="number" data-bind="value: refreshInterval">
+                <span class="tooltip">The seconds between every position update. Set low if your internet connection is good, or high if it is bad.</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: showIdentity">
+                Show identity
+                <span class="tooltip">If true, the player names can be visible in the game</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: notifyOnDanger">
+                Danger notifications
+                <span class="tooltip">If true, the players will be warned when there are enemyes in radius of 10 meters</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: allowSignals">
+                Allow signals
+                <span class="tooltip">If true, the players will be able to recieve signals from other players</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: teamOnlySignals">
+                Team only signals
+                <span class="tooltip">If true, the player signals will be only visible within their team</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                Time limit: 
+                <input type="number" data-bind="value: timeLimit">
+                <span class="tooltip">The length of the game in hours (max 24).</span>
+            </label>
+        </div>
+    </div>
+</div>

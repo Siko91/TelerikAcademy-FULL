@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Student", "Task1Student\Task1Student.csproj", "{D3776006-53A6-49B7-8177-EA3A1B492819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4Person", "Task4Person\Task4Person.csproj", "{E61C11BE-7E12-47E9-9E70-4B4F53605A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5BitArray", "Task5BitArray\Task5BitArray.csproj", "{17C688F5-83E9-4528-9FF8-A8B9BF9EE006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6Tree(not finished)", "Task6Tree\Task6Tree(not finished).csproj", "{FE310B93-5594-410F-97DB-512B63B717CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3776006-53A6-49B7-8177-EA3A1B492819}.Debug|x86.ActiveCfg = Debug|x86
+		{D3776006-53A6-49B7-8177-EA3A1B492819}.Debug|x86.Build.0 = Debug|x86
+		{D3776006-53A6-49B7-8177-EA3A1B492819}.Release|x86.ActiveCfg = Release|x86
+		{D3776006-53A6-49B7-8177-EA3A1B492819}.Release|x86.Build.0 = Release|x86
+		{E61C11BE-7E12-47E9-9E70-4B4F53605A36}.Debug|x86.ActiveCfg = Debug|x86
+		{E61C11BE-7E12-47E9-9E70-4B4F53605A36}.Debug|x86.Build.0 = Debug|x86
+		{E61C11BE-7E12-47E9-9E70-4B4F53605A36}.Release|x86.ActiveCfg = Release|x86
+		{E61C11BE-7E12-47E9-9E70-4B4F53605A36}.Release|x86.Build.0 = Release|x86
+		{17C688F5-83E9-4528-9FF8-A8B9BF9EE006}.Debug|x86.ActiveCfg = Debug|x86
+		{17C688F5-83E9-4528-9FF8-A8B9BF9EE006}.Debug|x86.Build.0 = Debug|x86
+		{17C688F5-83E9-4528-9FF8-A8B9BF9EE006}.Release|x86.ActiveCfg = Release|x86
+		{17C688F5-83E9-4528-9FF8-A8B9BF9EE006}.Release|x86.Build.0 = Release|x86
+		{FE310B93-5594-410F-97DB-512B63B717CC}.Debug|x86.ActiveCfg = Debug|x86
+		{FE310B93-5594-410F-97DB-512B63B717CC}.Debug|x86.Build.0 = Debug|x86
+		{FE310B93-5594-410F-97DB-512B63B717CC}.Release|x86.ActiveCfg = Release|x86
+		{FE310B93-5594-410F-97DB-512B63B717CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

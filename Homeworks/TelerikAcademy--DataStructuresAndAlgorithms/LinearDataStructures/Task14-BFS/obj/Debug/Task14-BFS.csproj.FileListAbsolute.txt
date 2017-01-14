@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task14-BFS\bin\Debug\Task14-BFS.exe.config
+D:\Git\algo\LinearDataStructures\Task14-BFS\bin\Debug\Task14-BFS.exe
+D:\Git\algo\LinearDataStructures\Task14-BFS\bin\Debug\Task14-BFS.pdb
+D:\Git\algo\LinearDataStructures\Task14-BFS\obj\Debug\Task14-BFS.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task14-BFS\obj\Debug\Task14-BFS.exe
+D:\Git\algo\LinearDataStructures\Task14-BFS\obj\Debug\Task14-BFS.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0d3ecf1b-c297-4b69-938d-a29cbaba0edc" Title="SimpleClassLibrary" Url="html/43ddb798-6e6f-149f-5a39-c03249e8c521.htm">
+    <HelpTOCNode Id="b7171b9b-8a7f-4f57-9592-983e92ca1212" Title="AdvansedCalculator Class" Url="html/53bdc8a5-b4b6-ce9d-009c-6047c3b15465.htm">
+      <HelpTOCNode Title="AdvansedCalculator Constructor " Url="html/b4f6a946-cac7-7774-fd5d-99aa3e0c1a37.htm" />
+      <HelpTOCNode Id="45a40668-fc09-4def-8eeb-ebb7934f01b8" Title="AdvansedCalculator Methods" Url="html/8da2c416-b1ea-5c10-aef3-d92f6cdd5744.htm">
+        <HelpTOCNode Title="LeftOverAfterDevide Method " Url="html/b0511708-bb7d-96c2-f904-6587ff29a8f7.htm" />
+        <HelpTOCNode Title="Power Method " Url="html/ac13903c-4eae-098e-e4fa-a06e068ee4de.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="63d33bbf-a334-4339-b35e-c5773117fbca" Title="Calculator Class" Url="html/14c2c3bb-0a29-21f1-b85e-98a53ecfb23e.htm">
+      <HelpTOCNode Title="Calculator Constructor " Url="html/a5230b93-f705-8785-5e89-4fb68aa4f75e.htm" />
+      <HelpTOCNode Id="d1c098ff-dc73-4de3-875f-deac37fbb019" Title="Calculator Methods" Url="html/ea222b08-e911-fb07-2194-0442290e2713.htm">
+        <HelpTOCNode Title="Add Method " Url="html/47f43832-dcea-3095-3997-ab022a21f1c2.htm" />
+        <HelpTOCNode Title="Devide Method " Url="html/571e2aa8-3963-dce8-6517-e071e8de4e5d.htm" />
+        <HelpTOCNode Title="Multiply Method " Url="html/0426b47b-8f56-e984-0f8e-253f34355fc8.htm" />
+        <HelpTOCNode Title="Substract Method " Url="html/d164cc66-07ae-4dc0-5d24-c5c6279c7105.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a7f67bd-d662-4b92-af36-20af0f2d61ef" Title="Human Class" Url="html/2384aa68-671b-6fc0-aae4-f2a8db5cb6c4.htm">
+      <HelpTOCNode Title="Human Constructor " Url="html/57efb1f3-c8bf-dfec-75e0-f3da97275a29.htm" />
+      <HelpTOCNode Title="Human Methods" Url="html/e32d8e84-02e7-ea33-888f-33fe9ae32edd.htm" />
+      <HelpTOCNode Id="797e745b-bb21-474e-a6f4-0d3fb3c54f8b" Title="Human Properties" Url="html/9f64bea9-7933-87ea-22e7-7d430cee9c54.htm">
+        <HelpTOCNode Title="Age Property " Url="html/ae14a7ff-2e6a-f05a-c211-cae74f87cb2b.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/e635b541-8a8d-23a3-b550-d5753695cff8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

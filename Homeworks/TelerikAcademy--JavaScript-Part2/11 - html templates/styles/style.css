@@ -1,0 +1,33 @@
+body {
+	background: #333;
+	color: #ccc;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+#the-result-box {
+    height: 500px;
+    width: 80%;
+	border: 2px solid black;
+	background: #fff;
+	overflow: hidden;
+	color: #000;
+	text-align: center;
+}
+
+table 
+{
+    background: lightGray;
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+}
+
+table td, table th
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}

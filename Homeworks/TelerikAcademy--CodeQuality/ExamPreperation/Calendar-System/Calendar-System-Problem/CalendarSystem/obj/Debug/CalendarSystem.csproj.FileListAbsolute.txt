@@ -1,0 +1,7 @@
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\bin\Debug\PowerCollections.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\bin\Debug\CalendarSystem.exe.config
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\bin\Debug\CalendarSystem.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\bin\Debug\CalendarSystem.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\obj\Debug\CalendarSystem.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Calendar-System\Calendar-System-Problem\CalendarSystem\obj\Debug\CalendarSystem.pdb

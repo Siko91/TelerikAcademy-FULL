@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<script type="text/javascript" src="engine.js"></script>
+
+	<script type="text/javascript" src="task (1).js"></script>
+	<script type="text/javascript" src="task (2).js"></script>
+	<script type="text/javascript" src="task (3).js"></script>
+	<script type="text/javascript" src="task (4).js"></script>
+	<script type="text/javascript" src="task (5).js"></script>
+	<script type="text/javascript" src="task (6).js"></script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Write functions for working with shapes in  standard Planar coordinate system</p>
+				<p>Points are represented by coordinates P(X, Y)</p>
+				<p>Lines are represented by two points, marking their beginning and ending L(P1(X1,Y1), P2(X2,Y2))</p>
+				<p>Calculate the distance between two points</p>
+				<p>Check if three segment lines can form a triangle</p>
+
+				<label>2 points to get the distance</label>
+				<input placeholder="P1 - X" id="input1-1-1">
+				<input placeholder="P1 - Y" id="input1-1-2">
+				<input placeholder="P2 - X" id="input1-1-3">
+				<input placeholder="P2 - Y" id="input1-1-4">
+				
+				<label>3 lengths (points will be made automaticly) to check if they can be a triangle.</label>
+				<input placeholder="Line 1 length" id="input1-2-1">
+				<input placeholder="Line 2 length" id="input1-2-2">
+				<input placeholder="Line 2 length" id="input1-2-3">
+
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Write a function that removes all elements with a given value</p>
+				<p>var arr = [1,2,1,4,1,3,4,1,111,3,2,1,"1"];</p>
+				<p>arr.remove(1); //arr = [2,4,3,4,111,3,2,"1"];</p>
+				<p>Attach it to the array type</p>
+				<p>Read about prototype and how to attach methods</p>
+
+				<label for="input2">input only the number to remove. <br /> The array will be { 1,1,1,2,2,2,3,3,3, .... 9,9,9,10,10,10 }</label>
+				<input type="number" placeholder="1-10" id="input2">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Write a function that makes a deep copy of an object</p>
+				<p>The function should work for both primitive and reference types</p>
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>Write a function that checks if a given object contains a given property</p>
+				<p>var obj  = …;</p>
+				<p>var hasProp = hasProperty(obj,"length");</p>
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 5</h2></header>
+				<p>Write a function that finds the youngest person in a given array of persons and prints his/hers full name</p>
+				<p>Each person have properties firstname, lastname and age, as shown:</p>
+				<p>var persons = [ {firstname : "Gosho", lastname: "Petrov", age: 32}, <br/> {firstname : "Bay", lastname: "Ivan", age: 81},…];</p>
+				<button onclick="HandleClicks(5)">Do it!</button>
+		    </div>
+			<div id="result5" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 6</h2></header>
+				<p>Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups</p>
+				<p>Use function overloading (i.e. just one function)</p>
+				<p>var persons = {…}; <br/>
+				var groupedByFname = group(persons,"firstname"); <br/>
+				var groupedByAge= group(persons,"age"); <br/></p>
+				<button onclick="HandleClicks(6)">Do it!</button>
+		    </div>
+			<div id="result6" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

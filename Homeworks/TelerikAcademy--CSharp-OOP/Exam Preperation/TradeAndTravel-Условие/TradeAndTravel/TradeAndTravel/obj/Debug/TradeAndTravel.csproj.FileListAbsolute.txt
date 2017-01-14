@@ -1,0 +1,8 @@
+C:\Users\TEDI-05\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Users\TEDI-05\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\TEDI-05\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\TEDI-05\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\TEDI-05\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+G:\C#\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+G:\C#\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+G:\C#\TradeAndTravel-Skeleton\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.pdb

@@ -1,0 +1,21 @@
+body div {
+    padding-right: 4%;
+    border: 1pt solid #f00;
+    border-radius: 60pt;
+    background: #000;
+}
+
+body div:hover {
+	background: #0F0;
+	border: 1pt solid #00F;
+	box-shadow: 1px 1px 1px #555;
+}
+
+h1 {
+	font-size: 20pt;
+	color: #000;
+	box-shadow: 
+}
+h1:hover:after {
+	content:" - Just do it!";
+}

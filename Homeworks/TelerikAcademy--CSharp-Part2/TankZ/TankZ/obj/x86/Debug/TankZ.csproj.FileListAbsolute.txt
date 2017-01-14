@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\TankZ\TankZ\bin\Debug\TankZ.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\TankZ\TankZ\bin\Debug\TankZ.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\TankZ\TankZ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\TankZ\TankZ\obj\x86\Debug\TankZ.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\TankZ\TankZ\obj\x86\Debug\TankZ.pdb

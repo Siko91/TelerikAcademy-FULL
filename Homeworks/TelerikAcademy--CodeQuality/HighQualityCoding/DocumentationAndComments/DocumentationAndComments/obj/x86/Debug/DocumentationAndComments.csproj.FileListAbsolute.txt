@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\DocumentationAndComments\DocumentationAndComments\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\DocumentationAndComments\DocumentationAndComments\bin\Debug\DocumentationAndComments.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\DocumentationAndComments\DocumentationAndComments\bin\Debug\DocumentationAndComments.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\DocumentationAndComments\DocumentationAndComments\obj\x86\Debug\DocumentationAndComments.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\DocumentationAndComments\DocumentationAndComments\obj\x86\Debug\DocumentationAndComments.pdb

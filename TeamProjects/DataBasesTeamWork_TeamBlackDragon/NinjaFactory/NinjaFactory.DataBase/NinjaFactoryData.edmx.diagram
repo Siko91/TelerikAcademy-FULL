@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c5c6c726a4d14c6eb1914b72677f0332" Name="Diagram1">
+        <EntityTypeShape EntityType="TeamworkBlackDragonModel.Client" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeamworkBlackDragonModel.Job" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeamworkBlackDragonModel.Ninja" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeamworkBlackDragonModel.Speciality" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="TeamworkBlackDragonModel.FK_Jobs_Clients" ManuallyRouted="false" />
+        <AssociationConnector Association="TeamworkBlackDragonModel.FK_Jobs_Ninjas" ManuallyRouted="false" />
+        <AssociationConnector Association="TeamworkBlackDragonModel.FK_Ninjas_Speciality1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

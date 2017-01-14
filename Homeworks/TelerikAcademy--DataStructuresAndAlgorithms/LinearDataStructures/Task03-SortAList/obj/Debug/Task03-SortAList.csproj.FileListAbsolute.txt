@@ -1,0 +1,8 @@
+D:\Git\algo\LinearDataStructures\Task03-SortAList\bin\Debug\Task03-SortAList.exe.config
+D:\Git\algo\LinearDataStructures\Task03-SortAList\bin\Debug\Task03-SortAList.exe
+D:\Git\algo\LinearDataStructures\Task03-SortAList\bin\Debug\Task03-SortAList.pdb
+D:\Git\algo\LinearDataStructures\Task03-SortAList\obj\Debug\Task03-SortAList.exe
+D:\Git\algo\LinearDataStructures\Task03-SortAList\obj\Debug\Task03-SortAList.pdb
+D:\Git\algo\LinearDataStructures\Task03-SortAList\obj\Debug\Task03-SortAList.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task03-SortAList\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task03-SortAList\bin\Debug\Task01-StoreValuesInList.pdb

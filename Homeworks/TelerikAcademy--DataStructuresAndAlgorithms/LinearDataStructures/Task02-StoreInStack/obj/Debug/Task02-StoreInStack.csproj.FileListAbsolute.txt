@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\bin\Debug\Task02-StoreInStack.exe.config
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\bin\Debug\Task02-StoreInStack.exe
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\bin\Debug\Task02-StoreInStack.pdb
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\obj\Debug\Task02-StoreInStack.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\obj\Debug\Task02-StoreInStack.exe
+D:\Git\algo\LinearDataStructures\Task02-StoreInStack\obj\Debug\Task02-StoreInStack.pdb

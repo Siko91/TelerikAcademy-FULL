@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>Homework 7 - Task 1</title>
+</head>
+<body>
+
+<label> How long should the array be? </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click me!</button>
+<br />
+
+<script type="text/javascript">
+
+    // Write a script that allocates array of 20 integers and initializes each element by its index multiplied by 5. Print the obtained array on the console.
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+    	var ArrSize = document.getElementById("Input").value;
+        ArrSize = ArrSize * 1;
+        if((ArrSize > 1) == false){
+            console.log("Error");
+        }
+        else {
+            console.log("The array will have " + ArrSize + " elements");
+            var Arr = new Array(ArrSize);
+        }
+
+        for(i=0; i<=ArrSize - 1; i++)
+        {
+            Arr[i] = i*5;
+        }
+        console.log(Arr);
+        document.writeln("Array with " + Arr.length + " elements : " + Arr);
+    
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

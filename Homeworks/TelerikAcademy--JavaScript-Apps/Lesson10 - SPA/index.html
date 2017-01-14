@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SPA - Chat</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <p>This app will only show the last 50 messages. It refreshes automaticaly every 5 seconds, and every time you post a message.</p>
+    <div id="wrapper">
+        <div id="content">
+            <ul id="messages-list">
+                Hallo World!
+            </ul>
+        </div>
+        <label for="username-input">Username: </label>
+        <input id="username-input" value="Anonymous" placeholder="username" />
+        <br/>
+        <label for="chat-input">Message: </label>
+        <input id="chat-input" placeholder="write a message" />
+        <br/>
+        <button id="send-btn">SEND</button>
+    </div>
+    <script src="JQuery-min.js"></script>
+    <script src="RemoteControler.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

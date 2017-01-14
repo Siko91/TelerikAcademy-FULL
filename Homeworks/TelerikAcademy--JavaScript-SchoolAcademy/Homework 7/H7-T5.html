@@ -1,0 +1,73 @@
+<html>
+<head>
+    <title>Homework 7 - Task 5</title>
+</head>
+<body>
+
+<label> Enter numbers seperated with comas "," : </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click to sort!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Sort an Array */
+
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+        seperator = ",";
+        var arr = document.getElementById("Input").value;
+        arr = arr.split(seperator);
+        var sorted = new Array(arr.length);
+        var temp;
+
+            // Arr.Parse
+        for (var i = arr.length - 1; i >= 0; i--) {
+            arr[i] = parseInt(arr[i]);
+        }
+
+            // Sorted == arr
+        for (var i = arr.length - 1; i >= 0; i--)
+        {
+            sorted[i] = arr[i];
+        }
+
+
+            // Sorted.sort
+        for (var i = 0; i < sorted.length; i++)
+        {
+            if(sorted[i] > sorted[i+1])
+            {
+                temp = sorted[i];
+                sorted[i] = sorted[i+1];
+                sorted[i+1] = temp;
+
+                if (i>0)
+                {
+                    i -= 2;
+                }
+            }
+        }
+        console.log("Array : " + arr.join("--"))
+        console.log("Sorted: " + sorted.join("--"))
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

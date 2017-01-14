@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\bin\Debug\Task2CustumerOperations.Tests.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\bin\Debug\Task2CustumerOperations.Tests.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\obj\Debug\Task2CustumerOperations.Tests.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\obj\Debug\Task2CustumerOperations.Tests.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\obj\Debug\Task2CustumerOperations.Tests.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\bin\Debug\Task2CustumerOperations.Tests.dll.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task2CustumerOperations.Tests\bin\Debug\EntityFramework.xml

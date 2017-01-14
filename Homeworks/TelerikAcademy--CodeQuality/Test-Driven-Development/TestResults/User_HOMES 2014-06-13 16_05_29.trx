@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a1724a5f-f964-42b5-a05c-a7554e68b74e" name="User@HOMES 2014-06-13 16:05:29" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bc564bda-2a21-4db9-b62c-2de7eaeb2f4a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 16_05_29">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker\bin\Debug\Poker.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T16:05:29.9062500+03:00" queuing="2014-06-13T16:05:29.9687500+03:00" start="2014-06-13T16:05:29.9843750+03:00" finish="2014-06-13T16:05:30.6718750+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="16" executed="16" passed="14" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckerShouldRecognizeFullHouseCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="b60e1417-e09d-f531-99fc-67166c972c0d">
+      <Execution id="123fc6b7-5284-4797-b59a-d72506a249e8" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFullHouseCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeFourOfAKindCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="e1d93606-d25f-b828-2773-66d137665ad3">
+      <Execution id="53fe6996-708e-4611-a419-bf9c1638389a" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFourOfAKindCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeFlushCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="3e912461-f5ec-bef4-5b86-99ea01e7a0d5">
+      <Execution id="58bdcb66-518c-41b2-892b-d3e485dd94b0" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeFlushCombination" />
+    </UnitTest>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="c0f58013-8c25-16a0-2f3d-a1ac38180f23">
+      <Execution id="60a54ded-c9a3-40d1-bbbe-e7913046d57b" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeThreeOfAKindCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a064e2cd-62cd-9c75-5377-757ceb888ef0">
+      <Execution id="0ad71170-2375-49e2-bfbc-143c8b8bd011" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeThreeOfAKindCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeStraightFlushCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="617d82f4-8c08-7f85-04fa-3dea7d6d3d59">
+      <Execution id="ae765f93-25fe-41ef-9bf1-b39043fa1f9f" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeStraightFlushCombination" />
+    </UnitTest>
+    <UnitTest name="HandShouldNotHaveMoreThanFiveCards" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="4a5b6ae3-bb10-501e-24b2-f970155da52b">
+      <Execution id="7d5848de-44ed-47a1-965b-78833098d993" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandShouldNotHaveMoreThanFiveCards" />
+    </UnitTest>
+    <UnitTest name="HandWithZeroCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436">
+      <Execution id="497576cd-c7ba-4a37-9f6f-76c12c7b6ea5" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithZeroCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeOnePairCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="d0191123-0ee8-75a6-bf14-a847dc71a3c0">
+      <Execution id="97910c6b-4982-4da1-8ce9-a9d2db8c302e" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeOnePairCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeHighCardCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="caef306e-aa60-78e9-11ed-889a0ac8c73c">
+      <Execution id="e47954f6-6e72-4168-b4ac-cb5e8798f0ae" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeHighCardCombination" />
+    </UnitTest>
+    <UnitTest name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="befe51af-2857-c06a-6449-1b0d2cdf2061">
+      <Execution id="9f62e835-d64e-46e9-be5f-7960de2c4f1a" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+    <UnitTest name="HandWithRepeatingCardsShouldNotBeValid" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="83b8f170-80e4-0b29-09e5-64b876ffbc9c">
+      <Execution id="abe42d12-33fe-4902-aa62-04f4007ea0c9" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.HandValidationTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HandWithRepeatingCardsShouldNotBeValid" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormat" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082">
+      <Execution id="26e28b48-0fc8-4f75-9aec-ebdcda688b85" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormat" />
+    </UnitTest>
+    <UnitTest name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="8fda5f33-a9b9-5a41-07dc-a2f25844e49c">
+      <Execution id="7fb23d1c-1cd5-4870-87ee-0e45afb15307" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CardTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeTwoPairCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="96852268-b311-2b16-1fdd-8f23fa73e18e">
+      <Execution id="1402b448-aeaa-4376-b933-13905e5b2d33" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeTwoPairCombination" />
+    </UnitTest>
+    <UnitTest name="CheckerShouldRecognizeStraightCombination" storage="d:\gitprojects\telerikacademy\quality\test-driven-development\poker.tests\bin\debug\poker.tests.dll" id="a5ae1f90-0dad-63ce-1c82-89adf313a505">
+      <Execution id="197aa7d0-c364-4862-ac70-3ddabb2ee9a3" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Test-Driven-Development/Poker.Tests/bin/Debug/Poker.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Poker.Tests.CombinationsTests, Poker.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckerShouldRecognizeStraightCombination" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3e912461-f5ec-bef4-5b86-99ea01e7a0d5" executionId="58bdcb66-518c-41b2-892b-d3e485dd94b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" executionId="7d5848de-44ed-47a1-965b-78833098d993" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" executionId="26e28b48-0fc8-4f75-9aec-ebdcda688b85" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="617d82f4-8c08-7f85-04fa-3dea7d6d3d59" executionId="ae765f93-25fe-41ef-9bf1-b39043fa1f9f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" executionId="abe42d12-33fe-4902-aa62-04f4007ea0c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" executionId="7fb23d1c-1cd5-4870-87ee-0e45afb15307" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96852268-b311-2b16-1fdd-8f23fa73e18e" executionId="1402b448-aeaa-4376-b933-13905e5b2d33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a064e2cd-62cd-9c75-5377-757ceb888ef0" executionId="0ad71170-2375-49e2-bfbc-143c8b8bd011" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5ae1f90-0dad-63ce-1c82-89adf313a505" executionId="197aa7d0-c364-4862-ac70-3ddabb2ee9a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" executionId="497576cd-c7ba-4a37-9f6f-76c12c7b6ea5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b60e1417-e09d-f531-99fc-67166c972c0d" executionId="123fc6b7-5284-4797-b59a-d72506a249e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="befe51af-2857-c06a-6449-1b0d2cdf2061" executionId="9f62e835-d64e-46e9-be5f-7960de2c4f1a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" executionId="60a54ded-c9a3-40d1-bbbe-e7913046d57b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="caef306e-aa60-78e9-11ed-889a0ac8c73c" executionId="e47954f6-6e72-4168-b4ac-cb5e8798f0ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0191123-0ee8-75a6-bf14-a847dc71a3c0" executionId="97910c6b-4982-4da1-8ce9-a9d2db8c302e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1d93606-d25f-b828-2773-66d137665ad3" executionId="53fe6996-708e-4611-a419-bf9c1638389a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="58bdcb66-518c-41b2-892b-d3e485dd94b0" testId="3e912461-f5ec-bef4-5b86-99ea01e7a0d5" testName="CheckerShouldRecognizeFlushCombination" computerName="HOMES" duration="00:00:00.0367798" startTime="2014-06-13T16:05:30.0000000+03:00" endTime="2014-06-13T16:05:30.3750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58bdcb66-518c-41b2-892b-d3e485dd94b0">
+    </UnitTestResult>
+    <UnitTestResult executionId="7d5848de-44ed-47a1-965b-78833098d993" testId="4a5b6ae3-bb10-501e-24b2-f970155da52b" testName="HandShouldNotHaveMoreThanFiveCards" computerName="HOMES" duration="00:00:00.0016384" startTime="2014-06-13T16:05:30.3750000+03:00" endTime="2014-06-13T16:05:30.3906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7d5848de-44ed-47a1-965b-78833098d993">
+    </UnitTestResult>
+    <UnitTestResult executionId="26e28b48-0fc8-4f75-9aec-ebdcda688b85" testId="5bf2ae0c-21eb-a8ce-8af8-db2e3c1c7082" testName="CardToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0008978" startTime="2014-06-13T16:05:30.3906250+03:00" endTime="2014-06-13T16:05:30.4062500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26e28b48-0fc8-4f75-9aec-ebdcda688b85">
+    </UnitTestResult>
+    <UnitTestResult executionId="ae765f93-25fe-41ef-9bf1-b39043fa1f9f" testId="617d82f4-8c08-7f85-04fa-3dea7d6d3d59" testName="CheckerShouldRecognizeStraightFlushCombination" computerName="HOMES" duration="00:00:00.0013200" startTime="2014-06-13T16:05:30.4062500+03:00" endTime="2014-06-13T16:05:30.4218750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae765f93-25fe-41ef-9bf1-b39043fa1f9f">
+    </UnitTestResult>
+    <UnitTestResult executionId="abe42d12-33fe-4902-aa62-04f4007ea0c9" testId="83b8f170-80e4-0b29-09e5-64b876ffbc9c" testName="HandWithRepeatingCardsShouldNotBeValid" computerName="HOMES" duration="00:00:00.0005550" startTime="2014-06-13T16:05:30.4218750+03:00" endTime="2014-06-13T16:05:30.4375000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="abe42d12-33fe-4902-aa62-04f4007ea0c9">
+    </UnitTestResult>
+    <UnitTestResult executionId="7fb23d1c-1cd5-4870-87ee-0e45afb15307" testId="8fda5f33-a9b9-5a41-07dc-a2f25844e49c" testName="CardToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" duration="00:00:00.0004257" startTime="2014-06-13T16:05:30.4375000+03:00" endTime="2014-06-13T16:05:30.4531250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fb23d1c-1cd5-4870-87ee-0e45afb15307">
+    </UnitTestResult>
+    <UnitTestResult executionId="1402b448-aeaa-4376-b933-13905e5b2d33" testId="96852268-b311-2b16-1fdd-8f23fa73e18e" testName="CheckerShouldRecognizeTwoPairCombination" computerName="HOMES" duration="00:00:00.0014571" startTime="2014-06-13T16:05:30.4531250+03:00" endTime="2014-06-13T16:05:30.4687500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1402b448-aeaa-4376-b933-13905e5b2d33">
+    </UnitTestResult>
+    <UnitTestResult executionId="0ad71170-2375-49e2-bfbc-143c8b8bd011" testId="a064e2cd-62cd-9c75-5377-757ceb888ef0" testName="CheckerShouldRecognizeThreeOfAKindCombination" computerName="HOMES" duration="00:00:00.0294727" startTime="2014-06-13T16:05:30.4687500+03:00" endTime="2014-06-13T16:05:30.5156250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ad71170-2375-49e2-bfbc-143c8b8bd011">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeThreeOfAKindCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="197aa7d0-c364-4862-ac70-3ddabb2ee9a3" testId="a5ae1f90-0dad-63ce-1c82-89adf313a505" testName="CheckerShouldRecognizeStraightCombination" computerName="HOMES" duration="00:00:00.0006570" startTime="2014-06-13T16:05:30.5156250+03:00" endTime="2014-06-13T16:05:30.5312500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="197aa7d0-c364-4862-ac70-3ddabb2ee9a3">
+    </UnitTestResult>
+    <UnitTestResult executionId="497576cd-c7ba-4a37-9f6f-76c12c7b6ea5" testId="a7ad43fc-7e41-bd1f-74ee-3e8b2b89c436" testName="HandWithZeroCardsShouldNotBeValid" computerName="HOMES" duration="00:00:00.0003953" startTime="2014-06-13T16:05:30.5312500+03:00" endTime="2014-06-13T16:05:30.5468750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="497576cd-c7ba-4a37-9f6f-76c12c7b6ea5">
+    </UnitTestResult>
+    <UnitTestResult executionId="123fc6b7-5284-4797-b59a-d72506a249e8" testId="b60e1417-e09d-f531-99fc-67166c972c0d" testName="CheckerShouldRecognizeFullHouseCombination" computerName="HOMES" duration="00:00:00.0018248" startTime="2014-06-13T16:05:30.5468750+03:00" endTime="2014-06-13T16:05:30.5625000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="123fc6b7-5284-4797-b59a-d72506a249e8">
+    </UnitTestResult>
+    <UnitTestResult executionId="9f62e835-d64e-46e9-be5f-7960de2c4f1a" testId="befe51af-2857-c06a-6449-1b0d2cdf2061" testName="HandToStringShouldFollowTheGivenFormatWhenEnumIsAritmeticallyChanged" computerName="HOMES" duration="00:00:00.0010680" startTime="2014-06-13T16:05:30.5625000+03:00" endTime="2014-06-13T16:05:30.5781250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f62e835-d64e-46e9-be5f-7960de2c4f1a">
+    </UnitTestResult>
+    <UnitTestResult executionId="60a54ded-c9a3-40d1-bbbe-e7913046d57b" testId="c0f58013-8c25-16a0-2f3d-a1ac38180f23" testName="HandToStringShouldFollowTheGivenFormat" computerName="HOMES" duration="00:00:00.0005855" startTime="2014-06-13T16:05:30.5781250+03:00" endTime="2014-06-13T16:05:30.5937500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60a54ded-c9a3-40d1-bbbe-e7913046d57b">
+    </UnitTestResult>
+    <UnitTestResult executionId="e47954f6-6e72-4168-b4ac-cb5e8798f0ae" testId="caef306e-aa60-78e9-11ed-889a0ac8c73c" testName="CheckerShouldRecognizeHighCardCombination" computerName="HOMES" duration="00:00:00.0009484" startTime="2014-06-13T16:05:30.5937500+03:00" endTime="2014-06-13T16:05:30.5937500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e47954f6-6e72-4168-b4ac-cb5e8798f0ae">
+    </UnitTestResult>
+    <UnitTestResult executionId="97910c6b-4982-4da1-8ce9-a9d2db8c302e" testId="d0191123-0ee8-75a6-bf14-a847dc71a3c0" testName="CheckerShouldRecognizeOnePairCombination" computerName="HOMES" duration="00:00:00.0009976" startTime="2014-06-13T16:05:30.5937500+03:00" endTime="2014-06-13T16:05:30.6250000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="97910c6b-4982-4da1-8ce9-a9d2db8c302e">
+    </UnitTestResult>
+    <UnitTestResult executionId="53fe6996-708e-4611-a419-bf9c1638389a" testId="e1d93606-d25f-b828-2773-66d137665ad3" testName="CheckerShouldRecognizeFourOfAKindCombination" computerName="HOMES" duration="00:00:00.0033372" startTime="2014-06-13T16:05:30.6250000+03:00" endTime="2014-06-13T16:05:30.6250000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53fe6996-708e-4611-a419-bf9c1638389a">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at Poker.Tests.CombinationsTests.CheckerShouldRecognizeFourOfAKindCombination() in D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\CombinationsTests.cs:line 143
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

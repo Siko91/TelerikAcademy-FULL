@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title>Telerik Homework - JS DOM</title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script src="JQuery-min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div height='400px' width='400px' id='the-result-box'></div>
+
+	<br /><br />
+	<button onclick='generateSelect()'>Task 1 - Stylable select</button>
+	<br />
+	<button onclick='generateMsgBoxes()'>Task 2 - Msg Boxes</button>
+
+    <section id="task-descriptions">
+    	<ol>
+    		<header>
+    			<h1>Tasks To Do</h1>
+    		</header>
+    		<li class="task-description">
+    			Create a jQuery plugin for creating dropdown list<br/>
+    			Produces an UL and make it work as SELECT node<br/>
+    			Selecting an one of the generated LI nodes, selects the corresponding OPTION node<br/>
+    			So $('#dropdown:selected')works
+    		</li><br/>
+    		<li class="task-description">
+    			*****<br/>
+    			Create a jQuery plugin for fading in/fading out message boxCreates a message box<br/>
+				Show a success/error message in the box<br/>
+				Showing is done by setting the opacity of the message from 0to 1in an interval of 1 second<br/>
+				The message disappears after 3 secondsvar<br/>
+				msgBox= $('#message-box').messageBox();<br/>
+				msgBox.success('Success message');<br/>
+				msgBox.error('Error message');
+    		</li>
+    	</ol>
+    </section>
+    <script src="scripts/task2%20-%20msgBox.js" type="text/javascript"></script>
+    <script src="scripts/task1%20-%20select.js" type="text/javascript"></script>
+</body>
+</html>

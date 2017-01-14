@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\12 - delete listed words\bin\Debug\12 - delete listed words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\12 - delete listed words\bin\Debug\12 - delete listed words.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\12 - delete listed words\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\12 - delete listed words\obj\x86\Debug\12 - delete listed words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\12 - delete listed words\obj\x86\Debug\12 - delete listed words.pdb

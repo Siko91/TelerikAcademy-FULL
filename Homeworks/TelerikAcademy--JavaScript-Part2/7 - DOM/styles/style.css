@@ -1,0 +1,13 @@
+body {
+	background: #333;
+	color: #ccc;
+}
+
+#the-result-box {
+    height: 500px;
+    width: 80%;
+	border: 2px solid black;
+	background: #fff;
+	overflow: hidden;
+	color: #000;
+}

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task3Exception\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task3Exception\bin\Debug\Task3Exception.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task3Exception\bin\Debug\Task3Exception.pdb
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task3Exception\obj\x86\Debug\Task3Exception.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task3Exception\obj\x86\Debug\Task3Exception.pdb

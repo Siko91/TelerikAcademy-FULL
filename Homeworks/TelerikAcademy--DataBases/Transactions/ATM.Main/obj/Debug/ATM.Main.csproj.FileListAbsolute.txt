@@ -1,0 +1,14 @@
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Main.exe.config
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Main.exe
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Main.pdb
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\obj\Debug\ATM.Main.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\obj\Debug\ATM.Main.exe
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\obj\Debug\ATM.Main.pdb
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Data.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Models.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Data.pdb
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Main\bin\Debug\ATM.Models.pdb

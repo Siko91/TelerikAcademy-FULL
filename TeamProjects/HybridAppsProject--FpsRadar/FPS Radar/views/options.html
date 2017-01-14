@@ -1,0 +1,66 @@
+<div id="fpsradar-options-view" class="fpsradar-view" data-role="view" data-title="options" data-layout="options-layout" data-model="APP.models.options">
+    <div class="content-container">
+        <header>
+            <strong>Customize</strong>
+        </header>
+        <div>
+            <label class="label" for="options-user-name-input">
+                Username:
+                <input class="input" id="options-user-name-input" data-bind="value: game.userName" />
+            </label>
+        </div>
+        <div class="center">
+            <img data-bind="attr: { src: game.userAvatar }" alt="avatar" height="30%" width="30%">
+            <div data-role="tabstrip" class='button-strip'>
+                <a data-role="button" data-bind="click: setAvatar" class="button">Change picture</a>
+            </div>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.displayNames">Display Identity
+                <span class="tooltip">Show the name of the players as well as their locations. (Will be shown  only if the current game allows it)</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.displayEnemiesAsRed">Simplify colors
+                <span class="tooltip">All teammates will be marked green, and all enemies - red</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.vibrateOnDanger">Vibrate on danger
+                <span class="tooltip">Your device will vibrate when an enemy appears in 10 meters radius around you.</span>
+            </label>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.vibrateOnSignal">Vibrate on signal
+                <span class="tooltip">Your device will vibrate when a teammate of yours sends a signal.</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.playSoundOnDanger">Sound on danger
+                <span class="tooltip">Your device will play a sound when an enemy appears in 10 meters radius around you.</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.playSoundOnSignal">Sound on signal
+                <span class="tooltip">Your device will play a sound when a teammate of yours sends a signal.</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.displaySelfOnRadar">Show self on radar
+                <span class="tooltip">Decides wether or not you will appear on your own radar.</span>
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: game.showTimeLeft">Show Game Timer
+                <span class="tooltip">Shows how much time is left untill the game ends.</span>
+            </label>
+            
+        </div>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\2 - Read square in matrix\bin\Debug\2 - Read square in matrix.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\2 - Read square in matrix\bin\Debug\2 - Read square in matrix.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\2 - Read square in matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\2 - Read square in matrix\obj\x86\Debug\2 - Read square in matrix.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\2 - Read square in matrix\obj\x86\Debug\2 - Read square in matrix.pdb

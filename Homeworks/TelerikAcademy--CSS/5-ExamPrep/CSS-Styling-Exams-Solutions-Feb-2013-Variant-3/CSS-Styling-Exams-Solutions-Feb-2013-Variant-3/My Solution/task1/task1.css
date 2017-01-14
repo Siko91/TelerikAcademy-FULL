@@ -1,0 +1,141 @@
+﻿/********* general settings **********/
+
+*, a
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+    font-size: 16px;
+    color: #0094FF;
+}
+
+/********* functionality **********/
+
+.msg-bar-content
+{
+    display: none;
+}
+
+li:hover .msg-bar-content
+{
+    display: block;
+}
+
+/********* colors & borders **********/
+
+.msg-bar > li
+{
+}
+
+.msg-bar-btn
+{
+    border: 1px solid black;
+    
+    background: #aaffef; /* Old browsers */
+    background: -moz-linear-gradient(top,  #aaffef 0%, #13ffd2 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#aaffef), color-stop(100%,#13ffd2)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #aaffef 0%,#13ffd2 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #aaffef 0%,#13ffd2 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #aaffef 0%,#13ffd2 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #aaffef 0%,#13ffd2 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaffef', endColorstr='#13ffd2',GradientType=0 ); /* IE6-9 */
+}
+
+li:hover .msg-bar-btn
+{
+    border-top: none;
+}
+
+.msg-bar-content
+{
+    border: 1px solid black;
+    
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    
+    border-bottom: none;
+    background: #AAFFEF;
+}
+
+/********* positioning **********/
+
+.msg-bar-btn, .msg-bar > li
+{
+    display: inline-block;
+}
+
+.msg-bar-btn
+{
+    position: relative;
+    top: 205px;
+    left: 50px;
+    
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.msg-bar-content
+{
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    
+    width: 440px;
+    height: 137px;
+    
+    padding: 10px;
+}
+
+.other-item, .me-item
+{
+    height: 35px;
+}
+
+/********* details **********/
+
+.msg-bar-content .user
+{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    position: absolute;
+    
+    border: 1px solid black;
+    border-radius: 15px;
+    
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.me-item .user:before
+{
+    /* TODO: add the image */
+}
+
+.other-item .user:before
+{
+    /* TODO: add the image */
+}
+
+.other-item span:not(.user), .me-item span:not(.user)
+{
+    display: block;
+    text-align: right;
+    
+    padding: 7px;
+    padding-right: 15px;
+    
+    width: 300px;
+    float: right;
+    
+    border-bottom: 1px solid black;
+}
+
+.msg-bar-content li:last-child
+{
+    border-bottom: none;
+}

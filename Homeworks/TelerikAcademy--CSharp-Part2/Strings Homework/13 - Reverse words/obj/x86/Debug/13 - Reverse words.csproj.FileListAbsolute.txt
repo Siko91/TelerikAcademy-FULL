@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\13 - Reverse words\bin\Debug\13 - Reverse words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\13 - Reverse words\bin\Debug\13 - Reverse words.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\13 - Reverse words\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\13 - Reverse words\obj\x86\Debug\13 - Reverse words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\13 - Reverse words\obj\x86\Debug\13 - Reverse words.pdb

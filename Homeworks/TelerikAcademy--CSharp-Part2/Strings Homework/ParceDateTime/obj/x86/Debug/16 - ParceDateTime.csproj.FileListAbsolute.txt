@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\ParceDateTime\bin\Debug\ParceDateTime.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\ParceDateTime\bin\Debug\ParceDateTime.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\ParceDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\ParceDateTime\obj\x86\Debug\ParceDateTime.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\ParceDateTime\obj\x86\Debug\ParceDateTime.pdb

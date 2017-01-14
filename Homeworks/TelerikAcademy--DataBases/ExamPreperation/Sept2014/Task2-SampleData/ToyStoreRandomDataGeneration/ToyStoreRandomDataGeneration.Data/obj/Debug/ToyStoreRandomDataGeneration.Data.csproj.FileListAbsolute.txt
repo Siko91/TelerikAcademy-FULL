@@ -1,0 +1,13 @@
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\ToyStoreRandomDataGeneration.Data.dll.config
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\ToyStoreRandomDataGeneration.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\ToyStoreRandomDataGeneration.Data.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\System.Data.SqlServerCe.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\obj\Debug\ToyStoreRandomDataGeneration.Data.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\obj\Debug\ToyStoreRandomDataGeneration.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Data\obj\Debug\ToyStoreRandomDataGeneration.Data.pdb

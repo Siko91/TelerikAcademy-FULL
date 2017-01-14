@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIKO-PC</Machine>
+    <WindowsUser>Siko</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00258e88-4677-425b-9153-0ec3465d310b</PackageIdentityName>
+    <IntermediateOutputPath>F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6A5C24AE18B4A37ED059A180A12961A3A6E25194A14E607215F61CF61944E928</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>00258e88-4677-425b-9153-0ec3465d310b_1.0.0.0_neutral__5pcjd335rz15y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>00258e88-4677-425b-9153-0ec3465d310b_5pcjd335rz15y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>00258e88-4677-425b-9153-0ec3465d310b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Siko</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-21T17:17:56.508</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\BunnyEscape.Windows.exe">
+      <PackagePath>BunnyEscape.Windows.exe</PackagePath>
+      <Modified>2014-11-22T07:55:34.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape.Core\bin\Debug\BunnyEscape.Core.dll">
+      <PackagePath>BunnyEscape.Core.dll</PackagePath>
+      <Modified>2014-11-22T07:55:31.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2014-11-19T09:50:15.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2014-11-19T09:50:15.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2014-11-19T09:50:15.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-11-19T09:50:14.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging.dll">
+      <PackagePath>WinRTXamlToolkit.Debugging.dll</PackagePath>
+      <Modified>2014-11-17T11:35:07.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2014-11-17T11:34:59.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\XamlAnimatedGif.1.0.0-alpha\lib\portable-win81+wpa81\XamlAnimatedGif.dll">
+      <PackagePath>XamlAnimatedGif.dll</PackagePath>
+      <Modified>2014-11-20T16:30:54.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\bunny-angry.png">
+      <PackagePath>Resourses\Dialogue\bunny-angry.png</PackagePath>
+      <Modified>2014-11-20T12:20:25.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\bunny-curious.png">
+      <PackagePath>Resourses\Dialogue\bunny-curious.png</PackagePath>
+      <Modified>2014-11-20T12:20:57.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\bunny-whole-body.png">
+      <PackagePath>Resourses\Dialogue\bunny-whole-body.png</PackagePath>
+      <Modified>2014-11-20T12:20:00.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\dialogueBox.png">
+      <PackagePath>Resourses\Dialogue\dialogueBox.png</PackagePath>
+      <Modified>2014-11-20T11:56:23.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\ghost.png">
+      <PackagePath>Resourses\Dialogue\ghost.png</PackagePath>
+      <Modified>2014-11-20T12:19:13.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\materials\angry.png">
+      <PackagePath>Resourses\Dialogue\materials\angry.png</PackagePath>
+      <Modified>2014-11-18T09:12:01.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\materials\curious.png">
+      <PackagePath>Resourses\Dialogue\materials\curious.png</PackagePath>
+      <Modified>2014-11-18T09:15:39.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\materials\ghost-right.png">
+      <PackagePath>Resourses\Dialogue\materials\ghost-right.png</PackagePath>
+      <Modified>2014-11-17T17:17:07.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\materials\S 4 7.png">
+      <PackagePath>Resourses\Dialogue\materials\S 4 7.png</PackagePath>
+      <Modified>2014-11-20T12:15:27.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\materials\tired.png">
+      <PackagePath>Resourses\Dialogue\materials\tired.png</PackagePath>
+      <Modified>2014-11-19T18:25:44.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Dialogue\saw.png">
+      <PackagePath>Resourses\Dialogue\saw.png</PackagePath>
+      <Modified>2014-11-20T12:18:55.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\ghost.png">
+      <PackagePath>Resourses\Fakes\ghost.png</PackagePath>
+      <Modified>2014-11-16T17:51:03.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\kickable.png">
+      <PackagePath>Resourses\Fakes\kickable.png</PackagePath>
+      <Modified>2014-11-17T14:42:19.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\level.png">
+      <PackagePath>Resourses\Fakes\level.png</PackagePath>
+      <Modified>2014-11-16T17:51:03.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\player.png">
+      <PackagePath>Resourses\Fakes\player.png</PackagePath>
+      <Modified>2014-11-16T17:51:03.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\pushable.png">
+      <PackagePath>Resourses\Fakes\pushable.png</PackagePath>
+      <Modified>2014-11-16T17:51:03.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Fakes\wall.png">
+      <PackagePath>Resourses\Fakes\wall.png</PackagePath>
+      <Modified>2014-11-16T21:23:23.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\angry.png">
+      <PackagePath>Resourses\Lola bunny\angry.png</PackagePath>
+      <Modified>2014-11-18T09:12:01.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\curious - Copy.png">
+      <PackagePath>Resourses\Lola bunny\Backup\curious - Copy.png</PackagePath>
+      <Modified>2014-11-18T08:41:17.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\left .png">
+      <PackagePath>Resourses\Lola bunny\Backup\left .png</PackagePath>
+      <Modified>2014-11-18T09:01:03.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\right .png">
+      <PackagePath>Resourses\Lola bunny\Backup\right .png</PackagePath>
+      <Modified>2014-11-18T09:01:35.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\curious.png">
+      <PackagePath>Resourses\Lola bunny\curious.png</PackagePath>
+      <Modified>2014-11-18T09:15:39.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\dead.png">
+      <PackagePath>Resourses\Lola bunny\dead.png</PackagePath>
+      <Modified>2014-11-19T18:37:58.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\falling-left.png">
+      <PackagePath>Resourses\Lola bunny\falling-left.png</PackagePath>
+      <Modified>2014-11-21T16:00:39.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\falling-right.png">
+      <PackagePath>Resourses\Lola bunny\falling-right.png</PackagePath>
+      <Modified>2014-11-21T16:00:58.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\jump-left.png">
+      <PackagePath>Resourses\Lola bunny\jump-left.png</PackagePath>
+      <Modified>2014-11-19T18:22:31.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\jump-right.png">
+      <PackagePath>Resourses\Lola bunny\jump-right.png</PackagePath>
+      <Modified>2014-11-19T18:22:50.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\left.png">
+      <PackagePath>Resourses\Lola bunny\left.png</PackagePath>
+      <Modified>2014-11-21T16:02:13.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\right.png">
+      <PackagePath>Resourses\Lola bunny\right.png</PackagePath>
+      <Modified>2014-11-21T16:01:54.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\stop-left.png">
+      <PackagePath>Resourses\Lola bunny\stop-left.png</PackagePath>
+      <Modified>2014-11-19T18:24:02.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\stop-right.png">
+      <PackagePath>Resourses\Lola bunny\stop-right.png</PackagePath>
+      <Modified>2014-11-19T18:24:19.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\tired.png">
+      <PackagePath>Resourses\Lola bunny\tired.png</PackagePath>
+      <Modified>2014-11-19T18:25:44.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\block-h10.png">
+      <PackagePath>Resourses\Real\block-h10.png</PackagePath>
+      <Modified>2014-11-17T17:56:53.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\block-h4.png">
+      <PackagePath>Resourses\Real\block-h4.png</PackagePath>
+      <Modified>2014-11-17T17:57:31.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\block-v10.png">
+      <PackagePath>Resourses\Real\block-v10.png</PackagePath>
+      <Modified>2014-11-17T17:58:56.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\block-v2.png">
+      <PackagePath>Resourses\Real\block-v2.png</PackagePath>
+      <Modified>2014-11-17T17:59:25.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\block.png">
+      <PackagePath>Resourses\Real\block.png</PackagePath>
+      <Modified>2014-11-17T17:04:20.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\football.png">
+      <PackagePath>Resourses\Real\football.png</PackagePath>
+      <Modified>2014-11-17T17:11:31.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\ghost-left-near.png">
+      <PackagePath>Resourses\Real\ghost-left-near.png</PackagePath>
+      <Modified>2014-11-17T17:19:15.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\ghost-left.png">
+      <PackagePath>Resourses\Real\ghost-left.png</PackagePath>
+      <Modified>2014-11-17T17:16:15.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\ghost-right-near.png">
+      <PackagePath>Resourses\Real\ghost-right-near.png</PackagePath>
+      <Modified>2014-11-17T17:19:33.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\ghost-right.png">
+      <PackagePath>Resourses\Real\ghost-right.png</PackagePath>
+      <Modified>2014-11-17T17:17:07.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\player.png">
+      <PackagePath>Resourses\Real\player.png</PackagePath>
+      <Modified>2014-11-16T17:51:03.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\rock.png">
+      <PackagePath>Resourses\Real\rock.png</PackagePath>
+      <Modified>2014-11-19T09:38:41.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\angry.jpg">
+      <PackagePath>Resourses\Lola bunny\Backup\angry.jpg</PackagePath>
+      <Modified>2014-11-18T08:41:10.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\falling.jpg">
+      <PackagePath>Resourses\Lola bunny\Backup\falling.jpg</PackagePath>
+      <Modified>2014-11-18T08:41:35.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Lola bunny\Backup\tired.jpg">
+      <PackagePath>Resourses\Lola bunny\Backup\tired.jpg</PackagePath>
+      <Modified>2014-11-18T08:40:57.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\bamboo.jpg">
+      <PackagePath>Resourses\Real\bamboo.jpg</PackagePath>
+      <Modified>2014-11-17T16:52:47.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\crate.jpg">
+      <PackagePath>Resourses\Real\crate.jpg</PackagePath>
+      <Modified>2014-11-17T17:23:23.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\webs-2x2.jpg">
+      <PackagePath>Resourses\Real\webs-2x2.jpg</PackagePath>
+      <Modified>2014-11-17T18:13:14.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\webs-backup.jpg">
+      <PackagePath>Resourses\Real\webs-backup.jpg</PackagePath>
+      <Modified>2014-11-17T16:56:56.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\webs.jpg">
+      <PackagePath>Resourses\Real\webs.jpg</PackagePath>
+      <Modified>2014-11-17T18:10:38.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\background-slow.gif">
+      <PackagePath>Resourses\Real\background-slow.gif</PackagePath>
+      <Modified>2014-11-20T14:47:37.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Shared\Resourses\Real\background.gif">
+      <PackagePath>Resourses\Real\background.gif</PackagePath>
+      <Modified>2014-11-20T14:46:02.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-20T17:29:11.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-20T19:04:09.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\Views\Game.xbf">
+      <PackagePath>Views\Game.xbf</PackagePath>
+      <Modified>2014-11-21T14:59:39.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\Views\HowToPlayView.xbf">
+      <PackagePath>Views\HowToPlayView.xbf</PackagePath>
+      <Modified>2014-11-21T17:37:59.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\Views\MainMenuView.xbf">
+      <PackagePath>Views\MainMenuView.xbf</PackagePath>
+      <Modified>2014-11-21T17:01:52.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\Views\Scores.xbf">
+      <PackagePath>Views\Scores.xbf</PackagePath>
+      <Modified>2014-11-20T13:44:37.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\Views\StoryView.xbf">
+      <PackagePath>Views\StoryView.xbf</PackagePath>
+      <Modified>2014-11-21T17:48:35.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\BunnyEscape.Windows.xr.xml">
+      <PackagePath>BunnyEscape.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-21T17:48:35.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+      <Modified>2014-11-17T11:35:00.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+      <Modified>2014-11-17T11:34:59.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:00.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:00.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:00.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:00.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:00.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\WinRTXamlToolkit.Debugging.xr.xml">
+      <PackagePath>WinRTXamlToolkit.Debugging\WinRTXamlToolkit.Debugging.xr.xml</PackagePath>
+      <Modified>2014-11-17T11:35:07.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Controls\EditableListBox\EditableListBox.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Controls\EditableListBox\EditableListBox.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Controls\EditableListBox\EditableListBoxItem.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Controls\EditableListBox\EditableListBoxItem.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Themes\SharedResources.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Themes\SharedResources.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\DebugConsoleView.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\DebugConsoleView.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\DependencyObjectDetailsView.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\DependencyObjectDetailsView.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertiesView.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertiesView.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\VisualTreeView.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\VisualTreeView.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\BooleanPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\BooleanPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\BrushPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\BrushPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\CacheModePropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\CacheModePropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\CornerRadiusPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\CornerRadiusPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\DefaultPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\DefaultPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\DependencyObjectPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\DependencyObjectPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\EnumPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\EnumPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\FontWeightPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\FontWeightPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\ImageSourcePropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\ImageSourcePropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\NumericPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\NumericPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\StringPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\StringPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\packages\WinRTXamlToolkit.Debugging.Windows.1.7.4.0\lib\netcore451\WinRTXamlToolkit.Debugging\Views\PropertyEditors\ThicknessPropertyEditor.xbf">
+      <PackagePath>WinRTXamlToolkit.Debugging\Views\PropertyEditors\ThicknessPropertyEditor.xbf</PackagePath>
+      <Modified>2014-11-17T11:35:07.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-22T07:55:35.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

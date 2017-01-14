@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\obj\Debug\Task6RssToHtml.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Task6RssToHtml.exe.config
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Task6RssToHtml.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Task6RssToHtml.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Task5JsonToPoco.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Task5JsonToPoco.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\obj\Debug\Task6RssToHtml.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5RssToHtml\obj\Debug\Task6RssToHtml.pdb

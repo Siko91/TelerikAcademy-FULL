@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\bin\Debug\Task11-MyLinkedList.exe.config
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\obj\Debug\Task11-MyLinkedList.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\bin\Debug\Task11-MyLinkedList.exe
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\bin\Debug\Task11-MyLinkedList.pdb
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\obj\Debug\Task11-MyLinkedList.exe
+D:\Git\algo\LinearDataStructures\Task11-MyLinkedList\obj\Debug\Task11-MyLinkedList.pdb

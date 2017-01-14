@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<script type="text/javascript" src="engine.js"></script>
+
+	<script type="text/javascript" src="task (1).js"></script>
+	<script type="text/javascript" src="task (2).js"></script>
+	<script type="text/javascript" src="task (3).js"></script>
+	<script type="text/javascript" src="task (4).js"></script>
+	<script type="text/javascript" src="task (5).js"></script>
+	<script type="text/javascript" src="task (6).js"></script>
+	<script type="text/javascript" src="task (7).js"></script>
+	<script type="text/javascript" src="task (8).js"></script>
+	<script type="text/javascript" src="task (9).js"></script>
+	<script type="text/javascript" src="task (10).js"></script>
+	<script type="text/javascript" src="task (11).js"></script>
+	<script type="text/javascript" src="task (12).js"></script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Write a JavaScript function reverses string and returns it</p>
+				<p>Example: "sample"  "elpmas".</p>
+				<input id="input1">
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Write a JavaScript function to check if in a given expression the brackets are put correctly.</p>
+				<p>Example of correct expression: ((a+b)/5-d).</p>
+				<p>Example of incorrect expression: )(a+b))</p>
+				<input id="input2">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).</p>
+				<p>Example: The target substring is "in". The text is as follows</p>
+				<p>We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.</p>
+				<p>The result is: 9</p>
+				<input placeholder="text" id="input3-1">
+				<input placeholder="substing" id="input3-2">
+				<br />
+				<label for="input3-3">case sensitive search?</label>
+				<input type="checkbox" id="input3-3" checked>
+				<br />
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>You are given a text. Write a function that changes the text in all regions:</p>
+				<p>&lt;upcase&gt;text&lt;/upcase&gt; to uppercase.</p>
+				<p>&lt;lowcase&gt;text&lt;/lowcase&gt; to lowercase</p>
+				<p>&lt;mixcase&gt;text&lt;/mixcase&gt; to mix casing(random)</p>
+				<p>We are &lt;mixcase&gt;living&lt;/mixcase&gt; in a &lt;upcase&gt;yellow submarine&lt;/upcase&gt;. We &lt;mixcase&gt;don't&lt;/mixcase&gt; have &lt;lowcase&gt;anything&lt;/lowcase&gt; else.</p>
+				<p>The expected result:</p>
+				<p>We are LiVinG in a YELLOW SUBMARINE. We dOn'T have anything else</p>
+    			<p>Regions can be nested</p>
+				<input id="input4">
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 5</h2></header>
+				<p>Write a function that replaces non breaking white-spaces in a text with [ &amp;nbsp; ]</p>
+				<button onclick="HandleClicks(5)">Do it!</button>
+		    </div>
+			<div id="result5" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 6</h2></header>
+				<p>Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags:</p>
+				<p>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample site&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;text&lt;div&gt;more text&lt;/div&gt;and more...&lt;/div&gt;in body&lt;/body&gt;&lt;/html&gt;</p>
+				<p>result:</p>
+				<p>Sample sitetextmore textand more...in body</p>
+				<button onclick="HandleClicks(6)">Do it!</button>
+		    </div>
+			<div id="result6" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 7</h2></header>
+				<p>Write a script that parses an URL address given in the format:</p>
+				<p>[protocol]://[server]/[resource]</p>
+				<p>and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object</p>
+				<p>For example from the URL [ http://www.devbg.org/forum/index.php ] the following information should be extracted</p>
+				<p>{protocol: "http",<br />
+				server: "www.devbg.org",<br />
+				resource: "/forum/index.php"}</p>
+				<input placeholder="URL" id="input7">
+				<button onclick="HandleClicks(7)">Do it!</button>
+		    </div>
+			<div id="result7" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 8</h2></header>
+				<p>Write a JavaScript function that replaces in a HTML document given as string all the tags &lt;a href="…"&gt;…&lt;/a&gt; with corresponding tags [URL=…]…/URL]. Sample HTML fragment:</p>
+				<p>&lt;p&gt;Please visit &lt;a href="http://academy.telerik. com"&gt;our site&lt;/a&gt; to choose a training course. Also visit &lt;a href="www.devbg.org"&gt;our forum&lt;/a&gt; to discuss the courses.&lt;/p&gt;</p>
+				<p>&lt;p&gt;Please visit [URL=http://academy.telerik. com]our site[/URL] to choose a training course. Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.&lt;/p&gt;</p>
+				<input id="input8">
+				<button onclick="HandleClicks(8)">Do it!</button>
+		    </div>
+			<div id="result8" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 9</h2></header>
+				<p>Write a function for extracting all email addresses from given text. All substrings that match the format &lt;identifier&gt;@&lt;host&gt;…&lt;domain&gt; should be recognized as emails. Return the emails as array of strings</p>
+
+				<p>----------- Example input: -----------</p>
+				<p>mail@mail.mm <br />post@post.pst <br />Address@addr.adr</p>
+				<input id="input9">
+				<button onclick="HandleClicks(9)">Do it!</button>
+		    </div>
+			<div id="result9" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 10</h2></header>
+				<p>Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".</p>
+				<input placeholder="text" id="input10">
+				<button onclick="HandleClicks(10)">Do it!</button>
+		    </div>
+			<div id="result10" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 11</h2></header>
+				<p>Write a function that formats a string using placeholders:</p>
+				<p>var str = stringFormat("Hello {0}!","Peter");<br />
+				//str = "Hello Peter!";</p>
+				<p>The function should work with up to 30 placeholders and all types:</p>
+				<p>var format = "{0}, {1}, {0} text {2}";<br />
+				var str = stringFormat(format,1,"Pesho","Gosho");<br />
+				//str = "1, Pesho, 1 text Gosho"</p>
+				<button onclick="HandleClicks(11)">Do it!</button>
+		    </div>
+			<div id="result11" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 12</h2></header>
+				<p>Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements. Replace all placeholders marked with –{…}–   with the value of the corresponding property of the object.<br /><br />
+				Example:</p>
+				<p>&lt;div data-type="template" id="list-item"&gt;
+				 &lt;strong&gt;-{name}-&lt;/strong&gt; &lt;span&gt;-{age}-&lt;/span&gt;
+				/div&gt;</p>
+				<p>var people = [{name: "Peter", age: 14},...];<br />
+				var tmpl = document.getElementById("list-item").innerHtml;<br />
+				var peopleList = generateList(people,template);<br /><br />
+				//peopleList = "&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Peter&lt;/strong&gt; &lt;span&gt;14&lt;/span&gt;&lt;/li&gt;&lt;li&gt;…&lt;/li&gt;…&lt;/ul&gt;"</p>
+				<button onclick="HandleClicks(12)">Do it!</button>
+		    </div>
+			<div id="result12" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

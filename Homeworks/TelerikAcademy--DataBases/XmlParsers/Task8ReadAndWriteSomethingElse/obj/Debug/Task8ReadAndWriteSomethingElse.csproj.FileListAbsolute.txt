@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\bin\Debug\Task8ReadAndWriteSomethingElse.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\bin\Debug\Task8ReadAndWriteSomethingElse.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\bin\Debug\Task8ReadAndWriteSomethingElse.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\bin\Debug\XmlParsers.Classes.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\bin\Debug\XmlParsers.Classes.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\obj\Debug\Task8ReadAndWriteSomethingElse.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\obj\Debug\Task8ReadAndWriteSomethingElse.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task8ReadAndWriteSomethingElse\obj\Debug\Task8ReadAndWriteSomethingElse.pdb

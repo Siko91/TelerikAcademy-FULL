@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\07 - Shifer\bin\Debug\07 - Shifer.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\07 - Shifer\bin\Debug\07 - Shifer.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\07 - Shifer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\07 - Shifer\obj\x86\Debug\07 - Shifer.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\07 - Shifer\obj\x86\Debug\07 - Shifer.pdb

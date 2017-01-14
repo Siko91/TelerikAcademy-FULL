@@ -1,0 +1,30 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+
+namespace T4Template
+{
+    class VeryStrangeShape
+    {
+		<# for(int i = 0; i < 7; i++) { #>
+
+			public int Item<#=i#>X { get; set; }
+			public int Item<#=i#>Y { get; set; }
+			public int Item<#=i#>Z { get; set; }
+
+		<# } #>
+
+        public VeryStrangeShape(int centerPoint, int size)
+        {
+			<# for(int i = 0; i < 7; i++) { #>
+
+			Item<#=i#>X = centerPoint + size/<#=i+1#>;
+			Item<#=i#>Y = centerPoint + size/<#=i+1#>;
+			Item<#=i#>Z = centerPoint + size/<#=i+1#>;
+
+			<# } #>
+        }
+    }
+}

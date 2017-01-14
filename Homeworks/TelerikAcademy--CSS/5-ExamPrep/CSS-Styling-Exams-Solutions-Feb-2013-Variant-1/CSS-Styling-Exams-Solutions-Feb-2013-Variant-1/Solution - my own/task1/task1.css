@@ -1,0 +1,97 @@
+/*General settings*/
+
+body 
+{
+    width: 960px;
+}
+
+*, a
+{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 16px;
+    vertical-align:text-top;
+    text-decoration: none;
+    
+    color: Black;
+}
+
+/*functionality*/
+
+.sidebar > li > ul
+{
+    display: none;
+}
+
+.sidebar > li:hover > ul
+{
+    display: inline-block;
+    position: absolute;
+    left: 225px;
+}
+
+/*display settings*/
+
+#wrapper 
+{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.sidebar > li > a 
+{
+    font-size: 21px;    
+}
+
+ul
+{
+    text-align: center;
+    
+    background: rgb(210,155,255); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(210,155,255,1) 0%, rgba(140,120,255,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(210,155,255,1)), color-stop(100%,rgba(140,120,255,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(210,155,255,1) 0%,rgba(140,120,255,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(210,155,255,1) 0%,rgba(140,120,255,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(210,155,255,1) 0%,rgba(140,120,255,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(210,155,255,1) 0%,rgba(140,120,255,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d29bff', endColorstr='#8c78ff',GradientType=0 ); /* IE6-9 */
+
+    border-radius: 10px;
+    width: 210px;
+}
+
+a
+{
+    display: inline-block;
+}
+
+ul li 
+{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    
+    border-bottom: 1px solid purple;
+    padding: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+ul li:last-child
+{
+    border: none;
+}
+
+ul li:hover
+{
+    border: 1px solid purple;
+    border-radius: 5px;
+}
+
+ul ul 
+{
+    font-weight: bold;
+    background-color: rgb(180,170,255);
+}

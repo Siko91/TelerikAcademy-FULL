@@ -1,0 +1,6 @@
+case "шукри": return true;
+case "шукрие": return true;
+case "шумка": return true;
+case "шумо": return true;
+case "шумко": return true;
+case "шушо": return true;

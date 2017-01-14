@@ -1,0 +1,2 @@
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape.Core\BunnyEscape.Core.csproj;neutral
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.WindowsPhone\BunnyEscape.WindowsPhone.csproj;neutral

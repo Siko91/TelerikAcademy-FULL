@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\bin\Debug\Task10-AnatherStrangeFormula.exe.config
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\bin\Debug\Task10-AnatherStrangeFormula.exe
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\bin\Debug\Task10-AnatherStrangeFormula.pdb
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\obj\Debug\Task10-AnatherStrangeFormula.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\obj\Debug\Task10-AnatherStrangeFormula.exe
+D:\Git\algo\LinearDataStructures\Task10-AnatherStrangeFormula\obj\Debug\Task10-AnatherStrangeFormula.pdb

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\02 - reverse\bin\Debug\02 - reverse.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\02 - reverse\bin\Debug\02 - reverse.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\02 - reverse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\02 - reverse\obj\x86\Debug\02 - reverse.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\02 - reverse\obj\x86\Debug\02 - reverse.pdb

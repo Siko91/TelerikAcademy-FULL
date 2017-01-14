@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\06 - add symbols to make length\bin\Debug\06 - add symbols to make length.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\06 - add symbols to make length\bin\Debug\06 - add symbols to make length.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\06 - add symbols to make length\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\06 - add symbols to make length\obj\x86\Debug\06 - add symbols to make length.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\06 - add symbols to make length\obj\x86\Debug\06 - add symbols to make length.pdb

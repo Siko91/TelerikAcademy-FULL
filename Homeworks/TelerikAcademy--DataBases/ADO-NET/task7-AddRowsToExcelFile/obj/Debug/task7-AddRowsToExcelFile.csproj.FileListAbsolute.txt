@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\bin\Debug\task7-AddRowsToExcelFile.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\bin\Debug\task7-AddRowsToExcelFile.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\bin\Debug\task7-AddRowsToExcelFile.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\bin\Debug\Task6-CreateExcelTable.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\bin\Debug\Task6-CreateExcelTable.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\obj\Debug\task7-AddRowsToExcelFile.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\obj\Debug\task7-AddRowsToExcelFile.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\task7-AddRowsToExcelFile\obj\Debug\task7-AddRowsToExcelFile.pdb

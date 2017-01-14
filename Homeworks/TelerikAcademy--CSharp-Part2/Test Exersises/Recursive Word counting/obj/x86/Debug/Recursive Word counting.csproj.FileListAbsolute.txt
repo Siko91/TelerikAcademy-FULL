@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Recursive Word counting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Recursive Word counting\bin\Debug\Recursive Word counting.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Recursive Word counting\bin\Debug\Recursive Word counting.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Recursive Word counting\obj\x86\Debug\Recursive Word counting.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Recursive Word counting\obj\x86\Debug\Recursive Word counting.pdb

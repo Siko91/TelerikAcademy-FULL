@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\bin\Debug\Task12-MyVeryOwnSteck.exe.config
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\obj\Debug\Task12-MyVeryOwnSteck.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\bin\Debug\Task12-MyVeryOwnSteck.exe
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\bin\Debug\Task12-MyVeryOwnSteck.pdb
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\obj\Debug\Task12-MyVeryOwnSteck.exe
+D:\Git\algo\LinearDataStructures\Task12-MyVeryOwnSteck\obj\Debug\Task12-MyVeryOwnSteck.pdb

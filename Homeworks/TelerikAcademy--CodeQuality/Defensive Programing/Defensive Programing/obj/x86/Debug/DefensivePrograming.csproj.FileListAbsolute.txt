@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\Defensive Programing\Defensive Programing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Defensive Programing\Defensive Programing\bin\Debug\Defensive Programing.exe
+D:\GitProjects\TelerikAcademy\Quality\Defensive Programing\Defensive Programing\bin\Debug\Defensive Programing.pdb
+D:\GitProjects\TelerikAcademy\Quality\Defensive Programing\Defensive Programing\obj\x86\Debug\Defensive Programing.exe
+D:\GitProjects\TelerikAcademy\Quality\Defensive Programing\Defensive Programing\obj\x86\Debug\Defensive Programing.pdb

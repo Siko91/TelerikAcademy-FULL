@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\bin\Debug\Task2DownloadAndSaveRss.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\obj\Debug\Task2DownloadAndSaveRss.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\bin\Debug\Task2DownloadAndSaveRss.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\bin\Debug\Task2DownloadAndSaveRss.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\obj\Debug\Task2DownloadAndSaveRss.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\obj\Debug\Task2DownloadAndSaveRss.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task2DownloadAndSaveRss\bin\Debug\Newtonsoft.Json.xml

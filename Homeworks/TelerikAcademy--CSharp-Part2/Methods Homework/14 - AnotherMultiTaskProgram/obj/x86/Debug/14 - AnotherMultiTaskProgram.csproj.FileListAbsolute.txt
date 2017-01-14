@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\14 - AnotherMultiTaskProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\14 - AnotherMultiTaskProgram\bin\Debug\14 - AnotherMultiTaskProgram.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\14 - AnotherMultiTaskProgram\bin\Debug\14 - AnotherMultiTaskProgram.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\14 - AnotherMultiTaskProgram\obj\x86\Debug\14 - AnotherMultiTaskProgram.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\14 - AnotherMultiTaskProgram\obj\x86\Debug\14 - AnotherMultiTaskProgram.pdb

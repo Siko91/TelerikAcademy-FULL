@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeProjectSystemModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EmployeeProjectSystemEntities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Departaments" EntityType="EmployeeProjectSystemModel.Departament" />
+    <EntitySet Name="Employees" EntityType="EmployeeProjectSystemModel.Employee" />
+    <EntitySet Name="EmployeesWorkOnProjects" EntityType="EmployeeProjectSystemModel.EmployeesWorkOnProject" />
+    <EntitySet Name="Projects" EntityType="EmployeeProjectSystemModel.Project" />
+    <EntitySet Name="Reports" EntityType="EmployeeProjectSystemModel.Report" />
+    <EntitySet Name="sysdiagrams" EntityType="EmployeeProjectSystemModel.sysdiagram" />
+    <AssociationSet Name="FK_Employees_Departaments" Association="EmployeeProjectSystemModel.FK_Employees_Departaments">
+      <End Role="Departaments" EntitySet="Departaments" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employees_Employees" Association="EmployeeProjectSystemModel.FK_Employees_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Employees1" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmployeesWorkOnProjects_Employees" Association="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="EmployeesWorkOnProjects" EntitySet="EmployeesWorkOnProjects" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reports_Employees" Association="EmployeeProjectSystemModel.FK_Reports_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Reports" EntitySet="Reports" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmployeesWorkOnProjects_Projects" Association="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Projects">
+      <End Role="Projects" EntitySet="Projects" />
+      <End Role="EmployeesWorkOnProjects" EntitySet="EmployeesWorkOnProjects" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(EmployeeProjectSystemModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(EmployeeProjectSystemModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <EntityType Name="Departament">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Employees" Relationship="EmployeeProjectSystemModel.FK_Employees_Departaments" FromRole="Departaments" ToRole="Employees" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="YearSalary" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="DepartmentId" Type="Int32" Nullable="false" />
+    <Property Name="ManagerId" Type="Int32" />
+    <NavigationProperty Name="Departament" Relationship="EmployeeProjectSystemModel.FK_Employees_Departaments" FromRole="Employees" ToRole="Departaments" />
+    <NavigationProperty Name="Employees1" Relationship="EmployeeProjectSystemModel.FK_Employees_Employees" FromRole="Employees" ToRole="Employees1" />
+    <NavigationProperty Name="Employee1" Relationship="EmployeeProjectSystemModel.FK_Employees_Employees" FromRole="Employees1" ToRole="Employees" />
+    <NavigationProperty Name="EmployeesWorkOnProjects" Relationship="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Employees" FromRole="Employees" ToRole="EmployeesWorkOnProjects" />
+    <NavigationProperty Name="Reports" Relationship="EmployeeProjectSystemModel.FK_Reports_Employees" FromRole="Employees" ToRole="Reports" />
+  </EntityType>
+  <EntityType Name="EmployeesWorkOnProject">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="EmployeeId" />
+      <PropertyRef Name="ProjectId" />
+      <PropertyRef Name="StartDate" />
+      <PropertyRef Name="EndDate" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" />
+    <Property Name="ProjectId" Type="Int32" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Employee" Relationship="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Employees" FromRole="EmployeesWorkOnProjects" ToRole="Employees" />
+    <NavigationProperty Name="Project" Relationship="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Projects" FromRole="EmployeesWorkOnProjects" ToRole="Projects" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="EmployeesWorkOnProjects" Relationship="EmployeeProjectSystemModel.FK_EmployeesWorkOnProjects_Projects" FromRole="Projects" ToRole="EmployeesWorkOnProjects" />
+  </EntityType>
+  <EntityType Name="Report">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" />
+    <Property Name="TimeOfReport" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Employee" Relationship="EmployeeProjectSystemModel.FK_Reports_Employees" FromRole="Reports" ToRole="Employees" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Employees_Departaments">
+    <End Role="Departaments" Type="EmployeeProjectSystemModel.Departament" Multiplicity="1" />
+    <End Role="Employees" Type="EmployeeProjectSystemModel.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departaments">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employees_Employees">
+    <End Role="Employees" Type="EmployeeProjectSystemModel.Employee" Multiplicity="0..1" />
+    <End Role="Employees1" Type="EmployeeProjectSystemModel.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employees1">
+        <PropertyRef Name="ManagerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmployeesWorkOnProjects_Employees">
+    <End Role="Employees" Type="EmployeeProjectSystemModel.Employee" Multiplicity="1" />
+    <End Role="EmployeesWorkOnProjects" Type="EmployeeProjectSystemModel.EmployeesWorkOnProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeesWorkOnProjects">
+        <PropertyRef Name="EmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reports_Employees">
+    <End Role="Employees" Type="EmployeeProjectSystemModel.Employee" Multiplicity="1" />
+    <End Role="Reports" Type="EmployeeProjectSystemModel.Report" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reports">
+        <PropertyRef Name="EmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmployeesWorkOnProjects_Projects">
+    <End Role="Projects" Type="EmployeeProjectSystemModel.Project" Multiplicity="1" />
+    <End Role="EmployeesWorkOnProjects" Type="EmployeeProjectSystemModel.EmployeesWorkOnProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeesWorkOnProjects">
+        <PropertyRef Name="ProjectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

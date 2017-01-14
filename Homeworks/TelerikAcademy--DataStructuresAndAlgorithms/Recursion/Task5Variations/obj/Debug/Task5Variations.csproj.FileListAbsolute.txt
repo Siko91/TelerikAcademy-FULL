@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task5Variations\bin\Debug\Task5Variations.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task5Variations\bin\Debug\Task5Variations.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task5Variations\bin\Debug\Task5Variations.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task5Variations\obj\Debug\Task5Variations.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task5Variations\obj\Debug\Task5Variations.pdb

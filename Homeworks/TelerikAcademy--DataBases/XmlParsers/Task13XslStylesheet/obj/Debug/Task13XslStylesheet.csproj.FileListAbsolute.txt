@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task13XslStylesheet\bin\Debug\Task13XslStylesheet.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task13XslStylesheet\bin\Debug\Task13XslStylesheet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task13XslStylesheet\bin\Debug\Task13XslStylesheet.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task13XslStylesheet\obj\Debug\Task13XslStylesheet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task13XslStylesheet\obj\Debug\Task13XslStylesheet.pdb
+D:\Git\TelerikAcademy--DataBases\XmlParsers\Task13XslStylesheet\bin\Debug\Task13XslStylesheet.exe.config
+D:\Git\TelerikAcademy--DataBases\XmlParsers\Task13XslStylesheet\obj\Debug\Task13XslStylesheet.exe
+D:\Git\TelerikAcademy--DataBases\XmlParsers\Task13XslStylesheet\obj\Debug\Task13XslStylesheet.pdb

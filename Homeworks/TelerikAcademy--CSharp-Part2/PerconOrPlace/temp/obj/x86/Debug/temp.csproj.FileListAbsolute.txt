@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\temp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\temp\bin\Debug\temp.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\temp\bin\Debug\temp.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\temp\obj\x86\Debug\temp.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\temp\obj\x86\Debug\temp.pdb

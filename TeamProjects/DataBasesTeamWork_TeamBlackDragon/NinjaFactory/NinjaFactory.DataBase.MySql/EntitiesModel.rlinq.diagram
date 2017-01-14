@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityDiagrams>
+  <entityDiagramsDiagram dslVersion="2.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="NinjaCatalogueModel" isDefault="true">
+    <DomainModelMoniker name="/NinjaCatalogueModel" />
+    <nestedChildShapes>
+      <classShape Id="4628ac69-8885-4d60-a4cd-aad4cc1cc22c" absoluteBounds="0.75, 0.75, 1.5, 3.493484700520832">
+        <DomainClassMoniker name="/NinjaCatalogueModel/Ninja_catalogue_item" />
+        <nestedChildShapes>
+          <elementListCompartment Id="77560f99-9bf2-49e7-8377-f8ddd71450bb" absoluteBounds="0.765, 1.2599999999999998, 1.4700000000000002, 2.364705403645833" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+          <elementListCompartment Id="ad370d69-d663-4495-9349-505add72ca6e" absoluteBounds="0.765, 3.6347054036458326, 1.4700000000000002, 0.2493896484375" name="ImplementationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+          <elementListCompartment Id="337d4014-2549-41d6-91d2-5126add26918" absoluteBounds="0.765, 3.8940950520833324, 1.4700000000000002, 0.2493896484375" name="NavigationCompartment" titleTextColor="Black" itemTextColor="Black" />
+        </nestedChildShapes>
+      </classShape>
+    </nestedChildShapes>
+  </entityDiagramsDiagram>
+</EntityDiagrams>

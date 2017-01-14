@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Homework 5, Task 4</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<label for="tb-IntA">First</label>
+	<input id="IntA" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntB">Second</label>
+	<input id="IntB" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntC">Third</label>
+	<input id="IntC" type="text" class="js-console-input" />
+	<br />
+
+	<button id="Btn">Click me!</button>
+    <br />
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+
+
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		//<button id="Btn">Click me!</button>
+		document.getElementById("Btn").addEventListener("click", Calculate, false);
+	}
+
+
+	function Calculate() 
+		{
+			console.log("---- calculating... ----");
+
+			var a = document.getElementById("IntA").value;
+			var b = document.getElementById("IntB").value;
+            var c = document.getElementById("IntC").value;
+            var max, mid, min
+
+            a=a*1
+            b=b*1
+            c=c*1
+					//first nested ifs
+					max = a
+					if (a <= b)
+					{
+						max = b
+						if (c>max) 
+						{
+							max = c
+						}
+					}
+					else if (a >= b)
+					{
+						max = a
+						if (c>max)
+						{
+							max = c
+						}
+					}
+
+
+					//second nested ifs
+					min = a
+					if (b <= a)
+					{
+						min = b
+						if (c <= min) 
+						{
+							min = c
+						}
+					}
+					else if (a <= b)
+					{
+						min = a
+						if (c <= min)
+						{
+							min = c
+						}
+					}
+
+					if (((a>=b)&&(a<=c)) || ((a>=c)&&(a<=b)))
+					{
+						mid = a
+					}
+					else if (((b>=a)&&(b<=c)) || ((b>=c)&&(b<=a)))
+					{
+						mid = b
+					}
+					else
+					{
+						mid = c
+					}
+
+console.log("Min: " + min + "; Mid = " + mid + "; Max = " + max);
+
+		}
+</script>
+</body>
+</html>

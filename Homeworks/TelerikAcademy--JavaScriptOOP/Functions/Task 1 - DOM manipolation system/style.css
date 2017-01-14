@@ -1,0 +1,34 @@
+body {
+	background: black;
+	color: #ccc;
+	text-align:center;
+}
+
+#result-wrapper {
+	display: inline-block;
+	width: 500px;
+	height: 300px;
+	background: white;
+	color: black;
+	margin: 50px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+#result-wrapper * {
+	min-width: 19px;
+	min-height: 19px;
+	display: inline-block;
+	background: red;
+	margin: 1px;
+	padding:5px;
+}
+
+.task-input {
+	min-width: 100px;
+	min-height: 100px;
+	display: inline-block;
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid gray;
+}

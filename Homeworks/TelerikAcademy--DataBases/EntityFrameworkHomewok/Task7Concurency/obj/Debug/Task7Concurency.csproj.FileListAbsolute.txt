@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\Task7Concurency.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\Task7Concurency.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\Task7Concurency.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\obj\Debug\Task7Concurency.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\obj\Debug\Task7Concurency.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task7Concurency\obj\Debug\Task7Concurency.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\01 - safe sqrt\bin\Debug\01 - safe sqrt.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\01 - safe sqrt\bin\Debug\01 - safe sqrt.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\01 - safe sqrt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\01 - safe sqrt\obj\x86\Debug\01 - safe sqrt.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\01 - safe sqrt\obj\x86\Debug\01 - safe sqrt.pdb

@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\bin\Debug\Task4PermutationsOfNumber.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\bin\Debug\Task4PermutationsOfNumber.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\bin\Debug\Task4PermutationsOfNumber.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\obj\Debug\Task4PermutationsOfNumber.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\obj\Debug\Task4PermutationsOfNumber.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task4PermutationsOfNumber\obj\Debug\Task4PermutationsOfNumber.pdb

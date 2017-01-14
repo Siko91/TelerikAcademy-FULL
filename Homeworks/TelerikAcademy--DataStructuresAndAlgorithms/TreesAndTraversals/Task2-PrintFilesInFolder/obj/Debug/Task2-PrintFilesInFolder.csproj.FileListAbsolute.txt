@@ -1,0 +1,6 @@
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\bin\Debug\Task2-PrintFilesInFolder.exe.config
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\bin\Debug\Task2-PrintFilesInFolder.exe
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\bin\Debug\Task2-PrintFilesInFolder.pdb
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\obj\Debug\Task2-PrintFilesInFolder.csprojResolveAssemblyReference.cache
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\obj\Debug\Task2-PrintFilesInFolder.exe
+D:\Git\algo\TreesAndTraversals\Task2-PrintFilesInFolder\obj\Debug\Task2-PrintFilesInFolder.pdb

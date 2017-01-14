@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\Task5FindSalesByRegionAndPeriod.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\Task5FindSalesByRegionAndPeriod.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\Task5FindSalesByRegionAndPeriod.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\obj\Debug\Task5FindSalesByRegionAndPeriod.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\obj\Debug\Task5FindSalesByRegionAndPeriod.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task5FindSalesByRegionAndPeriod\obj\Debug\Task5FindSalesByRegionAndPeriod.pdb

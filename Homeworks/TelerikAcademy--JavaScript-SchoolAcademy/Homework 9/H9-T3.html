@@ -1,0 +1,85 @@
+<html>
+<head>
+    <title>Homework 9 - Task 3</title>
+</head>
+<body>
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that makes a deep copy of an object
+The function should work for both primitive and reference types
+ */
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Start, false);
+    }
+
+    function clone(object)
+    {
+        if (object == null || "object" != typeof object)
+        {
+            return object;
+        }
+
+        if (object instanceof Object)
+        {
+            var deepCopy = {};
+
+            for (var attr in object)
+            {
+                if (object.hasOwnProperty(attr))
+                {
+                    deepCopy[attr] = clone(object[attr]);
+                }
+            }
+            return deepCopy;
+        }
+
+        if (object instanceof Array)
+        {
+            var deepCopy = [];
+
+            for (var i = 0 ; i < object.length ; i++)
+            {
+                deepCopy[i] = clone(object[i]);
+            }
+            return deepCopy;
+        }
+        throw new Error("Error!");
+    }
+    
+    function Start()
+    {   
+
+        var factory = { product: "computers", workers: 600, }
+
+        var pravec = Object.create(factory);
+
+        console.log("pravec");
+        for (var i in pravec)
+        {
+            console.log(pravec[i]);
+        }
+
+        var pravecCopy = clone(pravec);
+        
+        console.log("pravecCopy");
+        for (var i in pravecCopy)
+        {
+            console.log(pravecCopy[i]);
+        }
+    }
+
+</script>
+</body>
+</html>
+
+
+
+

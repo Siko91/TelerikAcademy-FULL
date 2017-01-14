@@ -1,0 +1,14 @@
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\CatalogueOfFreeContent.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\CatalogueOfFreeContent.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\PowerCollections.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\PowerCollections.xml
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\CatalogueOfFreeContent.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\CatalogueOfFreeContent.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\PowerCollections.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\bin\Debug\PowerCollections.xml
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Catalog-of-Free-Content\CatalogueOfFreeContent\obj\Debug\CatalogueOfFreeContent.csprojResolveAssemblyReference.cache

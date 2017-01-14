@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>Telerik Homework - JS DOM</title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script src="JQuery-min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div height='400px' width='400px' id='the-result-box'></div>
+
+	<br /><br />
+	<button onclick='generateSlider()'>Task 1 - SlideShow</button>
+	<br />
+	<button onclick='generateElementBeforeAndAfter()'>Task 2 - Before and after functionality</button>
+	<br />
+	<button onclick='generateStudentsTable()'>Task 3 - Parse students to table</button>
+	<br />
+	<button onclick='generateBackgraundChanger()'>Task 4 - Background of page changer</button>
+	<br />
+	<button onclick='generateGridView()'>Task 5 - Grid view</button>
+
+    <section id="task-descriptions">
+    	<ol>
+    		<header>
+    			<h1>Tasks To Do</h1>
+    		</header>
+    		<li class="task-description">
+    			Create a slider control using jQuery<br/>
+				The slider can have many slides<br/>
+				Only one slide is visible at a time<br/>
+				Each slide contains HTML code<br/>
+				i.e. it can contain images, forms, divs, headers, links, etc…<br/>
+				Implement functionality for changing the visible slide after 5 seconds<br/>
+				Create buttons for next and previous slide
+			</li><br/>
+    		<li class="task-description">
+    			Using jQuery implement functionality to insert a DOM element before or after another element.
+    		</li><br/>
+    		<li class="task-description">
+    			By given an array of students, generate a table that represents these students<br/>
+				Each student has first name,last name and grade<br/>
+				Use jQuery
+    		</li><br/>
+    		<li class="task-description">
+    			Implement functionality to change the background color of a web page<br/>
+				i.e. select a color from a color picker and set this color as the background color of the page
+    		</li><br/>
+    		<li class="task-description">
+    			*****<br/>
+    			Implement a GridView control<br/>
+				Rows can be added dynamically<br/>
+				A header row can be added dynamically<br/>
+				Each GridView can have at most one header row<br/>
+				Each row can have  a nested GridView<br/>
+				Each GridView can have at most one nested GridView
+    		</li>
+    	</ol>
+    </section>
+
+    <script src="scripts/task1%20-%20slider.js" type="text/javascript"></script>
+    <script src="scripts/task2%20-%20beforeAndAfter.js" type="text/javascript"></script>
+    <script src="scripts/task3%20-%20studentsToTable.js" type="text/javascript"></script>
+    <script src="scripts/task4%20-%20backgraundChanger.js" type="text/javascript"></script>
+    <script src="scripts/task5%20-%20gridView.js" type="text/javascript"></script>
+
+</body>
+</html>

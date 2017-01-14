@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task3CombinationsWithoutRepetitions\bin\Debug\Task3CombinationsWithoutRepetitions.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task3CombinationsWithoutRepetitions\bin\Debug\Task3CombinationsWithoutRepetitions.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task3CombinationsWithoutRepetitions\bin\Debug\Task3CombinationsWithoutRepetitions.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task3CombinationsWithoutRepetitions\obj\Debug\Task3CombinationsWithoutRepetitions.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task3CombinationsWithoutRepetitions\obj\Debug\Task3CombinationsWithoutRepetitions.pdb

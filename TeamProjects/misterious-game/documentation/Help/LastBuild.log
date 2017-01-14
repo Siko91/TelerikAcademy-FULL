@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2014.5.31.0" projectFile="D:\git\misterious-game\documentation\Battle Field 7 Help.shfbproj" started="18.7.2014 г. 10:58:08 ч.">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;D:\Program Files\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files\HTML Help Workshop\&#39;
+Searching for HTML Help 2 compiler...
+    Last step completed in 00:00:00.0088
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0038: Could not find the path to the MS Help 2 compiler.  See error topic in help file for details.
+
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.FindTools()
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.Build()
+
+</buildStep>
+</shfbBuild>

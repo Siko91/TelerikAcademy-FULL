@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Homework 5 - Task 8</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>							  
+
+<label for="Digit0-9">Enter a number : </label>
+<input id="inputArr" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Convert!</button>
+
+<br />
+
+<script>
+
+//	Write a script that finds the greatest of given 5 variables.
+	
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		document.getElementById("Btn").addEventListener("click", onClick, false);
+	}
+
+	function onClick()
+	{
+
+		Math.SQRT
+
+		console.log("function has started");
+		var Int1 = document.getElementById("inputArr").value;
+		var length = Int1.length
+		var number = ""
+
+		console.log("Input: " + Int1);
+
+		for(i=0;i<length;i++)
+		{
+
+			switch (Int1.substr(i,1))
+			{
+				case "0": number += ("Zero"); break;
+				case "1": number += ("One"); break;
+				case "2": number += ("Two"); break;
+				case "3": number += ("Three"); break;
+				case "4": number += ("Four"); break;
+				case "5": number += ("Five"); break;
+				case "6": number += ("Six"); break;
+				case "7": number += ("Seven"); break;
+				case "8": number += ("Eight"); break;
+				case "9": number += ("Nine"); break;
+				default: number += ("an error"); break;
+			}
+			number += (" - ");
+		}
+		number = number.substring(1, number.length-3);
+		console.log(number);
+	}
+</script>
+</body>
+</html>

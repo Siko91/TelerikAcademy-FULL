@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\obj\Debug\Task1AlbumCatalogueToXML.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\bin\Debug\Task1AlbumCatalogueToXML.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\bin\Debug\Task1AlbumCatalogueToXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\bin\Debug\Task1AlbumCatalogueToXML.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\bin\Debug\XmlParsers.Classes.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\bin\Debug\XmlParsers.Classes.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\obj\Debug\Task1AlbumCatalogueToXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task1AlbumCatalogueToXML\obj\Debug\Task1AlbumCatalogueToXML.pdb

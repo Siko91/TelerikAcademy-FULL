@@ -1,0 +1,16 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.exe.config
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Task3ParseXmlToJson.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task3ParseXmlToJson\obj\Debug\Task3ParseXmlToJson.csprojResolveAssemblyReference.cache

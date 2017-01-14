@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\12 - Extend 11\bin\Debug\12 - Extend 11.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\12 - Extend 11\bin\Debug\12 - Extend 11.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\12 - Extend 11\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\12 - Extend 11\obj\x86\Debug\12 - Extend 11.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\12 - Extend 11\obj\x86\Debug\12 - Extend 11.pdb

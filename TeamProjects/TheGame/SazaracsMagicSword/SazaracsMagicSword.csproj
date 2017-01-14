@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{35239CB5-A78C-49AD-9286-9B5424FF8FCB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SazaracsMagicSword</RootNamespace>
+    <AssemblyName>SazaracsMagicSword</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Dangers.cs" />
+    <Compile Include="Data\Enemyes.cs" />
+    <Compile Include="Data\HeroTypes.cs" />
+    <Compile Include="Data\Images.cs" />
+    <Compile Include="Data\Levels.cs" />
+    <Compile Include="Data\LoadData.cs" />
+    <Compile Include="Data\MagicAndWeapons.cs" />
+    <Compile Include="Data\NPCs.cs" />
+    <Compile Include="Data\VisualElements.cs" />
+    <Compile Include="GameObjects\DangerousTerritory.cs" />
+    <Compile Include="LoadSaveGame.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="RunTime\Battle.cs" />
+    <Compile Include="RunTime\Conversation.cs" />
+    <Compile Include="RunTime\MenuChangeWeapon.cs" />
+    <Compile Include="RunTime\MenuChooseHero.cs" />
+    <Compile Include="RunTime\DiceRoller.cs" />
+    <Compile Include="RunTime\Drawer.cs" />
+    <Compile Include="RunTime\Loader.cs" />
+    <Compile Include="GameObjects\Hero.cs" />
+    <Compile Include="GameObjects\Magic.cs" />
+    <Compile Include="GameObjects\VisualBrick.cs" />
+    <Compile Include="GameObjects\Weapon.cs" />
+    <Compile Include="GameObjects\Enemy.cs" />
+    <Compile Include="GameObjects\Human.cs" />
+    <Compile Include="GameObjects\NPC.cs" />
+    <Compile Include="GameObjects\Position.cs" />
+    <Compile Include="GameObjects\Statistics.cs" />
+    <Compile Include="GameObjects\VisualElement.cs" />
+    <Compile Include="RunTime\MenuGameOver.cs" />
+    <Compile Include="RunTime\MenuInGame.cs" />
+    <Compile Include="Start.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Save\save.bin" />
+    <None Include="GameObjects\ObjectsDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\Conversations\FilthyDog.txt" />
+    <Content Include="Data\Conversations\TheAngryMan.txt" />
+    <Content Include="Data\Conversations\TheAssasin.txt" />
+    <Content Include="Data\Conversations\TheBoringGuy.txt" />
+    <Content Include="Data\Conversations\TheDrunk.txt" />
+    <Content Include="Data\Conversations\TheGuardian.txt" />
+    <Content Include="Data\Conversations\TheQuestGiver.txt" />
+    <Content Include="Data\Conversations\TheSmith.txt" />
+    <Content Include="Data\Conversations\TheTroll.txt" />
+    <Content Include="Data\Conversations\TheWitch.txt" />
+    <Content Include="Data\Images\Bear.txt" />
+    <Content Include="Data\Images\Damage.txt" />
+    <Content Include="Data\Images\Demon.txt" />
+    <Content Include="Data\Images\Dog.txt" />
+    <Content Include="Data\Images\GameOver.txt" />
+    <Content Include="Data\Images\Gnome.txt" />
+    <Content Include="Data\Images\HumanInFlame.txt" />
+    <Content Include="Data\Images\HumanOld.txt" />
+    <Content Include="Data\Images\HumanWithShieldAndBigSword.txt" />
+    <Content Include="Data\Images\HumanWithStaff.txt" />
+    <Content Include="Data\Images\HumanWithSword.txt" />
+    <Content Include="Data\Images\HumanWithTwoSabers.txt" />
+    <Content Include="Data\Images\IntroText.txt" />
+    <Content Include="Data\Images\Spider.txt" />
+    <Content Include="Data\Images\WareWolf.txt" />
+    <Content Include="Data\Levels\Level1.txt" />
+    <Content Include="Data\Levels\Level2.txt" />
+    <Content Include="Data\Levels\Level3.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

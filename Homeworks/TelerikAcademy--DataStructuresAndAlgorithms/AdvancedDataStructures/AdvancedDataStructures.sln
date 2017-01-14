@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1PriorityQueue", "Task1PriorityQueue\Task1PriorityQueue.csproj", "{4C792202-A43A-49E9-BEC7-C474A4956E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2RangeSearching", "Task2RangeSearching\Task2RangeSearching.csproj", "{2C7A77B4-54F8-494D-BB42-B9F575DC9F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3LargeTextMapping", "Task3LargeTextMapping\Task3LargeTextMapping.csproj", "{CE5F6607-2DBC-4282-9392-CC77CF78EC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C792202-A43A-49E9-BEC7-C474A4956E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C792202-A43A-49E9-BEC7-C474A4956E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C792202-A43A-49E9-BEC7-C474A4956E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C792202-A43A-49E9-BEC7-C474A4956E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7A77B4-54F8-494D-BB42-B9F575DC9F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7A77B4-54F8-494D-BB42-B9F575DC9F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7A77B4-54F8-494D-BB42-B9F575DC9F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7A77B4-54F8-494D-BB42-B9F575DC9F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5F6607-2DBC-4282-9392-CC77CF78EC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5F6607-2DBC-4282-9392-CC77CF78EC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5F6607-2DBC-4282-9392-CC77CF78EC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5F6607-2DBC-4282-9392-CC77CF78EC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

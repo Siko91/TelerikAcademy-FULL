@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\bin\Debug\Task2OddAppearences.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\bin\Debug\Task2OddAppearences.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\bin\Debug\Task2OddAppearences.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\bin\Debug\Task1OccurenceCounter.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\bin\Debug\Task1OccurenceCounter.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\obj\Debug\Task2OddAppearences.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\obj\Debug\Task2OddAppearences.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task2OddAppearences\obj\Debug\Task2OddAppearences.pdb

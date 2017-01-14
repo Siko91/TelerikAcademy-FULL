@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\18 - Selective Removal\bin\Debug\18 - Selective Removal.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\18 - Selective Removal\bin\Debug\18 - Selective Removal.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\18 - Selective Removal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\18 - Selective Removal\obj\x86\Debug\18 - Selective Removal.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\18 - Selective Removal\obj\x86\Debug\18 - Selective Removal.pdb

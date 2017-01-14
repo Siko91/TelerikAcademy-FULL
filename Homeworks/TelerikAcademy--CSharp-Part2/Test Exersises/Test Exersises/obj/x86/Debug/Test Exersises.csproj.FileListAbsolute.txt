@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Test Exersises\bin\Debug\Test Exersises.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Test Exersises\bin\Debug\Test Exersises.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Test Exersises\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Test Exersises\obj\x86\Debug\Test Exersises.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Test Exersises\obj\x86\Debug\Test Exersises.pdb

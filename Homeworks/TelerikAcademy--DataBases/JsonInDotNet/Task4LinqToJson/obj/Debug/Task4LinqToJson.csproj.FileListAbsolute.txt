@@ -1,0 +1,16 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.exe.config
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\bin\Debug\Task4LinqToJson.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task4LinqToJson\obj\Debug\Task4LinqToJson.csprojResolveAssemblyReference.cache

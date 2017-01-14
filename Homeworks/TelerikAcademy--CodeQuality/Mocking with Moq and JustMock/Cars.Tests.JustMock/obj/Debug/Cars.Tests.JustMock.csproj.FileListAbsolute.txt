@@ -1,0 +1,11 @@
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Cars.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Moq.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Moq.xml
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.xml
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+D:\git\TelerikAcademy--CodeQuality\Mocking with Moq and JustMock\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb

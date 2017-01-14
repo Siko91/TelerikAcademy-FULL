@@ -1,0 +1,95 @@
+<html>
+<head>
+    <title>Homework 7 - Task 7</title>
+</head>
+<body>
+
+<label> Enter numbers seperated with comas "," : </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<label> Enter the element that you're searching for : </label>
+<input id="Input2" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click to count!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm (find it in Wikipedia) */
+
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+        var arr = document.getElementById("Input").value;
+        var key = document.getElementById("Input2").value;
+
+        seperator = ",";
+        arr = arr.split(seperator);
+        var firstindex = 0;
+        var lastindex = arr.length-1;
+        var middle = Math.floor((firstindex + lastindex)/2);
+        var keyIndex;
+
+        var sorted = new Array(arr.length);
+        
+        for (var i = arr.length - 1; i >= 0; i--) {
+            arr[i] = parseInt(arr[i]);
+            sorted[i] = arr[i]
+        }
+        
+        for (var i = 0; i < sorted.length; i++)
+        {
+            if(sorted[i] > sorted[i+1])
+            {
+                temp = sorted[i];
+                sorted[i] = sorted[i+1];
+                sorted[i+1] = temp;
+
+                if (i>0)
+                {
+                    i -= 2;
+                }
+            }
+        }
+
+        while(sorted[middle] != key && firstindex < lastindex)
+        {
+            if (key < sorted[middle])
+            {
+                lastindex = middle - 1;
+            }
+            else if (key > sorted[middle])
+            {
+                firstindex = middle + 1;
+            }
+
+            //recalculate middle
+            middle = Math.floor((lastindex + firstindex)/2); 
+        }
+
+        sorted[middle] == key ? keyIndex = middle : keyIndex = -1
+
+        console.log("Array : (" + arr.join(")-(") + ")")
+        console.log("sorted : (" + sorted.join(")-(") + ")")
+        console.log("Element " + key + " apeared at...");
+        console.log(keyIndex>0? ("position " + keyIndex) : "no position" + ".")
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

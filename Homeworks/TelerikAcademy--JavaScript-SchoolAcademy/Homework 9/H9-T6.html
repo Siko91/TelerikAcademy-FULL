@@ -1,0 +1,118 @@
+<html>
+<head>
+    <title>Homework 9 - Task 6</title>
+</head>
+<body>
+
+<label> Group by "firstname", "lastname", or "age"? </label>
+<input id="Input1" type="text" class="js-console-input" />
+<br />
+
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups
+
+var persons = {…};
+var groupedByFname = Group(persons,"firstname");
+var groupedByAge= Group(persons,"age"); */
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Start, false);
+    }
+
+    function Group(array, key)
+    {
+        var grouped = {};
+
+        function Print (grouped)
+        {
+
+            console.log(grouped);
+
+            for (var i in grouped)
+            {
+                if (typeof(grouped[i]) != "Function") {};
+                {
+                    console.log(i);
+                    console.log(grouped[i]);
+                }
+            }
+        }
+
+        if(key == "age")
+        {
+            for (var i = 0; i < array.length; ++i) {
+                var person = array[i];
+
+                if (grouped[person.age] == undefined)
+                    {
+                        grouped[person.age] = [person.age];
+                    }
+
+                grouped[person.age].push(person);
+            }
+            Print(grouped);
+        }
+        else if(key == "firstname")
+        {
+            for (var i = 0; i < array.length; ++i) {
+                var person = array[i];
+
+                if (grouped[person.firstname] == undefined)
+                    {
+                        grouped[person.firstname] = [person.firstname];
+                    }
+
+                grouped[person.firstname].push(person);
+            }
+            Print(grouped);
+        }
+        else if(key == "lastname")
+        {
+            for (var i = 0; i < array.length; ++i) {
+                var person = array[i];
+
+                if (grouped[person.lastname] == undefined)
+                    {
+                        grouped[person.lastname] = [person.lastname];
+                    }
+
+                grouped[person.lastname].push(person);
+            }
+            Print(grouped);
+        }
+    }
+
+    function Start()
+    {   
+
+        var param = document.getElementById("Input1").value;
+
+        var persons = [
+            {firstname : "Gosho",   lastname: "Petrov",     age: 32}, 
+            {firstname : "Bay",     lastname: "Ivan",       age: 32},
+            {firstname : "Gosho",   lastname: "Geimara",    age: 32},
+            {firstname : "Stoicho", lastname: "Karastanev", age: 32},
+            {firstname : "Carvula", lastname: "Jivkova",    age: 18},
+            {firstname : "Genka",   lastname: "Jivkova",    age: 13}];
+
+        if(param == "firstname" || "lastname" || "age")
+        {
+            Group(persons, param);
+        }
+        else
+        {
+            console.log("Unknown parameter.")
+        }
+    }
+
+</script>
+</body>
+</html>

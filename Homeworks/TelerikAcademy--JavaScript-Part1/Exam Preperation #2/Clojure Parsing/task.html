@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title></title>
+
+	<script type="text/javascript" src="Solve.js"></script>
+
+	<script type="text/javascript">
+		function Test1() {
+			var input = [
+				"(def func 10)",
+				"(def newFunc (+  func 2))",
+				"(def sumFunc (+ func func newFunc 0 0 0))",
+				"(* sumFunc 2)"
+			];
+
+			var resultDiv = document.getElementById("result");
+			resultDiv.innerHTML = Solve(input);
+		}
+		function Test2() {
+			var input = [
+				"(def func (+ 5 2))",
+				"(def func2 (/  func 5 2 1 0))",
+				"(def func3 (/ func 2))",
+				"(+ func3 func)"
+			];
+
+			var resultDiv = document.getElementById("result");
+			resultDiv.innerHTML = Solve(input);
+		}
+	</script>
+</head>
+<body>
+	<button onclick="Test1()">Result: 64</button>
+	<button onclick="Test2()">Error</button>
+	<br /><br />
+	<div id="result"></div>
+</body>
+</html>

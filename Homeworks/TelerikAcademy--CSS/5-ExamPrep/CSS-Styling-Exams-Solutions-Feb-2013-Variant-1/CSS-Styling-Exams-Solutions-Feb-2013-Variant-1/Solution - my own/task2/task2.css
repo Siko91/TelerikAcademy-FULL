@@ -1,0 +1,135 @@
+/*global*/
+
+body
+{
+    width: 960px;
+    font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+    font-size: 16px;
+}
+
+*, a
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+/*functionality*/
+
+.tab-content 
+{
+    display: none;
+}
+
+.current .tab-content 
+{
+    display: block;
+}
+
+/*positioning*/
+
+#wrapper 
+{
+    margin: 15px;
+    
+    width: 340px;
+    height: 230px;
+}
+
+.tab-strip > li
+{
+    display: inline-block;
+    width: 85px;
+    text-align: center;
+}
+.tab-strip > li > a
+{
+    display: block;
+    font-size: 22px;
+    padding: 4pt;
+    color: Black;
+}
+
+/*colors and borders*/
+#wrapper 
+{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.tab-strip > li > a
+{
+    background: rgb(240,240,240); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(240,240,240,1) 0%, rgba(170,170,170,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(240,240,240,1)), color-stop(100%,rgba(170,170,170,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(240,240,240,1) 0%,rgba(170,170,170,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(240,240,240,1) 0%,rgba(170,170,170,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(240,240,240,1) 0%,rgba(170,170,170,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(240,240,240,1) 0%,rgba(170,170,170,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#aaaaaa',GradientType=0 ); /* IE6-9 */
+
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.current > a.tab-btn
+{
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-right: 1px solid black;
+}
+
+/*content details*/
+
+.tab-content
+{
+    position: absolute;
+    left: 36px;
+    top: 65px;
+}
+
+    /*Tab 1*/
+
+.tab-content ul ul
+{
+    list-style-type: lower-latin;
+}
+
+.tab-content > ul
+{
+    display: list-item;
+}
+.tab-content > ul ul
+{
+    padding-left: 25px;
+}
+
+    /*Tab 2*/
+
+.tab-content table
+{
+    border-collapse: collapse;
+    background-color: ActiveCaption;
+}
+.tab-content table td, .tab-content table th 
+{
+    border: 1px solid black;
+    padding: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.tab-content table tbody
+{
+    text-align: left;
+}
+
+    /*Tab 3*/
+
+
+
+    /*Tab 4*/
+    
+    
+    

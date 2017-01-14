@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\06 - Read Sort and Save\bin\Debug\06 - Read Sort and Save.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\06 - Read Sort and Save\bin\Debug\06 - Read Sort and Save.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\06 - Read Sort and Save\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\06 - Read Sort and Save\obj\x86\Debug\06 - Read Sort and Save.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\06 - Read Sort and Save\obj\x86\Debug\06 - Read Sort and Save.pdb

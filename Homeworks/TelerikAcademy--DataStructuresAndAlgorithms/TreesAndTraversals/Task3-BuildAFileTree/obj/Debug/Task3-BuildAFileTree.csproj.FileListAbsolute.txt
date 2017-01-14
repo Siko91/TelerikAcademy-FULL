@@ -1,0 +1,6 @@
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\bin\Debug\Task3-BuildAFileTree.exe.config
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\obj\Debug\Task3-BuildAFileTree.csprojResolveAssemblyReference.cache
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\bin\Debug\Task3-BuildAFileTree.exe
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\bin\Debug\Task3-BuildAFileTree.pdb
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\obj\Debug\Task3-BuildAFileTree.exe
+D:\Git\algo\TreesAndTraversals\Task3-BuildAFileTree\obj\Debug\Task3-BuildAFileTree.pdb

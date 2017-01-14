@@ -1,0 +1,12 @@
+body {
+    background-color: Silver;
+}
+
+#combo-box-container {
+    width: 250px;
+    text-align: center;
+}
+
+#combo-box-container .current {
+    border: 1px solid black;
+}

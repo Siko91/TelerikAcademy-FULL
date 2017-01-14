@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\SchoolSystem.Models.dll.config
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\SchoolSystem.Models.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\SchoolSystem.Models.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\obj\Debug\SchoolSystem.Models.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\obj\Debug\SchoolSystem.Models.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\SchoolSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache

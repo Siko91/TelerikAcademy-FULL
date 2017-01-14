@@ -1,0 +1,7 @@
+case "зужа": return true;
+case "зузи": return true;
+case "зузичка": return true;
+case "зърлатан": return true;
+case "зюмбюл": return true;
+case "зюмбюла": return true;
+case "зюмбюлка": return true;

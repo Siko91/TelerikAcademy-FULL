@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\06 - Split And Sum\bin\Debug\06 - Split And Sum.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\06 - Split And Sum\bin\Debug\06 - Split And Sum.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\06 - Split And Sum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\06 - Split And Sum\obj\x86\Debug\06 - Split And Sum.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\06 - Split And Sum\obj\x86\Debug\06 - Split And Sum.pdb

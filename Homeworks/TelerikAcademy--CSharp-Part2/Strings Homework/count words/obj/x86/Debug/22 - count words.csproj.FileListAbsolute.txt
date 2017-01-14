@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\count words\bin\Debug\count words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\count words\bin\Debug\count words.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\count words\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\count words\obj\x86\Debug\count words.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\count words\obj\x86\Debug\count words.pdb

@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\bin\Debug\Unit Testing.pdb
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\obj\x86\Debug\Unit Testing.exe
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\obj\x86\Debug\Unit Testing.pdb

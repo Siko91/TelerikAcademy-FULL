@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\bin\Debug\Task6-CreateExcelTable.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\bin\Debug\Task6-CreateExcelTable.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\bin\Debug\Task6-CreateExcelTable.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\obj\Debug\Task6-CreateExcelTable.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\obj\Debug\Task6-CreateExcelTable.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task6-CreateExcelTable\obj\Debug\Task6-CreateExcelTable.pdb

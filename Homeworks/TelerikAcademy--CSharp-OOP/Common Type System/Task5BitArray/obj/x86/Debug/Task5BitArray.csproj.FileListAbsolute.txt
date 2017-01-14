@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task5BitArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task5BitArray\bin\Debug\Task5BitArray.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task5BitArray\bin\Debug\Task5BitArray.pdb
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task5BitArray\obj\x86\Debug\Task5BitArray.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task5BitArray\obj\x86\Debug\Task5BitArray.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MongoDbChat.WpfClient" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> mongodb://Siko:password1991@ds045099.mongolab.com:45099/telerik_chat</Value>
+    </Setting>
+    <Setting Name="LocalString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mongodb://localhost:27017/telerik_chat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

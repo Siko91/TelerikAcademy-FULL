@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_ConvertModelWizard_Files\UpgradeReferences.xslt"?>
+<UpgradeLog>
+  <Events>
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\NinjaFactory.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\NinjaFactory.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\NinjaFactory.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\NinjaFactoryApp.resx" Message="NinjaFactoryApp.resx" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\Properties\Resources.resx" Message="Resources.resx" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\NinjaFactory.csproj" Message="NinjaFactory" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\NinjaFactory.XMLReporting.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\NinjaFactory.XMLReporting.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\NinjaFactory.XMLReporting.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.XMLReporting\NinjaFactory.XMLReporting.csproj" Message="NinjaFactory.XMLReporting" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\NinjaFactory.DataBase.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\NinjaFactory.DataBase.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\NinjaFactory.DataBase.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\packages.config" Message="packages.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase\NinjaFactory.DataBase.csproj" Message="NinjaFactory.DataBase" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\NinjaFactory.Imports.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\NinjaFactory.Imports.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\NinjaFactory.Imports.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\App.config" Message="App.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\packages.config" Message="packages.config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\NinjaFactory.Imports.csproj" Message="NinjaFactory.Imports" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\NinjaFactory.NinjaCatalogue.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\NinjaFactory.NinjaCatalogue.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\NinjaFactory.NinjaCatalogue.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\NinjaFactory.NinjaCatalogue.csproj" Message="NinjaFactory.NinjaCatalogue" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\NinjaFactory.DataBase.MySql.csproj" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\NinjaFactory.DataBase.MySql.csproj" Message="Project References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\NinjaFactory.DataBase.MySql.csproj" Message="Import Directives" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="Assembly References" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="Http Handlers" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="Handlers (IIS7+)" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="Config Sections" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="Render Extensions" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\App.Config" Message="App.Config" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\NinjaFactory.DataBase.MySql.csproj" Message="NinjaFactory.DataBase.MySql" />
+    <Event EventType="Success" Action="Analyze" SourceItem="D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.sln" Message="NinjaFactory" />
+  </Events>
+</UpgradeLog>

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiverseCommunication", "MultiverseCommunication\MultiverseCommunication.csproj", "{7B2885D6-4023-4561-9FFB-3E7B370CFE01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWords", "MagicWords\MagicWords.csproj", "{FF4AC790-875A-46E1-A6E6-B311F2B21401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeaturingWithGrisko", "FeaturingWithGrisko\FeaturingWithGrisko.csproj", "{DD323641-EC5D-4CED-B130-F814E26D8B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndDecript", "DecodeAndDecript\DecodeAndDecript.csproj", "{AA2395CB-6B8E-494C-A887-FC2024CFA514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDoge", "HelpDoge\HelpDoge.csproj", "{DC93F485-E4F8-4D4F-8694-1ED9A0279201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2885D6-4023-4561-9FFB-3E7B370CFE01}.Debug|x86.ActiveCfg = Debug|x86
+		{7B2885D6-4023-4561-9FFB-3E7B370CFE01}.Debug|x86.Build.0 = Debug|x86
+		{7B2885D6-4023-4561-9FFB-3E7B370CFE01}.Release|x86.ActiveCfg = Release|x86
+		{7B2885D6-4023-4561-9FFB-3E7B370CFE01}.Release|x86.Build.0 = Release|x86
+		{FF4AC790-875A-46E1-A6E6-B311F2B21401}.Debug|x86.ActiveCfg = Debug|x86
+		{FF4AC790-875A-46E1-A6E6-B311F2B21401}.Debug|x86.Build.0 = Debug|x86
+		{FF4AC790-875A-46E1-A6E6-B311F2B21401}.Release|x86.ActiveCfg = Release|x86
+		{FF4AC790-875A-46E1-A6E6-B311F2B21401}.Release|x86.Build.0 = Release|x86
+		{DD323641-EC5D-4CED-B130-F814E26D8B66}.Debug|x86.ActiveCfg = Debug|x86
+		{DD323641-EC5D-4CED-B130-F814E26D8B66}.Debug|x86.Build.0 = Debug|x86
+		{DD323641-EC5D-4CED-B130-F814E26D8B66}.Release|x86.ActiveCfg = Release|x86
+		{DD323641-EC5D-4CED-B130-F814E26D8B66}.Release|x86.Build.0 = Release|x86
+		{AA2395CB-6B8E-494C-A887-FC2024CFA514}.Debug|x86.ActiveCfg = Debug|x86
+		{AA2395CB-6B8E-494C-A887-FC2024CFA514}.Debug|x86.Build.0 = Debug|x86
+		{AA2395CB-6B8E-494C-A887-FC2024CFA514}.Release|x86.ActiveCfg = Release|x86
+		{AA2395CB-6B8E-494C-A887-FC2024CFA514}.Release|x86.Build.0 = Release|x86
+		{DC93F485-E4F8-4D4F-8694-1ED9A0279201}.Debug|x86.ActiveCfg = Debug|x86
+		{DC93F485-E4F8-4D4F-8694-1ED9A0279201}.Debug|x86.Build.0 = Debug|x86
+		{DC93F485-E4F8-4D4F-8694-1ED9A0279201}.Release|x86.ActiveCfg = Release|x86
+		{DC93F485-E4F8-4D4F-8694-1ED9A0279201}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

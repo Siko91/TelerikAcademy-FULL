@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\18 - extract emails\bin\Debug\18 - extract emails.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\18 - extract emails\bin\Debug\18 - extract emails.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\18 - extract emails\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\18 - extract emails\obj\x86\Debug\18 - extract emails.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\18 - extract emails\obj\x86\Debug\18 - extract emails.pdb

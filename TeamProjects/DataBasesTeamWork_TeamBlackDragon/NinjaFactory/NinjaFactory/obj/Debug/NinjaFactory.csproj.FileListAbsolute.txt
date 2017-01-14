@@ -1,0 +1,291 @@
+C:\Users\TEDI-05\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NinjaFactory.exe.config
+C:\Users\TEDI-05\Desktop\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+E:\DEV\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+D:\git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+C:\Users\ivossss\Desktop\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+D:\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.Runtime.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.Runtime.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\BlackDragon_backup\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.Runtime.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+C:\Users\Boris\Documents\Visual Studio 2012\Projects\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml
+D:\Telerik\Databases\Teamwork\FINAL VERSION\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\System.Data.SQLite.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe.config
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.exe
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.exe
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\System.Data.SQLite.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.XMLReporting.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Driver.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\MongoDB.Bson.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.NinjaFactoryApp.resources
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.Properties.Resources.resources
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\obj\Debug\NinjaFactory.csproj.GenerateResource.Cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\System.Data.SQLite.xml
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\x64\SQLite.Interop.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\x86\SQLite.Interop.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\System.Data.SQLite.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.dll
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.ExcelReporting.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\NinjaFactory.PDFReporting.pdb
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\System.Data.SQLite.xml
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\EPPlus.xml
+D:\Git\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory\bin\Debug\itextsharp.xml

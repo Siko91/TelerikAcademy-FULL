@@ -1,0 +1,60 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="BunnyEscape.Views.StoryView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BunnyEscape.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+                         >
+
+    <Page.Resources>
+        <Style TargetType="Button" x:Key="responseStyle">
+            <Setter Property="Background" Value="Transparent" ></Setter>
+            <Setter Property="FontSize" Value="25" ></Setter>
+            <Setter Property="BorderThickness" Value="1" ></Setter>
+            <Setter Property="Background" Value="Transparent" ></Setter>
+        </Style>
+    </Page.Resources>
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Canvas 
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Stretch">
+            <Rectangle
+                Canvas.Top="{Binding Path=DialogueBoxPos.Y, Converter={StaticResource percentToHeightConverter}}"
+                Canvas.Left="{Binding Path=DialogueBoxPos.X, Converter={StaticResource percentToWidthConverter}}"
+                Width="{Binding Path=DialogueBoxSize.X, Converter={StaticResource percentToWidthConverter}}" 
+                Height="{Binding Path=DialogueBoxSize.Y, Converter={StaticResource percentToHeightConverter}}"
+                Fill="{Binding Path=CurrentBackgroundPath, Converter={StaticResource pathToBrushConverter}}"/>
+            <TextBlock 
+                Canvas.Top="{Binding Path=NpcTextPos.Y, Converter={StaticResource percentToHeightConverter}}"
+                Canvas.Left="{Binding Path=NpcTextPos.X, Converter={StaticResource percentToWidthConverter}}"
+                Width="{Binding Path=NpcTextSize.X, Converter={StaticResource percentToWidthConverter}}" 
+                Height="{Binding Path=NpcTextSize.Y, Converter={StaticResource percentToHeightConverter}}"
+                SelectionHighlightColor="Transparent"
+                FontSize="30"
+                Foreground="White"
+                TextWrapping="Wrap"
+                Text="{Binding Path=CurrentNpcDialogue}" />
+
+            <StackPanel x:Name="responcesPanel"
+                      Canvas.Top="{Binding Path=ResponcesPos.Y, Converter={StaticResource percentToHeightConverter}}"
+                      Canvas.Left="{Binding Path=ResponcesPos.X, Converter={StaticResource percentToWidthConverter}}"
+                      Width="{Binding Path=ResponcesSize.X, Converter={StaticResource percentToWidthConverter}}" 
+                      Height="{Binding Path=ResponcesSize.Y, Converter={StaticResource percentToHeightConverter}}" >
+                <Button x:ConnectionId='2' x:Name="responce1"
+                        Style="{StaticResource responseStyle}"
+                                                     />
+                <Button x:ConnectionId='3' x:Name="responce2"
+                        Style="{StaticResource responseStyle}"
+                                                     />
+                <Button x:ConnectionId='4' x:Name="responce3"
+                        Style="{StaticResource responseStyle}"
+                                                     />
+                
+            </StackPanel>
+        </Canvas>
+    </Grid>
+</Page>
+

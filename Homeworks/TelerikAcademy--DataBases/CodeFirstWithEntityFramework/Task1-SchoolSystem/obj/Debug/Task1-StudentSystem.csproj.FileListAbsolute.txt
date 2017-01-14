@@ -1,0 +1,14 @@
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\Task1-SchoolSystem.exe.config
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\obj\Debug\Task1-SchoolSystem.exe
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\obj\Debug\Task1-SchoolSystem.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\obj\Debug\Task1-StudentSystem.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\Task1-SchoolSystem.exe
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\Task1-SchoolSystem.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\SchoolSystem.Models.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\StudentSystem.Data.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\SchoolSystem.Models.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\StudentSystem.Data.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task1-SchoolSystem\bin\Debug\EntityFramework.SqlServer.xml

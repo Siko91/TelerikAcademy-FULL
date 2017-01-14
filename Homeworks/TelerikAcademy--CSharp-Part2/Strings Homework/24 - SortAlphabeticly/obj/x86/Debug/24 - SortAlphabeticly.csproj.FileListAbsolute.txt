@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\24 - SortAlphabeticly\bin\Debug\24 - SortAlphabeticly.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\24 - SortAlphabeticly\bin\Debug\24 - SortAlphabeticly.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\24 - SortAlphabeticly\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\24 - SortAlphabeticly\obj\x86\Debug\24 - SortAlphabeticly.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\24 - SortAlphabeticly\obj\x86\Debug\24 - SortAlphabeticly.pdb

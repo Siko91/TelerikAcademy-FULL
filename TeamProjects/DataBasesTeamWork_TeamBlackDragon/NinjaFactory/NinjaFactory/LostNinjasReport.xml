@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lostNinjaReportsContainer>
+  <LostNinjaReport>
+    <JobId>3</JobId>
+    <Client>Don Kapisaro</Client>
+    <Task>Clean a house</Task>
+    <Price>50.0000</Price>
+    <NinjaId>1</NinjaId>
+    <NinjaName>Michusi Savara</NinjaName>
+    <NinjaKillingExperiance>1</NinjaKillingExperiance>
+    <NinjaMinimalPayment>25.0000</NinjaMinimalPayment>
+  </LostNinjaReport>
+  <LostNinjaReport>
+    <JobId>33</JobId>
+    <Client>James, The Cliche, Bond</Client>
+    <Task>Teach Ninja Arts</Task>
+    <Price>1500.0000</Price>
+    <NinjaId>12</NinjaId>
+    <NinjaName>Kikunojo Inaba</NinjaName>
+    <NinjaKillingExperiance>41</NinjaKillingExperiance>
+    <NinjaMinimalPayment>300.0000</NinjaMinimalPayment>
+  </LostNinjaReport>
+  <LostNinjaReport>
+    <JobId>52</JobId>
+    <Client>Ricky, the Holly One</Client>
+    <Task>Spy on the goverment</Task>
+    <Price>6500.0000</Price>
+    <NinjaId>19</NinjaId>
+    <NinjaName>Yachi Iida</NinjaName>
+    <NinjaKillingExperiance>328</NinjaKillingExperiance>
+    <NinjaMinimalPayment>3500.0000</NinjaMinimalPayment>
+  </LostNinjaReport>
+  <LostNinjaReport>
+    <JobId>75</JobId>
+    <Client>Stink Eye Stanly</Client>
+    <Task>Slay a demon</Task>
+    <Price>5000000.0000</Price>
+    <NinjaId>26</NinjaId>
+    <NinjaName>Aki Komatsu</NinjaName>
+    <NinjaKillingExperiance>70846</NinjaKillingExperiance>
+    <NinjaMinimalPayment>150000.0000</NinjaMinimalPayment>
+  </LostNinjaReport>
+</lostNinjaReportsContainer>

@@ -1,0 +1,34 @@
+body {
+	background: black;
+	color: #ccc;
+	text-align:center;
+}
+
+#result-canvas {
+	display: inline-block;
+	width: 500px;
+	height: 300px;
+	background: white;
+	color: black;
+	margin-top: 50px;
+	overflow: hidden;
+}
+
+.task-input {
+	min-width: 100px;
+	min-height: 100px;
+	display: inline-block;
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid gray;
+}
+
+#tool-box {
+	position: absolute;
+	margin: 50px;
+	float: left;
+	height: 300px;
+	width: 150px;
+	background: white;
+	color:#444;
+}

@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\Task11UserGroupingSystem.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\Task11UserGroupingSystem.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\Task11UserGroupingSystem.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\obj\Debug\Task11UserGroupingSystem.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\obj\Debug\Task11UserGroupingSystem.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task11UserGroupingSystem\obj\Debug\Task11UserGroupingSystem.csprojResolveAssemblyReference.cache

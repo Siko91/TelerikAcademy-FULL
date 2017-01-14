@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\08 - extract sentences by word\bin\Debug\08 - extract sentences by word.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\08 - extract sentences by word\bin\Debug\08 - extract sentences by word.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\08 - extract sentences by word\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\08 - extract sentences by word\obj\x86\Debug\08 - extract sentences by word.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\08 - extract sentences by word\obj\x86\Debug\08 - extract sentences by word.pdb

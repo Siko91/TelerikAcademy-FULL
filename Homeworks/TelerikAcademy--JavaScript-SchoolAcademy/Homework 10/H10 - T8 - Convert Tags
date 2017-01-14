@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title>Homework 10 - Task 8 - </title>
+</head>
+<body>
+
+    <label>Input code for testing. Example: &#60;a href="www.mysite.com">My Text&#60;/a></label>
+    <br />
+    <input id="Input1" type="text" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        /* Write a JavaScript function that replaces in a HTML document given as string all the tags <a href="…">…</a> with corresponding tags [URL=…]…[/URL]. Sample HTML fragment: */
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+        	var str = document.getElementById("Input1").value;
+            console.log(str);
+            var str = str.replace("<a href=\"", "[URL=")
+            var str = str.replace("\">", "]")
+            var str = str.replace("</a>", "[/URL]")
+            console.log(str);
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

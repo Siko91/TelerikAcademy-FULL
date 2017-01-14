@@ -1,0 +1,33 @@
+* { margin: 0; padding: 0; }
+
+table, th, td{
+	padding-left: 10pt;
+	padding-right: 10pt;
+	padding-top: 1pt;
+	padding-bottom: 1pt;
+	border-collapse:collapse;
+}
+
+table tr:nth-child(odd) td{
+
+	background-color: rgb(250,250,250);
+}
+table tr:nth-child(even) td{
+
+	background-color: rgb(236,236,216);
+}
+
+th, td {
+	border-left: 1pt solid rgba(210,210,190, 0.9);
+}
+
+table thead	{
+	background-color: rgb(90,190,10);
+	border-bottom: 1px rgb(40,120,0);
+}
+
+
+table #country img {
+	width: 14pt;
+	height: 7pt;
+}

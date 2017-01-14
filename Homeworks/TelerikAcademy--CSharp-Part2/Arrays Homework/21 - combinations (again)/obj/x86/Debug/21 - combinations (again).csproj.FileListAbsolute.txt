@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\21 - combinations (again)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\21 - combinations (again)\bin\Debug\21 - combinations (again).exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\21 - combinations (again)\bin\Debug\21 - combinations (again).pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\21 - combinations (again)\obj\x86\Debug\21 - combinations (again).exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\21 - combinations (again)\obj\x86\Debug\21 - combinations (again).pdb

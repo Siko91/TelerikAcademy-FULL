@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
+    <link href="styles/main.css" rel="stylesheet" />
+    <link href="styles/custom.css" rel="stylesheet" />
+    <script src="cordova.js"></script>
+    <script src="kendo/js/jquery.min.js"></script>
+    <script src="kendo/js/kendo.mobile.min.js"></script>
+    <script src="scripts/raphael-min.js"></script>
+    <script src="https://bs-static.cdn.telerik.com/latest/everlive.all.min.js"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/login.js"></script>
+    <script src="scripts/options.js"></script>
+    <script src="scripts/create.js"></script>
+    <script src="scripts/camera.js"></script>
+    <script src="scripts/game-connect.js"></script>
+    <script src="scripts/game.js"></script>
+    <script src="scripts/join.js"></script>
+    <script src="scripts/radar.js"></script>
+</head>
+
+<body>
+    <div data-role="layout" data-id="main" id="main">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="main-exit-button">Exit</a> 
+                <a href="views/create.html" data-icon="home">Create</a> 
+                <a href="views/join.html" data-icon="action">Join</a>
+                <a href="views/options.html" data-icon="settings">Options</a>
+            </div>
+        </div>
+    </div>
+    <div data-role="layout" data-id="login-layout" id="login-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="login-exit-button">Exit</a>
+                <a data-icon="add" id="login-register-button">Register</a>
+                <a data-icon="action" id="login-connect-button">Login</a>
+            </div>
+        </div>
+        <script>
+            $("#login-register-button").on("click", APP.models.login.register);
+            $("#login-connect-button").on("click", APP.models.login.connect);
+        </script>
+    </div>
+    <div data-role="layout" data-id="radar-layout" id="radar-layout">
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a id="leave-game-button" data-icon="reply">Leave</a> 
+                <a id="pause-game-button" data-icon="pause">Pause</a>
+                <a id="signal-team-button" data-icon="wifi">Signal</a>
+            </div>
+        </div>
+        <!-- application views will be rendered here -->
+        <script>
+            $("#leave-game-button").on("click", APP.models.game.exit);
+            $("#signal-team-button").on("click", APP.models.game.signal);
+            $("#pause-game-button").on("click", APP.models.game.pause);
+        </script>
+    </div>
+    <div data-role="layout" data-id="create-layout" id="create-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="create-back-button">Cancel</a> 
+                <a data-icon="history" id="load-create-configuration-button">Load</a> 
+                <a data-icon="add" id="add-new-role-button">Add role</a>
+                <a data-icon="action" id="create-options-button">Next</a>
+            </div>
+        </div>
+        <script>
+            $("#create-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/blank.html");
+            });
+            $("#load-create-configuration-button").on("click", APP.models.create.load);
+            $("#add-new-role-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/create-role.html");
+            });
+            $("#create-options-button").on("click", APP.models.create.goToOptions);
+        </script>
+    </div>
+    <div data-role="layout" data-id="create-role-layout" id="create-role-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="create-role-back-button">Cancel</a> 
+                <a data-icon="add" id="create-role-button">Add role</a>
+            </div>
+        </div>
+        <script>
+            $("#create-role-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/create.html");
+            });
+            $("#create-role-button").on("click", APP.models.create.addRole);
+        </script>
+    </div>
+    <div data-role="layout" data-id="edit-role-layout" id="edit-role-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="edit-role-back-button">Cancel</a> 
+                <a data-icon="delete" id="edit-role-delete-button">Delete</a>
+                <a data-icon="add" id="edit-role-save-button">Save</a>
+            </div>
+        </div>
+        <script>
+            $("#edit-role-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/create.html");
+            });
+            $("#edit-role-delete-button").on("click", APP.models.create.deleteRole);
+            $("#edit-role-save-button").on("click", APP.models.create.updateRole);
+        </script>
+    </div>
+    <div data-role="layout" data-id="create-options-layout" id="create-options-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="create-options-back-button">Back</a> 
+                <a data-icon="action" id="create-options-save-button">Create</a>
+            </div>
+        </div>
+        <script>
+            $("#create-options-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/create.html");
+            });
+            $("#create-options-save-button").on("click", APP.models.create.connect);
+        </script>
+    </div>
+    <div data-role="layout" data-id="join-layout" id="join-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="join-back-button">Back</a> 
+                <a data-icon="action" id="join-connect-button">Join</a>
+            </div>
+        </div>
+        <script>
+            $("#join-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/blank.html");
+            });
+            $("#join-connect-button").on("click", function () {
+                APP.models.join.connect()
+            });
+        </script>
+    </div>
+    <div data-role="layout" data-id="options-layout" id="options-layout">
+        <header data-role="header">
+            <h1 data-role="view-title">FPS Radar</h1>
+        </header>
+        <!-- application views will be rendered here -->
+        <div data-role="footer">
+            <div data-role="tabstrip">
+                <a data-icon="reply" id="options-back-button">Back</a> 
+                <a data-icon="history" id="options-load-button">Reset</a>
+                <a data-icon="action" id="options-save-button">Save</a>
+            </div>
+        </div>
+        <script>
+            $("#options-back-button").on("click", function () {
+                window.APP.kendoApp.navigate("views/blank.html");
+            });
+            $("#options-load-button").on("click", APP.models.options.load);
+            $("#options-save-button").on("click", APP.models.options.save);
+        </script>
+    </div>
+</body>
+
+</html>

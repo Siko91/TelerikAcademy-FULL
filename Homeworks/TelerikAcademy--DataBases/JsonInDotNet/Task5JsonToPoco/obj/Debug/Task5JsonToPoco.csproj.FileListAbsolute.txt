@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\bin\Debug\Task5JsonToPoco.exe.config
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\bin\Debug\Task5JsonToPoco.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\bin\Debug\Task5JsonToPoco.pdb
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\bin\Debug\Newtonsoft.Json.dll
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\bin\Debug\Newtonsoft.Json.xml
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\obj\Debug\Task5JsonToPoco.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\obj\Debug\Task5JsonToPoco.exe
+D:\Git\TelerikAcademy--DataBases\JsonInDotNet\Task5JsonToPoco\obj\Debug\Task5JsonToPoco.pdb

@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\bin\Debug\BiDictionary.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\obj\Debug\Task3BiDictionary.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\bin\Debug\BiDictionary.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\bin\Debug\BiDictionary.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\obj\Debug\BiDictionary.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\obj\Debug\BiDictionary.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\bin\Debug\PowerCollections.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DataStucturesEffectivness\BiDictionary\bin\Debug\PowerCollections.xml

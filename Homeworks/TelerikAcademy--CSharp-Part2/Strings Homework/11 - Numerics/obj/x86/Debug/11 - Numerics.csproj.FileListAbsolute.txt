@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\11 - Numerics\bin\Debug\11 - Numerics.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\11 - Numerics\bin\Debug\11 - Numerics.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\11 - Numerics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\11 - Numerics\obj\x86\Debug\11 - Numerics.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\11 - Numerics\obj\x86\Debug\11 - Numerics.pdb

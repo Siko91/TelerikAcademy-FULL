@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Homework 5, Task 3</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<label for="tb-IntA">First</label>
+	<input id="tb-IntA" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntB">Second</label>
+	<input id="tb-IntB" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntC">Third</label>
+	<input id="tb-IntC" type="text" class="js-console-input" />
+	<br />
+
+    <button id="Btn">Click me!</button>
+    <br />
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+
+
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		//<button id="Btn">Click me!</button>
+		document.getElementById("Btn").addEventListener("click", Calculate, false);
+	}
+
+
+
+	function Calculate() 
+		{
+
+			var IntA = document.getElementById("tb-IntA").value;
+			var IntB = document.getElementById("tb-IntB").value;
+            var IntC = document.getElementById("tb-IntC").value;
+            var max
+
+            IntA = IntA*1
+            IntB = IntB*1
+            IntC = IntC*1
+
+
+            	console.log("Calculating...")
+
+				if ((IntA >= IntB) && (IntA >= IntC)){
+					max=IntA
+				}
+				else if ((IntB >= IntA) && (IntB >= IntC)){
+					max=IntB
+				}
+				else if ((IntC >= IntB) && (IntC >= IntB)){
+					max=IntC
+				}
+				else {
+					max="Error"
+				}
+				
+				console.log("Max is " + max)
+		}
+</script>
+</body>
+</html>

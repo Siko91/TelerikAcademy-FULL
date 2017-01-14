@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\09 - delete odd lines\bin\Debug\09 - delete odd lines.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\09 - delete odd lines\bin\Debug\09 - delete odd lines.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\09 - delete odd lines\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\09 - delete odd lines\obj\x86\Debug\09 - delete odd lines.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\09 - delete odd lines\obj\x86\Debug\09 - delete odd lines.pdb

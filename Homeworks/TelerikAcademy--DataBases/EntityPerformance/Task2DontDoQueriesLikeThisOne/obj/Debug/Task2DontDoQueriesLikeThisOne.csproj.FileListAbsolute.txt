@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\Task2DontDoQueriesLikeThisOne.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\Task2DontDoQueriesLikeThisOne.exe
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\Task2DontDoQueriesLikeThisOne.pdb
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\TelerikAcademyDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\TelerikAcademyDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\obj\Debug\Task2DontDoQueriesLikeThisOne.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\obj\Debug\Task2DontDoQueriesLikeThisOne.exe
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task2DontDoQueriesLikeThisOne\obj\Debug\Task2DontDoQueriesLikeThisOne.pdb

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task2BankAccounts\bin\Debug\Task2BankAccounts.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task2BankAccounts\bin\Debug\Task2BankAccounts.pdb
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task2BankAccounts\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task2BankAccounts\obj\x86\Debug\Task2BankAccounts.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPpart2\Task2BankAccounts\obj\x86\Debug\Task2BankAccounts.pdb

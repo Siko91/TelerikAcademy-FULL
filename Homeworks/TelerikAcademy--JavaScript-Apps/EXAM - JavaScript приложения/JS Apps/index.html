@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Just Crowd Share</title></head>
+<link href="style.css" rel="stylesheet" />
+<body> 
+    <nav>
+        <a id="user-panel" href="#userpanel">User Panel</a>
+        <a id="crowd-share" href="#crowdshare">Crowd Share</a>
+        <a id="settings" href="#settings">Settings</a>
+        <a id="logout" href="#userpanel">Logout</a>
+    </nav>
+    <section id="main-content">
+
+    </section>
+    <script src="node_modules/requirejs/require.js" data-main="index"></script>
+
+    <script id="post-template" type="text/post-tempalate>
+        {{#each posts}}
+            <article class="post-item">
+                <strong class="author">{{username}}</strong> - <strong class="time">{{postDate}}</strong>
+                <h3 class="title">{{title}}</h3>
+                <p class="body">{{body}}</p>
+            </article>
+        {{/each}}
+    </script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Homework 9 - Task 2</title>
+</head>
+<body>
+
+<label> Input Array (like "1,2,3,4,5"): </label>
+<input id="Input1" type="text" class="js-console-input" />
+<br />
+
+<label> Input key element (to remove it from the array): </label>
+<input id="Input2" type="text" class="js-console-input" />
+<br />
+
+
+<button id="Btn">Click!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a function that removes all elements with a given value
+var arr = [1,2,1,4,1,3,4,1,111,3,2,1,"1"];
+arr.remove(1); //arr = [2,4,3,4,111,3,2,"1"];
+Attach it to the array type
+Read about prototype and how to attach methods
+ */
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        document.getElementById("Btn").addEventListener("click", Start, false);
+    }
+
+    function Start()
+    {   
+
+        var arr = document.getElementById("Input1").value;
+        var key = document.getElementById("Input2").value;
+
+        arr = arr.split(",");
+
+        Array.prototype.remove = function (element)
+        {
+            var arr2 = [];
+            for (var i in this)
+            {
+                if (this[i] != element)
+            {
+                    arr2.push(this[i]);
+                }
+            }
+            return arr2;
+        }
+
+        console.log(arr);
+        console.log(arr.remove(key));
+    }
+
+</script>
+</body>
+</html>
+
+
+
+

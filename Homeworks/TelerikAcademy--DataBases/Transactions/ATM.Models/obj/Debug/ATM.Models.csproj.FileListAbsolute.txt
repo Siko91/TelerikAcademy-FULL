@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\ATM.Models.dll.config
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\ATM.Models.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\ATM.Models.pdb
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\obj\Debug\ATM.Models.dll
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\obj\Debug\ATM.Models.pdb
+D:\Git\TelerikAcademy--DataBases\Transactions\ATM.Models\obj\Debug\ATM.Models.csprojResolveAssemblyReference.cache

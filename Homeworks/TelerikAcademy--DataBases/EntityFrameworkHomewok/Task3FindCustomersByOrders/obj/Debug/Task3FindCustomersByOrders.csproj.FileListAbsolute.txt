@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\obj\Debug\Task3FindCustomersByOrders.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\Task3FindCustomersByOrders.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\Task3FindCustomersByOrders.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\obj\Debug\Task3FindCustomersByOrders.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\obj\Debug\Task3FindCustomersByOrders.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task3FindCustomersByOrders\bin\Debug\Task3FindCustomersByOrders.exe.config

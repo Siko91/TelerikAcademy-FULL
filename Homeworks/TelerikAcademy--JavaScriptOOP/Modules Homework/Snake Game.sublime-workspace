@@ -1,0 +1,944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"snake",
+				"snakePart"
+			],
+			[
+				"gam",
+				"gameOver"
+			],
+			[
+				"food",
+				"food"
+			],
+			[
+				"g",
+				"_getElementAtPosition"
+			],
+			[
+				"key",
+				"keypress  (function)"
+			],
+			[
+				"_di",
+				"_direction"
+			],
+			[
+				"ke",
+				"keypress  (function)"
+			],
+			[
+				"_g",
+				"_getElementAtPosition"
+			],
+			[
+				"rm",
+				"rndNum"
+			],
+			[
+				"make",
+				"makeNewObstacle"
+			],
+			[
+				"ma",
+				"makeNewFood"
+			],
+			[
+				"appe",
+				"appendTo  (function)"
+			],
+			[
+				"sn",
+				"_snake"
+			],
+			[
+				"_",
+				"_this"
+			],
+			[
+				"_o",
+				"_objects"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"makene",
+				"makeNewFood"
+			],
+			[
+				"get",
+				"getNewElement"
+			],
+			[
+				"draw",
+				"drawGame"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"con",
+				"containerSelector"
+			],
+			[
+				"ca",
+				"CanvasDrawer"
+			],
+			[
+				"sta",
+				"startPositionX"
+			],
+			[
+				"lo",
+				"loadLineMenu"
+			],
+			[
+				"dr",
+				"drawLine"
+			],
+			[
+				"startpo",
+				"startPositionY"
+			],
+			[
+				"mou",
+				"mousePositionY"
+			],
+			[
+				"sw",
+				"switchOnChoice"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"to",
+				"toY"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pos",
+				"position1"
+			],
+			[
+				"po",
+				"position2"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"incl",
+				"includeOpacity"
+			],
+			[
+				"inclu",
+				"include-opacity-input"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ge",
+				"getSpiralPath"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"co",
+				"contextMenuInnerHTML"
+			],
+			[
+				"t",
+				"text-indent"
+			],
+			[
+				"mar",
+				"margin:   (property)"
+			],
+			[
+				"inp",
+				"inputColor"
+			],
+			[
+				"wr",
+				"wrapperStyles"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"in",
+				"indexesOfSeperationSpaces"
+			],
+			[
+				"resu",
+				"resultDiv"
+			],
+			[
+				"ty",
+				"typeOfCommand"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"su",
+				"substring"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"arr",
+				"arrWithVisitHistory"
+			],
+			[
+				"cu",
+				"currentCol"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"hea",
+				"header  (element)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"text-",
+				"text-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font-sp",
+				"font-stretch:   (property)"
+			],
+			[
+				"a",
+				"contain  (value)"
+			],
+			[
+				"background-image",
+				"background-image:   (property)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"form",
+				"formatedAge"
+			],
+			[
+				"for",
+				"formatedName"
+			],
+			[
+				"index",
+				"index2"
+			],
+			[
+				"clo",
+				"closingTag"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"proto",
+				"prototype  (variable)"
+			],
+			[
+				"num",
+				"numToRemove"
+			],
+			[
+				"vali",
+				"validateLine"
+			],
+			[
+				"p1",
+				"p1X"
+			],
+			[
+				"poin",
+				"Point2D"
+			],
+			[
+				"val",
+				"validate2DPoint"
+			],
+			[
+				"Poin",
+				"Point2D"
+			],
+			[
+				"S",
+				"ShowResult"
+			],
+			[
+				"array",
+				"arrayOfNums"
+			],
+			[
+				"case",
+				"caseSensitive"
+			],
+			[
+				"task",
+				"taskNumber"
+			],
+			[
+				"inpu",
+				"input1"
+			],
+			[
+				"sea",
+				"searchFor"
+			],
+			[
+				"arra",
+				"Array"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"str",
+				"stringA"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"input",
+				"inputAsIs"
+			],
+			[
+				"th",
+				"ThrowError"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"sho",
+				"ShowResult"
+			],
+			[
+				"Th",
+				"ThrowError"
+			],
+			[
+				"v",
+				"valueD"
+			],
+			[
+				"firs",
+				"firstInt"
+			],
+			[
+				"thi",
+				"thirdInt"
+			],
+			[
+				"second",
+				"secondInt"
+			],
+			[
+				"secon",
+				"secondInt"
+			],
+			[
+				"fir",
+				"firstInt"
+			],
+			[
+				"is",
+				"isNaN"
+			],
+			[
+				"sh",
+				"ShowResult"
+			],
+			[
+				"sec",
+				"secondInt"
+			],
+			[
+				"fi",
+				"firstInt"
+			],
+			[
+				"Do",
+				"DoTask9"
+			],
+			[
+				"poi",
+				"pointIsInRectangle"
+			],
+			[
+				"point",
+				"pointX"
+			],
+			[
+				"int",
+				"intIsPrime"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"marg",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/objects.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/displayer.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/engine.js",
+		"/D/GitProjects/TelerikAcademy/JS #2/2 - Canvas/scripts/task3 - snake.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/index.html",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Traditional JS OOP/task.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/JQuery-min.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/2in1 - TypeScript & Modules Homework.do",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/Snake Game.sublime-workspace",
+		"/D/GitProjects/TelerikAcademy/JS OOP/TypeScript Homework/Snake Game.sublime-project",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/displayer.ts",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/displayer.js",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/Typescript.sublime-settings",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/Snake Game.sublime-project",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/TypeScript.sublime-build",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/JavaScript.sublime-build",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/objects.ts",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/engine.ts",
+		"/D/GitProjects/TelerikAcademy/JS OOP/2in1 - TypeScript & Modules Homework/index.html",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/TypeScript Compiler/TypeScript Compiler.sublime-settings",
+		"/C/Documents and Settings/User/Application Data/Sublime Text 2/Packages/User/TypeScript Compiler.sublime-settings",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Traditional JS OOP/task-engine.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Traditional JS OOP/style.css",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Traditional JS OOP/index.html",
+		"/D/GoofyCanvasPainter/plugins/TestPlugin/TestPlugin.js",
+		"/D/GoofyCanvasPainter/engine.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 3 - console msgs/index.html",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 3 - console msgs/taskEngine.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 3 - console msgs/task.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/task-engine.js",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/style.css",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/index.html",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/task.js",
+		"/D/GitProjects/TelerikAcademy/JS #2/10 - JQuery Plugins/index.html",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/styles.css",
+		"/D/GitProjects/TelerikAcademy/JS OOP/Functions/Task 1 - DOM manipolation system/script.js",
+		"/D/GitProjects/TelerikAcademy/JS #2/8 - Events/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Task3/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Task2/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Task1/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks/Task 3/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks/Task 2/task-files/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks/Task 2/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Task 2/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Task 3/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Task 2/task-files/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Task 1/task-files/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks/Task 1/task-files/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Task 3/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Exam/Task3/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Exam/Task2/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Exam/Task2/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/Exam/Exam/Task1/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/JS-UIAndDOM-Exam/JS-UIAndDOM-Exam/Task3/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/JS-UIAndDOM-Exam/JS-UIAndDOM-Exam/Task2/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/JS-UIAndDOM-Exam/JS-UIAndDOM-Exam/Task2/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/JS-UIAndDOM-Exam/JS-UIAndDOM-Exam/Task1/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks-Morning-Exam/Task 3/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks-Morning-Exam/Task 3/task-files/result.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks-Morning-Exam/Task 2/task-files/scripts.js",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks-Morning-Exam/Task 2/task-files/index.html",
+		"/C/Documents and Settings/User/Desktop/ExamFileForEvaluation/All-Tasks-Morning-Exam/Task 1/task-files/scripts.js",
+		"/D/GoofyCanvasPainter/plugins/DrawingPlugin/DrawingPlugin.js",
+		"/D/Goofy/engine.js",
+		"/D/Goofy/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/9 - JQuery Basics/scripts/task2 - beforeAndAfter.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/10 - JQuery Plugins/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/1 - DOM Basics/task (4).js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/10 - JQuery Plugins/JQuery-min.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/9 - JQuery Basics/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/9 - JQuery Basics/styles/style.css",
+		"/C/Documents and Settings/User/Desktop/HW_Model-na-subitiya-v-JavaScript/JavascriptEventModelHomework/JavascriptEventModel/TODOList/TODOList.css",
+		"/C/Documents and Settings/User/Desktop/HW_Raphael-za-rabota-s-SVG/Task1.html",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/Canvas-Frameworks-HW/01.FamilyTree/index.html",
+		"/C/Documents and Settings/User/Desktop/HW_Raphael-za-rabota-s-SVG/scripts/raphael-min.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/01. Family Three/scripts/data.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/03.KinektJS/familyTree.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/Canvas-Frameworks-HW/01.FamilyTree/scripts/familyTreeModule.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/Canvas-Frameworks-HW/01.FamilyTree/scripts/familyMemberNodeModule.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/01. Family Three/scripts/data2.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas-biblioteki---KineticJS/01. Family Three/scripts/script.js",
+		"/C/Documents and Settings/User/Desktop/HW_HTML5-Canvas/03.SnakeGame/script.js",
+		"/C/Documents and Settings/User/Desktop/HW_Document-Object-Model/DocumentObjectModel/DocumentObjectModel/(3)ValueOfInputColor.js",
+		"/C/Documents and Settings/User/Desktop/HW_Document-Object-Model/DocumentObjectModel/DocumentObjectModel/aaa.html",
+		"/C/Documents and Settings/User/Desktop/HW_Document-Object-Model/DocumentObjectModel/DocumentObjectModel/(2)ValueOfInputText.js",
+		"/C/Documents and Settings/User/Desktop/HW_Document-Object-Model/DocumentObjectModel/DocumentObjectModel/(1)SelectDivsInDivs.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/8 - Events/script.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/8 - Events/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/test/script.js",
+		"/D/Goofy/plugins/ArtisticStrokesPlugin/ArtisticStrokesPlugin.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/test/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/character.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/main.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/canvasDrawer.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/Copy of main.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/Learning from a toturial/script.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/6 - Animation/Learning from a toturial/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/2 - Canvas/scripts/task3 - snake.js",
+		"/C/Documents and Settings/User/Desktop/file.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/3 - Kinetic JS/index.html",
+		"/C/Documents and Settings/User/Desktop/Processing-min.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/Task2.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/Copy of Task1.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/Task1.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/Task1-1 - Telerik Logo.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/script.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/5 - SVG - Raphael JS/Raphael-min.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/4 - SVG homework/scripts/script1-figures.js",
+		"/C/Documents and Settings/User/Desktop/SVG-demos/SVG-demos/6. svg-dom-styles/svg-dom-styles.js",
+		"/C/Documents and Settings/User/Desktop/SVG-demos/SVG-demos/6. svg-dom-styles/svg-dom-styles.css",
+		"/C/Documents and Settings/User/Desktop/SVG-demos/SVG-demos/6. svg-dom-styles/svg-dom-styles.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/4 - SVG homework/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/4 - SVG homework/scripts/script.js",
+		"/C/Documents and Settings/User/Desktop/CanvasPainter/testScript.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/2 - Canvas/scripts/task1 - drawing face.js",
+		"/C/Documents and Settings/User/Desktop/TeamWork - CanvasPainter/TeamWork - CanvasPainter/index.html",
+		"/C/Documents and Settings/User/Desktop/TeamWork - CanvasPainter/TeamWork - CanvasPainter/Test.js",
+		"/C/Documents and Settings/User/Desktop/Paint001.html",
+		"/C/Documents and Settings/User/Desktop/TeamWork - CanvasPainter/TeamWork - CanvasPainter/engine.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/TeamWork - CanvasPainter/styles/style.css",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/3 - Kinetic JS/scripts/Script.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/TeamWork - CanvasPainter/index.html",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/TeamWork - CanvasPainter/globals.js",
+		"/D/GitProjects/TelerikAcademy/JavaScript #2/3 - Kinetic JS/styles/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"snakeElementToInsert",
+			"_placeNewFood",
+			"_placeFood",
+			"switchOnChoice",
+			"MyCanvasDrawer",
+			"css",
+			"clone",
+			"data",
+			"find",
+			"css",
+			"append",
+			"html",
+			"css",
+			"clone",
+			"append",
+			"inner",
+			"id",
+			"$.",
+			"filter",
+			"fragm",
+			"innerHtml",
+			"find",
+			"css",
+			"#",
+			"html",
+			"filter",
+			"display",
+			"none",
+			"addev",
+			"fragment",
+			"innerhtml",
+			"clone",
+			"frag",
+			"add",
+			"html",
+			"disable",
+			"click",
+			"add",
+			"id",
+			"find",
+			"css",
+			"html",
+			"document",
+			"$.",
+			"clone",
+			"append",
+			"fragm",
+			"inner",
+			"id",
+			"find",
+			"css",
+			"addclass",
+			"inner",
+			"document",
+			"fragm",
+			"inner",
+			"id",
+			"find",
+			"adde",
+			"clone",
+			"document",
+			"innerhtml",
+			"data",
+			"data-info",
+			"on",
+			"id",
+			"#",
+			"css",
+			"document",
+			"dimit",
+			"blob",
+			"defer",
+			"ntWidth;\n        canvas.height = canvas.parentNode.clie",
+			"currentFrameOfSprite",
+			"rsr",
+			")",
+			"\\\"/>",
+			"<path d=\\\"",
+			"var a",
+			"alert",
+			"colIndex",
+			"rowIndex",
+			"//",
+			"alert",
+			"<link href=\"",
+			"float",
+			"img",
+			"</article>",
+			"информация...",
+			"информация... ",
+			"markAsCurrent",
+			"<a onclick=\"",
+			"onHover",
+			"onhover",
+			"<li",
+			" 5s",
+			"px",
+			"<img src=\"images/",
+			"100, 150, 150",
+			"100, 110, 55",
+			"55, 100, 110",
+			"225, 230, 235",
+			"155, 180, 195",
+			"241, 245, 169",
+			"225, 230, 235",
+			"filte",
+			"someMail",
+			"anreiKirev",
+			"input",
+			"alert",
+			"three",
+			"min",
+			"reg",
+			"				<",
+			"**********************<br /><br />",
+			"\\n",
+			"<br />",
+			"obj",
+			"oldObject",
+			"            ",
+			"        ",
+			"filter",
+			"\"]",
+			"objArr[\"",
+			"		",
+			";",
+			"display",
+			"<div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 46.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}

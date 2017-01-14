@@ -1,0 +1,14 @@
+body p {
+	font-size: 12pt;
+	color: #0094ff;
+	font-family: Consolas;
+}
+
+body p:first-letter {
+	font-size: 22pt;
+	font-family: Edwardian Script ITC;
+}
+
+body p:first-line {
+	font-weight: bold;
+}

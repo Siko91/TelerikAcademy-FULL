@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NinjaFactory.DataBase.Repositories.GenericRepository&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAAAAAABAIAAAQAAAAAAEEAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Repositories\GenericRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NinjaFactory.DataBase.TeamworkBlackDragonEntities" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAAAABAAAAGAAAAAAEAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>NinjaFactoryContextExtended.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NinjaFactory.DataBase.Client" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NinjaFactory.DataBase.Job" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAgAAAAAQgAAAAAAAAAAAgAUQAAAQ=</HashCode>
+      <FileName>Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NinjaFactory.DataBase.Ninja" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAgAAUACAAA=</HashCode>
+      <FileName>Ninja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NinjaFactory.DataBase.Speciality" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAQQAAAA=</HashCode>
+      <FileName>Speciality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NinjaFactory.DataBase.NinjasData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQACAAAAAAAAAAAAAGAAAAAAAAAEAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>NinjasData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="NinjaFactory.DataBase.Repositories.IGenericRepository&lt;T&gt;" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAIAAAAAAAAAAEEAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Repositories\IGenericRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NinjaFactory.DataBase.INinjaFactoryData" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>INinjaFactoryData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NinjaFactory.DataBase.ITeamworkBlackDragonDBContext" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQAQAAAAAAAABAAAAGAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ITeamworkBlackDragonDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

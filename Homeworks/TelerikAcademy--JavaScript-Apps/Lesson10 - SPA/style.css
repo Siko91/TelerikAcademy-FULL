@@ -1,0 +1,53 @@
+#wrapper {
+    width: 450px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #255;
+    text-align: center;
+    color: lightgray;
+}
+
+#wrapper #content {
+    margin-top: 10px;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    background-color: #855;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+#wrapper #content ul {
+    padding: 0;
+    margin: 0;
+}
+#wrapper #content li{
+    display: block;
+    float: left;
+    border-radius: 5px;
+    width: 70%;
+    text-align: left;
+    background-color: #FF8;
+    padding: 0;
+    margin: 0;
+    margin: 5px;
+    color: #345;
+    overflow-wrap: break-word;
+}
+
+#wrapper #content li header{
+    text-align: center;
+    font-size: large;
+    color: white;
+    text-shadow: 0 0 0.2em black, 0 0 0.2em black;
+}
+
+#wrapper #content li.myMessage{
+    float: right;
+    background-color: #8FF;
+}
+
+#wrapper #send-btn {
+    width: 250px;
+}

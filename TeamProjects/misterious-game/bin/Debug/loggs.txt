@@ -1,0 +1,47 @@
+[07.16.14 23:25:00] [Program Started]
+[07.16.14 23:25:36] [Program Started]
+[07.16.14 23:28:40] [Program Started]
+[07.16.14 23:29:01] [Program Started]
+[07.16.14 23:29:11] [Program Started]
+[07.16.14 23:29:37] [Program Started]
+[07.16.14 23:30:05] [Program Started]
+[07.16.14 23:30:46] [Program Started]
+[07.16.14 23:31:03] [Program Started]
+[07.17.14 11:45:45] [Program Started]
+[07.17.14 11:51:43] [Program Started]
+[07.17.14 11:57:36] [Program Started]
+[07.17.14 12:39:57] [Program Started]
+[07.17.14 12:41:24] [Program Started]
+[07.17.14 12:41:32] [Program Started]
+[07.17.14 12:42:49] [Program Started]
+[07.17.14 12:43:35] [Program Started]
+[07.17.14 12:43:46] [Program Started]
+[07.17.14 12:44:00] [Program Started]
+[07.17.14 12:44:17] [Program Started]
+[07.17.14 12:44:45] [Program Started]
+[07.17.14 12:45:06] [Program Started]
+[07.17.14 13:31:50] [Error] System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+Parameter name: Row can not be a negative number
+   at BattleField7Namespace.NewGameDesign.Types.PositiveCoord2D.set_Row(Int32 value) in d:\git\misterious-game\NewGameDesign\Types\PositiveCoord2D.cs:line 55
+   at BattleField7Namespace.NewGameDesign.Types.PositiveCoord2D..ctor(Int32 row, Int32 col) in d:\git\misterious-game\NewGameDesign\Types\PositiveCoord2D.cs:line 30
+   at BattleField7Namespace.NewGameDesign.GameClasses.MyExplosionStrategy.InitializeExplosionRanges() in d:\git\misterious-game\NewGameDesign\GameClasses\MyExplosionStrategy.cs:line 82
+   at BattleField7Namespace.NewGameDesign.GameClasses.MyExplosionStrategy..ctor() in d:\git\misterious-game\NewGameDesign\GameClasses\MyExplosionStrategy.cs:line 29
+   at BattleField7Namespace.BattleFieldGame.RunTheNewDesignVersionInWinForms() in d:\git\misterious-game\BattleFieldGame.cs:line 103
+   at BattleField7Namespace.MainClass.Main() in d:\git\misterious-game\MainClass.cs:line 26
+[07.17.14 13:37:28] [Program Started]
+[07.17.14 13:42:26] [Program Started]
+[07.17.14 14:31:22] [Program Started]
+[07.18.14 08:54:44] [Program Started]
+[07.18.14 09:28:02] [Program Started]
+[07.18.14 09:29:26] [Program Started]
+[07.18.14 09:31:05] [Program Started]
+[07.18.14 09:31:22] [Program Started]
+[07.18.14 09:31:47] [Program Started]
+[07.18.14 09:33:15] [Program Started]
+[07.18.14 09:34:08] [Program Started]
+[07.18.14 09:35:01] [Program Started]
+[07.18.14 10:19:19] [Program Started]
+[07.18.14 13:00:35] [Program Started]
+[07.18.14 13:01:18] [Program Started]
+[07.18.14 13:01:36] [Program Started]
+[07.18.14 13:04:30] [Program Started]

@@ -1,0 +1,57 @@
+<div id="fpsradar-create-view" class="fpsradar-view" data-role="view" data-title="create" data-layout="create-role-layout" data-model="APP.models.create.currentRole">
+    <div class="content-container">
+        <header>
+            <strong>Create a Role</strong>
+        </header>
+        <label class="label" for="role-name-input">
+            Name:
+            <input class="input" id="role-name-input" data-bind="value: name" />
+        </label>
+        <label class="label" for="role-password-input">
+            Password:
+            <input class="input" id="role-password-input" data-bind="value: password" />
+        </label>
+        <label class="label" for="role-password-input">
+            Team:
+            <input type="number" class="input" id="role-team-input" data-bind="value: team" />
+        </label>
+        <label class="label" for="role-password-input">
+            Color:
+            <select id="options-role-color-input">
+                <option value="rgb(255,0,0)">red</option>
+                <option value="rgb(0,255,0)">green</option>
+                <option value="rgb(0,0,255)">blue</option>
+                <option value="rgb(0,255,255)">aqua</option>
+                <option value="rgb(255,0,255)">magenda</option>
+                <option value="rgb(255,0,255)">yellow</option>
+            </select>
+            <script>
+                $("#options-role-color-input option:eq(" + APP.models.create.currentRole.color + ")").prop('selected', true);
+
+                $("#options-role-color-input").on("change", function () {
+                    APP.models.create.currentRole.color = this.val();
+                });
+            </script>
+        </label>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: seeTeamMoving">Sees moving teammates
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: seeTeamStill">Sees still teammates
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: seeEnemyMoving">Sees moving enemies
+            </label>
+        </div>
+        <div>
+            <label class="label">
+                <input type="checkbox" data-bind="checked: seeEnemyStill">Sees still enemies
+            </label>
+        </div>
+    </div>
+</div>

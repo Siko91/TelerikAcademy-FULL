@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\05 - Hex to Bin\bin\Debug\05 - Hex to Bin.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\05 - Hex to Bin\bin\Debug\05 - Hex to Bin.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\05 - Hex to Bin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\05 - Hex to Bin\obj\x86\Debug\05 - Hex to Bin.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\05 - Hex to Bin\obj\x86\Debug\05 - Hex to Bin.pdb

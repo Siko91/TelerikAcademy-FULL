@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\7 - recursive counting\bin\Debug\7 - recursive counting.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\7 - recursive counting\bin\Debug\7 - recursive counting.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\7 - recursive counting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\7 - recursive counting\obj\x86\Debug\7 - recursive counting.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\7 - recursive counting\obj\x86\Debug\7 - recursive counting.pdb

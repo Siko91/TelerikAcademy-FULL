@@ -1,0 +1,2 @@
+case "цура": return true;
+case "цъки": return true;

@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\bin\Debug\Task9LargestEmptyArea.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\bin\Debug\Task9LargestEmptyArea.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\bin\Debug\Task9LargestEmptyArea.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\obj\Debug\Task9LargestEmptyArea.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\obj\Debug\Task9LargestEmptyArea.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task9LargestEmptyArea\obj\Debug\Task9LargestEmptyArea.csprojResolveAssemblyReference.cache

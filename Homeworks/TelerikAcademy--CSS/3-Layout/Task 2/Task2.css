@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: rgb(238,238,238);
+}
+article, article * {
+	background-color: rgb(255,255,255);
+}
+
+article	{
+	border: 1pt solid black;
+	width: 40%;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+article img {
+	float: left;
+	margin: 5%;
+	border: 1pt solid gray;
+}
+
+article p {
+	margin: 5%;
+}
+
+article .btns {
+	float: right;
+	margin: 2%;
+}
+
+article button {
+	border: none;
+	background-color: none;
+	background: url(btn.png) no-repeat;
+
+	width: 73px;
+	height: 25px;
+
+	color: white;
+}
+
+article button:hover {
+	background: url(btn-hover.png) no-repeat;
+}

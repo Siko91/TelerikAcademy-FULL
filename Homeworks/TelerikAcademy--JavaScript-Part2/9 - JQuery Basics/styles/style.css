@@ -1,0 +1,25 @@
+body {
+	background: #333;
+	color: #ccc;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+#the-result-box {
+    height: 500px;
+    width: 80%;
+	border: 2px solid black;
+	background: #fff;
+	overflow: hidden;
+	color: #000;
+	text-align: center;
+}
+
+.slide-content {
+    display: none;
+}
+.slide-content.current{
+    display: block;
+}

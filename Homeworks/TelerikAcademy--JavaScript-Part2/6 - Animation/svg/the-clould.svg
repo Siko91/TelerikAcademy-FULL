@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="the-rock-2.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-300 : -76.676053 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1492.6659 : 323.32395 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2987" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="325.53062"
+     inkscape:cy="744.47515"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="708"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,4.7244096e-6)">
+    <path
+       style="fill:#ffffff;stroke:#d5d5d7;stroke-width:0.76651758px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.658454,85.35512 5.3132944,59.56872 c 0,0 -1.02302,-10.54897 6.1380596,-16.40952 7.16107,-5.86054 15.34517,-15.23742 19.43721,-17.58163 4.09204,-2.34422 36.82838,-2.34422 40.92043,1.1721 4.09204,3.51634 28.644296,9.37687 28.644296,9.37687 l -23.529246,9.37688 -22.50624,3.51633 21.48323,-4.68844 22.506237,-9.37687 18.414189,-24.61429 c 0,0 6.13807,-9.37687043 17.39119,-3.5163204 11.25311,5.8605404 40.92042,19.9258404 40.92042,19.9258404 l 13.29915,26.95851 c 0,0 1.023,23.44218 -11.25312,24.61429 -12.27613,1.17211 -43.98947,23.44221 -43.98947,23.44221 0,0 -10.2301,-2.344301 -21.48322,-2.344301 -11.25312,0 -51.150536,-4.68838 -51.150536,-4.68838 z"
+       id="clould"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

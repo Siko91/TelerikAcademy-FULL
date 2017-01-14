@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CSS Styling Exam Variant 1 - Task 2</title>
+    
+    <style>
+        * 
+        {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+    <script>
+        function Selector(number) {
+            
+                if (number == "1") {
+                    document.getElementById("img").src = "initial2.png";
+                }
+                else {
+                    document.getElementById("img").src = "initial.png";
+                }
+        }
+    </script>
+
+</head>
+<body>
+    <img id="img" src="initial.png" />
+    
+    <input type="radio" onselect="Selector(1)" name="img" />
+    <input type="radio" onselect="Selector(2)" name="img" />
+</body>
+</html>

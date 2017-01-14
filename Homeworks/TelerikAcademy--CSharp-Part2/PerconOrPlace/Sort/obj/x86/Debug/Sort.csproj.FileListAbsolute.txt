@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\Sort\bin\Debug\Sort.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\Sort\bin\Debug\Sort.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\Sort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\Sort\obj\x86\Debug\Sort.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\Sort\obj\x86\Debug\Sort.pdb

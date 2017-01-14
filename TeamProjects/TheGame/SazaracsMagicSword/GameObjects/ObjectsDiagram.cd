@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SazaracsMagicSword.GameObjects.Enemy">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAQACAAEAAgAAAAAEAAAABA=</HashCode>
+      <FileName>GameObjects\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.Hero">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAkAAAQJAABGAEAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Hero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.Human" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAEAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.Magic">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAACAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Magic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.NPC">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAIABAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>GameObjects\NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.VisualElement" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\VisualElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.Weapon">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAAAAAAAAAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>GameObjects\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SazaracsMagicSword.GameObjects.DangerousTerritory">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAA=</HashCode>
+      <FileName>GameObjects\DangerousTerritory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SazaracsMagicSword.GameObjects.Statistics">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAwAAAAAAABAAAAAFAAAABQAAABAAAAAA=</HashCode>
+      <FileName>GameObjects\Statistics.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SazaracsMagicSword.GameObjects.Position">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Position.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SazaracsMagicSword.GameObjects.VisualBrick">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\VisualBrick.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="SazaracsMagicSword.GameObjects.IMove">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Position.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SazaracsMagicSword.GameObjects.Direction">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>GameObjects\Position.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

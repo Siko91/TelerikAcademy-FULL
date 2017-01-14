@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\obj\Debug\Task6UsageOfHashedSet.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task6UsageOfHashedSet.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task6UsageOfHashedSet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task6UsageOfHashedSet.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task5HashedSet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task4HashTable.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task5HashedSet.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\bin\Debug\Task4HashTable.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\obj\Debug\Task6UsageOfHashedSet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task6UsageOfHashedSet\obj\Debug\Task6UsageOfHashedSet.pdb

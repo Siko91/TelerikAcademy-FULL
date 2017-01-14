@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\VariablesAndExpressions\bin\Debug\Variables and Expressions.exe
+D:\GitProjects\TelerikAcademy\Quality\VariablesAndExpressions\bin\Debug\Variables and Expressions.pdb
+D:\GitProjects\TelerikAcademy\Quality\VariablesAndExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\VariablesAndExpressions\obj\x86\Debug\Variables and Expressions.exe
+D:\GitProjects\TelerikAcademy\Quality\VariablesAndExpressions\obj\x86\Debug\Variables and Expressions.pdb

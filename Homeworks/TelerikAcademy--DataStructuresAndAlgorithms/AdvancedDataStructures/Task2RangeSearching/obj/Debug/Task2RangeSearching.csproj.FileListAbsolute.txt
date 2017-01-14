@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\bin\Debug\Task2RangeSearching.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\bin\Debug\Task2RangeSearching.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\bin\Debug\Task2RangeSearching.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\bin\Debug\PowerCollections.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\bin\Debug\PowerCollections.xml
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\obj\Debug\Task2RangeSearching.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\obj\Debug\Task2RangeSearching.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task2RangeSearching\obj\Debug\Task2RangeSearching.pdb

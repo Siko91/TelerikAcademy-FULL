@@ -1,0 +1,73 @@
+<html>
+<head>
+    <title>Homework 7 - Task 6</title>
+</head>
+<body>
+
+<label> Enter numbers seperated with comas "," : </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click to count!</button>
+<br />
+
+<script type="text/javascript">
+
+/* Write a program that finds the most frequent number in an array. */
+
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+        seperator = ",";
+        var arr = document.getElementById("Input").value;
+        arr = arr.split(seperator);
+        var element, times, firstindex;
+        var count = new Array(arr.length);
+
+        for (var i = count.length - 1; i >= 0; i--)
+        {
+            count[i] = 0;
+        }
+
+        for (var i = 0; i < arr.length; i++)
+        {
+            if (count[i] == -1)
+            {
+                continue;
+            }
+            for (var y = i+1; y < arr.length; y++)
+            {
+                if (arr[i] == arr[y])
+                {
+                    count[i] += 1;
+                    count[y] = -1
+                }
+            }
+            count[i] += 1;
+        }
+
+        firstindex = count.indexOf(Math.max.apply(Math, count));
+        times = count[firstindex];
+        element = arr[firstindex];
+
+        console.log("Array : (" + arr.join(")__(") + ")")
+        console.log("Array : (" + count.join(")_(") + ")")
+        console.log("Element " + element + " apeared " + times + " times.")
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

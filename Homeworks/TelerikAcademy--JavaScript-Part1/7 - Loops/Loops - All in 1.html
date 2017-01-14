@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	<style type="text/css">
+		#wrapper {
+			background: #aae;
+			padding: 15px;
+		}
+		#wrapper .task {
+			border: 1px solid black;
+			background: #fff;
+			padding: 5px;
+			text-align: center;
+		}
+		#wrapper .task label{
+			color: #CF8600;
+		}
+		#wrapper .task input{
+			display: block;
+			margin: 1px;
+		}
+		#wrapper .task div {
+			display: inline-block;
+			width: 45%;
+			text-align: left;
+		}
+		#wrapper .task div:last-child {
+			min-height: 40px;
+			color: black;
+			font-size: 24px;
+			background: none;
+			text-align: center;
+			padding: 5px;
+
+			overflow: auto;
+			max-height: 500px;
+		}
+		#wrapper .task div.done {
+			border: 1px solid black;
+			background: #5e5;
+		}
+		#wrapper .task div.error {
+			border: 1px solid black;
+			background: #f00;
+		} </style>
+
+	<script type="text/javascript">
+		function ShowResult(result, resultDivClass, taskNumber)
+		{
+		    document.getElementById("result" + taskNumber).className = resultDivClass;
+		    document.getElementById("result" + taskNumber).innerHTML = result;
+		}
+
+		function ThrowError(taskNumber)
+		{
+			ShowResult("Error", "error", taskNumber);
+		}
+
+		function HandleClicks(taskNumber)
+		{
+		    switch (taskNumber) {
+		        case 1: DoTask1(); break;
+		        case 2: DoTask2(); break;
+		        case 3: DoTask3(); break;
+		        case 4: DoTask4(); break;
+		        default: break;
+		    }
+		}
+
+		function DoTask1()
+		{
+			var number = document.getElementById("input1").value;
+
+			number = parseInt(number);
+			if (isNaN(number)) {
+				ThrowError(1);
+				return;
+			}
+
+			var result = new Array();
+			for (var i = 1; i <= number; i++) {
+				result.push(i);
+			}
+
+			ShowResult(result.join(", "),"done",1)
+		}
+		function DoTask2()
+		{
+			var number = document.getElementById("input2").value;
+			
+			number = parseInt(number);
+			if (isNaN(number)) {
+				ThrowError(2);
+				return;
+			}
+
+			var result = new Array();
+			for (var i = 1; i <= number; i++) {
+				if (i%5==0 && i%7==0) {
+					result.push(i);
+				}
+			}
+
+			ShowResult(result.join(", "),"done",2);
+		}
+		function DoTask3()
+		{
+			var inputAsIs = document.getElementById("input3").value;
+
+			var arrOfStrings = inputAsIs.split(",");
+			arrOfStrings = arrOfStrings.filter(function(n){ return n.length > 0 });
+
+			var arrOfNums = new Array();
+			for (var i = arrOfStrings.length - 1; i >= 0; i--) {
+				arrOfNums[i] = parseFloat(arrOfStrings[i]);
+				if (isNaN(arrOfNums[i])) {
+					ThrowError(3);
+					return;
+				}
+			}
+
+			var max = -9007199254740992;
+			var min = -max;
+
+			for (var i = arrOfNums.length - 1; i >= 0; i--) {
+				if (min > arrOfNums[i]) {
+					min = arrOfNums[i];
+				}
+				if (max < arrOfNums[i]) {
+					max = arrOfNums[i];
+				}
+			}
+
+			ShowResult(("["+arrOfNums.join(", ")+"]<br />"+"Min:"+min+", Max:"+max),"done",3);
+		}
+		function DoTask4()
+		{
+			var result = "Window:"
+			+ "<br />"
+			+ "- smallest = " + findSmallestProp(window)
+			+ "<br />"
+			+ "- bigest = " + findBigestProp(window)
+			+ "<br />"
+			+ "<br />"
+			+ "Navigator:"
+			+ "<br />"
+			+ "- smallest = " + findSmallestProp(navigator)
+			+ "<br />"
+			+ "- bigest = " + findBigestProp(navigator)
+			+ "<br />"
+			+ "<br />"
+			+ "Document:"
+			+ "<br />"
+			+ "- smallest = " + findSmallestProp(document)
+			+ "<br />"
+			+ "- bigest = " + findBigestProp(document);
+
+			ShowResult(result, "done", 4);
+		}
+
+		function findSmallestProp(givenObject)
+		{
+			var smallest = "z";
+            for (var property in givenObject) {
+                if (property < smallest) {
+                    smallest = property;
+                }
+            }
+            return smallest;
+		}
+		function findBigestProp(givenObject)
+		{
+			var bigest = "";
+            for (var property in givenObject) {
+                if (property > bigest) {
+                    bigest = property;
+                }
+            }
+            return bigest;
+		}
+    </script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Write a script that prints all the numbers from 1 to N</p>
+				<label for="input1">Don't use too big numbers. The funcion is made that it prints everything at once, so it might be slow. I'll make it write part by part for one of my next homeworks.</label>
+				<input placeholder="Number" id="input1">
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time</p>
+				<label for="input3">Don't use too big numbers. The funcion is made that it prints everything at once, so it might be slow. I'll make it write part by part for one of my next homeworks.</label>
+				<input placeholder="Number" id="input2">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Write a script that finds the max and min number from a sequence of numbers</p>
+
+				<label for="input3">input numbers seperated (only) by commas (example: &quot;1,2,3,4&quot;).</label>
+				<label for="input3">Empty inputs (like &quot;1,2,,,,,,,,,,,,,3,,,,,4&quot;) will be ignored</label>
+				<input placeholder="numbers" id="input3">
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects</p>
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

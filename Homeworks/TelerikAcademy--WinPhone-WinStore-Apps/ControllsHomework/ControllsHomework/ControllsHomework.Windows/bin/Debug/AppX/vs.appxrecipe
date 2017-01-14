@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIKO-PC</Machine>
+    <WindowsUser>Siko</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a2d5a62b-0682-4cad-bc0a-4cf17bf59241</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CA16BE8A9BBA9BEBACA9759CFA5A6615E55218482D0E85295A950001D9724522</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a2d5a62b-0682-4cad-bc0a-4cf17bf59241_1.0.0.0_neutral__5pcjd335rz15y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a2d5a62b-0682-4cad-bc0a-4cf17bf59241_5pcjd335rz15y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a2d5a62b-0682-4cad-bc0a-4cf17bf59241</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Siko</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-13T10:49:41.768</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\ControllsHomework.Windows.exe">
+      <PackagePath>ControllsHomework.Windows.exe</PackagePath>
+      <Modified>2014-11-13T11:16:38.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-13T10:49:34.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-13T11:16:38.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\ControllsHomework.Windows.xr.xml">
+      <PackagePath>ControllsHomework.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-13T11:15:27.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siko\Desktop\ControllsHomework\ControllsHomework\ControllsHomework.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-13T10:49:41.642</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

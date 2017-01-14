@@ -1,0 +1,2 @@
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\NotificationsExtensions\NotificationsExtensions.csproj;neutral
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\Windows\Tiles.Windows.csproj;neutral

@@ -1,0 +1,77 @@
+﻿*
+{
+    pADDING: 0;
+    margin: 0;
+    list-style-type: NONE;
+}
+
+IMG
+{
+    BORDER-RADIUS: 5PX;    
+}
+
+#wrapper 
+{
+    margin: 15PX;
+    PADDINg: 10PX;
+    
+    BACKGROUND-COLOR: #CCC;
+    border-RADIUS: 5PX;
+    
+    wIDTH: 680PX;
+    height: 420PX;
+    
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 16px;
+
+}
+
+.holder, .playlist
+{
+    DISPLAY: inline-block;
+}
+
+.holder img
+{
+    wIDTH: 550PX;
+    height: 415PX;
+}
+
+.playlist
+{
+    WIDTH: 115PX;
+    text-ALIGN: center;
+}
+
+.playlist li a *
+{
+    display: block;
+    margin: AUTO;
+}
+
+.playlist li a img
+{
+    BORDER-RADIUS: 10PX;   
+}
+
+.playlist li a
+{
+    display: INLINE-block;
+    margin: AUTO;
+    
+    TEXT-DECORATION: NONE;
+    color: Black;
+    
+    FONT-WEIGHT: bold;
+    
+    BORDER-BOTTOM: 1PX SOLID BLACK;
+}
+
+.playlist li
+{
+    POSITION: relative;
+    left: 10PX;
+    BOTTOM: 5PX;
+    PADDING-top: 5PX;
+    PADDING-BOTTOM: 5PX;
+}

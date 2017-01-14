@@ -1,0 +1,79 @@
+﻿*, a
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    
+    font-family: Cambria, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', serif;
+    font-size: 18px;
+    
+}
+
+#wrapper
+{
+    margin: 25px;
+}
+
+ul, .btn-unselect, .btn-select
+{
+    float: left;
+}
+
+.btn-unselect, .btn-select
+{
+    margin: 2px;
+    position: relative;
+    top: 90px;
+}
+
+ul
+{
+    overflow: auto;
+    
+    border-top-left-radius: 5px;
+    
+    width: 150px;
+    height: 215px;
+    
+    background: #8168ff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #8168ff 0%, #ffffff 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8168ff), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #8168ff 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #8168ff 0%,#ffffff 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #8168ff 0%,#ffffff 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #8168ff 0%,#ffffff 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8168ff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+ul li:first-child
+{
+    border-top-left-radius: 5px;
+}
+
+ul li
+{
+    padding-top: 3px;
+    text-indent: 15px;
+    
+    display: block;
+    height: 28px;
+    
+    border-bottom: 1px solid black;
+}
+
+ul li:first-letter
+{
+    text-decoration: underline;
+}
+
+ul li:last-chlild
+{
+    border: none;
+}
+
+.selected
+{
+    background: #6C4EFF;
+}
+

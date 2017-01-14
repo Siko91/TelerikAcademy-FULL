@@ -1,0 +1,15 @@
+You see a muscular smith at his workplace.
+He's quite busy, but he stops to greet you politly.
+The Armour Smith: Choose a weapon to buy or Get Lost!
+You: I'm not really sure what I want.
+The Smith: Then get lost.
+You: How much does that sword over there cost?
+The Smith: 5 silver coins.
+You: I don't have that kind of money.
+The Smith: What kind of money do you have then?
+You: I have 3 copper coins and a lady bug.
+The Smith: Then Get Lost!
+You: Okey, okey! Sheesh...
+You: Okey, okey! Sheesh... I don't even have an inventory,
+..but he's yelling at me, as if I'm a thief.
+You leave him alone.

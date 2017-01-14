@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\bin\Debug\Task10FolderToXml.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\bin\Debug\Task10FolderToXml.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\bin\Debug\Task10FolderToXml.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\obj\Debug\Task10FolderToXml.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\obj\Debug\Task10FolderToXml.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task10FolderToXml\obj\Debug\Task10FolderToXml.csprojResolveAssemblyReference.cache

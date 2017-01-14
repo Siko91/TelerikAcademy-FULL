@@ -1,0 +1,42 @@
+
+#wrapper {
+	background: #aae;
+	padding: 15px;
+}
+#wrapper .task {
+	border: 1px solid black;
+	background: #fff;
+	padding: 5px;
+	text-align: center;
+}
+#wrapper .task label{
+	color: #CF8600;
+}
+#wrapper .task input{
+	display: block;
+	margin: 1px;
+}
+#wrapper .task div {
+	display: inline-block;
+	width: 45%;
+	text-align: left;
+}
+#wrapper .task div:last-child {
+	min-height: 40px;
+	color: black;
+	font-size: 24px;
+	background: none;
+	text-align: center;
+	padding: 5px;
+
+	overflow: auto;
+	max-height: 500px;
+}
+#wrapper .task div.done {
+	border: 1px solid black;
+	background: #5e5;
+}
+#wrapper .task div.error {
+	border: 1px solid black;
+	background: #f00;
+}

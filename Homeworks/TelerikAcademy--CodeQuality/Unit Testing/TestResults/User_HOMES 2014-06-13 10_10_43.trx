@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="29bc8505-fb43-4e80-b6ae-b57b113b8b0d" name="User@HOMES 2014-06-13 10:10:43" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8527c876-9647-47d7-bfd0-1c28719b9974">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 10_10_43">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T10:10:43.7812500+03:00" queuing="2014-06-13T10:10:45.5781250+03:00" start="2014-06-13T10:10:45.7343750+03:00" finish="2014-06-13T10:13:19.7031250+03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="10" executed="10" passed="9" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HOMES" outcome="Error" timestamp="2014-06-13T10:13:19.7031250+03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CourseShouldNotBeNull" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="3309386d-ea7e-186d-e5a2-891915c72bc0">
+      <Execution id="a7637a95-3296-4eb6-81e5-1532c0c73319" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseShouldNotBeNull" />
+    </UnitTest>
+    <UnitTest name="StudentIsCloned" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="68395984-32a2-812e-47b7-b8cfa6e54e37">
+      <Execution id="bf1c7f71-a4a0-47fb-b8a6-73b28ce4e089" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentIsCloned" />
+    </UnitTest>
+    <UnitTest name="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a">
+      <Execution id="4ae1c0c9-7fcf-4780-a63d-5b812c116d8a" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" />
+    </UnitTest>
+    <UnitTest name="CourseIsCloned" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="3d319b27-29f6-6ac9-e226-acf9bca47d3b">
+      <Execution id="bc39173e-6f4b-4c57-9333-824c28842114" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseIsCloned" />
+    </UnitTest>
+    <UnitTest name="CourseIdShouldBeBiggerThan0" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="4bd3d53b-72db-10b5-6a92-913f820ea831">
+      <Execution id="eb058c7b-0e81-4e13-bfde-2cc31260f7c3" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseIdShouldBeBiggerThan0" />
+    </UnitTest>
+    <UnitTest name="StudentShouldNotBeNull" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="81716788-85b5-f251-2744-470ff30f66ff">
+      <Execution id="283cf807-8f57-4e48-b09c-c16497464c1c" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentShouldNotBeNull" />
+    </UnitTest>
+    <UnitTest name="StudentNameShouldBeTheSameAsTheGivenArgumentString" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="b722a069-caba-30d6-cde9-6408783cc2b6">
+      <Execution id="9a6939d9-4ffd-4820-99fb-8df2b7ede0b7" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentNameShouldBeTheSameAsTheGivenArgumentString" />
+    </UnitTest>
+    <UnitTest name="StudentsCanBeAddedToCourses" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="07554278-6f52-f3eb-3aeb-2d816a3a4286">
+      <Execution id="ba59323f-0974-4327-b6a6-c634620b7c6b" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentsCanBeAddedToCourses" />
+    </UnitTest>
+    <UnitTest name="CourseNameShouldBeTheSameAsTheGivenArgumentString" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="1660cd45-9ce4-c45f-d383-0e562aa7cb36">
+      <Execution id="fdd06ca5-1bc9-4459-a932-71cc8b58d9dd" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseNameShouldBeTheSameAsTheGivenArgumentString" />
+    </UnitTest>
+    <UnitTest name="StudentIdShouldBeBiggerThan10000" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="39d03994-97e6-46bd-6ed7-3f665575b2a7">
+      <Execution id="eb56f622-b8d9-410c-b98a-494c5178f80f" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentIdShouldBeBiggerThan10000" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="81716788-85b5-f251-2744-470ff30f66ff" executionId="283cf807-8f57-4e48-b09c-c16497464c1c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b722a069-caba-30d6-cde9-6408783cc2b6" executionId="9a6939d9-4ffd-4820-99fb-8df2b7ede0b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39d03994-97e6-46bd-6ed7-3f665575b2a7" executionId="eb56f622-b8d9-410c-b98a-494c5178f80f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68395984-32a2-812e-47b7-b8cfa6e54e37" executionId="bf1c7f71-a4a0-47fb-b8a6-73b28ce4e089" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3309386d-ea7e-186d-e5a2-891915c72bc0" executionId="a7637a95-3296-4eb6-81e5-1532c0c73319" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1660cd45-9ce4-c45f-d383-0e562aa7cb36" executionId="fdd06ca5-1bc9-4459-a932-71cc8b58d9dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4bd3d53b-72db-10b5-6a92-913f820ea831" executionId="eb058c7b-0e81-4e13-bfde-2cc31260f7c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d319b27-29f6-6ac9-e226-acf9bca47d3b" executionId="bc39173e-6f4b-4c57-9333-824c28842114" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07554278-6f52-f3eb-3aeb-2d816a3a4286" executionId="ba59323f-0974-4327-b6a6-c634620b7c6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a" executionId="4ae1c0c9-7fcf-4780-a63d-5b812c116d8a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="283cf807-8f57-4e48-b09c-c16497464c1c" testId="81716788-85b5-f251-2744-470ff30f66ff" testName="StudentShouldNotBeNull" computerName="HOMES" duration="00:00:00.0533115" startTime="2014-06-13T10:10:45.9218750+03:00" endTime="2014-06-13T10:10:46.8281250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="283cf807-8f57-4e48-b09c-c16497464c1c">
+    </UnitTestResult>
+    <UnitTestResult executionId="9a6939d9-4ffd-4820-99fb-8df2b7ede0b7" testId="b722a069-caba-30d6-cde9-6408783cc2b6" testName="StudentNameShouldBeTheSameAsTheGivenArgumentString" computerName="HOMES" duration="00:00:00.0006327" startTime="2014-06-13T10:10:46.8281250+03:00" endTime="2014-06-13T10:10:46.8750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a6939d9-4ffd-4820-99fb-8df2b7ede0b7">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb56f622-b8d9-410c-b98a-494c5178f80f" testId="39d03994-97e6-46bd-6ed7-3f665575b2a7" testName="StudentIdShouldBeBiggerThan10000" computerName="HOMES" duration="00:00:00.0004145" startTime="2014-06-13T10:10:46.8750000+03:00" endTime="2014-06-13T10:10:46.8906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb56f622-b8d9-410c-b98a-494c5178f80f">
+    </UnitTestResult>
+    <UnitTestResult executionId="bf1c7f71-a4a0-47fb-b8a6-73b28ce4e089" testId="68395984-32a2-812e-47b7-b8cfa6e54e37" testName="StudentIsCloned" computerName="HOMES" duration="00:00:00.0008981" startTime="2014-06-13T10:10:46.9062500+03:00" endTime="2014-06-13T10:10:46.9218750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf1c7f71-a4a0-47fb-b8a6-73b28ce4e089">
+    </UnitTestResult>
+    <UnitTestResult executionId="a7637a95-3296-4eb6-81e5-1532c0c73319" testId="3309386d-ea7e-186d-e5a2-891915c72bc0" testName="CourseShouldNotBeNull" computerName="HOMES" duration="00:00:00.0016292" startTime="2014-06-13T10:10:46.9375000+03:00" endTime="2014-06-13T10:10:46.9687500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7637a95-3296-4eb6-81e5-1532c0c73319">
+    </UnitTestResult>
+    <UnitTestResult executionId="fdd06ca5-1bc9-4459-a932-71cc8b58d9dd" testId="1660cd45-9ce4-c45f-d383-0e562aa7cb36" testName="CourseNameShouldBeTheSameAsTheGivenArgumentString" computerName="HOMES" duration="00:00:00.0004805" startTime="2014-06-13T10:10:46.9843750+03:00" endTime="2014-06-13T10:10:47.0156250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdd06ca5-1bc9-4459-a932-71cc8b58d9dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb058c7b-0e81-4e13-bfde-2cc31260f7c3" testId="4bd3d53b-72db-10b5-6a92-913f820ea831" testName="CourseIdShouldBeBiggerThan0" computerName="HOMES" duration="00:00:00.0025832" startTime="2014-06-13T10:10:47.0312500+03:00" endTime="2014-06-13T10:10:47.0468750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb058c7b-0e81-4e13-bfde-2cc31260f7c3">
+    </UnitTestResult>
+    <UnitTestResult executionId="bc39173e-6f4b-4c57-9333-824c28842114" testId="3d319b27-29f6-6ac9-e226-acf9bca47d3b" testName="CourseIsCloned" computerName="HOMES" duration="00:00:00.0008847" startTime="2014-06-13T10:10:47.0781250+03:00" endTime="2014-06-13T10:10:47.1093750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc39173e-6f4b-4c57-9333-824c28842114">
+    </UnitTestResult>
+    <UnitTestResult executionId="ba59323f-0974-4327-b6a6-c634620b7c6b" testId="07554278-6f52-f3eb-3aeb-2d816a3a4286" testName="StudentsCanBeAddedToCourses" computerName="HOMES" duration="00:00:00.0025899" startTime="2014-06-13T10:10:47.1093750+03:00" endTime="2014-06-13T10:10:47.1250000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba59323f-0974-4327-b6a6-c634620b7c6b">
+    </UnitTestResult>
+    <UnitTestResult executionId="4ae1c0c9-7fcf-4780-a63d-5b812c116d8a" testId="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a" testName="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" computerName="HOMES" duration="00:02:32.5625000" startTime="2014-06-13T10:10:47.1406250+03:00" endTime="2014-06-13T10:13:19.7031250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ae1c0c9-7fcf-4780-a63d-5b812c116d8a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

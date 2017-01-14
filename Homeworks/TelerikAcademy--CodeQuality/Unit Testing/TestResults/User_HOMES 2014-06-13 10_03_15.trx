@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="acf48970-cab3-4eea-8ec9-f3628b0b03eb" name="User@HOMES 2014-06-13 10:03:15" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8527c876-9647-47d7-bfd0-1c28719b9974">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-13 10_03_15">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T10:03:15.2187500+03:00" queuing="2014-06-13T10:03:15.2500000+03:00" start="2014-06-13T10:03:15.2656250+03:00" finish="2014-06-13T10:03:15.8125000+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" passed="6" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CourseShouldNotBeNull" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="3309386d-ea7e-186d-e5a2-891915c72bc0">
+      <Execution id="cd4d491d-40f5-4bb4-9e29-f1fb2c24267b" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseShouldNotBeNull" />
+    </UnitTest>
+    <UnitTest name="StudentIsCloned" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="68395984-32a2-812e-47b7-b8cfa6e54e37">
+      <Execution id="826e4e49-ee59-480f-8d95-82f5d36c5ab0" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentIsCloned" />
+    </UnitTest>
+    <UnitTest name="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a">
+      <Execution id="d885c881-2578-4d96-b766-14f414949c4f" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" />
+    </UnitTest>
+    <UnitTest name="CourseIsCloned" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="3d319b27-29f6-6ac9-e226-acf9bca47d3b">
+      <Execution id="c18c495d-d5da-4ede-ae47-53eb385d1b24" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseIsCloned" />
+    </UnitTest>
+    <UnitTest name="CourseIdShouldBeBiggerThan0" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="4bd3d53b-72db-10b5-6a92-913f820ea831">
+      <Execution id="666616d6-4311-49fa-a427-c6f7aa934fed" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseIdShouldBeBiggerThan0" />
+    </UnitTest>
+    <UnitTest name="StudentShouldNotBeNull" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="81716788-85b5-f251-2744-470ff30f66ff">
+      <Execution id="6e9d2cf1-55b6-406d-afb9-b3f822d185ad" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentShouldNotBeNull" />
+    </UnitTest>
+    <UnitTest name="StudentNameShouldBeTheSameAsTheGivenArgumentString" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="b722a069-caba-30d6-cde9-6408783cc2b6">
+      <Execution id="7ff0966b-e962-4c57-b593-1a3868692d19" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentNameShouldBeTheSameAsTheGivenArgumentString" />
+    </UnitTest>
+    <UnitTest name="StudentsCanBeAddedToCourses" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="07554278-6f52-f3eb-3aeb-2d816a3a4286">
+      <Execution id="21f81f32-2b66-4047-8b42-8c54c141a813" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentsCanBeAddedToCourses" />
+    </UnitTest>
+    <UnitTest name="CourseNameShouldBeTheSameAsTheGivenArgumentString" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="1660cd45-9ce4-c45f-d383-0e562aa7cb36">
+      <Execution id="eeb8d167-7912-4e6f-8194-2dc6501fb2a0" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CourseNameShouldBeTheSameAsTheGivenArgumentString" />
+    </UnitTest>
+    <UnitTest name="StudentIdShouldBeBiggerThan10000" storage="d:\gitprojects\telerikacademy\quality\unit testing\testproject1\bin\debug\schoolprogram.test.dll" id="39d03994-97e6-46bd-6ed7-3f665575b2a7">
+      <Execution id="ae7b53e7-034a-4183-90c6-6e0cf9902732" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/Unit Testing/TestProject1/bin/Debug/SchoolProgram.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SchoolProgram.Test.SchoolProgrmaTest, SchoolProgram.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StudentIdShouldBeBiggerThan10000" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="81716788-85b5-f251-2744-470ff30f66ff" executionId="6e9d2cf1-55b6-406d-afb9-b3f822d185ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b722a069-caba-30d6-cde9-6408783cc2b6" executionId="7ff0966b-e962-4c57-b593-1a3868692d19" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39d03994-97e6-46bd-6ed7-3f665575b2a7" executionId="ae7b53e7-034a-4183-90c6-6e0cf9902732" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68395984-32a2-812e-47b7-b8cfa6e54e37" executionId="826e4e49-ee59-480f-8d95-82f5d36c5ab0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3309386d-ea7e-186d-e5a2-891915c72bc0" executionId="cd4d491d-40f5-4bb4-9e29-f1fb2c24267b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1660cd45-9ce4-c45f-d383-0e562aa7cb36" executionId="eeb8d167-7912-4e6f-8194-2dc6501fb2a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4bd3d53b-72db-10b5-6a92-913f820ea831" executionId="666616d6-4311-49fa-a427-c6f7aa934fed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d319b27-29f6-6ac9-e226-acf9bca47d3b" executionId="c18c495d-d5da-4ede-ae47-53eb385d1b24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07554278-6f52-f3eb-3aeb-2d816a3a4286" executionId="21f81f32-2b66-4047-8b42-8c54c141a813" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a" executionId="d885c881-2578-4d96-b766-14f414949c4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6e9d2cf1-55b6-406d-afb9-b3f822d185ad" testId="81716788-85b5-f251-2744-470ff30f66ff" testName="StudentShouldNotBeNull" computerName="HOMES" duration="00:00:00.0284267" startTime="2014-06-13T10:03:15.2812500+03:00" endTime="2014-06-13T10:03:15.6093750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6e9d2cf1-55b6-406d-afb9-b3f822d185ad">
+    </UnitTestResult>
+    <UnitTestResult executionId="7ff0966b-e962-4c57-b593-1a3868692d19" testId="b722a069-caba-30d6-cde9-6408783cc2b6" testName="StudentNameShouldBeTheSameAsTheGivenArgumentString" computerName="HOMES" duration="00:00:00.0042734" startTime="2014-06-13T10:03:15.6250000+03:00" endTime="2014-06-13T10:03:15.6406250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ff0966b-e962-4c57-b593-1a3868692d19">
+    </UnitTestResult>
+    <UnitTestResult executionId="ae7b53e7-034a-4183-90c6-6e0cf9902732" testId="39d03994-97e6-46bd-6ed7-3f665575b2a7" testName="StudentIdShouldBeBiggerThan10000" computerName="HOMES" duration="00:00:00.0006031" startTime="2014-06-13T10:03:15.6406250+03:00" endTime="2014-06-13T10:03:15.6562500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae7b53e7-034a-4183-90c6-6e0cf9902732">
+    </UnitTestResult>
+    <UnitTestResult executionId="826e4e49-ee59-480f-8d95-82f5d36c5ab0" testId="68395984-32a2-812e-47b7-b8cfa6e54e37" testName="StudentIsCloned" computerName="HOMES" duration="00:00:00.0287184" startTime="2014-06-13T10:03:15.6562500+03:00" endTime="2014-06-13T10:03:15.6875000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="826e4e49-ee59-480f-8d95-82f5d36c5ab0">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SchoolProgram.Test.SchoolProgrmaTest.StudentIsCloned threw exception: 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index</Message>
+          <StackTrace>    at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at SchoolProgram.School.get_Students() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\School.cs:line 38
+   at SchoolProgram.Test.SchoolProgrmaTest.StudentIsCloned() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\SchoolProgrmaTest.cs:line 86
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cd4d491d-40f5-4bb4-9e29-f1fb2c24267b" testId="3309386d-ea7e-186d-e5a2-891915c72bc0" testName="CourseShouldNotBeNull" computerName="HOMES" duration="00:00:00.0027835" startTime="2014-06-13T10:03:15.6875000+03:00" endTime="2014-06-13T10:03:15.7031250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd4d491d-40f5-4bb4-9e29-f1fb2c24267b">
+    </UnitTestResult>
+    <UnitTestResult executionId="eeb8d167-7912-4e6f-8194-2dc6501fb2a0" testId="1660cd45-9ce4-c45f-d383-0e562aa7cb36" testName="CourseNameShouldBeTheSameAsTheGivenArgumentString" computerName="HOMES" duration="00:00:00.0004483" startTime="2014-06-13T10:03:15.7031250+03:00" endTime="2014-06-13T10:03:15.7187500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eeb8d167-7912-4e6f-8194-2dc6501fb2a0">
+    </UnitTestResult>
+    <UnitTestResult executionId="666616d6-4311-49fa-a427-c6f7aa934fed" testId="4bd3d53b-72db-10b5-6a92-913f820ea831" testName="CourseIdShouldBeBiggerThan0" computerName="HOMES" duration="00:00:00.0003486" startTime="2014-06-13T10:03:15.7343750+03:00" endTime="2014-06-13T10:03:15.7343750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="666616d6-4311-49fa-a427-c6f7aa934fed">
+    </UnitTestResult>
+    <UnitTestResult executionId="c18c495d-d5da-4ede-ae47-53eb385d1b24" testId="3d319b27-29f6-6ac9-e226-acf9bca47d3b" testName="CourseIsCloned" computerName="HOMES" duration="00:00:00.0031864" startTime="2014-06-13T10:03:15.7343750+03:00" endTime="2014-06-13T10:03:15.7500000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c18c495d-d5da-4ede-ae47-53eb385d1b24">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SchoolProgram.Test.SchoolProgrmaTest.CourseIsCloned threw exception: 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index</Message>
+          <StackTrace>    at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at SchoolProgram.School.get_Courses() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\School.cs:line 21
+   at SchoolProgram.Test.SchoolProgrmaTest.CourseIsCloned() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\SchoolProgrmaTest.cs:line 122
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="21f81f32-2b66-4047-8b42-8c54c141a813" testId="07554278-6f52-f3eb-3aeb-2d816a3a4286" testName="StudentsCanBeAddedToCourses" computerName="HOMES" duration="00:00:00.0050573" startTime="2014-06-13T10:03:15.7500000+03:00" endTime="2014-06-13T10:03:15.7656250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="21f81f32-2b66-4047-8b42-8c54c141a813">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreSame failed. </Message>
+          <StackTrace>   at SchoolProgram.Test.SchoolProgrmaTest.StudentsCanBeAddedToCourses() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\SchoolProgrmaTest.cs:line 135
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d885c881-2578-4d96-b766-14f414949c4f" testId="5a4e1556-8543-72fb-d9c4-9639e8fe0c6a" testName="StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool" computerName="HOMES" duration="00:00:00.0039815" startTime="2014-06-13T10:03:15.7812500+03:00" endTime="2014-06-13T10:03:15.7968750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d885c881-2578-4d96-b766-14f414949c4f">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SchoolProgram.Test.SchoolProgrmaTest.StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool threw exception: 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index</Message>
+          <StackTrace>    at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   at SchoolProgram.School.get_Courses() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\School.cs:line 21
+   at SchoolProgram.School.AddStudentToCourse(Int32 studentID, Int32 courseID) in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\Unit Testing\School.cs:line 69
+   at SchoolProgram.Test.SchoolProgrmaTest.StudentsCanBeAddedToCoursesOfSchoolOnlyByTheSchool() in D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\SchoolProgrmaTest.cs:line 147
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

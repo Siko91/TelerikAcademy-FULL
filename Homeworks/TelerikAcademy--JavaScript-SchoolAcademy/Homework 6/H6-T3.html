@@ -1,0 +1,61 @@
+<html>
+<head>
+	<title>Homework 6 - Task 3</title>
+</head>
+<body>
+
+<label>Enter numbers, seperated by coma "," </label>
+<input id="Input" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click me!</button>
+<br />
+
+<script type="text/javascript">
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+    	var Arr = document.getElementById("Input").value;
+        var seperator = ",";
+        var Error = false;
+
+    	Arr = Arr.split(seperator);
+        
+        for(i=0; i<Arr.length; i++)
+        {
+            Arr[i-1] = Arr[i-1] * 1;
+            if(Arr[i-1] == NaN)
+            {
+                Error = true;
+                console.log("Error");
+                break;
+            }
+        }
+
+        if(Error != false)
+        {
+        var largest = Math.max.apply(Math, Arr);
+        var smallest = Math.min.apply(Math, Arr);
+        console.log("Largest number = " + largest);
+        console.log("Smallest number = " + smallest);
+        }
+        else
+        {
+            console.log("Can not compare the elements of this array.");
+        }
+
+
+    }
+
+
+</script>
+</body>
+</html>

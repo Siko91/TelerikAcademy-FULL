@@ -1,0 +1,70 @@
+<html>
+<head>
+    <title>Homework 10 - Task 11 - Placeholders</title>
+</head>
+<body>
+
+    <label>Write a text with some placeholders in it(starting from 0)!</label>
+    <br />
+    <input id="Input1" type="text" />
+    <br />
+    <br />
+    <label>Write the words which gonna substitute the placehorders, separated by ","!</label>
+    <br />
+    <input id="Input2" type="text" />
+    <br />
+    <br />
+    <button id="Btn">Combine!</button>
+    <br />
+ 
+    <script>
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+            var text = document.getElementById("Input1").value;
+            var elements = document.getElementById("Input2").value;
+
+            var elements = elements.split(",");
+
+            var Done = CombineStrings(text, elements);
+            console.log(Done);
+        }
+
+         function CombineStrings(text, elements)
+            {
+                var strB = StringBuilder();
+                var beggining = 0;
+                var index = text.indexOf("{");
+                while (index>-1) {
+                    var num = parseInt(text.substr(index + 1, 1));
+                    strB.Append(text.substring(beggining, index - 1) + " ");
+                    strB.Append(elements[num] + " ");
+                    beggining = index + 3;
+                    index = text.indexOf("{",index+1);
+                }
+                return strB.ConverToString();
+            }
+            function StringBuilder() {
+                return {
+                    strings: [],
+                    len: 0,
+                    Append: function (str) {
+                        this.strings[this.len++] = str;
+                        return this;
+                    },
+                    ConverToString: function () {
+                        return this.strings.join("");
+                    }
+                };
+            }
+
+    </script>
+</body>
+</html>

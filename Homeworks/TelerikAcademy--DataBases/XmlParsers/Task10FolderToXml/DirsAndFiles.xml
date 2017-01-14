@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MainFolder>
+  <dir Name="..\..\">
+    <file Name="..\..\App.config" />
+    <file Name="..\..\DirsAndFiles.xml" />
+    <file Name="..\..\Program.cs" />
+    <file Name="..\..\Task10FolderToXml.csproj" />
+    <file Name="..\..\Task10FolderToXml.csproj.user" />
+    <dir Name="..\..\bin">
+      <dir Name="..\..\bin\Debug">
+        <file Name="..\..\bin\Debug\Task10FolderToXml.exe" />
+        <file Name="..\..\bin\Debug\Task10FolderToXml.exe.config" />
+        <file Name="..\..\bin\Debug\Task10FolderToXml.pdb" />
+        <file Name="..\..\bin\Debug\Task10FolderToXml.vshost.exe" />
+        <file Name="..\..\bin\Debug\Task10FolderToXml.vshost.exe.config" />
+      </dir>
+      <dir Name="..\..\bin\Release" />
+    </dir>
+    <dir Name="..\..\obj">
+      <dir Name="..\..\obj\Debug">
+        <file Name="..\..\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+        <file Name="..\..\obj\Debug\Task10FolderToXml.csproj.FileListAbsolute.txt" />
+        <file Name="..\..\obj\Debug\Task10FolderToXml.csprojResolveAssemblyReference.cache" />
+        <file Name="..\..\obj\Debug\Task10FolderToXml.exe" />
+        <file Name="..\..\obj\Debug\Task10FolderToXml.pdb" />
+        <file Name="..\..\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+        <file Name="..\..\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+        <file Name="..\..\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+        <dir Name="..\..\obj\Debug\TempPE" />
+      </dir>
+    </dir>
+    <dir Name="..\..\Properties">
+      <file Name="..\..\Properties\AssemblyInfo.cs" />
+    </dir>
+  </dir>
+</MainFolder>

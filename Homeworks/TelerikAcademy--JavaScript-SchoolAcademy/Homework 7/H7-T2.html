@@ -1,0 +1,72 @@
+<html>
+<head>
+	<title>Homework 7 - Task 2</title>
+</head>
+<body>
+
+<label> Enter the first text Array, seperating the strings with comas "," : </label>
+<input id="Input1" type="text" class="js-console-input" />
+<br />
+
+<label> Enter the second text Array, seperating the strings with comas "," : </label>
+<input id="Input2" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click to compare!</button>
+<br />
+
+<script type="text/javascript">
+
+    // Write a script that compares two char arrays lexicographically (letter by letter).
+
+    window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("Btn").addEventListener("click", Calculate, false);
+    }
+
+    function Calculate()
+    {
+        seperator = ","
+    	var Arr1 = document.getElementById("Input1").value;
+        var Arr2 = document.getElementById("Input2").value;
+        var length;
+        var result;
+
+        Arr1 = Arr1.split(seperator);
+        Arr2 = Arr2.split(seperator);
+
+        console.log(Arr1.join(" - "));
+        console.log(Arr2.join(" - "));
+
+        length = Arr1.length;
+        if(Arr1.length < Arr2.length){length = Arr2.length;}
+        if(Arr1.length != Arr2.length){console.log("The lenght of the two arrays is not the same. They can't be equal. The check will run anyway, becust that is what the task requires.");}
+
+        result = true;
+
+        for(i=0; i<length; i++){
+            console.log("Comparing strings by index [" + i + "] :");
+
+            if(Arr1[i] != Arr2[i])
+            {
+                console.log("FALSE!");
+                result = false;
+                break;
+            }
+            continue;
+        }
+        if (result) {console.log("TRUE!");};
+
+    }
+
+
+</script>
+</body>
+</html>
+
+
+
+

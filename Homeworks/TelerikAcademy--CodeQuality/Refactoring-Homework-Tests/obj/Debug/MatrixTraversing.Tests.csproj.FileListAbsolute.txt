@@ -1,0 +1,7 @@
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\bin\Debug\TestProject1.dll
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\bin\Debug\TestProject1.pdb
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\bin\Debug\MatrixTraversing.exe
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\bin\Debug\MatrixTraversing.pdb
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\obj\Debug\TestProject1.dll
+D:\GitProjects\TelerikAcademy\Quality\TestProject1\obj\Debug\TestProject1.pdb

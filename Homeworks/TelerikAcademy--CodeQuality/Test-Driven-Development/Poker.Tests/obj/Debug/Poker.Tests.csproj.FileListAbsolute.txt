@@ -1,0 +1,7 @@
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.dll
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.pdb
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\bin\Debug\Poker.exe
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\bin\Debug\Poker.pdb
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.dll
+D:\GitProjects\TelerikAcademy\Quality\Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.pdb

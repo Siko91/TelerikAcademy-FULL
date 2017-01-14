@@ -1,0 +1,43 @@
+Design pattern: Simple Factory
+	* not needed
+
+Design pattern: Strategy
+	* Хд якъг шгсхж - Асахчш осха ь Кяе оди сш
+
+Design pattern: Template Method
+	* Хдзер Асахчш осха ь Кяе оди сш
+
+Design pattern: Abstract factory
+	* The manufactorer classes
+
+Design pattern: Composite
+	* Асахчш осха ь Кяе оди сш
+
+Design pattern: Mediator
+	* the MotherBoard class
+
+Found bottlenecks:
+	* CPU.rand() - used a while() loop to get a random number
+	* CPU.SquareNumber - used + instead of *;
+
+Found bugs:
+	* CPU.rand() - only worked with 0-1000 values
+	* First command didn't have "ToLowerCase()"
+	* 
+
+Single responsibility principle
+	* Hdd and video card are seperated
+	* CPU is seperated to cpu32 & cpu64
+	* Others (too many)
+
+Open/closed principle
+	* everywhere - the Laptop for Example. It was easy to add a battery
+
+Liskov substitution principle
+	* Everywhere - the video cards or Hdd/raid for example - substitudes
+
+Interface segregation principle
+	* everywhere - my interfaces are small enough from the start
+
+Dependency inversion principle
+	* everywhere - usualy shows in the constructors (they require injections)

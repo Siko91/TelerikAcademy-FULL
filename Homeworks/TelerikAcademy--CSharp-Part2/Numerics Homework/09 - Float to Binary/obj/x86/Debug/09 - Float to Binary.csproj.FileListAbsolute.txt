@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\09 - Float to Binary\bin\Debug\09 - Float to Binary.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\09 - Float to Binary\bin\Debug\09 - Float to Binary.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\09 - Float to Binary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\09 - Float to Binary\obj\x86\Debug\09 - Float to Binary.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\09 - Float to Binary\obj\x86\Debug\09 - Float to Binary.pdb

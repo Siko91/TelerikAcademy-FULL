@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Inheritance-and-Polymorphism\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Inheritance-and-Polymorphism\obj\x86\Debug\Inheritance-and-Polymorphism.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Inheritance-and-Polymorphism\obj\x86\Debug\Inheritance-and-Polymorphism.pdb

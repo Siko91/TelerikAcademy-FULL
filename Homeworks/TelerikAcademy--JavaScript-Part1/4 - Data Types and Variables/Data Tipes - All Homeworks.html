@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Telerik Academy Homework</title>
+	<style type="text/css">
+		#wrapper {
+			background: #aae;
+			padding: 15px;
+		}
+		#wrapper .task {
+			border: 1px solid black;
+			background: #fff;
+			padding: 5px;
+			text-align: center;
+		}
+		#wrapper .task input{
+			display: block;
+			margin: 1px;
+		}
+		#wrapper .task div {
+			display: inline-block;
+			width: 45%;
+			text-align: left;
+		}
+		#wrapper .task div:last-child {
+			min-height: 40px;
+			color: black;
+			font-size: 24px;
+			background: none;
+			text-align: center;
+			padding: 5px;
+		}
+		#wrapper .task div.done {
+			border: 1px solid black;
+			background: #5e5;
+		}
+		#wrapper .task div.error {
+			border: 1px solid black;
+			background: #f00;
+		} </style>
+
+	<script type="text/javascript">
+
+		function ShowResult(result, resultDivClass, taskNumber)
+		{
+		    document.getElementById("result" + taskNumber).className = resultDivClass;
+		    document.getElementById("result" + taskNumber).innerHTML = result;
+		}
+
+		function ThrowError(taskNumber)
+		{
+			ShowResult("Error", "error", taskNumber);
+		}
+
+		function HandleClicks(taskNumber)
+		{
+		    switch (taskNumber) {
+		        case 1: DoTask1(); break;
+		        case 2: DoTask2(); break;
+		        case 3: DoTask3(); break;
+		        case 4: DoTask4(); break;
+		        default: break;
+		    }
+		}
+
+		function DoTask1()
+		{
+			var allTypesOfStuff = [1, 1.1, "string", true];
+			ShowResult(allTypesOfStuff.join("<br />"), "done", 1);
+		}
+		function DoTask2()
+		{
+			var input = document.getElementById("input2").value;
+
+			if (input.length == 0) {
+				ShowResult("Input something to see it in the &quot;&quot;", "error", 2);
+				return;
+			}
+
+			ShowResult("your input is &quot;" + input + "&quot;", "done", 2);
+		}
+		function DoTask3()
+		{
+			var allTypesOfStuff = [1, 1.1, "string", true];
+			var types = new Array();
+
+			for (var i = allTypesOfStuff.length - 1; i >= 0; i--) {
+				types[i] = typeof allTypesOfStuff[i];
+			}
+
+			ShowResult(types.join("<br />"), "done", 3);
+		}
+		function DoTask4()
+		{
+			var otherTypesOfStuff = [null, undefined];
+			var types = new Array();
+
+			for (var i = otherTypesOfStuff.length - 1; i >= 0; i--) {
+				types[i] = typeof otherTypesOfStuff[i];
+			}
+
+			ShowResult(types.join("<br />"), "done", 4);
+		}
+
+    </script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div class="task">
+			<div>
+				<header><h2>Task 1</h2></header>
+				<p>Assign all the possible JavaScript literals to different variables.</p>
+				<button onclick="HandleClicks(1)">Do it!</button>
+		    </div>
+			<div id="result1" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 2</h2></header>
+				<p>Create a string variable with quoted text in it. For example: "How you doin'?", Joey said</p>
+				<input placeholder="Write something" id="input2">
+				<button onclick="HandleClicks(2)">Do it!</button>
+		    </div>
+			<div id="result2" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 3</h2></header>
+				<p>Try typeof on all variables you created</p>
+				<button onclick="HandleClicks(3)">Do it!</button>
+		    </div>
+			<div id="result3" class=""></div>
+		</div>
+		<div class="task">
+			<div>
+				<header><h2>Task 4</h2></header>
+				<p>Create null, undefined variables and try typeof on them.</p>
+				<button onclick="HandleClicks(4)">Do it!</button>
+		    </div>
+			<div id="result4" class=""></div>
+		</div>
+	</div>
+</body>
+</html>

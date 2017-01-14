@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\bin\Debug\Task2CombinationsWithRepetition.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\bin\Debug\Task2CombinationsWithRepetition.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\bin\Debug\Task2CombinationsWithRepetition.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\obj\Debug\Task2CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\obj\Debug\Task2CombinationsWithRepetition.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\Recursion\Task2CombinationsWithRepetition\obj\Debug\Task2CombinationsWithRepetition.pdb

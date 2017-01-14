@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\07 - Revers Digits\bin\Debug\07 - Revers Digits.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\07 - Revers Digits\bin\Debug\07 - Revers Digits.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\07 - Revers Digits\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\07 - Revers Digits\obj\x86\Debug\07 - Revers Digits.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\07 - Revers Digits\obj\x86\Debug\07 - Revers Digits.pdb

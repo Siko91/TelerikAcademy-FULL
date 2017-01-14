@@ -1,0 +1,14 @@
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\Task2-ConsoleClient.exe.config
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\Task2-ConsoleClient.exe
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\Task2-ConsoleClient.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\StudentSystem.Data.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\SchoolSystem.Models.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\SchoolSystem.Models.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\obj\Debug\Task2-ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\obj\Debug\Task2-ConsoleClient.exe
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\obj\Debug\Task2-ConsoleClient.pdb
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\CodeFirstWithEntityFramework\Task2-ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml

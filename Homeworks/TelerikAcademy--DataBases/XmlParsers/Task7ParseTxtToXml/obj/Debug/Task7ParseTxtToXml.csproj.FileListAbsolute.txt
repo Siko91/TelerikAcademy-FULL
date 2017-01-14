@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\bin\Debug\Task7ParseTxtToXml.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\bin\Debug\Task7ParseTxtToXml.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\bin\Debug\Task7ParseTxtToXml.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\bin\Debug\XmlParsers.Classes.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\bin\Debug\XmlParsers.Classes.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\obj\Debug\Task7ParseTxtToXml.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\obj\Debug\Task7ParseTxtToXml.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task7ParseTxtToXml\obj\Debug\Task7ParseTxtToXml.pdb

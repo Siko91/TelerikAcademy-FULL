@@ -1,0 +1,12 @@
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll.config
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\BookStore.Data.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\BookStore.Models.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\BookStore.Models.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\obj\Debug\BookStore.Data.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\obj\Debug\BookStore.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task5-CodeFirst\BookStore\BookStore.Data\obj\Debug\BookStore.Data.pdb

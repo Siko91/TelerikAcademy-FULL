@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\04 - Download\bin\Debug\04 - Download.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\04 - Download\bin\Debug\04 - Download.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\04 - Download\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\04 - Download\obj\x86\Debug\04 - Download.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Exception Homework\04 - Download\obj\x86\Debug\04 - Download.pdb

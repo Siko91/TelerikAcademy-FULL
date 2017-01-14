@@ -1,0 +1,128 @@
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+
+	function Solve(params) {
+
+		var rows = parseInt(params[0].split(" ")[0]);
+		var cols = parseInt(params[0].split(" ")[1]);
+
+		var currentRow = parseInt(params[1].split(" ")[0]);
+		var currentCol = parseInt(params[1].split(" ")[1]);
+
+		var gridWithDirections = params.slice(2);
+		var arrWithVisitHistory = new Array(rows*cols);
+
+		for (var i = arrWithVisitHistory.length - 1; i >= 0; i--) {
+			arrWithVisitHistory[i] = false;
+		}
+
+		var directions = {
+	        l: {
+	            row: 0,
+	            col: -1
+	        },
+	        r: {
+	            row: 0,
+	            col: 1
+	        },
+	        u: {
+	            row: -1,
+	            col: 0
+	        },
+	        d: {
+	            row: 1,
+	            col: 0
+	        },
+	    }
+
+		var outOfTheGrid = false;
+		var currentSum = 0;
+		var stepsCount = 0;
+
+		while (!outOfTheGrid) {
+
+			var currentPosition = (currentRow * cols) + currentCol;
+
+			if (arrWithVisitHistory[currentPosition] == false) {
+				arrWithVisitHistory[currentPosition] = true;
+				currentSum += currentPosition + 1;
+				stepsCount += 1;
+			}
+			else {
+				break;
+			}
+
+			var direction = gridWithDirections[currentRow][currentCol];
+			currentRow += directions[direction].row;
+			currentCol += directions[direction].col;
+
+			if (currentCol < 0 
+				|| currentCol > cols - 1 
+				|| currentRow < 0 
+				|| currentRow > rows - 1) {
+
+				outOfTheGrid = true;
+			}
+		}
+
+		var result = "";
+		if (outOfTheGrid) {
+			result = "out " + currentSum;
+		}
+		else {
+			result = "lost " + stepsCount;
+		}
+
+		return result;
+	}
+
+	function Solve1 (argument) {
+		var args =[
+			 "3 4",
+			 "1 3",
+			 "lrrd",
+			 "dlll",
+			 "rddd"];
+
+		document.writeln(Solve(args));
+	}
+
+	function Solve2 (argument) {
+		var args =[
+			 "5 8",
+			 "0 0",
+			 "rrrrrrrd",
+			 "rludulrd",
+			 "durlddud",
+			 "urrrldud",
+			 "ulllllll"];
+
+		document.writeln(Solve(args));
+	}
+
+	function Solve3 (argument) {
+		var args =[
+			 "5 8",
+			 "0 0",
+			 "rrrrrrrd",
+			 "rludulrd",
+			 "lurlddud",
+			 "urrrldud",
+			 "ulllllll"];
+
+		document.writeln(Solve(args));
+	}
+
+
+	</script>
+</head>
+<body>
+	<button onclick="Solve1()">out 45</button>
+
+	<button onclick="Solve2()">lost 21</button>
+
+	<button onclick="Solve3()">out 442</button>
+</body>
+</html>

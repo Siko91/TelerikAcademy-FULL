@@ -1,0 +1,243 @@
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+
+	function ShowResult(result)
+	{
+		document.getElementById("result").innerHTML = "<br />" 
+		+ "---------------------------------------------------"
+		+ "<br />" 
+		+ result
+		+ "<br />" 
+		+ "---------------------------------------------------"
+	}
+
+	function testSplice() {
+
+		var SpliceTheArray = function(variables, array, index) {
+			var valuesToInsert = variables[array[index]];
+			array.splice(index,1);
+			for (var i = valuesToInsert.length - 1; i >= 0; i--) {
+				array.splice(index, 0, valuesToInsert[i]);
+			}
+			return array;
+		}
+
+		var array = [-1, 0, "a", 4, 5, 6, 7, 8, 9];
+		var index = 2;
+		var variables = {
+			a: [1, 2, 3],
+			b: [1, 2]
+		};
+
+		var result =  "Repeating code is wrong, but i realy had to do it this way."
+			+ "<br />"
+			+ "<br />"
+			+ "(" 
+			+ SpliceTheArray(variables, array, index).join(") (") 
+			+ ")"
+		ShowResult(result);
+	}
+
+	function testGetArr() {
+		var GetTheArray = function(variables, str) {
+
+			var array = str
+					.substring(
+						str.indexOf("[") + 1,
+						str.indexOf("]"))
+					.split(/[,]+[ ]*/);
+
+			array = array.filter(function(n){ return n.length != 0 });
+
+			for (var i = 0; i < array.length; i++) {
+				if (!isNaN(parseInt(array[i]))) {
+					array[i] = parseInt(array[i]);
+				}
+				else {
+					array = SpliceTheArray(variables, array, i);
+				}
+			}
+
+			return array;
+		}
+		var result = "Repeating code is wrong, but i realy had to do it this way."
+			+ "<br />"
+			+ "<br />"
+			+ "(" 
+			+ GetTheArray(null, "[11,55,    66, 44, 77, 9, 8]").join(") - (") 
+			+ ")";
+
+		ShowResult(result);
+	}
+
+	function Solve(params) {
+
+		var operations = {
+			sum: function(arr) {
+				var sum = 0;
+				for (var i = arr.length - 1; i >= 0; i--) {
+					sum += arr[i]
+				}
+				return sum;
+			},
+			min: function(arr) {
+				var min = arr[arr.length - 1];
+				for (var i = arr.length - 2; i >= 0; i--) {
+					if (min > arr[i]) {
+						min = arr[i]
+					}
+				}
+				return min;
+			},
+			max: function(arr) {
+				var max = arr[arr.length - 1];
+				for (var i = arr.length - 2; i >= 0; i--) {
+					if (max < arr[i]) {
+						max = arr[i]
+					}
+				}
+				return max;
+			},
+			avg: function(arr) {
+				var sum = 0;
+				for (var i = arr.length - 1; i >= 0; i--) {
+					sum += arr[i]
+				}
+				var avg = sum/arr.length;
+				return Math.floor(avg);
+			}
+		}
+
+		var SpliceTheArray = function(variables, array, index) {
+			var valuesToInsert = variables[array[index]];
+			array.splice(index, 1);
+
+			if (typeof valuesToInsert == "object") {
+				for (var i = valuesToInsert.length - 1; i >= 0; i--) {
+					array.splice(index, 0, valuesToInsert[i]);
+				}
+			}
+			else {
+				array.splice(index, 0, valuesToInsert);
+			}
+
+
+
+			return array;
+		}
+
+		var GetTheArray = function(variables, str) {
+
+			var array = str
+					.substring(
+						str.indexOf("[") + 1,
+						str.indexOf("]"))
+					.split(/,[ ]*/);
+
+			//////////////////////////////////////////////////////////
+			//alert(array.join(" \\ "));
+			//////////////////////////////////////////////////////////
+
+			array = array.filter(function(n){ return n.length != 0 });
+
+			for (var i = array.length - 1; i >= 0; i--) {
+				if (!isNaN(parseInt(array[i]))) {
+					array[i] = parseInt(array[i]);
+				}
+				else {
+					array = SpliceTheArray(variables, array, i);
+				}
+			}
+
+			//////////////////////////////////////////////////////////
+			//alert(array.join(" / "));
+			//////////////////////////////////////////////////////////
+
+			return array;
+		}
+
+		var GetTheValue = function(str) {
+
+			var value;
+			if (str.indexOf("[") == 0) {
+				var array = GetTheArray(variables, str);
+				value = array;
+			}
+			else {
+				var typeOfOperation = str.substr(0,3);
+				var array = GetTheArray(variables, str);
+				value = operations[typeOfOperation](array);
+			}
+			return value;
+		}
+
+		var result = "";
+		var variables = {};
+
+		for (var commandIndex = 0; commandIndex < params.length-1; commandIndex++) {
+
+			var command = params[commandIndex].split(" ");
+			command[2] = command.slice(2).join("");
+
+			//////////////////////////////////////////////////////////
+			//alert(command[1] + "\n" + command[2]);
+			//////////////////////////////////////////////////////////
+
+			var newValue = GetTheValue(command[2]);
+			variables[command[1]] = newValue;
+		}
+
+		var lastCommand = params[params.length-1];
+		var result = GetTheValue(lastCommand);
+		return result.toString();
+	}
+
+	function SolveVar1() {
+		var args =[
+		"def func sum[5, 3, 7, 2, 6, 3]", // 26
+		"def func2 [5, 3, 7, 2, 6, 3]", // array (sum=26)
+		"def func3 min[func2]", // 2
+		"def func4 max[5, 3, 7, 2, 6, 3]", // 7
+		"def func5 avg[5, 3, 7, 2, 6, 3]", // 4
+		"def func6 sum[func2, func3, func4 ]", // 35
+		"sum[func6, func4]" // 42
+		];
+
+		var result = Solve(args)
+		ShowResult(result);
+	}
+
+	function SolveVar2() {
+		var args = [
+		"def func sum[1, 2, 3, -6]",
+		"def newList [func, 10, 1]",
+		"def newFunc sum[func, 100, newList]",
+		"[newFunc]"
+		];
+		
+		var result = Solve(args)
+		ShowResult(result);
+	}
+
+	
+	</script>
+</head>
+<body>
+	<div id="wrapper">
+		<button onclick="SolveVar1()">Expected: 42</button>
+		<br />
+		<button onclick="SolveVar2()">Expected: 111</button>
+
+		<br /><br /><br />
+
+		<button onclick="testSplice()">testSplice</button>
+		<br />
+		<button onclick="testGetArr()">testGetArray</button>
+		<br />
+
+		<div id="result"></div>
+	</div>
+</body>
+</html>

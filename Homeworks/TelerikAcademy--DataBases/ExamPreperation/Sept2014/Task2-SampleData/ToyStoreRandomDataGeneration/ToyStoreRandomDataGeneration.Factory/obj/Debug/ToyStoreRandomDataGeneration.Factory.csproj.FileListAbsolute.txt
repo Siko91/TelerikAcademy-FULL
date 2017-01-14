@@ -1,0 +1,15 @@
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\obj\Debug\ToyStoreRandomDataGeneration.Factory.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\ToyStoreRandomDataGeneration.Factory.dll.config
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\ToyStoreRandomDataGeneration.Factory.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\ToyStoreRandomDataGeneration.Factory.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\System.Data.SqlServerCe.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\ToyStoreRandomDataGeneration.Data.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\ToyStoreRandomDataGeneration.Data.pdb
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\obj\Debug\ToyStoreRandomDataGeneration.Factory.dll
+D:\Git\TelerikAcademy--DataBases\ExamPreperation\Sept2014\Task2-SampleData\ToyStoreRandomDataGeneration\ToyStoreRandomDataGeneration.Factory\obj\Debug\ToyStoreRandomDataGeneration.Factory.pdb

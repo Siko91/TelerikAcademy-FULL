@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\BackUp\bin\Debug\BackUp.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\BackUp\bin\Debug\BackUp.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\BackUp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\BackUp\obj\x86\Debug\BackUp.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\PerconOrPlace\BackUp\obj\x86\Debug\BackUp.pdb

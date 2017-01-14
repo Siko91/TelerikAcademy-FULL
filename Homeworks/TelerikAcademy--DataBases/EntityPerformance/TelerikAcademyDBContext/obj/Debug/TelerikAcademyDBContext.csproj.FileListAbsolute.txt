@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\bin\Debug\TelerikAcademyDBContext.dll.config
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\bin\Debug\TelerikAcademyDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\bin\Debug\TelerikAcademyDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\obj\Debug\TelerikAcademyDBContext.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\obj\Debug\TelerikAcademyDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\TelerikAcademyDBContext\obj\Debug\TelerikAcademyDBContext.pdb

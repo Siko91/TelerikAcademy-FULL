@@ -1,0 +1,73 @@
+﻿<Page
+    x:Class="BunnyEscape.Views.MainMenuView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BunnyEscape.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="White">
+        <Canvas
+            HorizontalAlignment="Stretch" 
+            VerticalAlignment="Stretch" 
+            Background="{Binding Path=BackgroundImagePath, Converter={StaticResource pathToBrushConverter}}">
+
+            <StackPanel 
+                Orientation="Vertical"
+                Canvas.Top ="{Binding Path=BtnsTopPositionPercent, Converter={StaticResource percentToWidthConverter}}"
+                Canvas.Left ="{Binding Path=BtnsLeftPositionPercent, Converter={StaticResource percentToWidthConverter}}"
+                Width="{Binding Path=BtnWidthPercent, Converter={StaticResource percentToWidthConverter}}">
+                
+                <CheckBox 
+                        x:Name="turboModeCheckBox"
+                        IsChecked="True"
+                        FontSize="20"
+                        HorizontalAlignment="Center" >
+                    [Turbo Mode]
+                </CheckBox>
+                
+                <Button x:Name="playBtn"
+                        FontSize="40"
+                        HorizontalAlignment="Stretch" 
+                        Height="{Binding Path=BtnHeightPercent, Converter={StaticResource percentToHeightConverter}}" 
+                        Click="OnPlayBtnClick">
+                    Play already!!
+                </Button>
+
+                <Button x:Name="storyBtn"
+                        FontSize="30"
+                        HorizontalAlignment="Stretch" 
+                        Height="{Binding Path=BtnHeightPercent, Converter={StaticResource percentToHeightConverter}}"
+                        Click="OnStoryBtnClick">
+                    Game story
+                </Button>
+
+                <Button x:Name="toyurialBtn"
+                        FontSize="30"
+                        HorizontalAlignment="Stretch" 
+                        Height="{Binding Path=BtnHeightPercent, Converter={StaticResource percentToHeightConverter}}"
+                        Click="OnToturialBtnClick">
+                    How to play
+                </Button>
+
+                <Button x:Name="localScoresBtn"
+                        FontSize="30"
+                        HorizontalAlignment="Stretch" 
+                        Height="{Binding Path=BtnHeightPercent, Converter={StaticResource percentToHeightConverter}}" 
+                        Click="OnLocalScoresBtnClick">
+                    Your highscores
+                </Button>
+
+                <Button x:Name="globalScoresBtn"
+                        FontSize="30"
+                        HorizontalAlignment="Stretch" 
+                        Height="{Binding Path=BtnHeightPercent, Converter={StaticResource percentToHeightConverter}}" 
+                        Click="OnInternetScoresBtnClick">
+                    Global highscores
+                </Button>
+
+            </StackPanel>
+        </Canvas>
+    </Grid>
+</Page>

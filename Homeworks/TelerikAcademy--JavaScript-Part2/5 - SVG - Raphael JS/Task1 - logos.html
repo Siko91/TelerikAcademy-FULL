@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework - Raphael - Task 1</title>
+        <style type="text/css">svg {border: 1px solid black;}</style>
+        <script src="Raphael-min.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div id="container1"></div>
+        <div id="container2"></div>
+    	<script>
+            window.onload = function () {
+            var paper = Raphael("container1", 450, 150);
+
+            var telerikLogo = paper.path('M23 39 39 23 79 63 56 85 33 63 73 23 89 39');
+            telerikLogo.attr({
+                'stroke-width': 10,
+                stroke: '#5CE600'
+            });
+
+            var telerikText = paper.text(230, 62, 'Telerik');
+            telerikText.attr({
+                'font-size': 80,
+                'font-weight': 'bold',
+                'font-family': 'Arial'
+            });
+
+            var circle = paper.circle(370, 58, 8);
+            circle.attr({
+                'stroke-width': 2
+            });
+
+            var registeredtrademarkR = paper.text(370, 58, 'R');
+            registeredtrademarkR.attr({
+                'font-size': 12,
+                'font-weight': 'bold'
+            });
+
+            var slogan = paper.text(263, 112, 'Develop experiences');
+            slogan.attr({
+                'font-size': 32,
+                'font-family': 'Arial'
+            });
+
+            var paper2 = Raphael("container2", 200, 60);
+
+            var leftPartText = paper2.text(50, 30, 'You');
+            leftPartText.attr({
+                'font-size': 40
+            });
+
+            var rect = paper2.rect(90, 5, 98, 50, 10);
+            rect.attr({
+                fill: 'red',
+                stroke: 'red'
+            });
+
+            var rightPartText = paper2.text(138, 30, 'Tube');
+            rightPartText.attr({
+                'font-size': 40,
+                fill: 'white'
+            });
+        };
+    	</script>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\bin\Debug\Computers.Core.Tests.dll
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\bin\Debug\Computers.Core.Tests.pdb
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\bin\Debug\Computers.Core.dll
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\bin\Debug\Computers.Core.pdb
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\obj\Debug\Computers.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\obj\Debug\Computers.Core.Tests.dll
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Core.Tests\obj\Debug\Computers.Core.Tests.pdb

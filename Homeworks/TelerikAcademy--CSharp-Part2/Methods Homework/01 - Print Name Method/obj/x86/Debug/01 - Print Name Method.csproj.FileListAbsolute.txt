@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\01 - Print Name Method\bin\Debug\01 - Print Name Method.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\01 - Print Name Method\bin\Debug\01 - Print Name Method.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\01 - Print Name Method\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\01 - Print Name Method\obj\x86\Debug\01 - Print Name Method.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\01 - Print Name Method\obj\x86\Debug\01 - Print Name Method.pdb

@@ -1,0 +1,1 @@
+I can't write for windows phone. Start the project as a windows 8 application.

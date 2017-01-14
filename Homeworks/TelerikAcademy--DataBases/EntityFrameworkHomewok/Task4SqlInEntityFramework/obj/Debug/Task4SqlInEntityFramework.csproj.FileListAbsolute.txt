@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\Task4SqlInEntityFramework.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\Task4SqlInEntityFramework.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\Task4SqlInEntityFramework.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\obj\Debug\Task4SqlInEntityFramework.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\obj\Debug\Task4SqlInEntityFramework.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task4SqlInEntityFramework\obj\Debug\Task4SqlInEntityFramework.csprojResolveAssemblyReference.cache

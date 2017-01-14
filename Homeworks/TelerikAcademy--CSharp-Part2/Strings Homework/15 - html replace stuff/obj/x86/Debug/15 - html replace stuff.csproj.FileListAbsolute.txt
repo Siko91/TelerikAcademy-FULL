@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\15 - html replace stuff\bin\Debug\15 - html replace stuff.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\15 - html replace stuff\bin\Debug\15 - html replace stuff.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\15 - html replace stuff\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\15 - html replace stuff\obj\x86\Debug\15 - html replace stuff.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\15 - html replace stuff\obj\x86\Debug\15 - html replace stuff.pdb

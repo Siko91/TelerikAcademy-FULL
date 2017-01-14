@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1UsageOfSortedDictionary", "Task1UsageOfSortedDictionary\Task1UsageOfSortedDictionary.csproj", "{E486E04C-DCB7-4E33-B3F9-A85EAE9DB5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2FastPriceRangeSearch", "Task2FastPriceRangeSearch\Task2FastPriceRangeSearch.csproj", "{3FA94BD1-4442-48CC-A935-144CA8E5EEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3BiDictionary", "BiDictionary\Task3BiDictionary.csproj", "{6267E8A3-83AC-4EA3-AC6D-CB0F235521B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E486E04C-DCB7-4E33-B3F9-A85EAE9DB5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E486E04C-DCB7-4E33-B3F9-A85EAE9DB5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E486E04C-DCB7-4E33-B3F9-A85EAE9DB5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E486E04C-DCB7-4E33-B3F9-A85EAE9DB5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA94BD1-4442-48CC-A935-144CA8E5EEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA94BD1-4442-48CC-A935-144CA8E5EEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA94BD1-4442-48CC-A935-144CA8E5EEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA94BD1-4442-48CC-A935-144CA8E5EEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6267E8A3-83AC-4EA3-AC6D-CB0F235521B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6267E8A3-83AC-4EA3-AC6D-CB0F235521B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6267E8A3-83AC-4EA3-AC6D-CB0F235521B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6267E8A3-83AC-4EA3-AC6D-CB0F235521B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

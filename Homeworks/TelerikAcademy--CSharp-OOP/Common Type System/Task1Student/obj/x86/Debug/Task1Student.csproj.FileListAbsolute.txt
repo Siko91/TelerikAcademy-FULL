@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task1Student\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task1Student\bin\Debug\Task1Student.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task1Student\bin\Debug\Task1Student.pdb
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task1Student\obj\x86\Debug\Task1Student.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task1Student\obj\x86\Debug\Task1Student.pdb

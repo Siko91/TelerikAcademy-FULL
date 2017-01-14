@@ -1,0 +1,139 @@
+﻿/******** GENERAL ********/
+
+body 
+{
+    width: 960px;
+}
+*
+{
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    font-size: 16px;
+
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+a
+{
+    text-decoration: none;
+}
+
+img
+{
+    width: 15px;
+    height: 15px;
+}
+
+/******** Functionality ********/
+
+.notification-list .content
+{
+    display: none;
+}
+
+.notification-list li:hover .content
+{
+    display: block;
+}
+
+/******** colors % borders ********/
+
+.notification-list
+{
+    background: #adadad; /* Old browsers */
+    background: -moz-linear-gradient(top,  #adadad 0%, #dddddd 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#adadad), color-stop(100%,#dddddd)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #adadad 0%,#dddddd 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #adadad 0%,#dddddd 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #adadad 0%,#dddddd 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #adadad 0%,#dddddd 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#adadad', endColorstr='#dddddd',GradientType=0 ); /* IE6-9 */
+
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: none;
+}
+.notification-list > li
+{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+.notification-list > li:first-child
+{
+    border-left: none;
+}
+.notification-list > li:hover
+{
+    border-bottom: none;
+}
+.notification-list .content
+{
+    background: #dddddd; /* Old browsers */
+    background: -moz-linear-gradient(top,  #dddddd 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dddddd), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #dddddd 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #dddddd 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #dddddd 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #dddddd 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+/******** positioning ********/
+
+.notification-list
+{
+    margin: 25px;
+    width: 470px;
+    height: 28px;
+}
+.notification-list > li
+{
+    display: inline-block;
+}
+
+.notification-list > li > a
+{
+    float: left;
+    padding: 15px;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    
+    color: #777;
+}
+
+.notification-list > li > a > span
+{
+    font-size: 18px;
+}
+.notification-list li:hover .content
+{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+    position: absolute;
+    top: 54px;
+    left: 25px;
+    width: 470px;
+}
+
+.content ul li
+{
+    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.content a
+{
+    color: #5e5e5e;
+}
+.content a img
+{
+    margin-right: 5px;
+}
+.content a:hover span
+{
+    text-decoration: underline;
+}

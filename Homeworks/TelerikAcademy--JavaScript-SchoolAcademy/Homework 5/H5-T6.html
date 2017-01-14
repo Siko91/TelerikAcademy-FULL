@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Homework 5 - Task 6</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<label for="tb-IntA">First</label>
+	<input id="tb-IntA" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntB">Second</label>
+	<input id="tb-IntB" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntC">Third</label>
+	<input id="tb-IntC" type="text" class="js-console-input" />
+	<br />
+
+    <button id="Btn">Calculate!</button>
+    <br />
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+
+
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		document.getElementById("Btn").addEventListener("click", Calculate, false);
+	}
+
+
+
+	function Calculate() 
+		{
+
+			var IntA = document.getElementById("tb-IntA").value;
+			var IntB = document.getElementById("tb-IntB").value;
+            var IntC = document.getElementById("tb-IntC").value;
+
+			console.log("Calculating...");
+			if ((IntA != null)&&(IntB != null)&&(IntC != null))
+				{
+					var d = ((IntB*IntB) + (4*IntA*IntC))
+					if (d<0)
+					{
+						console.log("Pesho can\'t find an X");
+					}
+					else if (d==0) 
+					{
+						console.log("X1 = X2 = " + ((0-IntB)/(2*IntA)) + "!!!");
+					}
+					else if (d>0)
+					{
+						console.log("X1 = " + ((0-IntB)+(Math.sqrt(d))/(2*IntA)) + "!!!");
+						console.log("X2 = " + ((0-IntB)-(Math.sqrt(d))/(2*IntA)) + "!!!");
+					}
+					 else 
+			 		{
+			 			console.log("Error");
+			 		}
+			 	}	
+			 else
+			 {
+			 	console.log("Missing data");
+			 }
+		}
+</script>
+</body>
+</html>

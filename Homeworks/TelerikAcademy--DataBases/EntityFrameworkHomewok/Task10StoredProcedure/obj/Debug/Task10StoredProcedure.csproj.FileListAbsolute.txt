@@ -1,0 +1,9 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\Task10StoredProcedure.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\Task10StoredProcedure.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\Task10StoredProcedure.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\obj\Debug\Task10StoredProcedure.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task10StoredProcedure\obj\Debug\Task10StoredProcedure.pdb

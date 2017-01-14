@@ -1,0 +1,1 @@
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\Binding.Windows.csproj;neutral

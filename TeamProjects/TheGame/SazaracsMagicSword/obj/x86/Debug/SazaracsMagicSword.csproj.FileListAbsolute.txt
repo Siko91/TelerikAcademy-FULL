@@ -1,0 +1,35 @@
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\SazaracsMagicSword\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\SazaracsMagicSword\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\SazaracsMagicSword\SazaracsMagicSword\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\SazaracsMagicSword\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\SazaracsMagicSword\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+C:\Users\Simoo\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+C:\Users\Simoo\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+D:\OOP-Teamwork\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+D:\OOP-Teamwork\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+D:\OOP-Teamwork\SazaracsMagicSword\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP-Teamwork\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+D:\OOP-Teamwork\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+C:\Users\Simoo\Documents\GitHub\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+C:\Users\Simoo\Documents\GitHub\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+C:\Users\Simoo\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\GitHub\TheGame\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+C:\Users\Simoo\Documents\GitHub\TheGame\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+C:\Users\Simoo\Documents\GitHub\TheGame\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+C:\Users\Simoo\Documents\GitHub\TheGame\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+C:\Users\Simoo\Documents\GitHub\TheGame\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Desktop\Programming\Telerig academy\OOP\TeamWork\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+C:\Users\Petr\Desktop\Programming\Telerig academy\OOP\TeamWork\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+C:\Users\Petr\Desktop\Programming\Telerig academy\OOP\TeamWork\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Desktop\Programming\Telerig academy\OOP\TeamWork\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+C:\Users\Petr\Desktop\Programming\Telerig academy\OOP\TeamWork\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+D:\Documents\Telerik Academy\OOP\TeamWork 2014\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+D:\Documents\Telerik Academy\OOP\TeamWork 2014\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+D:\Documents\Telerik Academy\OOP\TeamWork 2014\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\OOP\TeamWork 2014\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+D:\Documents\Telerik Academy\OOP\TeamWork 2014\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb
+C:\Users\ddimeski\Documents\GitHub\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.exe
+C:\Users\ddimeski\Documents\GitHub\TheGame\SazaracsMagicSword\bin\Debug\SazaracsMagicSword.pdb
+C:\Users\ddimeski\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.csprojResolveAssemblyReference.cache
+C:\Users\ddimeski\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.exe
+C:\Users\ddimeski\Documents\GitHub\TheGame\SazaracsMagicSword\obj\x86\Debug\SazaracsMagicSword.pdb

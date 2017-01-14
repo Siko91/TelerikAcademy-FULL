@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task2ReadAlbumCollectionXML\bin\Debug\Task2ReadAlbumCollectionXML.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task2ReadAlbumCollectionXML\bin\Debug\Task2ReadAlbumCollectionXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task2ReadAlbumCollectionXML\bin\Debug\Task2ReadAlbumCollectionXML.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task2ReadAlbumCollectionXML\obj\Debug\Task2ReadAlbumCollectionXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task2ReadAlbumCollectionXML\obj\Debug\Task2ReadAlbumCollectionXML.pdb

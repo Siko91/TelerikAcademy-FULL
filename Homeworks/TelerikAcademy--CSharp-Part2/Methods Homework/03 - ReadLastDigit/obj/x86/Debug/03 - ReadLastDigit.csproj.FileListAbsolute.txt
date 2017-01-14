@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\03 - ReadLastDigit\bin\Debug\03 - ReadLastDigit.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\03 - ReadLastDigit\bin\Debug\03 - ReadLastDigit.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\03 - ReadLastDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\03 - ReadLastDigit\obj\x86\Debug\03 - ReadLastDigit.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\03 - ReadLastDigit\obj\x86\Debug\03 - ReadLastDigit.pdb

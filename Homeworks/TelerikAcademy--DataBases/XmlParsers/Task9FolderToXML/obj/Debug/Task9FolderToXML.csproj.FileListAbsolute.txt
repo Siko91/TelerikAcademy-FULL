@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\bin\Debug\Task9FolderToXML.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\bin\Debug\Task9FolderToXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\bin\Debug\Task9FolderToXML.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\obj\Debug\Task9FolderToXML.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\obj\Debug\Task9FolderToXML.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task9FolderToXML\obj\Debug\Task9FolderToXML.pdb

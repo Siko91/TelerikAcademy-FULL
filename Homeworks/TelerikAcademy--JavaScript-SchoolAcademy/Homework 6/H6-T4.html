@@ -1,0 +1,79 @@
+<html>
+<head>
+	<title>Homework 6 - Task 4</title>
+</head>
+<body>
+
+<button id="DocBtn">document property ".sort"</button>
+<br />
+<button id="WinBtn">window property ".sort"</button>
+<br />
+<button id="NavBtn">navigator property ".sort"</button>
+<br />
+
+<script type="text/javascript">
+
+// Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects
+window.onload = addingListener()
+
+    function addingListener()
+    {
+        //<button id="Btn">Click me!</button>
+        document.getElementById("DocBtn").addEventListener("click", documentSort, false);
+        document.getElementById("WinBtn").addEventListener("click", windowSort, false);
+        document.getElementById("NavBtn").addEventListener("click", navigatorSort, false);
+    }
+
+function documentSort(){
+
+	var docArr = new Array();
+	var docCoun = 0;
+
+	for(var prop in document)
+	{
+	    docArr[docCoun] = prop;
+	    docCoun++;
+	}
+	docArr.sort()
+	console.log("smallest = " + docArr[0]);
+	console.log("smallest = " + docArr[docArr.length - 1]);
+}
+
+function windowSort(){
+
+	var winArr = new Array();
+	var winCoun = 0;
+
+	for(var prop in window)
+	{
+	    winArr[winCoun] = prop;
+	    winCoun++;
+	}
+	winArr.sort()
+	console.log("smallest = " + winArr[0]);
+	console.log("smallest = " + winArr[winArr.length - 1]);
+}
+
+function navigatorSort(){
+
+	var navArr = new Array();
+	var navCoun = 0;
+
+	for(var prop in navigator)
+	{
+	    navArr[navCoun] = prop;
+	    navCoun++;
+	}
+	navArr.sort()
+	console.log("smallest = " + navArr[0]);
+	console.log("smallest = " + navArr[navArr.length - 1]);
+}
+
+
+</script>
+</body>
+</html>
+
+
+
+

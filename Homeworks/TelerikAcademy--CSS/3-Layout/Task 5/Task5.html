@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Task 5</title>
+	<link rel="stylesheet" type="text/css" href="Task5.css">
+
+	<script type="text/javascript">
+	function showMinPriceValue(newValue)
+	{
+		document.getElementById("MinPriceValue").innerHTML=newValue;
+	}
+	function showMaxPriceValue(newValue)
+	{
+		document.getElementById("MaxPriceValue").innerHTML=newValue;
+	}
+	function showMinPriceRam(newValue)
+	{
+		document.getElementById("MinPriceRam").innerHTML=newValue;
+	}
+	function showMaxPriceRam(newValue)
+	{
+		document.getElementById("MaxPriceRam").innerHTML=newValue;
+	}
+	</script>
+
+</head>
+<body>
+
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Apple</a></li>
+				<li><a href="#">Toshiba</a></li>
+				<li><a href="#">Lenovo</a></li>
+				<li><a href="#">Dell</a></li>
+				<li><a href="#">Asus</a></li>
+				<li><a href="#">Hacer</a></li>
+				<li><a href="#">HP</a></li>
+			</ul>
+		</nav>
+	</header>	
+
+	<section id="output">
+
+			<div class="floatLeft">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+
+			<div class="floatRight">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+
+			<div class="floatLeft">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+
+			<div class="floatRight">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+
+			<div class="floatLeft">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+
+			<div class="floatRight">
+				<header><h1>Apple MacBook Air</h1></header>
+				<aside class="floatLeft">
+					<img src="laptop.png" alt="laptop">
+					<span id="price">1300 USD</span>
+				</aside>
+				<ul class="floatRight">
+					<li>64 GB SSD</li>
+					<li>2 GB DDR</li>
+					<li>Intel Core i5</li>
+				</ul>
+			</div>
+	</section>
+	
+	<aside id="input" class="floatRight">
+		<form action="#" method="post">
+			<fieldset>
+				Min price: 
+				<span id="MinPriceValue">500</span> $
+				<br />
+				<input type="range" min="0" max="5000" value="500" onchange="showMinPriceValue(this.value)" />
+			</fieldset>
+			<fieldset>
+				Max price: 
+				<span id="MaxPriceValue">2500</span> $
+				<br />
+				<input type="range" min="0" max="5000" value="2500" onchange="showMaxPriceValue(this.value)" />
+			</fieldset>
+			<fieldset>
+				Min price: 
+				<span id="MinPriceRam">2</span> GB
+				<br />
+				<input type="range" min="0" max="16" value="2" onchange="showMinPriceRam(this.value)" />
+			</fieldset>
+			<fieldset>
+				Min price: 
+				<span id="MaxPriceRam">6</span> GB
+				<br />
+				<input type="range" min="0" max="16" value="6" onchange="showMaxPriceRam(this.value)" />
+			</fieldset>
+		</form>
+	</aside>
+
+
+</body>
+</html>

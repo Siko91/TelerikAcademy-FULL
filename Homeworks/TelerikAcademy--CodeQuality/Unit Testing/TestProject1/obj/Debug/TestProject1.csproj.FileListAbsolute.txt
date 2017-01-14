@@ -1,0 +1,7 @@
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\bin\Debug\SchoolProgram.Test.dll
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\bin\Debug\SchoolProgram.Test.pdb
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\obj\Debug\SchoolProgram.Test.dll
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\obj\Debug\SchoolProgram.Test.pdb
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\bin\Debug\Unit Testing.exe
+D:\GitProjects\TelerikAcademy\Quality\Unit Testing\TestProject1\bin\Debug\Unit Testing.pdb

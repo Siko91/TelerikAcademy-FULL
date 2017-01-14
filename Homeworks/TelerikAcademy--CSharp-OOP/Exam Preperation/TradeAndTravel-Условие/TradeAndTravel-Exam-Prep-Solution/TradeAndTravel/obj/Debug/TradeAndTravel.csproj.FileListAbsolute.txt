@@ -1,0 +1,9 @@
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Dropbox\Work\oop\codebase\Exam-Prep\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\Dropbox\Work\oop\codebase\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Dropbox\Work\oop\codebase\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Dropbox\Work\oop\codebase\TradeAndTravel\obj\Debug\TradeAndTravel.pdb

@@ -1,0 +1,50 @@
+* {
+	background-color: rgb(89,89,89);
+	font-weight: bold;
+	font-size: 12pt;
+}
+table td{
+	color: rgb(140,140,140);
+}
+table thead {
+	color: rgb(176,177,178);
+}
+
+
+
+
+table #mainField {
+	color: rgb(255,255,255);
+	font-style: italic;
+	width: 100pt;
+}
+table #activeSupport {
+	color: rgb(208,56,78);
+}
+table #answer {
+	color: rgb(230,110,30);
+}
+table #marked:before {
+	content: url(mark.png);
+    margin-right: 2pt;
+}
+
+
+
+
+table a:link {
+	color: rgb(225,225,160);
+	text-decoration:none;
+}
+table a:visited {
+	color: rgb(225,225,190);
+	text-decoration:none;
+}
+table a:hover {
+	color: rgb(255,255,160);
+	text-decoration:underline;
+}
+table a:active {
+	color: rgb(255,255,160);
+	text-decoration:underline;
+}

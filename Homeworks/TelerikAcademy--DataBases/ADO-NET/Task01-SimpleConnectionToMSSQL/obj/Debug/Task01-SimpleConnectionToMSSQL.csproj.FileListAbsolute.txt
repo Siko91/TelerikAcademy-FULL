@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\bin\Debug\Task01-SimpleConnectionToMSSQL.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\obj\Debug\Task01-SimpleConnectionToMSSQL.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\bin\Debug\Task01-SimpleConnectionToMSSQL.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\bin\Debug\Task01-SimpleConnectionToMSSQL.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\obj\Debug\Task01-SimpleConnectionToMSSQL.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task01-SimpleConnectionToMSSQL\obj\Debug\Task01-SimpleConnectionToMSSQL.pdb

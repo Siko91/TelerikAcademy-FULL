@@ -1,0 +1,9 @@
+Car has a Dealer
+ Dealer has many cars
+
+Car has a Manufacturer
+ Manufacturer has many cars
+
+City has many dealers
+ Dealer has a city
+

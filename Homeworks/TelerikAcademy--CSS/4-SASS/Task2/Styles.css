@@ -1,0 +1,10 @@
+body .thumbnail {
+  display: inline-block;
+  margin: 4pt;
+  margin-bottom: 10pt; }
+body .shownImage {
+  display: none; }
+  body .shownImage:target {
+    display: block;
+    margin-bottom: 20pt; }
+

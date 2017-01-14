@@ -1,0 +1,8 @@
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\bin\Debug\Task05-FilterNegatives.exe.config
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\bin\Debug\Task05-FilterNegatives.exe
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\bin\Debug\Task05-FilterNegatives.pdb
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\obj\Debug\Task05-FilterNegatives.exe
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\obj\Debug\Task05-FilterNegatives.pdb
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\obj\Debug\Task05-FilterNegatives.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task05-FilterNegatives\bin\Debug\Task01-StoreValuesInList.pdb

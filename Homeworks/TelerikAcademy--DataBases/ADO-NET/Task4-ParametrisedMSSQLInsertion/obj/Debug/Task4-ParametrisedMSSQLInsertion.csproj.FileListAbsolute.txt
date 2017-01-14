@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\bin\Debug\Task4-ParametrisedMSSQLInsertion.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\bin\Debug\Task4-ParametrisedMSSQLInsertion.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\bin\Debug\Task4-ParametrisedMSSQLInsertion.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\obj\Debug\Task4-ParametrisedMSSQLInsertion.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\obj\Debug\Task4-ParametrisedMSSQLInsertion.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task4-ParametrisedMSSQLInsertion\obj\Debug\Task4-ParametrisedMSSQLInsertion.pdb

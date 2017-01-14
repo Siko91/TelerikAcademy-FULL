@@ -1,0 +1,7 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\bin\Debug\CodeFormatting.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\bin\Debug\CodeFormatting.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\bin\Debug\PowerCollections.dll
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\bin\Debug\PowerCollections.xml
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\obj\x86\Debug\CodeFormatting.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\CodeFormatting\obj\x86\Debug\CodeFormatting.pdb

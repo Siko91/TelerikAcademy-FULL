@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="BackgroundImagePath" />
+    <RootPropertyPathName Name="TextTopPositionPercent" />
+    <RootPropertyPathName Name="TextLeftPositionPercent" />
+    <RootPropertyPathName Name="GameObjects" />
+    <RootPropertyPathName Name="ImagePath" />
+    <RootPropertyPathName Name="WidthPercentage" />
+    <RootPropertyPathName Name="HeightPercentage" />
+    <RootPropertyPathName Name="Player" />
+    <RootPropertyPathName Name="PositionTopPercentage" />
+    <RootPropertyPathName Name="PositionLeftPercentage" />
+    <RootPropertyPathName Name="Background" />
+    <RootPropertyPathName Name="OffsetTop" />
+    <RootPropertyPathName Name="OffsetLeft" />
+    <RootPropertyPathName Name="WidthAsPercent" />
+    <RootPropertyPathName Name="HeightAsPercent" />
+    <RootPropertyPathName Name="BtnsTopPositionPercent" />
+    <RootPropertyPathName Name="BtnsLeftPositionPercent" />
+    <RootPropertyPathName Name="BtnWidthPercent" />
+    <RootPropertyPathName Name="BtnHeightPercent" />
+    <RootPropertyPathName Name="ResponcesPos" />
+    <RootPropertyPathName Name="Y" />
+    <RootPropertyPathName Name="X" />
+    <RootPropertyPathName Name="ResponcesSize" />
+    <RootPropertyPathName Name="NpcTextPos" />
+    <RootPropertyPathName Name="NpcTextSize" />
+    <RootPropertyPathName Name="CurrentNpcDialogue" />
+    <RootPropertyPathName Name="DialogueBoxPos" />
+    <RootPropertyPathName Name="DialogueBoxSize" />
+    <RootPropertyPathName Name="CurrentBackgroundPath" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="BunnyEscape.Converters.PathToBrushConverter" />
+    <RootType FullName="BunnyEscape.Converters.ScreenPercentToHeightConverter" />
+    <RootType FullName="BunnyEscape.Converters.ScreenPercentToWidthConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+      <RootEvent Name="DoubleTapped" />
+      <RootEvent Name="Holding" />
+      <RootEvent Name="Tapped" />
+      <RootEvent Name="PointerPressed" />
+      <RootEvent Name="PointerReleased" />
+      <RootEvent Name="PointerMoved" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Name" />
+      <RootMethod Name="GetTop" />
+      <RootMethod Name="SetTop" />
+      <RootMethod Name="GetLeft" />
+      <RootMethod Name="SetLeft" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Path" />
+      <RootProperty Name="Converter" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="BunnyEscape.MainPage" />
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="BunnyEscape.CustomViews.BunnyEscapeCanvas">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="ItemsPanel" />
+      <RootProperty Name="ItemTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="DataContext" />
+    </RootType>
+    <RootType FullName="BunnyEscape.Views.Game" />
+    <RootType FullName="BunnyEscape.Views.HowToPlay" />
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderThickness" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="BunnyEscape.Views.MainMenuView" />
+    <RootType FullName="BunnyEscape.Views.Scores" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="SelectionHighlightColor" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="IsReadOnly" />
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="BunnyEscape.Views.StoryView" />
+  </Roots.RootTypes>
+</Roots>

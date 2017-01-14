@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\bin\Debug\Task6.PrintSongNamesXDocument.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\bin\Debug\Task6.PrintSongNamesXDocument.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\bin\Debug\Task6.PrintSongNamesXDocument.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\obj\Debug\Task6.PrintSongNamesXDocument.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\obj\Debug\Task6.PrintSongNamesXDocument.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\XmlParsers\Task6.PrintSongNamesXDocument\obj\Debug\Task6.PrintSongNamesXDocument.csprojResolveAssemblyReference.cache

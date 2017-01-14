@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\bin\Debug\Task3LargeTextMapping.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\bin\Debug\Task3LargeTextMapping.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\bin\Debug\Task3LargeTextMapping.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\bin\Debug\PowerCollections.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\bin\Debug\PowerCollections.xml
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\obj\Debug\Task3LargeTextMapping.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\obj\Debug\Task3LargeTextMapping.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task3LargeTextMapping\obj\Debug\Task3LargeTextMapping.pdb

@@ -1,0 +1,10 @@
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task08-FindMajorant.exe.config
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task08-FindMajorant.exe
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task08-FindMajorant.pdb
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task04-LongestSubsequenceOfEquals.exe
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task01-StoreValuesInList.pdb
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\bin\Debug\Task04-LongestSubsequenceOfEquals.pdb
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\obj\Debug\Task08-FindMajorant.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\obj\Debug\Task08-FindMajorant.exe
+D:\Git\algo\LinearDataStructures\Task08-FindMajorant\obj\Debug\Task08-FindMajorant.pdb

@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title>Homework 10 - Task 5 - Way too easy... Ackhem! I mean - "Replace stuff"</title>
+</head>
+<body>
+
+    <label>String: </label>
+    <input id="Input1" type="text" />
+    <br />
+ 
+    <label>Search Key: </label>
+    <input id="Input2" type="text" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        // Write a function that replaces non breaking white-spaces in a text with "&nbsp";
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+        	var str = document.getElementById("Input1").value;
+            var elementToReplace = " ";
+            var replaceTo = "&nbsp";
+            var result = new Array;
+
+            result[0] = str.replace(elementToReplace, replaceTo);
+            
+            result[1] = str.split(elementToReplace);
+
+            console.log("Original: " + str);
+            console.log("Unvisible replace: " + result[0]);
+            console.log("Visible replace: " + result[1].join(replaceTo));
+            
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

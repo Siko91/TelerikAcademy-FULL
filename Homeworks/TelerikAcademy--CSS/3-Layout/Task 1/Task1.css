@@ -1,0 +1,22 @@
+ul, ol {
+	list-style-type: none;
+}
+
+.menuItem:hover {
+	border: 1pt solid red;
+}
+
+li ul {
+	display: none;
+}
+
+li:hover > ul {
+	display: block;
+}
+
+.containsMore:after {
+	content:" >>>";
+}
+.containsMore {
+	font-weight: bold;
+}

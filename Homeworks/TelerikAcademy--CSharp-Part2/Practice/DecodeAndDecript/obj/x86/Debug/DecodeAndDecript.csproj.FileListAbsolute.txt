@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\DecodeAndDecript\bin\Debug\DecodeAndDecript.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\DecodeAndDecript\bin\Debug\DecodeAndDecript.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\DecodeAndDecript\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\DecodeAndDecript\obj\x86\Debug\DecodeAndDecript.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Practice\DecodeAndDecript\obj\x86\Debug\DecodeAndDecript.pdb

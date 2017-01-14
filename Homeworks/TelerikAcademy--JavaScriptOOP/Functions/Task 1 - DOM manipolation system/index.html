@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>JS OOP Homework</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <script src="JQuery-min.js" type="text/javascript"></script>
+        <script src="task.js" type="text/javascript"></script>
+        <script src="task-engine.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div id='result-wrapper'>
+            <div class='first-div'></div>
+            <div class='second-div'></div>
+        </div>
+        
+        <hr />
+        <div class='task-input'>  
+            <label>Append div to: </label>
+            <br />
+            <input type="text" placeholder="Selector" value="#result-wrapper" id="append-parent-input">
+            <br />
+            <label>with class: </label>
+            <input type="text" placeholder="Class name of new div" value="divClassName" id="append-class-input">
+            <br />
+            <label>background: </label>
+            <input type="color" id="append-color-input" value="red" />
+            <br />
+            <button id="taskBtn1" onclick="appendNewElement()">Do It</button>
+        </div>
+        <div class='task-input'>
+            <label>Remove selected element </label>
+            <br />
+            <input type="text" placeholder="Selector" value=".first-div" id="remove-input">
+            <br />
+            <button id="taskBtn2" onclick="removeAnElement()">Do It</button>
+        </div>
+        <div class='task-input'>
+            <label>Add Event to element </label>
+            <br />
+            <input type="text" placeholder="Selector" value="#result-wrapper" id="event-selector-input">
+            <br />
+            <label> on </label>
+            <select name="" id="event-type-select">
+                <option value="click">click</option>
+                <option value="mouseover">mouseover</option>
+                <option value="mouseout">mouseout</option>
+            </select>
+            <br />
+            <button id="taskBtn3" onclick="addAnEvent()">Do It</button> 
+        </div>
+        <div class='task-input'> 
+            <label>Add elements to buffer</label>
+            <br />
+            <label>parent: </label>
+            <input type="text" placeholder="appendTo" value="#result-wrapper" id="buffer-parent-input">
+            <br />
+            <label>type: </label>
+            <input type="text" placeholder="element type" value="div" id="buffer-type-input">
+            <br />
+            <label>count: </label>
+            <input type="text" placeholder="Count" value="70" id="buffer-count-input">
+            <br />
+            <button id="Button1" onclick="addToBuffer()">Do It</button> 
+        </div>
+        <hr />
+
+        <section id="task-list">
+            <header><h1>TODO tasks</h1></header>
+            <h2>Create a module for working with DOM</h2>
+            <ul>
+                <li>Add DOM element to parent element given by selector</li>
+                <br />
+                <li>Remove element from the DOM by given selector</li>
+                <br />
+                <li>Attach event to given selector by given event type and event hander</li>
+                <br />
+                <li>Add elements to buffer, which appends them to the DOM when their count for some selector becomes 100.<br/>
+                The buffer contains elements for each selector it gets</li>
+            </ul>
+        </section>
+
+        <script src="script.js" type="text/javascript"></script>
+    </body>
+</html>  

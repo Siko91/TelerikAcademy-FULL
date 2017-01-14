@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\10 - CheckIfSequenceIsSum\bin\Debug\10 - CheckIfSequenceIsSum.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\10 - CheckIfSequenceIsSum\bin\Debug\10 - CheckIfSequenceIsSum.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\10 - CheckIfSequenceIsSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\10 - CheckIfSequenceIsSum\obj\x86\Debug\10 - CheckIfSequenceIsSum.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\10 - CheckIfSequenceIsSum\obj\x86\Debug\10 - CheckIfSequenceIsSum.pdb

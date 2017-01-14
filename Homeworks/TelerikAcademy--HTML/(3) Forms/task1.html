@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Forms1</title>
+</head>
+<body>
+
+<form>
+	<fieldset>
+		<legend>Last Name : </legend>
+		<input type = "text" id="LastName" placeholder = "Last name..." required="true">
+	</fieldset>
+	<fieldset>
+		<legend>First Name : </legend>
+		<input type = "text" id="FirstName" placeholder = "First name..." required="true">
+	</fieldset>
+	<fieldset>
+		<legend>Addres : </legend>
+		<textarea id="Addres" required="true"></textarea>
+	</fieldset>
+	<fieldset>
+		<legend>City : </legend>
+		<input type = "text" id="Addres" placeholder = "City..." required="true">
+		<label for="State">State : </label>
+		<input type = "text" id="State" placeholder = "State..." required="true">
+	</fieldset>
+	<fieldset>
+		<legend>Phone : </legend>
+		<label for="CountryCode">Country Code</label>
+		<input type = "text" id="CountryCode" placeholder = "code" required="true">
+		<label for="CityCode">City Code</label>
+		<input type = "text" id="CityCode" placeholder = "code" required="true">
+		<label for="PhoneNumber">Phone Number</label>
+		<input type = "text" id="PhoneNumber" placeholder = "number..." required="true">
+	</fieldset>
+	<fieldset>
+		<legend>E-mail : </legend>
+		<label for="Email">Email : </label>
+		<input type = "text" id="Email" placeholder = "someName@mail.com" required="true">
+		<br />
+		<label for="EmailConfurm">Confurm Email : </label>
+		<input type = "text" id="EmailConfurm" placeholder = "someName@mail.com" required="true">
+	</fieldset>
+	<fieldset>
+		<legend>Birth Date : </legend>
+		<label for="BirthdayDay">Day</label>
+			<input type="number" id="BirthdayDay" min="1" max="31" required="true" />
+		<label for="BirthdayMonth">Month</label>
+			<input type="number" id="BirthdayMonth" min="1" max="12" required="true" />
+		<label for="BirthdayYear">Year</label>
+			<input type="number" id="BirthdayYear" min="1900" max="2014" required="true" />
+	</fieldset>
+	<fieldset>
+		<legend>Sex</legend>
+		<input type="radio" name="Sex" id="maleGender" value="male">
+			<label for="maleGender">Male</label>
+		<input type="radio" name="Sex" id="femaleGender" value="female">
+			<label for="femaleGender">Female</label>
+		<input type="radio" name="Sex" id="SexEveryDay" value="every day" checked>
+			<label for="SexEveryDay">Every Day!</label>
+	</fieldset>
+	<fieldset>
+		<legend>Starting Date</legend>
+		<input type="radio" name="Start" id="StartSpring2014" value="Spring 2014" checked>
+			<label for="StartSpring2014">Spring 2014</label>
+		<input type="radio" name="Start" id="StartSummer2014" value="Summer 2014">
+			<label for="StartSummer2014">Summer 2014</label>
+	</fieldset>
+	<fieldset>
+		<legend>Comments/Questions : </legend>
+		<textarea id="CommentsAndQuestions"></textarea>
+	</fieldset>
+
+	<input type="submit" value="Send Information">
+	<input type="reset" value="Clear Fields">
+</form>
+
+</body>
+</html>

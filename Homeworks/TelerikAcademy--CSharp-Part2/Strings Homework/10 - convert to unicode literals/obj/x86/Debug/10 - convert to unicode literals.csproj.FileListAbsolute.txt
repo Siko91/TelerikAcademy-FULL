@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\10 - convert to unicode literals\bin\Debug\10 - convert to unicode literals.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\10 - convert to unicode literals\bin\Debug\10 - convert to unicode literals.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\10 - convert to unicode literals\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\10 - convert to unicode literals\obj\x86\Debug\10 - convert to unicode literals.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\10 - convert to unicode literals\obj\x86\Debug\10 - convert to unicode literals.pdb

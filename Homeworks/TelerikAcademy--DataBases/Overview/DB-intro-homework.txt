@@ -1,0 +1,56 @@
+What database models do you know?
+Relational & noSQL
+
+
+Which are the main functions performed by a Relational Database Management System (RDBMS)?
+View, Edit, Insert and delete operations. That's it.
+
+
+Define what is "table" in database terms.
+The same as "class" in OOP - a pattern for instances. The rows are the instances.
+
+
+Explain the difference between a primary and a foreign key.
+The primary key defines the row. The forein key is like a hyperlink to a different row.
+
+
+Explain the different kinds of relationships between tables in relational databases.
+one to one - used when a single thing is splitted in two tables.
+one to many - used when the ralation is of "has a" type.
+many to many - used when the relation is more complex.
+
+
+When is a certain database schema normalized? What are the advantages of normalized databases?
+Easier to get data.
+no Insert/Edit/Delete errors (read the books of Edgar Cod to understand this part).
+
+
+What are database integrity constraints and when are they used?
+Constraints about the type, and value of the data fields in the dataBase. Used when we need to enforse some rules. They make our life easyer.
+
+
+Point out the pros and cons of using indexes in a database.
+Fast View operations. Slow Edit/Insert/Delete operations.
+
+
+What's the main purpose of the SQL language?
+To give us an abstraction about the database. Without it, We'd be writing operations about reading the bits of a file. Not fun!
+
+
+What are transactions used for? Give an example.
+Trasactions group several operaions together and ensure that eighter all of them are executed, or non of them are.
+Used for money transactions, document transactions, and... pretty much anything else. If it's important, then it needs to be in a transaction!
+
+
+What is a NoSQL database?
+Something that will haunt you in your dreams!!!
+It's simply a place where you store documents of any type, and then access them.Nothing more, nothing less.
+
+
+Explain the classical non-relational data models.
+XML data bases store XML files. JSON data bases store JSON files. If there is a TXT data base, then it'll probably be storing TXT files.
+
+
+Give few examples of NoSQL databases and their pros and cons.
+MongoDB - easy to use, easy to shoot yourself in the leg.
+I think that the others are pretty much the same. They might store different type of data, but they do it in the same way.

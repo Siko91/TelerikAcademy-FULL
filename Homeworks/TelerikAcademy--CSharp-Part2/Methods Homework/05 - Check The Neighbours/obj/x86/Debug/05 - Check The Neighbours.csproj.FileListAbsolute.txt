@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\05 - Check The Neighbours\bin\Debug\05 - Check The Neighbours.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\05 - Check The Neighbours\bin\Debug\05 - Check The Neighbours.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\05 - Check The Neighbours\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\05 - Check The Neighbours\obj\x86\Debug\05 - Check The Neighbours.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\05 - Check The Neighbours\obj\x86\Debug\05 - Check The Neighbours.pdb

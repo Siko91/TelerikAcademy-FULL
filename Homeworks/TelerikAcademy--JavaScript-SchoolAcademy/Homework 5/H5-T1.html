@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Homework 5 - Task 1</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<label for="tb-IntA">First</label>
+	<input id="IntA" type="text" class="js-console-input" />
+	<br />
+
+	<label for="tb-IntB">Second</label>
+	<input id="IntB" type="text" class="js-console-input" />
+	<br />
+
+    <button id="Btn">Click me!</button>
+    <br />
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+
+
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            //<button id="Btn">Click me!</button>
+            document.getElementById("Btn").addEventListener("click", Calculate, false);
+        }
+
+	function Calculate() 
+	{
+
+			var IntA = document.getElementById("IntA").value;
+			var IntB = document.getElementById("IntB").value;
+			var temp
+
+            IntA = IntA*1
+            IntB = IntB*1
+
+			console.log("---------------");
+			console.log("A: " + IntA + ", and B: " + IntB);
+			console.log("Calculating...");
+			
+
+			if(IntA == IntB) 
+			{
+				console.log("The two variables are equal");
+			}
+			else if(IntA < IntB)
+			{
+				console.log("B is greater. No exchange needed.");
+			}
+			else if (IntA > IntB)
+			{
+				console.log("A is greater.");
+				temp = IntA
+				IntA = IntB
+				IntB = temp
+				console.log("Exchanging...");
+				console.log("A: " + IntA + ", and B: " + IntB);
+			}
+			else
+			{
+				console.log("Error");
+			}
+		}
+</script>
+</body>
+</html>

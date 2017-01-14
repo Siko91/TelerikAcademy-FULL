@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\NamingIdentifyers\bin\Debug\NamingIdentifyers.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\NamingIdentifyers\bin\Debug\NamingIdentifyers.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\NamingIdentifyers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\NamingIdentifyers\obj\x86\Debug\NamingIdentifyers.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityCoding\NamingIdentifyers\obj\x86\Debug\NamingIdentifyers.pdb

@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\bin\Debug\Task1PriorityQueue.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\bin\Debug\Task1PriorityQueue.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\bin\Debug\Task1PriorityQueue.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\bin\Debug\PowerCollections.dll
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\bin\Debug\PowerCollections.xml
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\obj\Debug\Task1PriorityQueue.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\obj\Debug\Task1PriorityQueue.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\AdvancedDataStructures\Task1PriorityQueue\obj\Debug\Task1PriorityQueue.pdb

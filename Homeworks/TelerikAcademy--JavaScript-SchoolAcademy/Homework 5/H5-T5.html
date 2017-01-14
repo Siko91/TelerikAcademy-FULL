@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Homework 5 - Task 5</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+
+<label for="Digit0-9">Digit (0-9): </label>
+<input id="digit" type="text" class="js-console-input" />
+<br />
+
+<button id="Btn">Click me!</button>
+<br />
+
+<script>
+
+	window.onload = addingListener()
+
+	function addingListener()
+	{
+		//<button id="Btn">Click me!</button>
+		document.getElementById("Btn").addEventListener("click", onClick, false);
+	}
+
+	function onClick()
+	{
+		var number
+		var digit = document.getElementById("digit").value;
+		digit = digit*1
+
+		console.log("--------");
+		console.log("number : " + digit);
+	
+		switch (digit)
+		{
+			case 0: number = ("Zero"); break;
+			case 1: number = ("One"); break;
+			case 2: number = ("Two"); break;
+			case 3: number = ("Three"); break;
+			case 4: number = ("Four"); break;
+			case 5: number = ("Five"); break;
+			case 6: number = ("Six"); break;
+			case 7: number = ("Seven"); break;
+			case 8: number = ("Eight"); break;
+			case 9: number = ("Nine"); break;
+			default: number = ("an error"); break;
+		}
+		console.log("It\'s " + number);
+	}
+</script>
+</body>
+</html>

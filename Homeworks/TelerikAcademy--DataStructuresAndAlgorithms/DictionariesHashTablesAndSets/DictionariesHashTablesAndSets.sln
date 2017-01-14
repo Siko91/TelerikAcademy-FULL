@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1OccurenceCounter", "Task1OccurenceCounter\Task1OccurenceCounter.csproj", "{B3FA64C9-8ED7-4E46-82CB-56616D1845B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2OddAppearences", "Task2OddAppearences\Task2OddAppearences.csproj", "{451E3B3F-BD7D-4D3F-8DA3-8C8C2A05D5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3AppearencesInText", "Task3AppearencesInText\Task3AppearencesInText.csproj", "{5F5651D2-D51C-4B4A-9508-B00BA087360E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4HashTable", "Task4HashTable\Task4HashTable.csproj", "{62B2AF52-0400-4122-BDC3-60CB8D14E1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5HashedSet", "Task5HashedSet\Task5HashedSet.csproj", "{91F62871-0919-4641-9B41-9BA000270261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6UsageOfHashedSet", "Task6UsageOfHashedSet\Task6UsageOfHashedSet.csproj", "{996A67E6-0F72-499D-80E6-4D342D48E813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FA64C9-8ED7-4E46-82CB-56616D1845B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FA64C9-8ED7-4E46-82CB-56616D1845B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FA64C9-8ED7-4E46-82CB-56616D1845B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FA64C9-8ED7-4E46-82CB-56616D1845B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451E3B3F-BD7D-4D3F-8DA3-8C8C2A05D5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E3B3F-BD7D-4D3F-8DA3-8C8C2A05D5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E3B3F-BD7D-4D3F-8DA3-8C8C2A05D5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E3B3F-BD7D-4D3F-8DA3-8C8C2A05D5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5651D2-D51C-4B4A-9508-B00BA087360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5651D2-D51C-4B4A-9508-B00BA087360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5651D2-D51C-4B4A-9508-B00BA087360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5651D2-D51C-4B4A-9508-B00BA087360E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B2AF52-0400-4122-BDC3-60CB8D14E1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B2AF52-0400-4122-BDC3-60CB8D14E1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B2AF52-0400-4122-BDC3-60CB8D14E1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B2AF52-0400-4122-BDC3-60CB8D14E1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F62871-0919-4641-9B41-9BA000270261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F62871-0919-4641-9B41-9BA000270261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F62871-0919-4641-9B41-9BA000270261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F62871-0919-4641-9B41-9BA000270261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996A67E6-0F72-499D-80E6-4D342D48E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996A67E6-0F72-499D-80E6-4D342D48E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996A67E6-0F72-499D-80E6-4D342D48E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996A67E6-0F72-499D-80E6-4D342D48E813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

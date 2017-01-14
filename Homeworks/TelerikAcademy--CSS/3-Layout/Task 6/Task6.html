@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Task 6</title>
+	<link rel="stylesheet" type="text/css" href="Task6.css">
+	<script type="text/javascript">
+
+		function changeContent(newValue)
+		{
+			var img = document.getElementById("video");
+			img.src = "pic"+newValue+".png";
+			img.alt = "video"+newValue;
+		}
+
+		function menuSelector(number)
+		{
+			var menu;
+			for (var i = 1; i <= 6; i++)
+			{
+				if (i==number)
+				{
+					menu = document.getElementById("menu"+i).className="active";
+				}
+				else
+				{
+					menu = document.getElementById("menu"+i).className="";
+				}
+			}
+		}
+	</script>
+</head>
+<body>
+
+	<header>
+		<nav>
+			<ul>
+				<li><a class="active" onclick="menuSelector(1)" id="menu1" href="#">Новини</a></li>
+				<li><a class="" onclick="menuSelector(2)" id="menu2" href="#">Спорт</a></li>
+				<li><a class="" onclick="menuSelector(3)" id="menu3" href="#">Емисии</a></li>
+				<li><a class="" onclick="menuSelector(4)" id="menu4" href="#">Любопитно</a></li>
+				<li><a class="" onclick="menuSelector(5)" id="menu5" href="#">Аз, репортерът</a></li>
+				<li><a class="" onclick="menuSelector(6)" id="menu6" href="#">Тази сутрин</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<section class="floatRight">
+		<img src="pic1.png" alt="video" id="video">
+	</section>
+
+	<section class="floatLeft">
+		<ul>
+			<header><strong>Интернет новини - 13.10.2010 г.</strong></header>
+			<li><a href="#" onclick="changeContent(1)">Проливни дъждове в Дания, Китай и Индия, необичайни горещини в Иран</a></li>
+			<li><a href="#" onclick="changeContent(2)">Над 200 хектара горят на територия на бивш военен полигон в Германия</a></li>
+			<li><a href="#" onclick="changeContent(3)">23-ма ранени при сблъсък на два пътнически влака в Полша</a></li>
+			<li class="noBorder"><a href="#" onclick="changeContent(4)">Диференцират догодина минималния осигурителен доход за самоусигоряващите се</a></li>
+		</ul>
+	</section>
+</body>
+</html>

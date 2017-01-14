@@ -1,0 +1,75 @@
+﻿<Page
+    x:Class="BunnyEscape.Views.Scores"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BunnyEscape.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DoubleTapped="OnPageDoubleTapped">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock" x:Key="textStyle">
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="Foreground" Value="Red" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+            <Setter Property="TextAlignment" Value="Center" />
+        </Style>
+        <SolidColorBrush x:Key="darkeningBrush" Color="Black" Opacity="0.7"/>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{Binding Path=BackgroundImagePath, Converter={StaticResource pathToBrushConverter}}">
+            <StackPanel
+                Margin="30"
+                Background="{StaticResource darkeningBrush}"
+                HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch" >
+                
+                <TextBlock
+                    Style="{StaticResource textStyle}"
+                    FontSize="45"
+                    Text="{Binding Path=Title}"/>
+
+
+                <ItemsControl ItemsSource="{Binding Path=Scores}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel></StackPanel>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="2*"  />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <TextBlock 
+                                    Grid.Column="0"
+                                    Style="{StaticResource textStyle}"
+                                    FontSize="25"
+                                    Text="{Binding Path=Points}" />
+                                <TextBlock 
+                                    Grid.Column="1"
+                                    Style="{StaticResource textStyle}"
+                                    FontSize="20"
+                                    Text="{Binding Path=PlayerName}" />
+                                <TextBlock 
+                                    Grid.Column="2"
+                                    Style="{StaticResource textStyle}"
+                                    FontSize="15"
+                                    Text="{Binding Path=Country}" />
+                            </Grid>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+                
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

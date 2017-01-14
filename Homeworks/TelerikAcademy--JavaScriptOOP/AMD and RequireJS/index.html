@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>JS AMD homework</title>
+    <link href="style.css" rel="stylesheet" />
+    <script type="text/javascript"  src="scripts/require.js" data-main="scripts/main"></script>
+</head>
+<body>
+	
+    <div id="combo-box-container">
+    </div>
+
+</body>
+<script type="text/handlebars-template" id="person-template">
+    {{#each people}}
+        <div class="person-item">
+	        <strong class="person-name">{{name}}</strong><br/>
+	        <span class="person-age">age: {{age}}</span>
+	        <img src="{{avatarUrl}}" alt={{name}} width="70px" height="70px" />
+        </div>
+    {{/each}}
+</script>
+</html>

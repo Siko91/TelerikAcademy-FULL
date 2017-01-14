@@ -1,0 +1,11 @@
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\CatalogueOfFreeContent.Tests.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\CatalogueOfFreeContent.Tests.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\CatalogueOfFreeContent.exe
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\Telerik.JustMock.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\PowerCollections.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\CatalogueOfFreeContent.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\Telerik.JustMock.xml
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\PowerCollections.xml
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\CatalogueOfFreeContent.Tests.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\CatalogueOfFreeContent.Tests.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\CatalogueOfFreeContent.Tests.pdb

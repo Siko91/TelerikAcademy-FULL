@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\bin\Debug\MatrixTraversing.exe
+D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\bin\Debug\MatrixTraversing.pdb
+D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\obj\x86\Debug\MatrixTraversing.exe
+D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\obj\x86\Debug\MatrixTraversing.pdb

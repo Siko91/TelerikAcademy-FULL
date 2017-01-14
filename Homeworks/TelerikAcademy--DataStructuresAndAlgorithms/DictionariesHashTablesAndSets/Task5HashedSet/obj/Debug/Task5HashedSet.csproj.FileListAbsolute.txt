@@ -1,0 +1,8 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\bin\Debug\Task5HashedSet.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\bin\Debug\Task5HashedSet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\bin\Debug\Task5HashedSet.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\bin\Debug\Task4HashTable.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\bin\Debug\Task4HashTable.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\obj\Debug\Task5HashedSet.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\obj\Debug\Task5HashedSet.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task5HashedSet\obj\Debug\Task5HashedSet.pdb

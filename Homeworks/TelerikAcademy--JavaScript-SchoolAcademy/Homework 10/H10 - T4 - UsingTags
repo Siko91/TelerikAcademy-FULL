@@ -1,0 +1,137 @@
+<html>
+<head>
+	<title>Homework 10 - Task 4 - UsingTags!</title>
+</head>
+<body>
+
+    <label>String: </label>
+    <input id="Input1" type="str" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        /* You are given a str. Write a function that changes the str in all regions:
+            <upcase>str</upcase> to uppercase.
+            <lowcase>str</lowcase> to lowercase
+            <mixcase>str</mixcase> to mix casing(random) */
+
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function UpTags(str)
+        {
+            var up = ["<upcase>", "</upcase>"];
+            var start;
+            var end;
+            var temp;
+
+
+            start = str.indexOf(up[0]);
+            end = str.indexOf(up[1]);
+
+            while ((start != -1) && (end != -1))
+            {
+                start = str.indexOf(up[0], start) + up[0].length;
+                end = str.indexOf(up[1], start+1);
+
+                temp = str.substring(start, end).toUpperCase();
+                
+                str = str.replace((str.substring(start-up[0].length, end+up[1].length)), temp);
+            }
+            return str;
+        }
+       
+        function LowTags(str)
+        {
+            var low = ["<lowcase>", "</lowcase>"];
+            var start;
+            var end;
+            var temp;
+
+            str = str.replace("<LOWCASE>", "<lowcase>");
+            str = str.replace("</LOWCASE>", "</lowcase>");
+
+            start = str.indexOf(low[0]);
+            end = str.indexOf(low[1]);
+
+            while ((start != -1) && (end != -1))
+            {
+                start = str.indexOf(low[0], start) + low[0].length;
+                end = str.indexOf(low[1], start+1);
+
+                temp = str.substring(start, end).toLowerCase();
+                
+                str = str.replace((str.substring(start-low[0].length, end+low[1].length)), temp);
+
+            }
+            return str;
+        }
+ 
+
+        function MixTags(str)
+        {
+            var mix = ["<mixcase>", "</mixcase>"];
+            var start;
+            var end;
+            var temp, random;
+
+            str = str.replace("<MIXCASE>", "<mixcase>");
+            str = str.replace("</MIXCASE>", "</mixcase>");
+
+            while ((start != -1) && (end != -1))
+            {
+                start = str.indexOf(mix[0], start) + mix[0].length;
+                end = str.indexOf(mix[1], start+1);
+
+                temp = str.substring(start, end);
+                temp2 = temp;
+
+                for(var i = 0 ; i < temp2.length ; i++)
+                {
+                    random = Math.random() * 2;
+
+                    if (random > 1)
+                    {
+                        temp2 = temp2.replace(temp2[i], temp2[i].toUpperCase());
+                    }
+                    else
+                    {
+                        temp2 = temp2.replace(temp2[i], temp2[i].toLowerCase());
+                    }
+                }
+                
+                str = str.replace((mix[0] + temp + mix[1]), temp2);
+
+                start = str.indexOf(mix[0], start);
+                end = str.indexOf(mix[1], end);
+            }
+            return str;
+        }
+
+        function onBtnClick()
+        {
+        	var str = document.getElementById("Input1").value;
+            console.log(str);
+
+            var str = UpTags(str);
+            var str = LowTags(str);
+            var str = MixTags(str);
+
+            console.log(str);
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

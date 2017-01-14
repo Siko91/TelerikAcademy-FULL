@@ -1,0 +1,106 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="BunnyEscape.Views.HowToPlayView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BunnyEscape.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+                                     >
+
+    <Page.Resources>
+        <Style TargetType="TextBlock" x:Key="basicTextStyle">
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="Foreground" Value="Red" />
+            <Setter Property="TextWrapping" Value="WrapWholeWords" />
+            <Setter Property="TextAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="VerticalAlignment" Value="Stretch" />
+        </Style>
+        <Style TargetType="TextBlock" x:Key="titleTextStyle">
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+            <Setter Property="FontSize" Value="45" />
+            <Setter Property="Foreground" Value="Red" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+            <Setter Property="TextAlignment" Value="Center" />
+        </Style>
+        <SolidColorBrush x:Key="darkeningBrush" Color="Black" Opacity="0.7"/>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{Binding Path=BackgroundImagePath, Converter={StaticResource pathToBrushConverter}}">
+            <Grid
+                Margin="30"
+                Background="{StaticResource darkeningBrush}"
+                HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch"
+                ScrollViewer.VerticalScrollMode="Enabled"
+                ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="2*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Style="{StaticResource titleTextStyle}"
+                       Grid.Column="0"
+                       Grid.Row="0">
+                <Underline>
+                    Wellcome
+                </Underline>
+                </TextBlock>
+
+                <TextBlock Style="{StaticResource titleTextStyle}"
+                       Grid.Column="0"
+                       Grid.Row="1">
+                <Underline>
+                    What to do:
+                </Underline>
+                </TextBlock>
+
+                <TextBlock Style="{StaticResource titleTextStyle}"
+                       Grid.Column="0"
+                       Grid.Row="2">
+                <Underline>
+                    How to do it:
+                </Underline>
+                </TextBlock>
+
+                <TextBlock Style="{StaticResource titleTextStyle}"
+                       Grid.Column="0"
+                       Grid.Row="3">
+                <Underline>
+                    Scores:
+                </Underline>
+                </TextBlock>
+
+
+                <TextBlock Style="{StaticResource basicTextStyle}"
+                     Grid.Column="1"
+                     Grid.Row="0"
+                     Text="{Binding Path=WellcomeText}" />
+                <TextBlock Style="{StaticResource basicTextStyle}"
+                     Grid.Column="1"
+                     Grid.Row="1"
+                     Text="{Binding Path=WhatToDoText}" />
+                <TextBlock Style="{StaticResource basicTextStyle}"
+                     Grid.Column="1"
+                     Grid.Row="2"
+                     Text="{Binding Path=ControlsText}" />
+                <TextBlock Style="{StaticResource basicTextStyle}"
+                     Grid.Column="1"
+                     Grid.Row="3"
+                     Text="{Binding Path=ScoringText}" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+

@@ -1,0 +1,10 @@
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.exe.config
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.exe
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.pdb
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task04-LongestSubsequenceOfEquals.exe
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task04-LongestSubsequenceOfEquals.pdb
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\obj\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\obj\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.exe
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\obj\Debug\Task06-RemoveNumsThatOccureOddNumberOfTimes.pdb
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task06-RemoveNumsThatOccureOddNumberOfTimes\bin\Debug\Task01-StoreValuesInList.pdb

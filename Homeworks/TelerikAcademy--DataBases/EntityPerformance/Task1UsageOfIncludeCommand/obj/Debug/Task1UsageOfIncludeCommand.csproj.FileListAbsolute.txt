@@ -1,0 +1,10 @@
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\Task1UsageOfIncludeCommand.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\Task1UsageOfIncludeCommand.exe
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\Task1UsageOfIncludeCommand.pdb
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\TelerikAcademyDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\TelerikAcademyDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\obj\Debug\Task1UsageOfIncludeCommand.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\obj\Debug\Task1UsageOfIncludeCommand.exe
+D:\Git\TelerikAcademy--DataBases\EntityPerformance\Task1UsageOfIncludeCommand\obj\Debug\Task1UsageOfIncludeCommand.pdb

@@ -1,0 +1,9 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\Task8InheritingEmployee.exe.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\Task8InheritingEmployee.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\Task8InheritingEmployee.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\NorthwindDBContext.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\NorthwindDBContext.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\obj\Debug\Task8InheritingEmployee.exe
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task8InheritingEmployee\obj\Debug\Task8InheritingEmployee.pdb

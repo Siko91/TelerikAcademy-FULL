@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPHomeworks\Homework2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPHomeworks\Homework2\bin\Debug\Homework2.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPHomeworks\Homework2\bin\Debug\Homework2.pdb
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPHomeworks\Homework2\obj\x86\Debug\Homework2.exe
+D:\!!!!!!\Телерик\C# - OOP\Homeworks\OOPHomeworks\Homework2\obj\x86\Debug\Homework2.pdb

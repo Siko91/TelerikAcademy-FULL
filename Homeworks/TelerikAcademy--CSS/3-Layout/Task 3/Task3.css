@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+	color: rgb(111,111,111);
+}
+
+html {
+	background-color: white;
+	border-radius: 15pt;
+	padding: 1pt;
+	background-color: rgb(59,59,59);
+}
+
+body {
+	color: rgb(111,111,111);
+}
+body strong {
+	color: rgb(157,157,157);
+}
+body h1 {
+	color: rgb(248,210,24);
+	margin: 10pt;
+}
+body p {
+	margin-left: 15pt;
+	margin-right: 10%;
+}
+
+header {
+	background-color: rgb(59,59,59);
+	height: 60pt;
+	color: white;
+	font-size: 18pt;
+
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 73%, rgba(0,0,0,0.65) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(73%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 73%,rgba(0,0,0,0.65) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 73%,rgba(0,0,0,0.65) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 73%,rgba(0,0,0,0.65) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 73%,rgba(0,0,0,0.65) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-9 */
+
+}
+
+header form {
+	display: inline-block;
+	float: right;
+	margin-right: 20pt;
+	margin-top: 20pt;
+}
+header img {
+	float: left;
+	height: 60pt;
+}
+
+header form button {
+	border: none;
+	background: url(Go-btn.png) no-repeat;
+
+	width: 59px;
+	height: 31px;
+
+	font-size: 12pt;
+	color: white;
+}

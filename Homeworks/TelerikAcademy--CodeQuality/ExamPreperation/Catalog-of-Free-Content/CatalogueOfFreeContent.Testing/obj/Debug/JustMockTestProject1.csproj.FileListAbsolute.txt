@@ -1,0 +1,7 @@
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\JustMockTestProject1.csprojResolveAssemblyReference.cache
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\JustMockTestProject1.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\JustMockTestProject1.pdb
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\Telerik.JustMock.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\bin\Debug\Telerik.JustMock.xml
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\JustMockTestProject1.dll
+D:\git\TelerikAcademy--CodeQuality\ExamPreperation\Sample-Exam-May-2013-Catalog-of-Free-Content\JustMockTestProject1\obj\Debug\JustMockTestProject1.pdb

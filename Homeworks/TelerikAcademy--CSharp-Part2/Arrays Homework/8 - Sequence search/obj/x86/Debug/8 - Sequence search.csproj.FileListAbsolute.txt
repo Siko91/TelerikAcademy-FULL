@@ -1,0 +1,7 @@
+D:\!!!!!!\Телерик\C#\Домашни\Оценяване\Arrays Homework\8 - Sequence search\bin\Debug\8 - Sequence search.exe
+D:\!!!!!!\Телерик\C#\Домашни\Оценяване\Arrays Homework\8 - Sequence search\bin\Debug\8 - Sequence search.pdb
+D:\!!!!!!\Телерик\C#\Домашни\Оценяване\Arrays Homework\8 - Sequence search\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C#\Домашни\Оценяване\Arrays Homework\8 - Sequence search\obj\x86\Debug\8 - Sequence search.exe
+D:\!!!!!!\Телерик\C#\Домашни\Оценяване\Arrays Homework\8 - Sequence search\obj\x86\Debug\8 - Sequence search.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\8 - Sequence search\obj\x86\Debug\8 - Sequence search.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\8 - Sequence search\obj\x86\Debug\8 - Sequence search.pdb

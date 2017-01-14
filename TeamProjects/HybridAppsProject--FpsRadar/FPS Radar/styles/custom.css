@@ -1,0 +1,80 @@
+.body{
+    width:100%;
+    height:100%;
+}
+.fpsradar-view header {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+.fpsradar-view .content-container {
+    margin: 5%;
+}
+.fpsradar-view .content-container header {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10%;
+}
+.fpsradar-view {
+    background-image: url('gameImages/back.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#fpsradar-options-view, .fpsradar-dark-view {
+    background-image: none;
+    background-color: #000000;
+}
+.fpsradar-view .content-container .specialString {
+    color: #00ff00;
+}
+.fpsradar-view .content-container .center {
+    text-align: center;
+    margin: auto;
+}
+.fpsradar-view .content-container .block {
+    display: block;
+}
+.fpsradar-view .content-container .inline-block {
+    display: inline-block;
+}
+.button-strip { 
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.button-strip .button {
+    color: #ffffff;
+    font-weght: bold;
+     background-color: #7f9666;
+    font-size: 18px;
+}
+.fpsradar-view .tooltip {
+    color:#ffffff;
+    display: block;
+    opacity:0.2;
+    font-size: 0.8em;
+}
+.fpsradar-view .label {
+    color: #ffffff;
+    font-size: 1.5em;
+}
+#myImage{
+ wigth:50%;
+ height:50%;   
+}
+
+#gif{
+    width:100%;
+    margin-top:20%;
+    margin-bottom:20%
+}
+
+#holder{
+    border-radius:50%;
+    position:absolute;
+    width:100%;
+    height:100%;
+    display:block;
+}
+.fpsradar-view .input {} .fpsradar-view .button {}

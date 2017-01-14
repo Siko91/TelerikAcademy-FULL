@@ -1,0 +1,8 @@
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\bin\Debug\Task04-LongestSubsequenceOfEquals.exe.config
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\bin\Debug\Task04-LongestSubsequenceOfEquals.exe
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\bin\Debug\Task04-LongestSubsequenceOfEquals.pdb
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\obj\Debug\Task04-LongestSubsequenceOfEquals.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\obj\Debug\Task04-LongestSubsequenceOfEquals.exe
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\obj\Debug\Task04-LongestSubsequenceOfEquals.pdb
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\bin\Debug\Task01-StoreValuesInList.exe
+D:\Git\algo\LinearDataStructures\Task04-LongestSubsequenceOfEquals\bin\Debug\Task01-StoreValuesInList.pdb

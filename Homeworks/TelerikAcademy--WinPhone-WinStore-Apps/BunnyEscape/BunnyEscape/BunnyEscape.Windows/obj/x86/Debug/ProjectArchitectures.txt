@@ -1,0 +1,5 @@
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BackgroundMusicTask\BackgroundTasks.csproj;neutral
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape.Core\BunnyEscape.Core.csproj;neutral
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\BunnyEscape\BunnyEscape.Windows\BunnyEscape.Windows.csproj;x86
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\NotificationsExtensions\NotificationsExtensions.csproj;neutral
+F:\git\TelerikAcademy--WinPhone-WinStore-Apps\BunnyEscape\Tiles-cs\NotificationsExtensions\NotificationsExtensions.csproj;neutral

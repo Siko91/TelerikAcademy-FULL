@@ -1,0 +1,60 @@
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+
+	function Solve(params) {
+		var N = parseInt(params[0]);
+		
+		var arrayOfNums = new Array(N);
+		for (var i = 1; i < N; i++) {
+			arrayOfNums[i-1] = parseInt(params[i]);
+		}
+
+		var possibleAnswers = arrayOfNums;
+		
+		var prevousSum = 0;
+		var currentSum = 0;
+		for (var i = 0; i < arrayOfNums.length; i++) {
+			currentSum += arrayOfNums[i]
+
+			if (currentSum > prevousSum && !isNaN(currentSum) ) {
+				possibleAnswers.push(currentSum);
+			}
+			else if (currentSum < prevousSum && !isNaN(prevousSum)) {
+				possibleAnswers.push(prevousSum);
+			}
+
+			if (currentSum < 0) {
+				currentSum = 0;
+			}
+
+			prevousSum = currentSum;
+		}
+
+		var maxSubSum = possibleAnswers[0];
+		for (var i = 0; i < possibleAnswers.length; i++) {
+			if (maxSubSum < possibleAnswers[i] && !isNaN(possibleAnswers[i])) {
+				maxSubSum = possibleAnswers[i];
+			}
+		}
+
+		return maxSubSum;
+	}
+
+	function Solvee (argument) {
+		var params = argument.split(",");
+		document.writeln(Solve(params));
+	}
+
+
+	</script>
+</head>
+<body>
+	<button onclick="Solvee('9,1,6,-9,4,4,-2,10,-1')">Solve(8,1,6,-9,4,4,-2,10,-1)</button>
+
+	<button onclick="Solvee('6,1,3,-5,8,7,-6')">Solve(6,1,3,-5,8,7,-6)</button>
+
+	<button onclick="Solvee('8,-9,-8,-8,-7,-6,-5,-1,-7,-6')">Solve(-9,-8,-8,-7,-6,-5,-1,-7,-6)</button>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\01 - ToBinary\bin\Debug\01 - ToBinary.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\01 - ToBinary\bin\Debug\01 - ToBinary.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\01 - ToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\01 - ToBinary\obj\x86\Debug\01 - ToBinary.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\01 - ToBinary\obj\x86\Debug\01 - ToBinary.pdb

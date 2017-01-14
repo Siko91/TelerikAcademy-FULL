@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\07 - calculator\bin\Debug\07 - calculator.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\07 - calculator\bin\Debug\07 - calculator.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\07 - calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\07 - calculator\obj\x86\Debug\07 - calculator.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\07 - calculator\obj\x86\Debug\07 - calculator.pdb

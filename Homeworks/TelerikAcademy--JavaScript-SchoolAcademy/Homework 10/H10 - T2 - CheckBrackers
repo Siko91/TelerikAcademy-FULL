@@ -1,0 +1,85 @@
+<html>
+<head>
+	<title>Homework 10 - Task 2 - Check Brackers</title>
+</head>
+<body>
+
+    <label>Expression: </label>
+    <input id="Input1" type="text" />
+    <br />
+ 
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        // Write a JavaScript function to check if in a given expression the brackets are put correctly.
+        // Example of correct expression: ((a+b)/5-d).
+        // Example of incorrect expression: )(a+b)).
+
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function CheckBrackers(str)
+        {
+            var countOpeningBrackets = 0;
+            var bracketsAreCurrect = false;
+
+            for (var i = 0; i < str.length; i++)
+            {
+                if ( (str.substr(i,1) == ')') && (countOpeningBrackets > 0) )
+                {
+                    countOpeningBrackets -= 1;
+                }
+                else if ( (str.substr(i,1) == ')') && (countOpeningBrackets == 0) )
+                {
+                    console.log("False");
+                    break;
+                }
+
+                // -----------------
+
+                if (str.substr(i,1) == '(')
+                {
+                    countOpeningBrackets += 1;
+                }
+
+                // -----------------
+
+                if ((i == str.length-1) && (countOpeningBrackets != 0))
+                {
+                    console.log("False");
+                    break;
+                }
+                else if ((i == str.length-1) && (countOpeningBrackets == 0))
+                {
+
+                    bracketsAreCurrect = true;
+                    console.log("True");
+                    break;
+                }
+
+            }
+            return bracketsAreCurrect;
+        }
+
+        function onBtnClick()
+        {
+        	var strExpr = document.getElementById("Input1").value;
+            
+            console.log("The brackers in the expression are" + (CheckBrackers(strExpr)? " " : " NOT ") + "currect")
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

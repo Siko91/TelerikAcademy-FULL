@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\bunnyescape\bunnyescape.windowsphone\obj\debug\intermediatexaml\bunnyescape.windowsphone.exe" HashGuid="840185f3-cfe3-7f68-7d5a-1713c5d9e347" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\bunnyescape.core\bin\debug\bunnyescape.core.dll" HashGuid="bafb0639-d6a9-f45a-4c0d-a98854a4b1d6" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.dll" HashGuid="da07be64-1093-25cd-c992-377d44b6dd02" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\mvvmlightlibs.5.0.2.0\lib\wpa81\galasoft.mvvmlight.platform.dll" HashGuid="54c1f1ed-b921-337f-8ad6-f2d8c553df06" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\winrtxamltoolkit.debugging.windowsphone.1.7.4.0\lib\wpa\winrtxamltoolkit.debugging.dll" HashGuid="a7203b18-83f7-6230-732e-c7abf75640dc" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\winrtxamltoolkit.windowsphone.1.7.4.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="8e147034-4cfb-5f8a-fc1c-4c177ce2e063" />
+    <ReferenceAssembly PathName="f:\git\telerikacademy--winphone-winstore-apps\bunnyescape\packages\xamlanimatedgif.1.0.0-alpha\lib\portable-win81+wpa81\xamlanimatedgif.dll" HashGuid="a9d3a4e4-f2c8-e888-5290-be2d31849510" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

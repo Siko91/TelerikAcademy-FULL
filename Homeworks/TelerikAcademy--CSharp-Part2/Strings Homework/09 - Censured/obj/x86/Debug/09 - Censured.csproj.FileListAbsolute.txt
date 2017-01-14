@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\09 - Censured\bin\Debug\09 - Censured.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\09 - Censured\bin\Debug\09 - Censured.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\09 - Censured\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\09 - Censured\obj\x86\Debug\09 - Censured.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\09 - Censured\obj\x86\Debug\09 - Censured.pdb

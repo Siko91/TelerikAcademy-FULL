@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\02 - Concat Files\bin\Debug\02 - Concat Files.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\02 - Concat Files\bin\Debug\02 - Concat Files.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\02 - Concat Files\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\02 - Concat Files\obj\x86\Debug\02 - Concat Files.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\02 - Concat Files\obj\x86\Debug\02 - Concat Files.pdb

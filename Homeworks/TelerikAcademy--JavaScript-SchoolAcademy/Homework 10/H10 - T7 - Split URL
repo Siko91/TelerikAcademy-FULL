@@ -1,0 +1,60 @@
+<html>
+<head>
+	<title>Homework 10 - Task 7 - Split URL</title>
+</head>
+<body>
+
+    <label>Input an address like ("[protocol]://[server]/[resource]")</label>
+    <br />
+    <input id="Input1" type="text" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        /* Write a script that parses an URL address given in the format:
+
+        [protocol]://[server]/[resource]
+
+        and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:
+
+        {protocol: "http",
+        server: "www.devbg.org", 
+        resource: "/forum/index.php"} */
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function onBtnClick()
+        {
+        	var str = document.getElementById("Input1").value;
+            
+            var obj = { prot: "",
+                        serv: "", 
+                        res: ""};
+
+            var index = str.indexOf("://");
+            var index2 = str.indexOf("/", index+3);
+
+            obj.prot = str.substring(0, index);
+            obj.serv = str.substring(index+3, index2);
+            obj.res = str.substring(index2+1, str.length-1);
+
+            console.log("protocol: " + obj.prot);
+            console.log("server: " + obj.serv);
+            console.log("resource: " + obj.res);
+	    }
+
+    </script>
+</body>
+</html>
+
+
+
+

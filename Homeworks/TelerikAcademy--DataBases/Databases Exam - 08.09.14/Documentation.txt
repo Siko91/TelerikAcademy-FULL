@@ -1,0 +1,16 @@
+Connection string for "Company" database: In the app.Config files
+
+
+Connection string for "Cars" database: In the app.Config files 
+(No need to change it. The program shoul automaticaly detect if you use SQL Express)
+
+
+Relationships for "Company" database: (first-table : second-table - type of relationship)
+There's a Documentation in the "Database First" folder
+
+
+Relationships for "Cars" database: (first-table : second-table - type of relationship)
+There's a Documentation in the "Code First" folder
+
+
+Query files: In this Folder and in the folder of the project that uses them

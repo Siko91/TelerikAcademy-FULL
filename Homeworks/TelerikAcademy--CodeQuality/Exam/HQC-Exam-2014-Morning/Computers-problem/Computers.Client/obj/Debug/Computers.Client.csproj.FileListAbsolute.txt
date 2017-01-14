@@ -1,0 +1,8 @@
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\bin\Debug\Computers.Client.exe.config
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\bin\Debug\Computers.Client.exe
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\bin\Debug\Computers.Client.pdb
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\obj\Debug\Computers.Client.csprojResolveAssemblyReference.cache
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\obj\Debug\Computers.Client.exe
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\obj\Debug\Computers.Client.pdb
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\bin\Debug\Computers.Core.pdb
+C:\Users\TEDI-05\Desktop\HQC-Exam-2014-Morning\Computers-problem\Computers.Client\bin\Debug\Computers.Core.dll

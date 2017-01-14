@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIKO-PC</Machine>
+    <WindowsUser>Siko</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d98a0d9c-8406-4ac6-842a-659c009f3cb8</PackageIdentityName>
+    <IntermediateOutputPath>F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\Binding.Windows.exe">
+      <PackagePath>Binding.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\Binding.Windows.xr.xml">
+      <PackagePath>Binding.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\git\TelerikAcademy--WinPhone-WinStore-Apps\Binding\Binding\Binding.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task4Person\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task4Person\bin\Debug\Task4Person.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task4Person\bin\Debug\Task4Person.pdb
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task4Person\obj\x86\Debug\Task4Person.exe
+D:\GitProjects\TelerikAcademy\C#OOP\Common Type System\Task4Person\obj\x86\Debug\Task4Person.pdb

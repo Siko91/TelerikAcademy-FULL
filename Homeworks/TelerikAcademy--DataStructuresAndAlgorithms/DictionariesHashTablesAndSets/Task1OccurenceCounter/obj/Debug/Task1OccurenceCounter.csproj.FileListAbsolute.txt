@@ -1,0 +1,6 @@
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\bin\Debug\Task1OccurenceCounter.exe.config
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\bin\Debug\Task1OccurenceCounter.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\bin\Debug\Task1OccurenceCounter.pdb
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\obj\Debug\Task1OccurenceCounter.csprojResolveAssemblyReference.cache
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\obj\Debug\Task1OccurenceCounter.exe
+D:\Git\TelerikAcademy--DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\Task1OccurenceCounter\obj\Debug\Task1OccurenceCounter.pdb

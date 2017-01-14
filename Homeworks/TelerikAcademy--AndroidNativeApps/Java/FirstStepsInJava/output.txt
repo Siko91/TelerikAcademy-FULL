@@ -1,0 +1,12 @@
+'p' : 2 times. 
+'o' : 2 times. 
+'pes' : 1 times. 
+'pesh' : 1 times. 
+'ppesho' : 21 times. 
+'h' : 1 times. 
+'pe' : 1 times. 
+'pesho' : 72 times. 
+'' : 6 times. 
+'sho' : 2 times. 
+'ppe' : 1 times. 
+

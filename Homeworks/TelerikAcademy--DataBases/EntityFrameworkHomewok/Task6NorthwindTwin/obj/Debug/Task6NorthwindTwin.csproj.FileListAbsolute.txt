@@ -1,0 +1,7 @@
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\bin\Debug\Task6NorthwindTwin.dll.config
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\bin\Debug\Task6NorthwindTwin.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\bin\Debug\Task6NorthwindTwin.pdb
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\bin\Debug\EntityFramework.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\bin\Debug\EntityFramework.xml
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\obj\Debug\Task6NorthwindTwin.dll
+D:\Git\TelerikAcademy--DataBases\EntityFrameworkHomewok\Task6NorthwindTwin\obj\Debug\Task6NorthwindTwin.pdb

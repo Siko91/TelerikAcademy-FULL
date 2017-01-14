@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\08 - I've done this already in task 01\bin\Debug\08 - I've done this already in task 01.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\08 - I've done this already in task 01\bin\Debug\08 - I've done this already in task 01.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\08 - I've done this already in task 01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\08 - I've done this already in task 01\obj\x86\Debug\08 - I've done this already in task 01.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Numerics Homework\08 - I've done this already in task 01\obj\x86\Debug\08 - I've done this already in task 01.pdb

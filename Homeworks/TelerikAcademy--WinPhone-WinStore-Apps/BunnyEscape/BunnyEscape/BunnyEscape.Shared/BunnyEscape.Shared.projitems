@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>dc5a871d-7473-4302-9fae-0c1105681eab</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>BunnyEscape</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\BoolToVisibilityConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CustomViews\BunnyEscapeCanvas.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\PathToBrushConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\ScreenPercentToHeightConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\ScreenPercentToWidthConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Handlers\AccelerometerHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Handlers\BackgroundTaskHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Handlers\ConnectionChecker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Handlers\NotificationHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Handlers\SQLiteScoreHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DialogueModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Dialogue.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\IScore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Score.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ScoreGlobal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ScoreLocal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLiteAsync.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GameOverViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GameViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HowToPlayViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\InternetRankingViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\IScoreViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\LoadingScreenViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\LocalRankingViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MenuViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\StoryViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ViewObjects\BackgroundViewObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ViewObjects\CharacterViewObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ViewObjects\GameViewObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Game.xaml.cs">
+      <DependentUpon>Game.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\GameOverView.xaml.cs">
+      <DependentUpon>GameOverView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\HowToPlayView.xaml.cs">
+      <DependentUpon>HowToPlayView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MainMenuView.xaml.cs">
+      <DependentUpon>MainMenuView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Scores.xaml.cs">
+      <DependentUpon>Scores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\StoryView.xaml.cs">
+      <DependentUpon>StoryView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\bunny-angry.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\bunny-curious.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\bunny-whole-body.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\dialogueBox.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\ghost.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\angry.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\curious.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\ghost-right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\S 4 7.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\tired.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\saw.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Dj Loki - Slow.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\ghost.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\kickable.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\level.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\player.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\pushable.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Fakes\wall.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\logo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\angry.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\angry.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\curious - Copy.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\falling.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\left .png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\right .png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\Backup\tired.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\curious.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\dead.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\falling-left-clear.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\falling-left.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\falling-right-clear.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\falling-right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\jump-left.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\jump-right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\left.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\stop-left.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\stop-right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Lola bunny\tired.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\background-slow.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\background.gif" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\bamboo.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\block-h10.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\block-h4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\block-v10.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\block-v2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\block.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\crate.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\football.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\ghost-left-near.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\ghost-left.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\ghost-right-near.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\ghost-right.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\player.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\rock.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\webs-2x2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\webs-backup.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Real\webs.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\guoooooo.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\guoooooo.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\hmmmmmmmmm.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\hmmmmmmmmm.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\hsss.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\hsss.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\melody-fail.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\melody-fail.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\melody-fail2.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\melody-intro.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\melody-intro.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pagrrr.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pagrrr.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pagrrr2.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pagrrr2.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pff.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pff.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\pff2.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\piu1.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\piu1.wav" />
+    <Content Include="$(MSBuildThisFileDirectory)Resourses\Sounds\piu2.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\Game.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\GameOverView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\HowToPlayView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\MainMenuView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\Scores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Views\StoryView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\bunny-whole-body.psd" />
+    <None Include="$(MSBuildThisFileDirectory)Resourses\Dialogue\materials\dialogueBox.psd" />
+    <None Include="$(MSBuildThisFileDirectory)Resourses\Real\background.psd" />
+  </ItemGroup>
+</Project>

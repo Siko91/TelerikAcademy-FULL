@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\04 - Compare files\bin\Debug\04 - Compare files.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\04 - Compare files\bin\Debug\04 - Compare files.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\04 - Compare files\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\04 - Compare files\obj\x86\Debug\04 - Compare files.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Txt Homework\04 - Compare files\obj\x86\Debug\04 - Compare files.pdb

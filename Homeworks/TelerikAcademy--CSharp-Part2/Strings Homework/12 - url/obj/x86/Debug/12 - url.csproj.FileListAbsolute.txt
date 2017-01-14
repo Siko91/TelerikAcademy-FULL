@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\12 - url\bin\Debug\12 - url.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\12 - url\bin\Debug\12 - url.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\12 - url\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\12 - url\obj\x86\Debug\12 - url.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Strings Homework\12 - url\obj\x86\Debug\12 - url.pdb

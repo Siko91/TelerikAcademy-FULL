@@ -1,0 +1,6 @@
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\bin\Debug\Task09-SomeStrangeFormula.exe.config
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\bin\Debug\Task09-SomeStrangeFormula.exe
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\bin\Debug\Task09-SomeStrangeFormula.pdb
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\obj\Debug\Task09-SomeStrangeFormula.csprojResolveAssemblyReference.cache
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\obj\Debug\Task09-SomeStrangeFormula.exe
+D:\Git\algo\LinearDataStructures\Task09-SomeStrangeFormula\obj\Debug\Task09-SomeStrangeFormula.pdb

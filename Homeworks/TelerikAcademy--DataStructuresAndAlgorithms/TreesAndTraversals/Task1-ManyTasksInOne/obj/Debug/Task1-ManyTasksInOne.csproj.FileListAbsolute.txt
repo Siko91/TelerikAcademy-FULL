@@ -1,0 +1,6 @@
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\bin\Debug\Task1-ManyTasksInOne.exe.config
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\obj\Debug\Task1-ManyTasksInOne.csprojResolveAssemblyReference.cache
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\bin\Debug\Task1-ManyTasksInOne.exe
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\bin\Debug\Task1-ManyTasksInOne.pdb
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\obj\Debug\Task1-ManyTasksInOne.exe
+D:\Git\algo\TreesAndTraversals\Task1-ManyTasksInOne\obj\Debug\Task1-ManyTasksInOne.pdb

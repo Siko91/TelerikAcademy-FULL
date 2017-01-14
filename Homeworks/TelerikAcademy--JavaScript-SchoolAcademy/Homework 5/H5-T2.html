@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Homework 5 - Task 2</title>
+</head>
+<body>
+    <label for="tb-IntA">First</label>
+    <input id="tb-IntA" type="text" class="js-console-input" />
+    <br />
+ 
+    <label for="tb-IntB">Second</label>
+    <input id="tb-IntB" type="text" class="js-console-input" />
+    <br />
+ 
+    <label for="tb-IntC">Third</label>
+    <input id="tb-IntC" type="text" class="js-console-input" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        // Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements.
+
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            //<button id="Btn">Click me!</button>
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+
+
+
+        function onBtnClick(){
+
+            console.log("Calculating...");
+            var a = document.getElementById("tb-IntA").value;
+            var b = document.getElementById("tb-IntB").value;
+            var c = document.getElementById("tb-IntC").value;
+            var min = a
+            var int1 = b
+            var int2 = c
+
+            if (a < b) 
+            {
+                min = a;
+                int1 = b;
+                int2 = c;
+                if (c < a) 
+                {
+                    min = c;
+                    int1 = b;
+                    int2 = a;
+                }
+            }
+            if (a > b) 
+            {
+                min = b;
+                int1 = c;
+                int2 = a;
+                if (c < b) 
+                {
+                    min = c;
+                    int1 = b;
+                    int2 = a;
+                }
+            }
+
+			if ((min < (0 - (int1 + int2))) && (min < 0)) 
+	        {
+	            console.log("Product is negative");
+	        }
+	        else if ((min == (0 - (int1 + int2))) && (min < 0)) 
+	        {
+	            console.log("Product is zero");
+	        }
+	        else if ((a == 0) && (b == 0) && (c == 0)) 
+	        {
+	            console.log("Product is zero");
+	        }
+	        else if (min > (0 - (int1 + int2)))
+	        {
+	            console.log("Product is positive");
+	        }
+	        else
+	        {
+	            console.log("Error");
+	        }	    
+	    }
+
+    </script>
+</body>
+</html>

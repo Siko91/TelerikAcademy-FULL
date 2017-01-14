@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.Models", "CodeFirst.Models\CodeFirst.Models.csproj", "{0983F18F-3251-4093-A7D4-6055DC9FE6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.Data", "CodeFirst.Data\CodeFirst.Data.csproj", "{365669DC-2384-4B8C-8D0A-D8D33D4CAA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.CreateDatabase", "CodeFirst.CreateDatabase\CodeFirst.CreateDatabase.csproj", "{FCF20735-7565-4061-8ACF-06CE6623A149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonImports.Parsers", "JsonImpots.Parsers\JsonImports.Parsers.csproj", "{6A2C4281-95F3-4C0B-A5DC-9FBC120990C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonImports.Import", "JsonImports.Import\JsonImports.Import.csproj", "{0796A28D-AE8B-43CA-AE2B-13FF1F6DBCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLQueries", "XMLQueries\XMLQueries.csproj", "{F36ED0F1-7394-43F7-BC4C-5204D161CD97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DF052EB0-7118-4DDA-9D12-E9235BAA194A}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0983F18F-3251-4093-A7D4-6055DC9FE6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0983F18F-3251-4093-A7D4-6055DC9FE6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0983F18F-3251-4093-A7D4-6055DC9FE6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0983F18F-3251-4093-A7D4-6055DC9FE6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365669DC-2384-4B8C-8D0A-D8D33D4CAA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365669DC-2384-4B8C-8D0A-D8D33D4CAA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365669DC-2384-4B8C-8D0A-D8D33D4CAA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365669DC-2384-4B8C-8D0A-D8D33D4CAA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF20735-7565-4061-8ACF-06CE6623A149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF20735-7565-4061-8ACF-06CE6623A149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF20735-7565-4061-8ACF-06CE6623A149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF20735-7565-4061-8ACF-06CE6623A149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2C4281-95F3-4C0B-A5DC-9FBC120990C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2C4281-95F3-4C0B-A5DC-9FBC120990C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2C4281-95F3-4C0B-A5DC-9FBC120990C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2C4281-95F3-4C0B-A5DC-9FBC120990C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0796A28D-AE8B-43CA-AE2B-13FF1F6DBCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0796A28D-AE8B-43CA-AE2B-13FF1F6DBCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0796A28D-AE8B-43CA-AE2B-13FF1F6DBCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0796A28D-AE8B-43CA-AE2B-13FF1F6DBCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36ED0F1-7394-43F7-BC4C-5204D161CD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36ED0F1-7394-43F7-BC4C-5204D161CD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36ED0F1-7394-43F7-BC4C-5204D161CD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36ED0F1-7394-43F7-BC4C-5204D161CD97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

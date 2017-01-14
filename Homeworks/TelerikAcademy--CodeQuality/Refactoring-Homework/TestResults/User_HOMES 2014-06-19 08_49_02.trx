@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="607f8d06-2ebc-4f2a-b079-4d1a108917e7" name="User@HOMES 2014-06-19 08:49:02" runUser="HOMES\User" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04578d65-7d6f-4c57-b298-2b93f16ac298">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="User_HOMES 2014-06-19 08_49_02">
+      <DeploymentItem filename="D:\GitProjects\TelerikAcademy\Quality\Refactoring-Homework\bin\Debug\MatrixTraversing.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-19T08:49:02.9375000+03:00" queuing="2014-06-19T08:49:12.9062500+03:00" start="2014-06-19T08:49:13.2812500+03:00" finish="2014-06-19T08:49:15.2656250+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MatrixOf6ElementsShouldBeCorrect" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="ac618421-0144-507f-39db-5d353c83105e">
+      <Execution id="693d53e1-5461-49b2-87ed-0a84a9879879" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixOf6ElementsShouldBeCorrect" />
+    </UnitTest>
+    <UnitTest name="MatrixOf10ElementsShouldBeCorrect" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="330b50a1-49a0-8fa9-a42b-42c74c25b8f5">
+      <Execution id="4027a60a-b766-451b-a299-baa206e899ce" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixOf10ElementsShouldBeCorrect" />
+    </UnitTest>
+    <UnitTest name="MatrixOf3ElementsShouldBeCorrect" storage="d:\gitprojects\telerikacademy\quality\testproject1\bin\debug\testproject1.dll" id="082c0621-189a-7e90-59ba-ae49f408ef72">
+      <Execution id="633ddef4-3876-4d3b-a680-e2c5f11570d8" />
+      <TestMethod codeBase="D:/GitProjects/TelerikAcademy/Quality/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MatrixTraversingTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixOf3ElementsShouldBeCorrect" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="082c0621-189a-7e90-59ba-ae49f408ef72" executionId="633ddef4-3876-4d3b-a680-e2c5f11570d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="330b50a1-49a0-8fa9-a42b-42c74c25b8f5" executionId="4027a60a-b766-451b-a299-baa206e899ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ac618421-0144-507f-39db-5d353c83105e" executionId="693d53e1-5461-49b2-87ed-0a84a9879879" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="633ddef4-3876-4d3b-a680-e2c5f11570d8" testId="082c0621-189a-7e90-59ba-ae49f408ef72" testName="MatrixOf3ElementsShouldBeCorrect" computerName="HOMES" duration="00:00:00.0422034" startTime="2014-06-19T08:49:13.5937500+03:00" endTime="2014-06-19T08:49:15.1562500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="633ddef4-3876-4d3b-a680-e2c5f11570d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="4027a60a-b766-451b-a299-baa206e899ce" testId="330b50a1-49a0-8fa9-a42b-42c74c25b8f5" testName="MatrixOf10ElementsShouldBeCorrect" computerName="HOMES" duration="00:00:00.0002802" startTime="2014-06-19T08:49:15.1562500+03:00" endTime="2014-06-19T08:49:15.1718750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4027a60a-b766-451b-a299-baa206e899ce">
+    </UnitTestResult>
+    <UnitTestResult executionId="693d53e1-5461-49b2-87ed-0a84a9879879" testId="ac618421-0144-507f-39db-5d353c83105e" testName="MatrixOf6ElementsShouldBeCorrect" computerName="HOMES" duration="00:00:00.0002380" startTime="2014-06-19T08:49:15.1875000+03:00" endTime="2014-06-19T08:49:15.1875000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="693d53e1-5461-49b2-87ed-0a84a9879879">
+    </UnitTestResult>
+  </Results>
+</TestRun>

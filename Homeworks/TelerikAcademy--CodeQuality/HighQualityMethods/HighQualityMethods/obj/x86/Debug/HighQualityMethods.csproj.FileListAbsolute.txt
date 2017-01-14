@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityMethods\HighQualityMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityMethods\HighQualityMethods\bin\Debug\HighQualityMethods.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityMethods\HighQualityMethods\bin\Debug\HighQualityMethods.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityMethods\HighQualityMethods\obj\x86\Debug\HighQualityMethods.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityMethods\HighQualityMethods\obj\x86\Debug\HighQualityMethods.pdb

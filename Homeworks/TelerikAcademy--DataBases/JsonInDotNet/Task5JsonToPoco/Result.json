@@ -1,0 +1,566 @@
+{
+  "xml": {
+    "version": "1.0",
+    "encoding": "utf-8"
+  },
+  "rss": {
+    "version": "2.0",
+    "channel": {
+      "title": "Telerik Academy Forums - Recent questions and answers",
+      "link": "http://forums.academy.telerik.com/qa",
+      "description": "Powered by Question2Answer",
+      "item": [
+        {
+          "title": "Answered: Подмяна на, Palit GTX 750 Ti с r9 270/270x?",
+          "link": "http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x?show=172426#a172426",
+          "description": "r9 270/270x са стари карти с нови имена. Стой си с 750 Ti, не си струва.",
+          "category": "Игри",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x?show=172426#a172426"
+          },
+          "pubDate": "Fri, 05 Sep 2014 10:10:47 +0000"
+        },
+        {
+          "title": "Answered: Can I change the language in RadGrid (PagerStyle and tooltips) to other language using ResourceKey?",
+          "link": "http://forums.academy.telerik.com/172418/language-radgrid-pagerstyle-tooltips-language-resourcekey?show=172422#a172422",
+          "description": "\n        Hi,<br />\n        <br />\n        Please ask your question in the official Telerik products forum:<br />\n        <br />\n        <a href=\"http://www.telerik.com/forums\" rel=\"nofollow\" target=\"_blank\">http://www.telerik.com/forums</a>\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172418/language-radgrid-pagerstyle-tooltips-language-resourcekey?show=172422#a172422"
+          },
+          "pubDate": "Fri, 05 Sep 2014 09:21:04 +0000"
+        },
+        {
+          "title": "Answered: Съвети за разработчици (spoiler: хумор)",
+          "link": "http://forums.academy.telerik.com/14123/%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%B8-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D1%86%D0%B8-spoiler-%D1%85%D1%83%D0%BC%D0%BE%D1%80?show=172420#a172420",
+          "description": "\n        <p>\n        <a href=\"http://thedailywtf.com/Comments/What_Is_Truth_0x3f_.aspx\" rel=\"nofollow\" style=\"text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif;\" target=\"_blank\">http://thedailywtf.com/Comments/What_Is_Truth_0x3f_.aspx</a><br style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">\n        <span style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">Това ми отвори очите! Когато съм мислел че имам 2 избора всъщност съм имал 3:</span><br style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">\n        <span style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">зло, добро и обувка</span><br style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">\n        <span style=\"color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;\">бяло, черно и понички</span></p>\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/14123/%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%B8-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D1%86%D0%B8-spoiler-%D1%85%D1%83%D0%BC%D0%BE%D1%80?show=172420#a172420"
+          },
+          "pubDate": "Fri, 05 Sep 2014 08:36:48 +0000"
+        },
+        {
+          "title": "Answered: SQL Server Express 2014 - проблем с инсталация",
+          "link": "http://forums.academy.telerik.com/171501/sql-server-express-2014-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F?show=172408#a172408",
+          "description": "\n        <p>\n        Колеги, пробвах да инсталирам MS SQL 2014 Express, и накрая получих следните <a rel=\"nofollow\" href=\"https://www.dropbox.com/s/sosgtuinyu37b9y/01.jpg?dl=0\">грешки</a>. Преинсталирах го, и пак стана същото. Някой може ли да помогне?</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171501/sql-server-express-2014-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F?show=172408#a172408"
+          },
+          "pubDate": "Fri, 05 Sep 2014 00:49:41 +0000"
+        },
+        {
+          "title": "Answered: [Databases] MongoDB with .NET: Chat client (CrowdChat)",
+          "link": "http://forums.academy.telerik.com/172244/databases-mongodb-with-net-chat-client-crowdchat?show=172407#a172407",
+          "description": "\n        <p>\n        Ето едно кратко решение от мен. Не е WPF, но пък е само 30 реда:</p>\n        <p>\n        <a href=\"https://github.com/neutrino-git/TelerikAcademy/blob/master/Databases/15.MongoDB-with-DotNET/MongoChat/MongoChat.Client/MongoChatClient.cs\" rel=\"nofollow\">MongoChat</a>&nbsp;(source)</p>\n        <p>\n        <a href=\"https://github.com/neutrino-git/TelerikAcademy/blob/master/Databases/15.MongoDB-with-DotNET/MongoChat.zip?raw=true\" rel=\"nofollow\">MongoChat</a> (release)</p>\n        <p>\n        <img alt=\"\" src=\"http://forums.academy.telerik.com/?qa=blob&amp;qa_blobid=151389478529372448\" style=\"width: 480px; height: 259px;\"></p>\n        <p>\n        Ново съобщение се въвежда директно след промпта. Всички съобщения могат да се видят с натискане на Enter.&nbsp;</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172244/databases-mongodb-with-net-chat-client-crowdchat?show=172407#a172407"
+          },
+          "pubDate": "Thu, 04 Sep 2014 23:19:49 +0000"
+        },
+        {
+          "title": "Answered: Конфигурация за графична станция",
+          "link": "http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?show=172402#a172402",
+          "description": "\n        Конфигурацията с i7 е доста по-добра.<br />\n        <br />\n        <a href=\"http://cpuboss.com/cpus/Intel-Xeon-E5-1650-v2-vs-Intel-Core-i7-4930K\" rel=\"nofollow\" target=\"_blank\">http://cpuboss.com/cpus/Intel-Xeon-E5-1650-v2-vs-Intel-Core-i7-4930K</a>\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?show=172402#a172402"
+          },
+          "pubDate": "Thu, 04 Sep 2014 19:18:02 +0000"
+        },
+        {
+          "title": "Answered: Дата, час и продължителност на изпита",
+          "link": "http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172401#a172401",
+          "description": "Утре ще получите мейл с повече инфо. Понеделник 8 часа най-вероятно от 10:00 до 18:00.",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172401#a172401"
+          },
+          "pubDate": "Thu, 04 Sep 2014 19:15:32 +0000"
+        },
+        {
+          "title": "Answered: [Databases] Изтекла дата за изпращане на отборните проекти",
+          "link": "http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172387#a172387",
+          "description": "С риск за хейт. Тези срокове не са от вчера и си се знаят. Това че някой забравя си е негов пропуск и не мисля, че трябва да се прави нещо по въпроса а просто да се вземе конкретния урок и да се следят датите повече честно казано. Ако някой срок е сгрешен се оправя от лекторите но ако е стар и си се знае от седмица е различно.",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172387#a172387"
+          },
+          "pubDate": "Thu, 04 Sep 2014 14:20:05 +0000"
+        },
+        {
+          "title": "Answered: Как да получа стойността на \"id\" - то на бутон при натискането му HTML/PHP?",
+          "link": "http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php?show=172383#a172383",
+          "description": "\n        До колкото разбрах той иска да вземе стойността на самото ID, когато направи POST ще му върне стойността на value. <br />\n        <br />\n        С чисто php не се сещам как може да стане това, но има една готина библиотека с която можеш да правиш DOM операции върху елементите. <br />\n        <br />\n        PHPQuery - <a href=\"https://code.google.com/p/phpquery/\" rel=\"nofollow\" target=\"_blank\">https://code.google.com/p/phpquery/</a> <br />\n        <br />\n        Разгледай документацията всичко е описано, как да си include-неш библиотеката. И вече от там можеш да достъпваш атрибутите на елемента.\n      ",
+          "category": "HTML/CSS",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php?show=172383#a172383"
+          },
+          "pubDate": "Thu, 04 Sep 2014 13:02:12 +0000"
+        },
+        {
+          "title": "Create MongoLab Account and Database Tutorial",
+          "link": "http://forums.academy.telerik.com/172382/create-mongolab-account-and-database-tutorial",
+          "description": "\n        <a href=\"https://www.youtube.com/watch?v=dPXURXyIzYM\" rel=\"nofollow\" target=\"_blank\">https://www.youtube.com/watch?v=dPXURXyIzYM</a><br />\n        <br />\n        &nbsp;<br />\n        <br />\n        Малко помощ!\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172382/create-mongolab-account-and-database-tutorial"
+          },
+          "pubDate": "Thu, 04 Sep 2014 12:56:08 +0000"
+        },
+        {
+          "title": "Answered: Macbook Air vs Toshiba Satellite Z30",
+          "link": "http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30?show=172371#a172371",
+          "description": "\n        Ако ще даваш такива пари за ultrabook бих те посъветвал за други модели.<br />\n        <br />\n        И майка ми и приятелката ми имат Samsung Ativ Book 9 plus. Страхотен ултрабук, алуминиев корпус, бърз надежден, лек и много удобен. Дисплеят е страхотен! Ако можеш да си набавиш такъв от Щатите за 2300 лева ще вземеш най-мощния модел с i7. Батерията издържа около 7-8 часа с интернет и тежко ползване - клипове и т.н.<br />\n        <br />\n        Ако пък парите въобще не са проблем --&gt; Lenovo X1 Carbon Touch. Имал съм Thinkpad, който вече е притежание на сестра ми. 6 години и все още работи безупречно! Имат най-невероятните клавиатури в света на лаптопите според мен и сервиза им в София е доста добър. Един мой много добър приятел QA инженер от много години, си купи този след дълго четене. Казва, че е предоволен. <br />\n        <br />\n        &nbsp;<br />\n        <br />\n        Това е от мен :)\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30?show=172371#a172371"
+          },
+          "pubDate": "Thu, 04 Sep 2014 10:22:36 +0000"
+        },
+        {
+          "title": "Профилактика на електрическото захранване в \"Академията на Телерик\"",
+          "link": "http://forums.academy.telerik.com/172366/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%B7%D0%B0%D1%85%D1%80%D0%B0%D0%BD%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D1%82%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%80%D0%B8%D0%BA",
+          "description": "\n        <p>\n        Здравейте,</p>\n        <p>\n        На <strong>05.09.2014 (петък)</strong> в интервала <strong>15.00 - 15.30 часа</strong> ще бъде направена профилактика на електрическото захранване във всички зали в \"Академията на Телерик\". В този интервал от 30 минути електрическото захранване ще бъде преустановено.</p>\n        <p>\n        Молим всички курсисти, които са в Академията в минутите преди профилактиката, да изключат работните си машини от контактите и да изчакат възобновяването на захранването, преди да ги включат отново.</p>\n        <p>\n        Във връзка с <a href=\"http://www.cez.bg/bg/novini/1096.html\" rel=\"nofollow\">ремонт на електропроводи</a>, собственотст на Електроенергиен системен оператор (ЕСО), в периода<strong> 06.09 - 14.09 </strong>са възможни смущения в електроподаването в районите, в които се намира и \"Академията на Телерик\". Имайте предвид, че в този период също са възможни прекъсвания на електрозахранването, за които няма как да ви информираме предварително.</p>\n        <p>\n        Поздрави,</p>\n      ",
+          "category": "Важни съобщения",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172366/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%B7%D0%B0%D1%85%D1%80%D0%B0%D0%BD%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D1%82%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%80%D0%B8%D0%BA"
+          },
+          "pubDate": "Thu, 04 Sep 2014 09:21:09 +0000"
+        },
+        {
+          "title": "Answered: R programming language",
+          "link": "http://forums.academy.telerik.com/149055/r-programming-language?show=172365#a172365",
+          "description": "\n        Открих R случайно в началото на годината. Занимавам се с анализ на финансови данни, като използвам доста иконометрика. SPSS никога не ми е бил приятен за разлика от EVIWS. Последният е подходящ за иконометрично моделиране, като и дава възможност за програмиране, така че да си насториш моделите според изискванията.<br />\n        <br />\n        Вече използвам R. Трябва много ровене и четене, докато устиш езика и спецификата му. Вятно има доста пакети, но трябва да си убеден в тяхната акуратност, като една и съща функция може да е в 3 пакета и ако ги използваш може да има конфликт.<br />\n        <br />\n        На мене ми върши страхотна работа - както за излседователска, така и за бизнес. Но имам 1 на ум, когаот исползвам готови пакети, а не мои.\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/149055/r-programming-language?show=172365#a172365"
+          },
+          "pubDate": "Thu, 04 Sep 2014 08:21:09 +0000"
+        },
+        {
+          "title": "Answered: [Databases] Защита на отборни проекти?",
+          "link": "http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172363#a172363",
+          "description": "\n        <p>\n        Здравейте,</p>\n        <p>\n        Днес от 18.00 часа в зала „Ultimate“ ще се проведе лекцията „Ролята на специалиста по поддръжка на софтуера (Support Officer) в „Телерик““.</p>\n        <p>\n        Поради тази причина защитите отборните проекти, които трябва да се проведат след 17.00 часа, ще се състоят в зала „Enterprise“.</p>\n        <p>\n        Отборите, които са засегнати от промяната, са:</p>\n        <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 517px;\" width=\"517\">\n        <tbody>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        <strong>Team</strong></p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        <strong>Type</strong></p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        <strong>Training hall</strong></p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        <strong>Date</strong></p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        <strong>Time</strong></p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Ancient Behemoth\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        17:00:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Roc\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        17:15:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Centaur\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        17:30:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Orc\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        17:45:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Griffin\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        18:00:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Wolf Rider\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        18:15:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Fire Elemental\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        18:30:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Wyvern\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        on-site</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        18:45:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Inferno\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        19:00:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Tower\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        19:15:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Stronghold\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        19:30:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Conflux\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        19:45:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Castle\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        20:00:00</p>\n        </td>\n        </tr>\n        <tr>\n        <td style=\"width:244px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Team \"Dungeon\"</p>\n        </td>\n        <td style=\"width:55px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        online</p>\n        </td>\n        <td style=\"width:104px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        Enterprise</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        4.9.2014</p>\n        </td>\n        <td style=\"width:57px;height:17px; white-space: nowrap;\">\n        <p style=\"text-align: center;\">\n        20:15:00</p>\n        </td>\n        </tr>\n        </tbody>\n        </table>\n        <p>\n        &nbsp;</p>\n        <p>\n        Поздрави,</p>\n      ",
+          "category": "Софтуерна академия на Телерик",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172363#a172363"
+          },
+          "pubDate": "Thu, 04 Sep 2014 07:57:20 +0000"
+        },
+        {
+          "title": "Answered: XML парсери - Demo Live различно от това в системата",
+          "link": "http://forums.academy.telerik.com/172336/xml-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%D0%B8-demo-live-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%BE-%D0%BE%D1%82-%D1%82%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B0?show=172352#a172352",
+          "description": "Колега, нещо си се объркал - &nbsp;аз бях на лекцията и видеата са тези",
+          "category": "Софтуерна академия на Телерик",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172336/xml-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%D0%B8-demo-live-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%BE-%D0%BE%D1%82-%D1%82%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B0?show=172352#a172352"
+          },
+          "pubDate": "Thu, 04 Sep 2014 06:13:53 +0000"
+        },
+        {
+          "title": "Answered: [DSA] Домашно Data Structures Efficiency - 1 Задача",
+          "link": "http://forums.academy.telerik.com/99969/dsa-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-data-structures-efficiency-1-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0?show=172327#a172327",
+          "description": "\n        <p>\n        Аз не съм го направил по най-бързия възможен начин - използвам само &nbsp;SortedDictionary с ключ курса и стойност - списък (List) от студентите. Съответно, при отпечатаването курсовете излизат сортирани, но студентите ги сортирам с Linq. Може да стане по-бързо, ако вместо списък се използва <a rel=\"nofollow\" href=\"http://submain.com/ghostdoc/samples/PowerCollections/HTML/html/609522445.htm\">OrderedBag</a>, която позволява повтарящи се елементи и ги държи сортирани.</p>\n        <p>\n        <a rel=\"nofollow\" href=\"https://github.com/neutrino-git/TelerikAcademy/blob/master/Programming/05.DataStructuresAndAlgorithms/06.Data-Structures-Efficiency/01.StudentCourses/StudentCourses.cs\">Решение</a></p>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/99969/dsa-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-data-structures-efficiency-1-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0?show=172327#a172327"
+          },
+          "pubDate": "Wed, 03 Sep 2014 17:59:22 +0000"
+        },
+        {
+          "title": "Answered: [Databases] Изпит и проблем с входните данни",
+          "link": "http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172326#a172326",
+          "description": "\n        <p>\n        Защо генерираш базата данни през С#?</p>\n        <p>\n        Може да си подготвиш един T-SQL код с който да си генерираш базата данни и със сигурност ще е много по-бързо. <a href=\"http://telerikacademy.com/Courses/Courses/Details/98\" rel=\"nofollow\">Тук</a> в лекцията&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; background-color: rgb(245, 245, 245);\">Производителност на релационните бази данни (SQL Performance) </span>има подобен скрипт който генерира база данни. На моята машина 25 милиона записа се създадоха за 30 мин.</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172326#a172326"
+          },
+          "pubDate": "Wed, 03 Sep 2014 17:52:32 +0000"
+        },
+        {
+          "title": "Answered: Проблем при свързване на SQLite и C#!",
+          "link": "http://forums.academy.telerik.com/172273/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D1%81%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-sqlite-%D0%B8-c%23?show=172274#a172274",
+          "description": "\n        Здравей,<br />\n        <br />\n        мисля, че този проблем е от скоро, опитай се да сложиш двете папки (x86 и x64) в bin/Debug и пробвай пак.\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172273/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D1%81%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-sqlite-%D0%B8-c%23?show=172274#a172274"
+          },
+          "pubDate": "Wed, 03 Sep 2014 09:07:49 +0000"
+        },
+        {
+          "title": "Answered: Материали за лекциите MongoDB и Redis",
+          "link": "http://forums.academy.telerik.com/172265/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8-%D0%B7%D0%B0-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%D1%82%D0%B5-mongodb-%D0%B8-redis?show=172270#a172270",
+          "description": "\n        Материалите са оправени.<br />\n        <br />\n        П.П. За Redis няма да имате домашна\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172265/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8-%D0%B7%D0%B0-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%D1%82%D0%B5-mongodb-%D0%B8-redis?show=172270#a172270"
+          },
+          "pubDate": "Wed, 03 Sep 2014 08:38:30 +0000"
+        },
+        {
+          "title": "Answered: [Databases] Домашно Entity Framework Performance",
+          "link": "http://forums.academy.telerik.com/108587/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-entity-framework-performance?show=172251#a172251",
+          "description": "\n        Втора успях да я докарам до 1 query<br />\n        <br />\n        var employeesFinal =<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db.Employees<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.Select(employee =&gt; new<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name = employee.FirstName + &quot; &quot; + employee.LastName,<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address = employee.Address.AddressText,<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Town = employee.Address.Town.Name<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;})<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.Where(t =&gt; t.Town.Equals(&quot;Sofia&quot;))<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.ToList();\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/108587/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-entity-framework-performance?show=172251#a172251"
+          },
+          "pubDate": "Tue, 02 Sep 2014 20:50:28 +0000"
+        },
+        {
+          "title": "Answered: Работа с ASP.NET mvc и  AJAX",
+          "link": "http://forums.academy.telerik.com/172199/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-asp-net-mvc-%D0%B8-ajax?show=172248#a172248",
+          "description": "\n        public ActionResult YourAction()<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// create your model<br />\n        <br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Request.IsAjaxRequest())<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// return your model or other data with some partial view<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br />\n        <br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// else return some view<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return View();<br />\n        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br />\n        <br />\n        Малко да се отклоня от въпроса ти и да ти дам някой съвет. Та, на action-ите не им е работа да бъркат по бази и така да създават модели. Препоръчвам ти &nbsp;да изнесеш създаването на модела в неговия клас или в някой друг статичен клас - ModelFactory например.<br />\n        <br />\n        А иначе за да направиш AJAX request &nbsp;във view-то най- лесно е да използваш готовитв helper-и на MVC - @Ajax.BeginForm/ @Ajax.ActionLink и т.н.\n      ",
+          "category": "ASP.NET MVC",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172199/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-asp-net-mvc-%D0%B8-ajax?show=172248#a172248"
+          },
+          "pubDate": "Tue, 02 Sep 2014 19:38:46 +0000"
+        },
+        {
+          "title": "Answered: [Databases] Домашно Transactions - ATM",
+          "link": "http://forums.academy.telerik.com/109807/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-transactions-atm?show=172245#a172245",
+          "description": "\n        <p style=\"text-align: justify;\">\n        Ето го и моя банкомат - може да теглите докато се счупи :) Използвал съм CodeFirst като базата се инициализира при всеки старт на приложението. Логовете се запазват.</p>\n        <p style=\"text-align: justify;\">\n        <a href=\"https://github.com/neutrino-git/TelerikAcademy/blob/master/Databases/13.Transactions-in-ADO.NET-and-EF/Transactions/ATM.Client/ATMConsole.cs\" rel=\"nofollow\">Банкомат</a></p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/109807/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-transactions-atm?show=172245#a172245"
+          },
+          "pubDate": "Tue, 02 Sep 2014 18:26:34 +0000"
+        },
+        {
+          "title": "Answered: Кога ще се качат видеота от Обработка на транзакции и Обработка на транзакции с ADO.NET и Entity Framework",
+          "link": "http://forums.academy.telerik.com/172240/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%82%D0%B0-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-framework?show=172243#a172243",
+          "description": "Счупени са. Утре ще ги запиша наново и ще ги кача. Ще ви удължа срока за домашната работа",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172240/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%82%D0%B0-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-framework?show=172243#a172243"
+          },
+          "pubDate": "Tue, 02 Sep 2014 17:43:20 +0000"
+        },
+        {
+          "title": "[Databases] ADO.NET параметри и string.Format()",
+          "link": "http://forums.academy.telerik.com/172235/databases-ado-net-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B8-%D0%B8-string-format",
+          "description": "Има ли някакви предимства да се използват параметрите в ADO.NET вместо string.Format?",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172235/databases-ado-net-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B8-%D0%B8-string-format"
+          },
+          "pubDate": "Tue, 02 Sep 2014 13:34:46 +0000"
+        },
+        {
+          "title": "Priority Queue",
+          "link": "http://forums.academy.telerik.com/172178/priority-queue",
+          "description": "\n        <p>\n        Ето от <a rel=\"nofollow\" href=\"http://www.avk.name/2010/11/priority-queue-in-c-with-help-of-heap.html\">тук</a> може да си свалите PriorityQueue имплементирана с Heap.</p>\n        <p>\n        При мен генерира 1 000 000 елемента стринг с 10 - 15 случайни символа за около 2 - 3 секунди.</p>\n        <p>\n        Също така може да мърджва две опашки - при мен две опашки от по 1 000 000 елемента ги мърджва за около 4 сек.</p>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172178/priority-queue"
+          },
+          "pubDate": "Mon, 01 Sep 2014 16:19:10 +0000"
+        },
+        {
+          "title": "[DSA] Алгоритъм за сортиране с линейна сложност",
+          "link": "http://forums.academy.telerik.com/172171/dsa-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D1%8A%D0%BC-%D0%B7%D0%B0-%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D1%81-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0-%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82",
+          "description": "\n        <p>\n        Намерих този алгоритъм случайно и много ме впечатли.<br>\n        Нарича се&nbsp;<b style=\"color: rgb(0, 0, 0); font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 19.200000762939453px; background-color: rgb(244, 244, 244);\">Radix sort</b>&nbsp;и научих за него от тази статия:&nbsp;<a href=\"http://forums.bgdev.org/index.php?showtopic=22740\" rel=\"nofollow\">http://forums.bgdev.org/index.php?showtopic=22740</a><br>\n        <br>\n        Каква е идеята:<br>\n        Алгоритъма подрежда елементите по битовете на някакви прости стойности (букви, интове и тн). Сложен е за имплементиране, но е ужасно бърз.<br>\n        <br>\n        Сложността му е О(n*length) където length е дължината на битовете на това което сортирате. Съответно ако сортирате по интове сложността ще е n*32 докато ако сортирате по long ще е n*64.<br>\n        <br>\n        Уловката е че алгоритъма всъщност не сравнява обекти, а битове. На него не му пука дали класа ви има IComparable. Ако не му дадете прост вид стойност по която да подрежда, той е неприложим.<br>\n        <br>\n        За повече информация прочетете статията.<br>\n        <br>\n        Споделете други интересни алгоритми на които сте попадали.</p>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172171/dsa-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D1%8A%D0%BC-%D0%B7%D0%B0-%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D1%81-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0-%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82"
+          },
+          "pubDate": "Mon, 01 Sep 2014 15:39:54 +0000"
+        },
+        {
+          "title": "[Databases] Изпит, ще има ли sql server & management studio на машините в залата?",
+          "link": "http://forums.academy.telerik.com/172169/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-server-management-studio-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0%D0%BB%D0%B0%D1%82%D0%B0",
+          "description": "\n        Здравейте,<br />\n        <br />\n        изпита наближава и ме интересува дали на машините ще има инсталирани ms sql server и sql server management tools, с които да работим?\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172169/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-server-management-studio-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0%D0%BB%D0%B0%D1%82%D0%B0"
+          },
+          "pubDate": "Mon, 01 Sep 2014 15:25:53 +0000"
+        },
+        {
+          "title": "[Database] Сам ли да пиша отборната работа?",
+          "link": "http://forums.academy.telerik.com/172163/database-%D1%81%D0%B0%D0%BC-%D0%BB%D0%B8-%D0%B4%D0%B0-%D0%BF%D0%B8%D1%88%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0",
+          "description": "\n        [Database Teamwork]<br />\n        <br />\n        Няма никаква активност от страна на съотборниците ми, а срока наближава.<br />\n        <br />\n        Едва ли ще намеря време да свърша всичко сам за 2 дни. Какво да правя?\n      ",
+          "category": "Софтуерна академия на Телерик",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172163/database-%D1%81%D0%B0%D0%BC-%D0%BB%D0%B8-%D0%B4%D0%B0-%D0%BF%D0%B8%D1%88%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0"
+          },
+          "pubDate": "Mon, 01 Sep 2014 13:37:32 +0000"
+        },
+        {
+          "title": "Как да взема имената на пропъртитата?",
+          "link": "http://forums.academy.telerik.com/172147/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%B2%D0%B7%D0%B5%D0%BC%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D1%8A%D1%80%D1%82%D0%B8%D1%82%D0%B0%D1%82%D0%B0",
+          "description": "\n        Как да взема имената на колоните след подобна заявка за да ги вкарам в репорта без да ги знам предварително.<br />\n        <br />\n        db.Towns.Select(t =&gt; new { t.TownID, t.Name }).Take(10);<br />\n        <br />\n        Така получавам само броя колони.<br />\n        <br />\n        queryResult.First().GetType().GetProperties().Length\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172147/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%B2%D0%B7%D0%B5%D0%BC%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D1%8A%D1%80%D1%82%D0%B8%D1%82%D0%B0%D1%82%D0%B0"
+          },
+          "pubDate": "Mon, 01 Sep 2014 10:23:48 +0000"
+        },
+        {
+          "title": "[Databases] Домашни и отборната работа.",
+          "link": "http://forums.academy.telerik.com/172146/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8-%D0%B8-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0",
+          "description": "Имам едно предложение... Нека домашните за сряда да се преместят с един ден(Четвъртък) или за уикенда, за да имаме повече време за отборните работи.",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172146/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8-%D0%B8-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0"
+          },
+          "pubDate": "Mon, 01 Sep 2014 10:07:56 +0000"
+        },
+        {
+          "title": "Wintellect.PowerCollections Namespace",
+          "link": "http://forums.academy.telerik.com/172053/wintellect-powercollections-namespace",
+          "description": "\n        <p>\n        На лекцията за&nbsp;Advanced Data Structures Иво спомена, че миналата година е успял да намери всички класове на&nbsp;Wintellect.PowerCollections, но не можа да ни покаже къде са.</p>\n        <p>\n        Мисля че <a rel=\"nofollow\" href=\"http://submain.com/ghostdoc/samples/PowerCollections/HTML/html/526895641.htm\">тук</a> е това което търсеше :)</p>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172053/wintellect-powercollections-namespace"
+          },
+          "pubDate": "Sun, 31 Aug 2014 16:35:07 +0000"
+        },
+        {
+          "title": "Рекурсия за ТОТО комбинациите",
+          "link": "http://forums.academy.telerik.com/172027/%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%82%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5",
+          "description": "\n        <p>\n        Здравейте,&nbsp;</p>\n        <p>\n        Освен с фор цикли, исках да пробвам с рекурсия да изкарам броя комбинации 6/49. Трябва да са&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; background-color: rgb(227, 227, 227);\">13,983,816</span>, но моя код очевидно е грешен и изкарва доста повече. Много съм бос с рекурсията.</p>\n        <div>\n        class Program</div>\n        <div>\n        &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; static int counter;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; static void Main()</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GenerateCombinations();</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Console.WriteLine(counter);</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; }</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; private static void GenerateCombinations(int start = 1, int end = 5)</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; counter++;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for (int i = start; i &lt;= 49 - end; i++)</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if (end == 0)</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; break;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GenerateCombinations(start + 1, end - 1);</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; }</div>\n        <div>\n        &nbsp; &nbsp; }</div>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172027/%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%82%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5"
+          },
+          "pubDate": "Sun, 31 Aug 2014 11:15:20 +0000"
+        },
+        {
+          "title": "Позволени библиотеки за Team work",
+          "link": "http://forums.academy.telerik.com/172026/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B7%D0%B0-team-work",
+          "description": "\n        <p>\n        Тъй като в заданието пише</p>\n        <ul>\n        <li>\n        For the PDF export use a non-commercial third party framework.</li>\n        </ul>\n        <p>\n        Това включва ли</p>\n        <h3 class=\"r\">\n        <a rel=\"nofollow\" href=\"http://sourceforge.net/projects/itextsharp/\"><em>iTextSharp</em></a></h3>\n        <p>\n        като не позволена библиотека.</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172026/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B7%D0%B0-team-work"
+          },
+          "pubDate": "Sun, 31 Aug 2014 11:08:46 +0000"
+        },
+        {
+          "title": "EF Домашно Task 8",
+          "link": "http://forums.academy.telerik.com/172016/ef-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-task-8",
+          "description": "\n        Здравейте,<br />\n        <br />\n        някой да е направил наследяването в Task 8 - да даде някой жокер.<br />\n        <br />\n        Аз правя public partial class EmployeeExtended : Employee, след което public override ICollection&lt;Territory&gt; Territories и..... дотук\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/172016/ef-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-task-8"
+          },
+          "pubDate": "Sun, 31 Aug 2014 09:13:35 +0000"
+        },
+        {
+          "title": "[Database] Проблем при избор на модел за работа с база данни",
+          "link": "http://forums.academy.telerik.com/171987/database-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8",
+          "description": "\n        Здравейте колеги,<br />\n        <br />\n        След като изгледах видеото за ORM технологии и &nbsp;Entity Framework, видях как се правят различните модели за работа с базата данни. Съответно на видеото Иво показва, че са възможни четири варианта за създаване на Entiry Framework - EF Designer from database, Empty EF Designer model, Empty code first model и Code first from database. Също така се споменава, че тези четири варианта са при Entity Framework 6. Инсталирам си Entity Framework към съответния проект през nuGet, версията е 6.1.1., обаче след това ми се показват само пърите два модела, няма Empty code first model и Code first from database. Моля за съвет как да се справя с проблема. Работя с VS2012 Ultimate.<br />\n        <br />\n        Благодаря предварително.\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171987/database-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8"
+          },
+          "pubDate": "Sat, 30 Aug 2014 16:45:25 +0000"
+        },
+        {
+          "title": "[Databases] Достъп на данни през навигационни полета",
+          "link": "http://forums.academy.telerik.com/171975/databases-%D0%B4%D0%BE%D1%81%D1%82%D1%8A%D0%BF-%D0%BD%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0",
+          "description": "\n        <p>\n        Здравейте,</p>\n        <p>\n        Опитвам се да изпълня следната заявка -&gt; <strong><a rel=\"nofollow\" href=\"http://pastebin.com/BShHSmX1\" target=\"_blank\">цък.</a></strong></p>\n        <p>\n        Взимам си всички курсове през контекста и мога да принтирам полетата, които има всеки курс. Когато обаче се опитвам да достъпя студентите през навигационното поле в курса ми хвърля следната грешка:</p>\n        <p>\n        There is already an open DataReader associated with this Command which must be closed first.</p>\n        <p>\n        Някой има ли представа какъв е проблема и съответно как могат да се достъпят данните по този начин?</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171975/databases-%D0%B4%D0%BE%D1%81%D1%82%D1%8A%D0%BF-%D0%BD%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0"
+          },
+          "pubDate": "Sat, 30 Aug 2014 12:03:53 +0000"
+        },
+        {
+          "title": "Въпрос относно Code First with Many to Many Relationship",
+          "link": "http://forums.academy.telerik.com/171973/%D0%B2%D1%8A%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%BD%D0%BE-code-first-with-many-to-many-relationship",
+          "description": "\n        <p>\n        Здравейте,</p>\n        <p>\n        Имам въпрос относно създаването на класовете в <strong>Code First </strong>за връзка много към много. Някой има ли представа как се добавя трета колона към създадената от <strong>Entity Framework </strong>междинна таблица <span style=\"font-size:14px;\"><strong>без</strong></span> да се създава нов клас в който другите два &nbsp;вече създадени класове да сочат към него, както е посочено тук:&nbsp;<a href=\"http://stackoverflow.com/questions/7050404/create-code-first-many-to-many-with-additional-fields-in-association-table\" rel=\"nofollow\">http://stackoverflow.com/questions/7050404/create-code-first-many-to-many-with-additional-fields-in-association-table </a>. В случая конкретната колона може да се използва единственно в контекста на междинната таблица и всякакъв друг вариант за преместването ѝ е неприемлив.</p>\n        <p>\n        Ако някой с повече опит в EF и Code First има представа ще се радвам да сподели. :)</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171973/%D0%B2%D1%8A%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%BD%D0%BE-code-first-with-many-to-many-relationship"
+          },
+          "pubDate": "Sat, 30 Aug 2014 11:46:09 +0000"
+        },
+        {
+          "title": "[Databases] Repository pattern",
+          "link": "http://forums.academy.telerik.com/171972/databases-repository-pattern",
+          "description": "\n        Здравейте, колеги. Имам следния проблем: Става въпрос за домашното StudentSystem от темата Code first. Опитвам се да направя домашното с Repository pattern, както беше показано на лекцията. Тъй като не го разбрах напълно и има неща от кода по него, които са ми малко магия, копирах кода от демото за StudentSystem, което е качено в системата. Единствено довърших останалите reppository-та (CoursesRepository и HomeworksRepository), катo ги направих по аналогичен начин със StudentsRepository(което е направено в демото). Нищо останало по кода за Repository pattern не съм пипала, всичко беше copy-paste от демото. Иво каза на лекцията, че кодът в демото работи със сигурност, но при мен нещо не работи частта с repository pattern-a. Получавам InvalidCastException в StudentSystemData при връщането на CoursesRepository или HomeworksRepository. Опитах се да разбера откъде идва проблема, но не успях. Не виждам къде е грешката. Ще се радвам, ако някой разбира повече от този Repository pattern или го е писал и при него работи &nbsp;и ми каже къде е грешката. Благодаря предварително.<br />\n        <br />\n        Ето и кодът: <a href=\"https://github.com/izabelk/StudentSystem\" rel=\"nofollow\" target=\"_blank\">https://github.com/izabelk/StudentSystem</a>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171972/databases-repository-pattern"
+          },
+          "pubDate": "Sat, 30 Aug 2014 11:20:56 +0000"
+        },
+        {
+          "title": "Срок на домашното по Sorting and Searching Algorithms",
+          "link": "http://forums.academy.telerik.com/171969/%D1%81%D1%80%D0%BE%D0%BA-%D0%BD%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE%D1%82%D0%BE-%D0%BF%D0%BE-sorting-and-searching-algorithms",
+          "description": "\n        <p>\n        Чудих се дали да отворя нова тема или да пиша във <a href=\"http://forums.academy.telerik.com/98217/dsa-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-sorting-and-searching-algorithms?show=98217#q98217\" rel=\"nofollow\" target=\"_blank\">вече създадената за това домашно</a>, но ми се струва, че новата тема ще бъде видяна от повече хора. Така или иначе винаги може да бъде преместена <img alt=\"smiley\" height=\"20\" src=\"http://forums.academy.telerik.com/qa-plugin/wysiwyg-editor/plugins/smiley/images/regular_smile.gif\" title=\"smiley\" width=\"20\"></p>\n        <p>\n        Та не знам дали е грешка, все пак сроковете за предаване на домашните беше променян, но в момента в системата стои<span style=\"color: Red;\"><b> Краен срок: <b>05/09/2014, 23:59</b></b></span> , докато на предишното е <span style=\"color: Red;\"><b>Краен срок: <b>08/09/2014, 23:59</b></b></span> .</p>\n        <p>\n        Дори и тези срокове да са коректни може някой просто да не го види и после да се изненада. Имайте го предвид <img alt=\"wink\" height=\"20\" src=\"http://forums.academy.telerik.com/qa-plugin/wysiwyg-editor/plugins/smiley/images/wink_smile.gif\" title=\"wink\" width=\"20\"></p>\n        <p>\n        &nbsp;</p>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171969/%D1%81%D1%80%D0%BE%D0%BA-%D0%BD%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE%D1%82%D0%BE-%D0%BF%D0%BE-sorting-and-searching-algorithms"
+          },
+          "pubDate": "Sat, 30 Aug 2014 10:08:03 +0000"
+        },
+        {
+          "title": "Експейпване на кавички в мета съдържанието",
+          "link": "http://forums.academy.telerik.com/171944/%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D0%B9%D0%BF%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%B2%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%BC%D0%B5%D1%82%D0%B0-%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%D1%82%D0%BE",
+          "description": "\n        Здравейте,<br />\n        <br />\n        почнах да пиша HTML код и се старая да е с правилен код. Когато стигнах до мета тага с name=&quot;decsription&quot; и започнах да пиша в атрибута content се оказа, че в него ми трябва да има кавички. Затова екпейпнах с &amp;bdquo и &amp;ldquo обаче, ми се стори адски странно да ги използвам в head-a при положение, че той не се вижда от потребителя или от който и да е. Въпроса ми е как е по-правилно да експейпна или да го оставя без кавички? (целта на поставените кавички е, че по принцип ако се пише в ежедневните случай трябва да има кавички)<br />\n        <br />\n        Благоравя предварително\n      ",
+          "category": "HTML/CSS",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171944/%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D0%B9%D0%BF%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%B2%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%BC%D0%B5%D1%82%D0%B0-%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%D1%82%D0%BE"
+          },
+          "pubDate": "Fri, 29 Aug 2014 20:49:02 +0000"
+        },
+        {
+          "title": "Visual studio 2013 ili Visual studio 2013 express za Windows 8.1",
+          "link": "http://forums.academy.telerik.com/171928/visual-studio-2013-ili-visual-studio-2013-express-za-windows",
+          "description": "Izvinqvam se, 4e pi6a na &nbsp;latinica predvaritelno.S versiq Windows 8.1 sam i se kolebaq koe Visual Studio e nai-podhodqshto da instaliram.Shte bada blagodarna za saveti.",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171928/visual-studio-2013-ili-visual-studio-2013-express-za-windows"
+          },
+          "pubDate": "Fri, 29 Aug 2014 18:43:08 +0000"
+        },
+        {
+          "title": "Помощ за рекурсивен ООП алгоритъм",
+          "link": "http://forums.academy.telerik.com/171927/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89-%D0%B7%D0%B0-%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B2%D0%B5%D0%BD-%D0%BE%D0%BE%D0%BF-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D1%8A%D0%BC",
+          "description": "\n        <p>\n        &nbsp;Накратко, след първото решение на задачата за 8-те кралици ми се преиска да измисля по-елегантно с обекти.</p>\n        <p>\n        &nbsp;Явно пропускам нещо, защото вместо 92 се появяват 467 решения.&nbsp;</p>\n        <p>\n        Къде може да е грешката? Да не би заради създаването на обект при всяка стъпка на рекурсията, да се влиза във второ измерение на рекурсия?</p>\n        <p>\n        &nbsp;Това е кода:</p>\n        <p>\n        <a rel=\"nofollow\" href=\"http://pastebin.com/6RxGhs2K\">http://pastebin.com/6RxGhs2K</a>&nbsp;- основния клас на задачата</p>\n        <p>\n        <a rel=\"nofollow\" href=\"http://pastebin.com/2NQpiewk\">http://pastebin.com/2NQpiewk</a>&nbsp;- класът кралица</p>\n      ",
+          "category": "C# Programming",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171927/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89-%D0%B7%D0%B0-%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B2%D0%B5%D0%BD-%D0%BE%D0%BE%D0%BF-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D1%8A%D0%BC"
+          },
+          "pubDate": "Fri, 29 Aug 2014 18:01:15 +0000"
+        },
+        {
+          "title": "Допълнително инфо за DbEntityValidationException при Entity Framework",
+          "link": "http://forums.academy.telerik.com/171922/%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE-dbentityvalidationexception-entity-framework",
+          "description": "Покрай задачите от Entity Framework изгубих доста време заради тази грешка, която не показва почти никаква информация. Тя се появява при SaveChanges(), когато има несъвместимост между обектите, които подаваме на таблицата. Тук има един 'хак', който е полезен за по-информативно обяснение: <a href=\"http://blogs.infosupport.com/improving-dbentityvalidationexception/\" rel=\"nofollow\" target=\"_blank\">http://blogs.infosupport.com/improving-dbentityvalidationexception/</a>",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171922/%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE-dbentityvalidationexception-entity-framework"
+          },
+          "pubDate": "Fri, 29 Aug 2014 15:56:31 +0000"
+        },
+        {
+          "title": "Google MyBusiness брой поситители API",
+          "link": "http://forums.academy.telerik.com/171920/google-mybusiness-%D0%B1%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D0%B8%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-api",
+          "description": "\n        Здравейте,<br />\n        <br />\n        Имам следния проблем, опитвам се да взема броя на потребителите, които са поситили профила ми в Google+ или в Google MyBusiness. Търся някакво APi, което да ми върне xml или json с тази информация. Проверих и в Google Analytics, но от там мога само да следя сайта, а на мен ми трябва да мога да покажа тези данни в моето приложение. Моля ви, ако някой се е сблъсквал с подобно нещо, нека да помага.<br />\n        <br />\n        Блогадаря, поздрави!\n      ",
+          "category": "Web services and cloud",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171920/google-mybusiness-%D0%B1%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D0%B8%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-api"
+          },
+          "pubDate": "Fri, 29 Aug 2014 14:14:39 +0000"
+        },
+        {
+          "title": "Проблем с GridView бутони",
+          "link": "http://forums.academy.telerik.com/171914/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-gridview-%D0%B1%D1%83%D1%82%D0%BE%D0%BD%D0%B8",
+          "description": "\n        <div>\n        Здравейте,</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Опитвам се да направя един проект на ASP.NET + WebForms (за дипломна работа) обаче се сблъсквам със следния проблем:</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Имам GridView, в което bind-вам данните от backend-а. В него трябва да има бутон, с event и разни данни. Самото GridView се зарежда така:</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        <span style=\"color: rgb(0, 0, 0); font-family: Ubuntubeta, Ubuntu, 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif; font-size: 13px; line-height: 15.9899997711182px; background-color: rgb(235, 236, 228);\">[CODE]</span></div>\n        <div>\n        if (!Page.IsPostBack)</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        Election election = ElectionsData.selectActiveElections()[0];</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; List&lt;Party&gt; parties = PartyData.selectAllParties();</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DataTable dt = new DataTable();</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DataRow dr = null;</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dt.Columns.Add(new DataColumn(\"Кандидат:\", typeof(string)));</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dt.Columns.Add(new DataColumn(\"Гласове:\", typeof(string)));</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for (int row = 0; row &lt; parties.Count; row++)</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Party party = parties[row];</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dr = dt.NewRow();</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dr[\"Кандидат:\"] = party.full_name;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dr[\"Гласове:\"] = getVotes(party, election);</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dt.Rows.Add(dr);</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ButtonField bf = new ButtonField();</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; bf.Text = \"Виж представители\";</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; bf.ItemStyle.CssClass = \"button datagrid-button\";</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; bf.CommandName = \"see\";</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; archiveDataGrid.Columns.Add(bf);</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; archiveDataGrid.DataSource = dt;</div>\n        <div>\n        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; archiveDataGrid.DataBind();</div>\n        <div>\n        }</div>\n        <div>\n        }</div>\n        <div>\n        <span style=\"color: rgb(0, 0, 0); font-family: Ubuntubeta, Ubuntu, 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif; font-size: 13px; line-height: 15.9899997711182px; background-color: rgb(235, 236, 228);\">[/CODE]</span></div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Като при натискане на бутон се задейства :</div>\n        <div>\n        [CODE] protected void archiveDataGrid_RowCommand(object sender, GridViewCommandEventArgs e); [/CODE]</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        който зарежда друг грид, в зависимост от бутона, който е натиснат.&nbsp;</div>\n        <div>\n        Проблема е, че с <span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>if (!Page.IsPostBack)не се задейства event-а на бутона, а без него, при натискане на бутона, той се мултиплицира (стават два бутона, после 4 и т.н.), а event-a започва да работи, но само на някой от бутоните(евентуално тези, който са се създали на Page_Load())</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Имате ли някаква представа, как да се справя с този проблем?&nbsp;</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Благодавя предварително.<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></div>\n      ",
+          "category": "ASP.NET Web Forms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171914/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-gridview-%D0%B1%D1%83%D1%82%D0%BE%D0%BD%D0%B8"
+          },
+          "pubDate": "Fri, 29 Aug 2014 11:19:36 +0000"
+        },
+        {
+          "title": "Непълно видео от лекцията \"ORM технологии и Entity Framework\"",
+          "link": "http://forums.academy.telerik.com/171899/%D0%BD%D0%B5%D0%BF%D1%8A%D0%BB%D0%BD%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D1%82%D0%B0-orm-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-entity-framework",
+          "description": "\n        <p>\n        Здравейте,</p>\n        <p>\n        Видеото от <b>ORM технологии и Entity Framework</b> не започва от началото на лекцията&nbsp; - има ли друго видео, което все още не е качено?</p>\n        <p>\n        Поздрави,</p>\n        <p>\n        Edit: Лекцията е от две части и е сглобена на обратно - началото е някъде към 1ч и 20-тата минута.</p>\n      ",
+          "category": "Databases",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171899/%D0%BD%D0%B5%D0%BF%D1%8A%D0%BB%D0%BD%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D1%82%D0%B0-orm-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-entity-framework"
+          },
+          "pubDate": "Fri, 29 Aug 2014 05:42:39 +0000"
+        },
+        {
+          "title": "Game of Codes (Video)",
+          "link": "http://forums.academy.telerik.com/171896/game-of-codes-video",
+          "description": "\n        <p>\n        Здравейте колеги!</p>\n        <p>\n        Споделям ви това забавно видео на което попаднах, за да се посмеете и вие, пък и да поотпуснете насъбралото се напрежение малко :D</p>\n        <p>\n        <a rel=\"nofollow\" href=\"http://www.youtube.com/watch?v=3vI_7os2V_o\" target=\"_blank\">LINK</a></p>\n        <p>\n        (nod)</p>\n      ",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171896/game-of-codes-video"
+          },
+          "pubDate": "Fri, 29 Aug 2014 05:21:46 +0000"
+        },
+        {
+          "title": "Може ли дете, което ще бъде 8 клас да се запише в школата?",
+          "link": "http://forums.academy.telerik.com/171857/%D0%BC%D0%BE%D0%B6%D0%B5-%D0%BB%D0%B8-%D0%B4%D0%B5%D1%82%D0%B5-%D0%BA%D0%BE%D0%B5%D1%82%D0%BE-%D1%89%D0%B5-%D0%B1%D1%8A%D0%B4%D0%B5-8-%D0%BA%D0%BB%D0%B0%D1%81-%D0%B4%D0%B0-%D1%81%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B8%D1%88%D0%B5-%D0%B2-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%D1%82%D0%B0",
+          "description": "\n        Здравейте!<br />\n        <br />\n        Тази година синът ми ще бъде 8 клас и много иска да учи програмиране. Има ли шанс да се запише в школата за деца ,защото е напълно начинаещ в програмирането?\n      ",
+          "category": "Kids Academy - програмиране за деца",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171857/%D0%BC%D0%BE%D0%B6%D0%B5-%D0%BB%D0%B8-%D0%B4%D0%B5%D1%82%D0%B5-%D0%BA%D0%BE%D0%B5%D1%82%D0%BE-%D1%89%D0%B5-%D0%B1%D1%8A%D0%B4%D0%B5-8-%D0%BA%D0%BB%D0%B0%D1%81-%D0%B4%D0%B0-%D1%81%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B8%D1%88%D0%B5-%D0%B2-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%D1%82%D0%B0"
+          },
+          "pubDate": "Thu, 28 Aug 2014 05:48:07 +0000"
+        },
+        {
+          "title": "[DSA] Отпечатване на дърво на конзолата",
+          "link": "http://forums.academy.telerik.com/171848/dsa-%D0%BE%D1%82%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B4%D1%8A%D1%80%D0%B2%D0%BE-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%B7%D0%BE%D0%BB%D0%B0%D1%82%D0%B0",
+          "description": "\n        <div>\n        За някои задачи може да е полезно да се отпечата дървото на конзолата, за да видим разположението на върховете. Намерих един много добър начин за това, който е същия, по който се отпечатва структурата на директориите с командата <em>tree</em> в Linux.</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        <a href=\"http://pastebin.com/1FDH52Yq\" rel=\"nofollow\">Source</a></div>\n        <div>\n        &nbsp;</div>\n        <div>\n        Ето как изглежда (това е първа задача от Trees-and-Traversals):</div>\n        <div>\n        &nbsp;</div>\n        <div>\n        <img alt=\"\" src=\"http://forums.academy.telerik.com/?qa=blob&amp;qa_blobid=13268491126629357316\" style=\"width: 407px; height: 398px;\"></div>\n        <div>\n        &nbsp;</div>\n        <div>\n        <a href=\"http://stackoverflow.com/a/8948691\" rel=\"nofollow\" target=\"_blank\">http://stackoverflow.com/a/8948691</a>&nbsp;</div>\n      ",
+          "category": "Data Structures & Algorithms",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171848/dsa-%D0%BE%D1%82%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B4%D1%8A%D1%80%D0%B2%D0%BE-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%B7%D0%BE%D0%BB%D0%B0%D1%82%D0%B0"
+          },
+          "pubDate": "Wed, 27 Aug 2014 23:26:08 +0000"
+        },
+        {
+          "title": "Проблем с презентациите и демата",
+          "link": "http://forums.academy.telerik.com/171819/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5-%D0%B8-%D0%B4%D0%B5%D0%BC%D0%B0%D1%82%D0%B0",
+          "description": "Май в момента има някакъв проблем със сайта/сървъра, поне аз не мога да сваля нито една презентазия или файл с дема.",
+          "category": "Общи приказки",
+          "guid": {
+            "isPermaLink": "true",
+            "text": "http://forums.academy.telerik.com/171819/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5-%D0%B8-%D0%B4%D0%B5%D0%BC%D0%B0%D1%82%D0%B0"
+          },
+          "pubDate": "Wed, 27 Aug 2014 19:39:00 +0000"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task8-SearchProductsByString\bin\Debug\Task8-SearchProductsByString.exe.config
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task8-SearchProductsByString\bin\Debug\Task8-SearchProductsByString.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task8-SearchProductsByString\bin\Debug\Task8-SearchProductsByString.pdb
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task8-SearchProductsByString\obj\Debug\Task8-SearchProductsByString.exe
+D:\Git\TelerikAcademy--DataBases\ADO-NET\Task8-SearchProductsByString\obj\Debug\Task8-SearchProductsByString.pdb

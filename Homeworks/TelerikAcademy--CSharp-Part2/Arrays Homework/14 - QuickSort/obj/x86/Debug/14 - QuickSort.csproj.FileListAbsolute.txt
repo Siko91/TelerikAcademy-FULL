@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\14 - QuickSort\bin\Debug\14 - QuickSort.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\14 - QuickSort\bin\Debug\14 - QuickSort.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\14 - QuickSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\14 - QuickSort\obj\x86\Debug\14 - QuickSort.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Arrays Homework\14 - QuickSort\obj\x86\Debug\14 - QuickSort.pdb

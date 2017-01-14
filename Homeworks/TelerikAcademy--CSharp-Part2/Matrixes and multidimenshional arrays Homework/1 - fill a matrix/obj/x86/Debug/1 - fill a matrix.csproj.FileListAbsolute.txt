@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\1 - fill a matrix\bin\Debug\1 - fill a matrix.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\1 - fill a matrix\bin\Debug\1 - fill a matrix.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\1 - fill a matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\1 - fill a matrix\obj\x86\Debug\1 - fill a matrix.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Matrixes and multidimenshional arrays Homework\1 - fill a matrix\obj\x86\Debug\1 - fill a matrix.pdb

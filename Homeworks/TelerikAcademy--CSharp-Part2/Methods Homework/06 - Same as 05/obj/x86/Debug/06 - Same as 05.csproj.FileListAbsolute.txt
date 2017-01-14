@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\06 - Same as 05\bin\Debug\06 - Same as 05.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\06 - Same as 05\bin\Debug\06 - Same as 05.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\06 - Same as 05\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\06 - Same as 05\obj\x86\Debug\06 - Same as 05.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Methods Homework\06 - Same as 05\obj\x86\Debug\06 - Same as 05.pdb

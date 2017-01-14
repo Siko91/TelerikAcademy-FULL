@@ -1,0 +1,6 @@
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb
+D:\GitProjects\TelerikAcademy\Quality\Development Tools\SimpleClassLibrary\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.XML

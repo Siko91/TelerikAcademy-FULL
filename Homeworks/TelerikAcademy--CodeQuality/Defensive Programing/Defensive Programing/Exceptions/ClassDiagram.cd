@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DefensivePrograming.Exceptions.CSharpExam">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgACAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\CSharpExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.Exam">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.ExceptionsHomework">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Exceptions\ExceptionsHomework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.ExamResult">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEIAA=</HashCode>
+      <FileName>Exceptions\ExamResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.SimpleMathExam">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>Exceptions\SimpleMathExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.Student">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAgAAAAAAAAAAAQAAAAAAAACAACAAgAAg=</HashCode>
+      <FileName>Exceptions\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensivePrograming.Exceptions.ExceptionTest">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ExceptionTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

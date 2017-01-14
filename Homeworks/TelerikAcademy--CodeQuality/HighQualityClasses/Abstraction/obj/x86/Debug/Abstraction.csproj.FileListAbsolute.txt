@@ -1,0 +1,5 @@
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Abstraction\bin\Debug\Abstraction.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Abstraction\bin\Debug\Abstraction.pdb
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Abstraction\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Abstraction\obj\x86\Debug\Abstraction.exe
+D:\GitProjects\TelerikAcademy\Quality\HighQualityClasses\Abstraction\obj\x86\Debug\Abstraction.pdb

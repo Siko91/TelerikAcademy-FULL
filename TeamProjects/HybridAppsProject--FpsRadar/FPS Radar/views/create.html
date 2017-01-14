@@ -1,0 +1,43 @@
+<div id="fpsradar-create-view" class="fpsradar-view" data-show="buildAndBindRolesListView" data-role="view" data-title="create" data-layout="create-layout" data-model="APP.models.create">
+    <div class="content-container">
+        <header>
+            <strong>Create a game</strong>
+        </header>
+        <label class="label" for="options-game-name-input">
+            Game Title:
+            <input class="input" id="options-game-name-input" data-bind="value: game.gameName" />
+        </label>
+        <ul id="roles-list"></ul>
+        <script>
+            function buildAndBindRolesListView() {
+                var template = kendo.template($("#role-list-template").html());
+
+                var result = template(APP.models.create.game.get("gameRoles"));
+                $("#roles-list").html(result);
+
+                debugger;
+                $("#roles-list").on("mouseover", "li", function () {
+                    $(this).css("background", "rgba(0,0,0,0.1)");
+                });
+                $("#roles-list").on("mouseout", "li", function () {
+                    $(this).css("background", "");
+                });
+                $("#roles-list").on("click", "li", function () {
+                    var self = $(this);
+                    var index = self.index();
+                    APP.models.create.selectRole(index);
+                    APP.kendoApp.navigate("views/edit-role.html");
+                });
+                debugger;
+            }
+        </script>
+    </div>
+</div>
+<script type="text/x-kendo-template" id="role-list-template">
+    # for (var i = 0; i < data.length; i++) {# 
+    <li> 
+        <strong class = \"title\"> #= data[i].name# </strong><br/>
+        <span> #= data[i].info() # </span>
+    </li>
+    # } #
+</script>

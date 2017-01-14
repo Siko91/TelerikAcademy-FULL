@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Num System 2\bin\Debug\Num System 2.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Num System 2\bin\Debug\Num System 2.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Num System 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Num System 2\obj\x86\Debug\Num System 2.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Test Exersises\Num System 2\obj\x86\Debug\Num System 2.pdb

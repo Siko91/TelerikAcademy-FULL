@@ -1,0 +1,5 @@
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\03 - day of week\bin\Debug\03 - day of week.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\03 - day of week\bin\Debug\03 - day of week.pdb
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\03 - day of week\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\03 - day of week\obj\x86\Debug\03 - day of week.exe
+D:\!!!!!!\Телерик\C# - (2)\Домашни\Objects Homework\03 - day of week\obj\x86\Debug\03 - day of week.pdb

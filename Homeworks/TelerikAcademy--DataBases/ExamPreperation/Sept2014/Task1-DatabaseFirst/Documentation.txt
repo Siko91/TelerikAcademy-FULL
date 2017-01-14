@@ -1,0 +1,11 @@
+Country has many Manufacturers
+Manufacurer has a Country
+
+Toy has a Manufacturer
+Manufacturer has many Toys
+
+Toy has many Categories
+Category has many Toys
+
+Toy has an AgeRange
+AgeRange has many Toys

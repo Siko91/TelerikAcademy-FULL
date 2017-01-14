@@ -1,0 +1,58 @@
+<html>
+<head>
+    <title>Homework 10 - Task 3 - CountAppearences</title>
+</head>
+<body>
+
+    <label>String: </label>
+    <input id="Input1" type="text" />
+    <br />
+ 
+    <label>Search Key: </label>
+    <input id="Input2" type="text" />
+    <br />
+ 
+    <button id="Btn">Click me!</button>
+    <br />
+ 
+    <script>
+ 
+        // Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).
+
+        window.onload = addingListener()
+
+        function addingListener()
+        {
+            document.getElementById("Btn").addEventListener("click", onBtnClick, false);
+        }
+
+        function CountAppearences(str, key)
+        {
+            key = key.toLowerCase();
+            str = str.toLowerCase();
+            var times = 0;
+
+            for (var i = 0; i < str.length - (key.length - 1); i++)
+            {
+                if (str.substr(i,key.length) == key)
+                {
+                    times++;
+                    i += key.length-1;
+                }
+            }
+            return times;
+        }
+
+        function onBtnClick()
+        {
+            var str = document.getElementById("Input1").value;
+            var key = document.getElementById("Input2").value;
+
+            console.log(str);
+            console.log( "The key worsd (" + key + ") has apeared " + CountAppearences(str, key) + " times");
+            
+        }
+
+    </script>
+</body>
+</html>
